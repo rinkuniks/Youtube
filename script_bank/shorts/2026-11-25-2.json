@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Statue of Unity, Gujarat",
+ "hook": "Your photo here shows the world's tallest statue.",
+ "title": "India's Statue Is Taller Than Statue of Liberty",
+ "description": "The Statue of Unity in Gujarat stands 182 metres tall, the world's tallest statue and almost double the height of the Statue of Liberty. It honours Sardar Vallabhbhai Patel, who helped unite India's princely states. Part of the Places That Shouldn't Exist series.\n\n#Shorts #StatueOfUnity #India",
+ "tags": [
+  "statue of unity",
+  "gujarat",
+  "tallest statue",
+  "sardar patel",
+  "india facts",
+  "statue of liberty",
+  "geography facts",
+  "world record"
+ ],
+ "comment_prompt": "Have you been there? Yes or no",
+ "hook_banner": "WORLD'S TALLEST",
+ "scenes": [
+  {
+   "narration": "Your photo here shows the world's tallest statue.",
+   "emoji": "📸",
+   "headline": "WORLD'S TALLEST STATUE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Statue of Unity Gujarat"
+  },
+  {
+   "narration": "This is the Statue of Unity, in Gujarat.",
+   "emoji": "🇮🇳",
+   "headline": "STATUE OF UNITY",
+   "stat": "",
+   "sub": "Gujarat, India",
+   "visual_query": "Statue of Unity Kevadia"
+  },
+  {
+   "narration": "It stands 182 metres tall.",
+   "emoji": "📏",
+   "headline": "182 METRES TALL",
+   "stat": "182 m",
+   "sub": "",
+   "visual_query": "Statue of Unity tall view"
+  },
+  {
+   "narration": "That is almost double the Statue of Liberty.",
+   "emoji": "🗽",
+   "headline": "ALMOST DOUBLE LIBERTY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Statue of Liberty New York"
+  },
+  {
+   "narration": "It honours Sardar Vallabhbhai Patel.",
+   "emoji": "🙏",
+   "headline": "SARDAR PATEL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sardar Vallabhbhai Patel"
+  },
+  {
+   "narration": "He helped unite India's princely states into one country.",
+   "emoji": "🗺️",
+   "headline": "UNITED INDIA'S STATES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India map"
+  },
+  {
+   "narration": "You can even ride a lift up inside.",
+   "emoji": "🛗",
+   "headline": "RIDE UP INSIDE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Statue of Unity viewing gallery"
+  },
+  {
+   "narration": "Your photo shows the tallest statue on Earth.",
+   "emoji": "🌏",
+   "headline": "TALLEST ON EARTH",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Statue of Unity sunset"
+  },
+  {
+   "narration": "Tomorrow: another place that should not exist.",
+   "emoji": "✨",
+   "headline": "TOMORROW: ANOTHER ONE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "unusual place landscape"
+  }
+ ]
+}

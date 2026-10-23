@@ -1,0 +1,93 @@
+{
+ "category": "technology",
+ "topic": "Acoustic levitation",
+ "hook": "If you aim sound the right way, water floats in mid-air.",
+ "title": "Sound Waves Can Make Water Float",
+ "description": "Acoustic levitation uses sound waves to hold small droplets and beads in mid-air. Two opposing waves create still spots where light objects get trapped. It is real and you can see it on camera.\n\n#Shorts #Science #Technology",
+ "tags": [
+  "acoustic levitation",
+  "sound waves",
+  "levitation",
+  "floating water",
+  "physics",
+  "tech facts",
+  "science experiment",
+  "ultrasound"
+ ],
+ "comment_prompt": "Real or fake? One word",
+ "hook_banner": "SOUND HOLDS IT UP",
+ "scenes": [
+  {
+   "narration": "If you aim sound right, water floats.",
+   "emoji": "💧",
+   "headline": "Water Floats",
+   "stat": "",
+   "sub": "",
+   "visual_query": "acoustic levitation droplet"
+  },
+  {
+   "narration": "Tiny droplets hang in mid-air, doing nothing.",
+   "emoji": "🫧",
+   "headline": "Hanging In Air",
+   "stat": "",
+   "sub": "",
+   "visual_query": "levitating water droplets"
+  },
+  {
+   "narration": "Small beads float there too.",
+   "emoji": "⚪",
+   "headline": "Beads Float Too",
+   "stat": "",
+   "sub": "",
+   "visual_query": "acoustic levitator beads"
+  },
+  {
+   "narration": "It's called acoustic levitation.",
+   "emoji": "🔊",
+   "headline": "Acoustic Levitation",
+   "stat": "",
+   "sub": "",
+   "visual_query": "acoustic levitation device"
+  },
+  {
+   "narration": "Sound is pressure pushing on air.",
+   "emoji": "🌬️",
+   "headline": "Sound Is Pressure",
+   "stat": "",
+   "sub": "",
+   "visual_query": "sound waves speaker"
+  },
+  {
+   "narration": "Two opposing waves create still spots.",
+   "emoji": "〰️",
+   "headline": "Still Spots",
+   "stat": "",
+   "sub": "",
+   "visual_query": "standing wave sound"
+  },
+  {
+   "narration": "Small objects get trapped in those spots.",
+   "emoji": "🎯",
+   "headline": "Trapped In Place",
+   "stat": "",
+   "sub": "",
+   "visual_query": "levitating polystyrene beads"
+  },
+  {
+   "narration": "Sound you can't hear holds them up.",
+   "emoji": "🤫",
+   "headline": "Silent Lift",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ultrasonic transducer"
+  },
+  {
+   "narration": "Next: watch one sunset twice.",
+   "emoji": "➡️",
+   "headline": "Next: Two Sunsets",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Burj Khalifa sunset"
+  }
+ ]
+}

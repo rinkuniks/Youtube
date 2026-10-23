@@ -1,0 +1,649 @@
+{
+ "topic": "6 strange borders countdown ending on India's vanished enclaves, with Baarle-Hertog and Baarle-Nassau at number two",
+ "hook": "Your front door can be in Belgium while your kitchen is in the Netherlands, and India has a border even stranger.",
+ "title": "Your Door in 2 Countries: 6 Borders, 1 in India",
+ "description": "Six real borders that make no sense, from a house in Baarle where the front door decides the country, to the Indian enclaves in Bangladesh that vanished from the map at midnight in 2015. Each stop is a real place you can find on a map, and each one is stranger than the last. Watch to the end for India's strangest border, then tell us which one you would live on.\n\n#borders #geography #india",
+ "tags": [
+  "strange borders",
+  "borders that make no sense",
+  "Baarle-Hertog",
+  "Baarle-Nassau",
+  "India Bangladesh enclaves",
+  "Cooch Behar enclaves",
+  "chhitmahals",
+  "enclaves",
+  "Busingen",
+  "Llivia",
+  "Point Roberts",
+  "Campione d'Italia",
+  "geography facts",
+  "weird maps",
+  "facts that sound fake"
+ ],
+ "comment_prompt": "Which border would you live on?",
+ "hook_banner": "THESE BORDERS ARE REAL",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "6: Büsingen, Germany in Switzerland",
+   "scene": 6
+  },
+  {
+   "title": "5: Llívia, Spain in France",
+   "scene": 16
+  },
+  {
+   "title": "4: Point Roberts, USA via Canada",
+   "scene": 25
+  },
+  {
+   "title": "3: Campione, Italy in Switzerland",
+   "scene": 34
+  },
+  {
+   "title": "2: Baarle, the door decides",
+   "scene": 42
+  },
+  {
+   "title": "1: India's vanished enclaves",
+   "scene": 54
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your front door can be in Belgium while your kitchen is in the Netherlands, and India has a border even stranger.",
+   "emoji": "🚪",
+   "headline": "ONE HOUSE, TWO COUNTRIES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baarle border white crosses"
+  },
+  {
+   "narration": "Six real borders, each stranger than the last. At the end, a whole set of borders disappears at midnight.",
+   "emoji": "🗺️",
+   "headline": "6 BORDERS, 1 COUNTDOWN",
+   "stat": "6",
+   "sub": "each stranger than the last",
+   "visual_query": "world map borders"
+  },
+  {
+   "narration": "Every border here is real, and all but one still sit on the map today.",
+   "emoji": "✅",
+   "headline": "ALL REAL",
+   "stat": "",
+   "sub": "check them on a map",
+   "visual_query": "map pin globe"
+  },
+  {
+   "narration": "We start small, with a village that is German on paper but surrounded by Swiss land on every side.",
+   "emoji": "🏘️",
+   "headline": "WE START SMALL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Busingen village aerial"
+  },
+  {
+   "narration": "And keep watching, because the last border on this list is the one that ended one of the strangest maps on Earth.",
+   "emoji": "🇮🇳",
+   "headline": "INDIA IS LAST",
+   "stat": "",
+   "sub": "the strangest of all",
+   "visual_query": "India map West Bengal"
+  },
+  {
+   "narration": "These borders are not accidents. Each one exists because of an old treaty, a king, or a deal.",
+   "emoji": "📜",
+   "headline": "NOT ACCIDENTS",
+   "stat": "",
+   "sub": "treaties, kings, deals",
+   "visual_query": "old treaty parchment"
+  },
+  {
+   "narration": "Number six: Büsingen. Look at your map and you will find a German village wrapped completely inside Switzerland.",
+   "emoji": "🇩🇪",
+   "headline": "BÜSINGEN",
+   "stat": "6",
+   "sub": "Germany inside Switzerland",
+   "visual_query": "Busingen am Hochrhein"
+  },
+  {
+   "narration": "It sits on the northern bank of the Rhine river, right next to the Swiss city of Schaffhausen.",
+   "emoji": "🌊",
+   "headline": "ON THE RHINE",
+   "stat": "",
+   "sub": "next to Schaffhausen",
+   "visual_query": "Rhine river Schaffhausen"
+  },
+  {
+   "narration": "Everyone there lives under German law, yet the shops take Swiss francs and many locals work across the line in Switzerland.",
+   "emoji": "💱",
+   "headline": "SWISS MONEY",
+   "stat": "",
+   "sub": "German law, Swiss francs",
+   "visual_query": "Swiss franc banknotes"
+  },
+  {
+   "narration": "Cars from this village carry the letters BÜS on the number plate, a code you will not find anywhere else in Germany.",
+   "emoji": "🚗",
+   "headline": "THE BÜS PLATE",
+   "stat": "BÜS",
+   "sub": "found only here",
+   "visual_query": "German car number plate"
+  },
+  {
+   "narration": "Walk a few minutes in any direction and you leave Germany, but you never reach the rest of Germany.",
+   "emoji": "🚶",
+   "headline": "AN ISLAND OF GERMANY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "village border sign Switzerland"
+  },
+  {
+   "narration": "To get to another German town, you have to cross Swiss land first. The village is an island without any sea.",
+   "emoji": "🏝️",
+   "headline": "ISLAND WITH NO SEA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss countryside road"
+  },
+  {
+   "narration": "The whole village sits inside the Swiss customs area, so trade rules there follow Switzerland, not Germany.",
+   "emoji": "🛃",
+   "headline": "SWISS CUSTOMS AREA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "customs checkpoint sign"
+  },
+  {
+   "narration": "In 1918, the villagers voted to join Switzerland. The deal never happened, and the village stayed German.",
+   "emoji": "🗳️",
+   "headline": "THEY VOTED TO LEAVE",
+   "stat": "1918",
+   "sub": "the deal never happened",
+   "visual_query": "ballot box vote"
+  },
+  {
+   "narration": "Imagine paying for your chai in Swiss francs, in a village that officially belongs to Germany.",
+   "emoji": "☕",
+   "headline": "CHAI IN FRANCS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "cafe cup coins"
+  },
+  {
+   "narration": "So one street mixes a German address, Swiss money and Swiss customs rules. Strange, but still fairly calm.",
+   "emoji": "🧩",
+   "headline": "A MIXED-UP STREET",
+   "stat": "",
+   "sub": "",
+   "visual_query": "European village street"
+  },
+  {
+   "narration": "Number five exists because of one word in an old treaty. Meet Llívia, a Spanish town inside France.",
+   "emoji": "🇪🇸",
+   "headline": "LLÍVIA",
+   "stat": "5",
+   "sub": "Spain inside France",
+   "visual_query": "Llivia town Spain"
+  },
+  {
+   "narration": "In 1659, Spain and France signed the Treaty of the Pyrenees. Spain gave a group of villages to France.",
+   "emoji": "✍️",
+   "headline": "TREATY OF 1659",
+   "stat": "1659",
+   "sub": "Treaty of the Pyrenees",
+   "visual_query": "Pyrenees mountains village"
+  },
+  {
+   "narration": "But Llívia was officially a town, not a village. So the treaty's words did not cover it.",
+   "emoji": "📖",
+   "headline": "TOWN, NOT VILLAGE",
+   "stat": "",
+   "sub": "one word",
+   "visual_query": "old treaty document text"
+  },
+  {
+   "narration": "That one word kept Llívia Spanish, while the new border was drawn all around it. It is still Spanish today.",
+   "emoji": "🖍️",
+   "headline": "ONE WORD SAVED IT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Llivia aerial view"
+  },
+  {
+   "narration": "Look at the map and you see a small patch of Spain, sitting inside France, with no Spanish land touching it.",
+   "emoji": "📍",
+   "headline": "SPAIN INSIDE FRANCE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cerdanya valley map"
+  },
+  {
+   "narration": "A short road links Llívia to Spain. It crosses French land, but travellers are allowed to use it.",
+   "emoji": "🛣️",
+   "headline": "THE ROAD HOME",
+   "stat": "",
+   "sub": "",
+   "visual_query": "mountain road Pyrenees"
+  },
+  {
+   "narration": "Walk the streets and you see Spanish flags, Catalan signs and Spanish shops, with France waiting just outside town.",
+   "emoji": "🚩",
+   "headline": "SPANISH STREETS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Spanish flag town square"
+  },
+  {
+   "narration": "Think about that: more than three hundred years ago, one word saved a town from changing countries, and it still matters today.",
+   "emoji": "⏳",
+   "headline": "STILL MATTERS TODAY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old stone church town"
+  },
+  {
+   "narration": "Remember this idea of a place cut off from its own country. Number one is the biggest version of it.",
+   "emoji": "🔁",
+   "headline": "REMEMBER THIS",
+   "stat": "",
+   "sub": "number one is bigger",
+   "visual_query": "enclave map highlighted"
+  },
+  {
+   "narration": "Number four: Point Roberts, an American town that you can only reach by land through Canada.",
+   "emoji": "🇺🇸",
+   "headline": "POINT ROBERTS",
+   "stat": "4",
+   "sub": "USA, reached through Canada",
+   "visual_query": "Point Roberts Washington"
+  },
+  {
+   "narration": "In 1846, a treaty set the US-Canada border along the 49th parallel, a straight line of latitude across the map.",
+   "emoji": "📏",
+   "headline": "THE 49TH PARALLEL",
+   "stat": "1846",
+   "sub": "a straight line",
+   "visual_query": "49th parallel border"
+  },
+  {
+   "narration": "That straight line cut through the tip of a small peninsula, and the southern tip landed on the American side.",
+   "emoji": "✂️",
+   "headline": "THE LINE CUT IT OFF",
+   "stat": "",
+   "sub": "",
+   "visual_query": "peninsula coast aerial"
+  },
+  {
+   "narration": "So Point Roberts is part of Washington state, but it hangs off the coast of Canada, with no road to America.",
+   "emoji": "🌲",
+   "headline": "AMERICA, ATTACHED TO CANADA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Point Roberts shoreline"
+  },
+  {
+   "narration": "To drive to the rest of the United States, you must enter Canada first, then cross into America again.",
+   "emoji": "🚧",
+   "headline": "TWO BORDER CROSSINGS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "US Canada border crossing"
+  },
+  {
+   "narration": "The nearest big city is Vancouver, in Canada, not any city in the state it belongs to.",
+   "emoji": "🏙️",
+   "headline": "VANCOUVER IS CLOSER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Vancouver skyline"
+  },
+  {
+   "narration": "Imagine a village that belongs to Kerala, but you can only reach it by driving through Tamil Nadu.",
+   "emoji": "🌴",
+   "headline": "IMAGINE IT IN INDIA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kerala village road"
+  },
+  {
+   "narration": "If you enjoy strange places like these, subscribe to the channel. There is a lot more like this coming.",
+   "emoji": "🔔",
+   "headline": "MORE STRANGE PLACES",
+   "stat": "",
+   "sub": "subscribe",
+   "visual_query": "world map globe"
+  },
+  {
+   "narration": "Back to the map. A line drawn on paper in 1846 still decides how people on this peninsula live today.",
+   "emoji": "🧭",
+   "headline": "A LINE ON PAPER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old map compass"
+  },
+  {
+   "narration": "Number three: Campione d'Italia, an Italian town on the shore of a Swiss lake, hidden inside Switzerland.",
+   "emoji": "🇮🇹",
+   "headline": "CAMPIONE D'ITALIA",
+   "stat": "3",
+   "sub": "Italy inside Switzerland",
+   "visual_query": "Campione d'Italia Lake Lugano"
+  },
+  {
+   "narration": "It sits on Lake Lugano, and Swiss land surrounds it on all sides except the lake.",
+   "emoji": "🏔️",
+   "headline": "ON LAKE LUGANO",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake Lugano mountains"
+  },
+  {
+   "narration": "To drive from Campione to the rest of Italy, you have to pass through Switzerland.",
+   "emoji": "🛣️",
+   "headline": "ITALY VIA SWITZERLAND",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lugano road tunnel"
+  },
+  {
+   "narration": "How did it happen? Centuries ago, the land belonged to a monastery in Milan, and it stayed Italian as Switzerland grew.",
+   "emoji": "⛪",
+   "headline": "A MONASTERY'S LAND",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Milan monastery Sant'Ambrogio"
+  },
+  {
+   "narration": "Today, the town is part of the Swiss customs area, and people there pay in Swiss francs.",
+   "emoji": "💶",
+   "headline": "SWISS FRANCS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss francs coins"
+  },
+  {
+   "narration": "It is an Italian town with Italian people, Swiss money and Swiss mountains rising right behind the houses.",
+   "emoji": "⛰️",
+   "headline": "ITALIAN TOWN, SWISS MOUNTAINS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "lakeside Alpine town"
+  },
+  {
+   "narration": "So you can eat Italian food, pay in Swiss money, and still be in Italy.",
+   "emoji": "🍕",
+   "headline": "PIZZA IN FRANCS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "pizza restaurant lake"
+  },
+  {
+   "narration": "So far, every border had a reason: a river, a word, a monastery. Now the line cuts through people's homes.",
+   "emoji": "🏠",
+   "headline": "NOW IT CUTS HOMES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "house border line"
+  },
+  {
+   "narration": "Number two: Baarle. Two towns, Baarle-Hertog in Belgium and Baarle-Nassau in the Netherlands, tangled together like spaghetti.",
+   "emoji": "🇧🇪",
+   "headline": "BAARLE",
+   "stat": "2",
+   "sub": "Belgium and the Netherlands",
+   "visual_query": "Baarle-Hertog Baarle-Nassau"
+  },
+  {
+   "narration": "Walk down the street and you will see white crosses painted on the pavement. Each one marks the border.",
+   "emoji": "✝️",
+   "headline": "WHITE CROSSES",
+   "stat": "",
+   "sub": "the border, painted",
+   "visual_query": "Baarle border crosses pavement"
+  },
+  {
+   "narration": "The line runs through streets, gardens and houses. Step over a cross and you change countries.",
+   "emoji": "👣",
+   "headline": "STEP, NEW COUNTRY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border line street houses"
+  },
+  {
+   "narration": "Belgium owns little islands of land inside the Netherlands, and some of those islands hold Dutch islands inside them.",
+   "emoji": "🧩",
+   "headline": "ISLANDS IN ISLANDS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baarle enclave map"
+  },
+  {
+   "narration": "That means a Dutch patch inside a Belgian patch inside Dutch land. Try drawing that on a map.",
+   "emoji": "✏️",
+   "headline": "TRY DRAWING IT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baarle map enclaves"
+  },
+  {
+   "narration": "It goes back centuries to land deals between local lords, long before Belgium and the Netherlands were countries.",
+   "emoji": "👑",
+   "headline": "A MEDIEVAL DEAL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "medieval Dutch village"
+  },
+  {
+   "narration": "Some buildings have the border running right through them, with one room in Belgium and the next in the Netherlands.",
+   "emoji": "🏢",
+   "headline": "BORDER THROUGH THE ROOM",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baarle shop border"
+  },
+  {
+   "narration": "In 1995, the two countries agreed on a simple rule for houses: the front door decides which country the house belongs to.",
+   "emoji": "🚪",
+   "headline": "THE FRONT DOOR RULE",
+   "stat": "1995",
+   "sub": "the door decides",
+   "visual_query": "front door house number"
+  },
+  {
+   "narration": "So a kitchen can cross the line, yet the whole house counts as the country of its front door.",
+   "emoji": "🍳",
+   "headline": "KITCHEN IN ANOTHER COUNTRY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "house door Belgium flag"
+  },
+  {
+   "narration": "Many houses show a flag or number plate near the door, so visitors know which country they are in.",
+   "emoji": "🚩",
+   "headline": "FLAGS BY THE DOOR",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Belgian Dutch flags street"
+  },
+  {
+   "narration": "Neighbours on the same street can follow different national rules, such as shop opening hours.",
+   "emoji": "🕒",
+   "headline": "DIFFERENT RULES, SAME STREET",
+   "stat": "",
+   "sub": "",
+   "visual_query": "shop opening hours sign"
+  },
+  {
+   "narration": "Two towns, two sets of rules, and tourists take photos with one foot in each country.",
+   "emoji": "📸",
+   "headline": "ONE FOOT EACH SIDE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tourist border marker photo"
+  },
+  {
+   "narration": "You would think nothing beats that. But number one is a set of borders that vanished at midnight on 31 July 2015.",
+   "emoji": "🌙",
+   "headline": "VANISHED AT MIDNIGHT",
+   "stat": "2015",
+   "sub": "31 July",
+   "visual_query": "midnight India Bangladesh border"
+  },
+  {
+   "narration": "Number one: India's strangest border. For decades, India and Bangladesh held small islands of each other's land, deep inside their territory.",
+   "emoji": "🇮🇳",
+   "headline": "INDIA'S STRANGEST",
+   "stat": "1",
+   "sub": "India and Bangladesh",
+   "visual_query": "India Bangladesh border fence"
+  },
+  {
+   "narration": "They were called enclaves, or chhitmahals, and there were 162 of them in total.",
+   "emoji": "🗺️",
+   "headline": "162 ENCLAVES",
+   "stat": "162",
+   "sub": "chhitmahals",
+   "visual_query": "Cooch Behar enclave map"
+  },
+  {
+   "narration": "111 of them were Indian land inside Bangladesh, and 51 were Bangladeshi land inside India, mostly around Cooch Behar in West Bengal.",
+   "emoji": "🧮",
+   "headline": "111 AND 51",
+   "stat": "111 + 51",
+   "sub": "Indian and Bangladeshi",
+   "visual_query": "Cooch Behar West Bengal"
+  },
+  {
+   "narration": "Which side you lived on decided everything: your school, your vote and your hospital.",
+   "emoji": "🏥",
+   "headline": "YOUR SIDE DECIDED ALL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "village school Bengal"
+  },
+  {
+   "narration": "Some were so small that a single field was foreign land. Step across its edge and you had left your country.",
+   "emoji": "🌾",
+   "headline": "A FIELD, A COUNTRY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bengal rice field"
+  },
+  {
+   "narration": "Dahala Khagrabari was an Indian patch, inside a Bangladeshi patch, inside an Indian patch, inside Bangladesh.",
+   "emoji": "🪆",
+   "headline": "DAHALA KHAGRABARI",
+   "stat": "",
+   "sub": "a country inside a country inside a country",
+   "visual_query": "Dahala Khagrabari enclave"
+  },
+  {
+   "narration": "Draw it on paper and it looks like Russian nesting dolls, each country sitting inside the other.",
+   "emoji": "🎎",
+   "headline": "NESTING DOLLS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Russian nesting dolls"
+  },
+  {
+   "narration": "One legend says it began with a chess game between two kings, who bet villages on the board.",
+   "emoji": "♟️",
+   "headline": "A CHESS-GAME LEGEND",
+   "stat": "",
+   "sub": "legend",
+   "visual_query": "chess board kings"
+  },
+  {
+   "narration": "Historians say the real cause was old land deals and treaties, and then Partition in 1947 froze the pieces in place.",
+   "emoji": "📜",
+   "headline": "FROZEN BY PARTITION",
+   "stat": "1947",
+   "sub": "",
+   "visual_query": "Partition 1947 India"
+  },
+  {
+   "narration": "Imagine living there. Your own country's police, school and hospital are on the other side of a border you cannot legally cross.",
+   "emoji": "🚫",
+   "headline": "CUT OFF FROM HOME",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Bangladesh border village"
+  },
+  {
+   "narration": "Reports say many people there had little access to roads, power, schools or health care.",
+   "emoji": "💡",
+   "headline": "LITTLE ACCESS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "village dirt road Bangladesh"
+  },
+  {
+   "narration": "Then at midnight on 31 July 2015, India and Bangladesh swapped the enclaves under a historic land agreement.",
+   "emoji": "🤝",
+   "headline": "THE GREAT SWAP",
+   "stat": "31 JULY 2015",
+   "sub": "midnight",
+   "visual_query": "India Bangladesh handshake flags"
+  },
+  {
+   "narration": "The 51 Bangladeshi pieces became Indian land, and the 111 Indian pieces became Bangladeshi land.",
+   "emoji": "🔄",
+   "headline": "51 IN, 111 OUT",
+   "stat": "51 / 111",
+   "sub": "",
+   "visual_query": "India Bangladesh flags border"
+  },
+  {
+   "narration": "Residents were allowed to choose their country. Some stayed where they were and changed nationality overnight, others moved.",
+   "emoji": "🗳️",
+   "headline": "THEY CHOSE A COUNTRY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "villagers flag Cooch Behar"
+  },
+  {
+   "narration": "For thousands of people, that midnight finally gave them a country on their own doorstep.",
+   "emoji": "🌅",
+   "headline": "A COUNTRY AT LAST",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Indian flag village sunrise"
+  },
+  {
+   "narration": "That is why India's strangest border is the one that no longer exists. Those 162 pieces are gone from the map.",
+   "emoji": "🧹",
+   "headline": "ERASED FROM THE MAP",
+   "stat": "162",
+   "sub": "gone",
+   "visual_query": "India Bangladesh map"
+  },
+  {
+   "narration": "So here are all six: Büsingen, Llívia, Point Roberts, Campione, Baarle, and the Indian enclaves.",
+   "emoji": "📌",
+   "headline": "ALL SIX",
+   "stat": "6",
+   "sub": "",
+   "visual_query": "world map pins"
+  },
+  {
+   "narration": "And remember how this started: your front door can sit in Belgium while your kitchen is in the Netherlands. In Baarle, that is true.",
+   "emoji": "🚪",
+   "headline": "THE DOOR DECIDES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baarle house border"
+  },
+  {
+   "narration": "Tomorrow: time zones that make no sense, including a country that sets its clocks 15 minutes off from its neighbour.",
+   "emoji": "🕰️",
+   "headline": "TOMORROW: STRANGE TIME ZONES",
+   "stat": "15 MIN",
+   "sub": "Nepal vs India",
+   "visual_query": "Nepal clock Kathmandu"
+  }
+ ]
+}

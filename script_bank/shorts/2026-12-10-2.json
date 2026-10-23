@@ -1,0 +1,102 @@
+{
+ "category": "geography",
+ "topic": "Avenue of the Baobabs, Madagascar",
+ "hook": "Your road in Madagascar is lined with giants.",
+ "title": "Your Road in Madagascar Is Lined With Giants",
+ "description": "The Avenue of the Baobabs near Morondava in Madagascar is a road lined with enormous baobab trees standing alone in a row. They are survivors of a forest that once covered the area, and they tower over every passing car. Part of the Places That Shouldn't Exist series.\n\n#Shorts #PlacesThatShouldntExist #Madagascar",
+ "tags": [
+  "baobab",
+  "madagascar",
+  "avenue of the baobabs",
+  "morondava",
+  "places that shouldn't exist",
+  "geography facts",
+  "travel facts",
+  "shorts",
+  "wait what facts"
+ ],
+ "comment_prompt": "Would you drive it? Yes or no",
+ "hook_banner": "REAL ROAD, REAL TREES",
+ "scenes": [
+  {
+   "narration": "Your road in Madagascar is lined with giants.",
+   "emoji": "🌳",
+   "headline": "Giants By The Road",
+   "stat": "",
+   "sub": "Madagascar",
+   "visual_query": "Avenue of the Baobabs"
+  },
+  {
+   "narration": "These baobab trees stand alone, in a line.",
+   "emoji": "↕️",
+   "headline": "Alone, In A Line",
+   "stat": "",
+   "sub": "",
+   "visual_query": "baobab trees row road"
+  },
+  {
+   "narration": "They tower over every car below.",
+   "emoji": "🚗",
+   "headline": "Towering Over Cars",
+   "stat": "",
+   "sub": "",
+   "visual_query": "baobab tree car road"
+  },
+  {
+   "narration": "This is the Avenue of the Baobabs.",
+   "emoji": "🛣️",
+   "headline": "Avenue Of Baobabs",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Morondava baobab road"
+  },
+  {
+   "narration": "It's a road near Morondava.",
+   "emoji": "📍",
+   "headline": "Near Morondava",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Morondava Madagascar"
+  },
+  {
+   "narration": "These trees survived a vanished forest.",
+   "emoji": "🌲",
+   "headline": "A Vanished Forest",
+   "stat": "",
+   "sub": "",
+   "visual_query": "baobab sunset Madagascar"
+  },
+  {
+   "narration": "Baobabs store water inside thick trunks.",
+   "emoji": "💧",
+   "headline": "Water In The Trunk",
+   "stat": "",
+   "sub": "",
+   "visual_query": "baobab trunk thick"
+  },
+  {
+   "narration": "Some have stood for centuries.",
+   "emoji": "⏳",
+   "headline": "Centuries Old",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ancient baobab tree"
+  },
+  {
+   "narration": "Giants line your road in Madagascar.",
+   "emoji": "🌅",
+   "headline": "Giants Line The Road",
+   "stat": "",
+   "sub": "",
+   "visual_query": "baobab avenue sunrise"
+  },
+  {
+   "narration": "Tomorrow: a thin arm of land touching China.",
+   "emoji": "🗺️",
+   "headline": "Tomorrow",
+   "stat": "",
+   "sub": "A strange arm on the map",
+   "visual_query": "Wakhan Corridor map"
+  }
+ ]
+}

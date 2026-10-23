@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "King Fahd Causeway Saudi Arabia to Bahrain",
+ "hook": "Your car can drive from Saudi Arabia to Bahrain.",
+ "title": "You Can Drive Across the Sea to Bahrain",
+ "description": "The King Fahd Causeway links Saudi Arabia and the island nation of Bahrain across the Gulf. It runs about 25 kilometres and opened in 1986. An artificial island partway along holds the border facilities. Part of the series Places That Shouldn't Exist.\n\n#Shorts #Bahrain #Geography",
+ "tags": [
+  "king fahd causeway",
+  "bahrain",
+  "saudi arabia",
+  "bridge over sea",
+  "geography facts",
+  "road trip",
+  "places that shouldn't exist",
+  "shorts"
+ ],
+ "comment_prompt": "Would you drive it? Yes or no",
+ "hook_banner": "A ROAD ACROSS THE SEA",
+ "scenes": [
+  {
+   "narration": "Your car can drive from Saudi Arabia to Bahrain.",
+   "emoji": "🚗",
+   "headline": "Drive To Bahrain",
+   "stat": "",
+   "sub": "",
+   "visual_query": "King Fahd Causeway aerial"
+  },
+  {
+   "narration": "The road runs across the sea.",
+   "emoji": "🌊",
+   "headline": "A Road Over The Sea",
+   "stat": "",
+   "sub": "",
+   "visual_query": "causeway over sea road"
+  },
+  {
+   "narration": "It's about 25 kilometres long.",
+   "emoji": "📏",
+   "headline": "About 25 km Long",
+   "stat": "25 km",
+   "sub": "",
+   "visual_query": "King Fahd Causeway road"
+  },
+  {
+   "narration": "It's called the King Fahd Causeway.",
+   "emoji": "🌉",
+   "headline": "King Fahd Causeway",
+   "stat": "",
+   "sub": "",
+   "visual_query": "King Fahd Causeway bridge"
+  },
+  {
+   "narration": "Bridges and embankments carry you over the Gulf.",
+   "emoji": "🛣️",
+   "headline": "Over The Gulf",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Persian Gulf causeway"
+  },
+  {
+   "narration": "Halfway, an artificial island holds the border checks.",
+   "emoji": "🏝️",
+   "headline": "Artificial Border Island",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Passport Island Bahrain causeway"
+  },
+  {
+   "narration": "Before 1986, Bahrain had no road link.",
+   "emoji": "📅",
+   "headline": "Opened In 1986",
+   "stat": "1986",
+   "sub": "",
+   "visual_query": "Bahrain island map"
+  },
+  {
+   "narration": "Now an island nation is a drive away.",
+   "emoji": "🇧🇭",
+   "headline": "Island Nation By Road",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bahrain skyline"
+  },
+  {
+   "narration": "Tomorrow: a road that dives under the sea.",
+   "emoji": "➡️",
+   "headline": "Tomorrow: Road Underwater",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Oresund Bridge Denmark Sweden"
+  }
+ ]
+}

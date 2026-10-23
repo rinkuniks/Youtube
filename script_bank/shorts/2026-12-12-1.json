@@ -1,0 +1,87 @@
+{
+ "category": "geography",
+ "topic": "Darién Gap Pan-American Highway",
+ "hook": "Your road from Alaska to Argentina has a gap.",
+ "title": "The Highway From Alaska to Argentina Has a Gap",
+ "description": "The Pan-American Highway runs through much of the Americas, but it stops in Panama and Colombia. The Darién Gap is about 100 km of jungle and swamp with no road across it.\n\nSeries: Places That Shouldn't Exist.\n\n#Shorts #Geography #DarienGap",
+ "tags": [
+  "darien gap",
+  "pan-american highway",
+  "panama",
+  "colombia",
+  "alaska",
+  "argentina",
+  "jungle",
+  "geography facts",
+  "maps",
+  "shorts"
+ ],
+ "comment_prompt": "Would you cross it? Yes or no",
+ "hook_banner": "THE ROAD JUST STOPS",
+ "scenes": [
+  {
+   "narration": "Your road from Alaska to Argentina has a gap.",
+   "emoji": "🗺️",
+   "headline": "ALASKA TO ARGENTINA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pan-American Highway map"
+  },
+  {
+   "narration": "It is called the Pan-American Highway.",
+   "emoji": "🛣️",
+   "headline": "PAN-AMERICAN HIGHWAY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pan-American Highway road sign"
+  },
+  {
+   "narration": "But in Panama and Colombia, it stops.",
+   "emoji": "🛑",
+   "headline": "THE ROAD STOPS",
+   "stat": "",
+   "sub": "Panama and Colombia",
+   "visual_query": "Panama Colombia border jungle"
+  },
+  {
+   "narration": "That gap is the Darién Gap.",
+   "emoji": "🌴",
+   "headline": "DARIÉN GAP",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Darien Gap rainforest"
+  },
+  {
+   "narration": "It is about a hundred kilometres of jungle and swamp.",
+   "emoji": "🐊",
+   "headline": "JUNGLE AND SWAMP",
+   "stat": "100 km",
+   "sub": "about",
+   "visual_query": "Darien swamp aerial"
+  },
+  {
+   "narration": "No road crosses it.",
+   "emoji": "🚫",
+   "headline": "NO ROAD",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Darien Gap dense jungle"
+  },
+  {
+   "narration": "Travellers go around it by boat or air.",
+   "emoji": "⛴️",
+   "headline": "BOAT OR PLANE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "cargo ship Panama Colombia"
+  },
+  {
+   "narration": "So Alaska to Argentina still has a gap.",
+   "emoji": "🗺️",
+   "headline": "STILL A GAP",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Americas map highway"
+  }
+ ]
+}

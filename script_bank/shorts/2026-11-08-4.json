@@ -1,0 +1,85 @@
+{
+ "category": "space",
+ "topic": "Eclipse size coincidence",
+ "hook": "Your Moon can hide the whole Sun.",
+ "title": "Your Moon Hides the Entire Sun",
+ "description": "The Sun is about 400 times wider than the Moon, and also about 400 times farther away. That is why the Moon can cover the Sun almost exactly in a total solar eclipse. Series: Space Coincidences.\n\n#Shorts #SolarEclipse #Space",
+ "tags": [
+  "solar eclipse",
+  "total eclipse",
+  "moon",
+  "sun",
+  "space facts",
+  "astronomy",
+  "wait what",
+  "shorts"
+ ],
+ "comment_prompt": "Seen a total eclipse? Yes or no",
+ "hook_banner": "THE MOON VS THE SUN",
+ "scenes": [
+  {
+   "narration": "Your Moon can hide the whole Sun.",
+   "emoji": "🌑",
+   "headline": "MOON HIDES THE SUN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "total solar eclipse corona"
+  },
+  {
+   "narration": "The Sun is far bigger than the Moon.",
+   "emoji": "☀️",
+   "headline": "SUN IS HUGE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "sun solar flare"
+  },
+  {
+   "narration": "About 400 times wider, in fact.",
+   "emoji": "📏",
+   "headline": "400× WIDER",
+   "stat": "400×",
+   "sub": "Sun vs Moon width",
+   "visual_query": "sun moon size comparison"
+  },
+  {
+   "narration": "But it's also about 400 times farther away.",
+   "emoji": "🚀",
+   "headline": "400× FARTHER",
+   "stat": "400×",
+   "sub": "Sun vs Moon distance",
+   "visual_query": "earth moon sun space"
+  },
+  {
+   "narration": "So both look the same size in your sky.",
+   "emoji": "👀",
+   "headline": "SAME SIZE IN SKY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "eclipse diamond ring"
+  },
+  {
+   "narration": "That perfect match is pure coincidence.",
+   "emoji": "🎯",
+   "headline": "PURE COINCIDENCE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "total eclipse crowd watching"
+  },
+  {
+   "narration": "The Moon drifts away, so this won't last forever.",
+   "emoji": "⏳",
+   "headline": "IT WON'T LAST",
+   "stat": "",
+   "sub": "",
+   "visual_query": "full moon night sky"
+  },
+  {
+   "narration": "Right now, your Moon hides the whole Sun.",
+   "emoji": "🌑",
+   "headline": "RIGHT NOW, IT FITS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "total solar eclipse sky"
+  }
+ ]
+}

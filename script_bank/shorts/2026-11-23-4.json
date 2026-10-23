@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Astronaut eye flashes, cosmic rays",
+ "hook": "In space, your closed eyes still see flashes.",
+ "title": "In Space, Closed Eyes Still See Flashes",
+ "description": "Astronauts have reported streaks and sparks of light with their eyes shut. These flashes are linked to cosmic rays hitting the eye. Part of the If You Were in Space series.\n\n#Shorts #Space #IfYouWereInSpace",
+ "tags": [
+  "cosmic rays",
+  "astronaut flashes",
+  "light flashes in space",
+  "space facts",
+  "apollo",
+  "human body in space",
+  "if you were in space",
+  "shorts"
+ ],
+ "comment_prompt": "Would you go to space? Yes or no",
+ "hook_banner": "EYES SHUT, STILL SEE",
+ "scenes": [
+  {
+   "narration": "In space, your closed eyes still see flashes.",
+   "emoji": "👁️",
+   "headline": "Flashes, Eyes Shut",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut eyes closed"
+  },
+  {
+   "narration": "Astronauts report streaks and sparks of light.",
+   "emoji": "✨",
+   "headline": "Streaks And Sparks",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut sleeping space station"
+  },
+  {
+   "narration": "Even in total darkness, eyes shut.",
+   "emoji": "🌑",
+   "headline": "Total Darkness",
+   "stat": "",
+   "sub": "",
+   "visual_query": "dark space station crew quarters"
+  },
+  {
+   "narration": "Cosmic rays are the suspected cause.",
+   "emoji": "☄️",
+   "headline": "Cosmic Rays",
+   "stat": "",
+   "sub": "",
+   "visual_query": "cosmic rays space"
+  },
+  {
+   "narration": "They are fast particles from space.",
+   "emoji": "⚡",
+   "headline": "Fast Particles",
+   "stat": "",
+   "sub": "",
+   "visual_query": "particles radiation space"
+  },
+  {
+   "narration": "They can hit the eye itself.",
+   "emoji": "🎯",
+   "headline": "They Hit The Eye",
+   "stat": "",
+   "sub": "",
+   "visual_query": "human eye closeup"
+  },
+  {
+   "narration": "Your brain reads that hit as light.",
+   "emoji": "🧠",
+   "headline": "Brain Sees Light",
+   "stat": "",
+   "sub": "",
+   "visual_query": "brain eye vision"
+  },
+  {
+   "narration": "Astronauts have reported it since Apollo.",
+   "emoji": "🚀",
+   "headline": "Since Apollo",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Apollo astronaut"
+  },
+  {
+   "narration": "Next: a spaceship that sails on sunlight.",
+   "emoji": "➡️",
+   "headline": "Next Up",
+   "stat": "",
+   "sub": "A sunlight sail",
+   "visual_query": "IKAROS solar sail"
+  }
+ ]
+}

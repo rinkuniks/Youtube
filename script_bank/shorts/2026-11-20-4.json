@@ -1,0 +1,86 @@
+{
+ "category": "space",
+ "topic": "Washing hair in space",
+ "hook": "Your hair wash in space uses no running water.",
+ "title": "Your Hair Wash in Space Has No Water",
+ "description": "Astronaut Karen Nyberg showed on camera how she washes her long hair in space. She uses rinseless shampoo, because there is no shower and water would just float. Series: If You Were in Space. Tomorrow: brushing your teeth with no sink.\n\n#Shorts #Space #Astronaut",
+ "tags": [
+  "space",
+  "astronaut",
+  "Karen Nyberg",
+  "hair wash in space",
+  "ISS",
+  "life in space",
+  "space facts",
+  "weird facts",
+  "if you were in space"
+ ],
+ "comment_prompt": "Would you keep long hair in space? Yes or no",
+ "hook_banner": "REAL ASTRONAUT VIDEO",
+ "scenes": [
+  {
+   "narration": "Your hair wash in space uses no running water.",
+   "emoji": "🚿",
+   "headline": "NO RUNNING WATER",
+   "stat": "",
+   "sub": "If You Were in Space",
+   "visual_query": "astronaut long hair floating"
+  },
+  {
+   "narration": "Astronaut Karen Nyberg showed it on camera.",
+   "emoji": "👩‍🚀",
+   "headline": "KAREN NYBERG",
+   "stat": "",
+   "sub": "Filmed on the station",
+   "visual_query": "Karen Nyberg astronaut"
+  },
+  {
+   "narration": "She works rinseless shampoo into her hair.",
+   "emoji": "🧴",
+   "headline": "RINSELESS SHAMPOO",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut washing hair space station"
+  },
+  {
+   "narration": "It clings to every strand.",
+   "emoji": "💧",
+   "headline": "IT CLINGS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "water blob floating space station"
+  },
+  {
+   "narration": "Nothing drips, because there is no down.",
+   "emoji": "⬆️",
+   "headline": "NO DOWN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "International Space Station interior"
+  },
+  {
+   "narration": "Her long hair floats up like a cloud.",
+   "emoji": "☁️",
+   "headline": "HAIR LIKE A CLOUD",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut hair floating microgravity"
+  },
+  {
+   "narration": "She wipes it with a towel. No rinsing.",
+   "emoji": "🧻",
+   "headline": "TOWEL, NOT RINSE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut towel space station"
+  },
+  {
+   "narration": "Your hair wash needs gravity. She has none.",
+   "emoji": "🌍",
+   "headline": "GRAVITY NEEDED",
+   "stat": "",
+   "sub": "Tomorrow: brushing teeth in space",
+   "visual_query": "Earth from space station window"
+  }
+ ]
+}

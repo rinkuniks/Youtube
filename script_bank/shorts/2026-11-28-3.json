@@ -1,0 +1,72 @@
+{
+ "category": "geography",
+ "topic": "Dudhsagar Falls railway",
+ "hook": "Your train in Goa rides right across a giant waterfall.",
+ "title": "The Train That Crosses a 310 m Waterfall",
+ "description": "Dudhsagar Falls in Goa is a four-tier waterfall about 310 metres tall. A railway bridge crosses right in front of it, so passing trains share the view. Its name means sea of milk.\n\n#Shorts #Goa #India",
+ "tags": [
+  "Dudhsagar Falls",
+  "Goa",
+  "India facts",
+  "waterfall",
+  "train bridge",
+  "geography facts",
+  "Indian railways",
+  "shorts"
+ ],
+ "comment_prompt": "Have you seen it? Yes or no",
+ "hook_banner": "THIS PLACE IS REAL",
+ "scenes": [
+  {
+   "narration": "Your train in Goa rides right across a giant waterfall.",
+   "emoji": "🚆",
+   "headline": "TRAIN ON A WATERFALL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dudhsagar train bridge"
+  },
+  {
+   "narration": "This is Dudhsagar Falls.",
+   "emoji": "💦",
+   "headline": "DUDHSAGAR FALLS",
+   "stat": "",
+   "sub": "Goa",
+   "visual_query": "Dudhsagar Falls Goa"
+  },
+  {
+   "narration": "The railway bridge crosses its front.",
+   "emoji": "🌉",
+   "headline": "BRIDGE IN FRONT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dudhsagar railway bridge"
+  },
+  {
+   "narration": "The waterfall drops in four tiers.",
+   "emoji": "⛰️",
+   "headline": "FOUR TIERS",
+   "stat": "4",
+   "sub": "",
+   "visual_query": "Dudhsagar waterfall tiers"
+  },
+  {
+   "narration": "It is about three hundred ten metres tall.",
+   "emoji": "📏",
+   "headline": "ABOUT 310 M TALL",
+   "stat": "310 m",
+   "sub": "",
+   "visual_query": "tall waterfall India"
+  },
+  {
+   "narration": "Its name means sea of milk.",
+   "emoji": "🥛",
+   "headline": "SEA OF MILK",
+   "stat": "",
+   "sub": "",
+   "visual_query": "white waterfall mist"
+  },
+  {
+   "narration": "Trains roll past a wall of white water. Tomorrow: a robot astronaut."
+  }
+ ]
+}

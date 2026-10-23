@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Chilika Lake dolphins",
+ "hook": "Your boat ride in Odisha can find wild dolphins in a lake.",
+ "title": "Dolphins Live In This Odisha Lake",
+ "description": "Chilika Lake in Odisha is India's largest coastal lagoon. Its brackish water mixes river and sea, and Irrawaddy dolphins live there. Boat trips from places like Satapada are popular for spotting them.\n\n#Shorts #Odisha #Geography",
+ "tags": [
+  "Chilika Lake",
+  "Odisha",
+  "Irrawaddy dolphin",
+  "India geography",
+  "lagoon",
+  "Satapada",
+  "travel India",
+  "shorts"
+ ],
+ "comment_prompt": "Would you take this boat ride? Yes or no",
+ "hook_banner": "DOLPHINS IN A LAKE",
+ "scenes": [
+  {
+   "narration": "Your boat ride in Odisha can find wild dolphins.",
+   "emoji": "🐬",
+   "headline": "Dolphins In Odisha",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Irrawaddy dolphin"
+  },
+  {
+   "narration": "This is Chilika Lake, beside the Bay of Bengal.",
+   "emoji": "🛶",
+   "headline": "Chilika Lake",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chilika Lake boat"
+  },
+  {
+   "narration": "It is India's largest coastal lagoon.",
+   "emoji": "🇮🇳",
+   "headline": "India's Largest Lagoon",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chilika Lake aerial"
+  },
+  {
+   "narration": "The water is brackish, part river, part sea.",
+   "emoji": "🌊",
+   "headline": "Part River, Part Sea",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chilika Lake water"
+  },
+  {
+   "narration": "Irrawaddy dolphins live right inside it.",
+   "emoji": "🐬",
+   "headline": "Irrawaddy Dolphins",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Irrawaddy dolphins water"
+  },
+  {
+   "narration": "Boat trips from Satapada go looking for them.",
+   "emoji": "🚤",
+   "headline": "Satapada Boat Trips",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Satapada Chilika boat"
+  },
+  {
+   "narration": "Sea water and river water share one lake.",
+   "emoji": "🏞️",
+   "headline": "One Lake, Two Waters",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chilika lagoon sunset"
+  },
+  {
+   "narration": "Yes, wild dolphins swim in an Odisha lake.",
+   "emoji": "🐬",
+   "headline": "Dolphins, For Real",
+   "stat": "",
+   "sub": "",
+   "visual_query": "dolphin fin water"
+  },
+  {
+   "narration": "Next: a bay with 1,600 stone islands.",
+   "emoji": "⛰️",
+   "headline": "Up Next",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ha Long Bay"
+  }
+ ]
+}

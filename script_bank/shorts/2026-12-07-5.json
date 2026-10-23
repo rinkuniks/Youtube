@@ -1,0 +1,93 @@
+{
+ "category": "technology",
+ "topic": "Phone pixels under water drop",
+ "hook": "Your phone's white screen is secretly three colours.",
+ "title": "Your White Screen Isn't Really White",
+ "description": "Put a small drop of water on a white phone screen and film it up close. The drop acts like a tiny magnifier and shows the red, green and blue lights that make up every pixel. Wipe the screen dry afterwards.\n\n#Shorts #PhoneTricks #Tech",
+ "tags": [
+  "phone trick",
+  "RGB",
+  "subpixels",
+  "water drop",
+  "screen",
+  "tech facts",
+  "smartphone",
+  "shorts"
+ ],
+ "comment_prompt": "Did you see the colours? Yes or no",
+ "hook_banner": "TRY THIS NOW",
+ "scenes": [
+  {
+   "narration": "Your phone's white screen is secretly three colours.",
+   "emoji": "📱",
+   "headline": "White Isn't White",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone white screen"
+  },
+  {
+   "narration": "Put one small drop of water on it.",
+   "emoji": "💧",
+   "headline": "One Drop Of Water",
+   "stat": "",
+   "sub": "",
+   "visual_query": "water drop phone screen"
+  },
+  {
+   "narration": "Now film it up close with your camera.",
+   "emoji": "🎥",
+   "headline": "Film It Up Close",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone camera macro screen"
+  },
+  {
+   "narration": "The drop works like a tiny magnifying glass.",
+   "emoji": "🔍",
+   "headline": "A Tiny Magnifier",
+   "stat": "",
+   "sub": "",
+   "visual_query": "magnified phone pixels"
+  },
+  {
+   "narration": "White splits into red, green and blue.",
+   "emoji": "🌈",
+   "headline": "Red, Green, Blue",
+   "stat": "",
+   "sub": "",
+   "visual_query": "RGB subpixels macro"
+  },
+  {
+   "narration": "Every pixel is just three tiny coloured lights.",
+   "emoji": "💡",
+   "headline": "Three Tiny Lights",
+   "stat": "",
+   "sub": "",
+   "visual_query": "LCD subpixel close up"
+  },
+  {
+   "narration": "Mixed together, they fool your eyes into white.",
+   "emoji": "👀",
+   "headline": "Your Eyes Get Fooled",
+   "stat": "",
+   "sub": "",
+   "visual_query": "RGB color mixing"
+  },
+  {
+   "narration": "Your white screen was never white.",
+   "emoji": "📱",
+   "headline": "Never Really White",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone screen pixels"
+  },
+  {
+   "narration": "Tomorrow: statues with hidden bodies.",
+   "emoji": "➡️",
+   "headline": "Tomorrow: Hidden Bodies",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Easter Island moai"
+  }
+ ]
+}

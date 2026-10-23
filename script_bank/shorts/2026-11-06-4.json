@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Apollo 13 duct tape CO2 fix",
+ "hook": "In space, your life can depend on duct tape.",
+ "title": "Socks and duct tape saved Apollo 13",
+ "description": "When Apollo 13 lost power, carbon dioxide began building up inside the spacecraft. Square filters had to fit a round hole. Engineers built a fix from socks, cardboard and duct tape, and all three astronauts came home alive.",
+ "tags": [
+  "apollo 13",
+  "nasa",
+  "duct tape",
+  "space history",
+  "space facts",
+  "astronauts",
+  "if you were in space",
+  "engineering"
+ ],
+ "comment_prompt": "Duct tape or glue? Tape or glue",
+ "hook_banner": "SAVED BY SOCKS",
+ "scenes": [
+  {
+   "narration": "In space, your life can depend on duct tape.",
+   "emoji": "🩹",
+   "headline": "Saved By Duct Tape",
+   "stat": "",
+   "sub": "",
+   "visual_query": "duct tape roll"
+  },
+  {
+   "narration": "Apollo 13 lost power on the way to the Moon.",
+   "emoji": "🚀",
+   "headline": "Apollo 13 Crisis",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Apollo 13 spacecraft"
+  },
+  {
+   "narration": "Carbon dioxide was building up inside.",
+   "emoji": "😮‍💨",
+   "headline": "Air Turning Toxic",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Apollo capsule interior"
+  },
+  {
+   "narration": "The filters were square, but the hole was round.",
+   "emoji": "⬜",
+   "headline": "Square Into Round",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Apollo 13 CO2 filter"
+  },
+  {
+   "narration": "Engineers on the ground designed a fix.",
+   "emoji": "🛠️",
+   "headline": "Ground Team Fix",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mission Control Houston 1970"
+  },
+  {
+   "narration": "They used socks, cardboard and duct tape.",
+   "emoji": "🧦",
+   "headline": "Socks And Tape",
+   "stat": "",
+   "sub": "",
+   "visual_query": "socks cardboard duct tape"
+  },
+  {
+   "narration": "The crew built it and breathed again.",
+   "emoji": "✅",
+   "headline": "It Worked",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Apollo 13 astronauts"
+  },
+  {
+   "narration": "Duct tape and socks brought them home.",
+   "emoji": "🌍",
+   "headline": "All Three Survived",
+   "stat": "3",
+   "sub": "astronauts",
+   "visual_query": "Apollo 13 splashdown"
+  },
+  {
+   "narration": "Tomorrow: your microwave hides a tiny shield.",
+   "emoji": "➡️",
+   "headline": "Up Next",
+   "stat": "",
+   "sub": "Microwave door",
+   "visual_query": "microwave oven door"
+  }
+ ]
+}

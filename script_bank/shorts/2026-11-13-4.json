@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Ingenuity helicopter on Mars",
+ "hook": "Your helicopter has flown on Mars, 72 times.",
+ "title": "A Helicopter Flew on Mars 72 Times",
+ "description": "In April 2021, NASA's Ingenuity made the first powered, controlled flight on another planet. It was planned as a five-flight demo. It went on to fly 72 times.\n\nSeries: If You Were on Another World.",
+ "tags": [
+  "Ingenuity",
+  "NASA",
+  "Mars",
+  "Mars helicopter",
+  "space facts",
+  "Perseverance",
+  "space",
+  "did you know"
+ ],
+ "comment_prompt": "Would you fly it? Yes or no",
+ "hook_banner": "REAL MARS FOOTAGE",
+ "scenes": [
+  {
+   "narration": "A helicopter has flown on Mars.",
+   "emoji": "🚁",
+   "headline": "FLYING ON MARS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ingenuity helicopter Mars"
+  },
+  {
+   "narration": "NASA's Ingenuity lifted off in April 2021.",
+   "emoji": "📅",
+   "headline": "APRIL 2021",
+   "stat": "",
+   "sub": "NASA Ingenuity",
+   "visual_query": "Ingenuity takeoff Mars"
+  },
+  {
+   "narration": "It was the first powered flight on another planet.",
+   "emoji": "🥇",
+   "headline": "FIRST EVER",
+   "stat": "",
+   "sub": "another planet",
+   "visual_query": "Ingenuity first flight"
+  },
+  {
+   "narration": "Mars air is far thinner than Earth's.",
+   "emoji": "🌫️",
+   "headline": "VERY THIN AIR",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mars landscape dust"
+  },
+  {
+   "narration": "NASA planned only five flights.",
+   "emoji": "5️⃣",
+   "headline": "PLANNED: 5 FLIGHTS",
+   "stat": "5",
+   "sub": "the plan",
+   "visual_query": "NASA Ingenuity rotor"
+  },
+  {
+   "narration": "It flew seventy-two times.",
+   "emoji": "🔥",
+   "headline": "ACTUAL: 72 FLIGHTS",
+   "stat": "72",
+   "sub": "flights",
+   "visual_query": "Ingenuity shadow Mars"
+  },
+  {
+   "narration": "One tiny helicopter, one whole planet.",
+   "emoji": "🔴",
+   "headline": "ONE TINY HELICOPTER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mars rover Perseverance"
+  },
+  {
+   "narration": "Your helicopter flew on Mars, seventy-two times.",
+   "emoji": "🚁",
+   "headline": "72 FLIGHTS ON MARS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ingenuity Mars flight"
+  },
+  {
+   "narration": "Next: boiling water on top of paper.",
+   "emoji": "📄",
+   "headline": "NEXT: WATER ON PAPER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "induction cooktop pan"
+  }
+ ]
+}

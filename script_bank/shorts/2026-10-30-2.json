@@ -1,0 +1,94 @@
+{
+ "category": "geography",
+ "topic": "Lake Baikal clear ice",
+ "hook": "You can stand on ice you see through.",
+ "title": "Your Feet On Ice You Can See Through",
+ "description": "Lake Baikal in Siberia freezes into ice so clear you can see cracks and bubbles deep below. It is the deepest lake on Earth and holds about 20% of the world's unfrozen fresh water. All of that sits right under your boots.\n\n#Shorts #LakeBaikal #PlacesThatShouldntExist",
+ "tags": [
+  "lake baikal",
+  "clear ice",
+  "siberia",
+  "russia",
+  "deepest lake",
+  "fresh water",
+  "geography facts",
+  "places that shouldnt exist",
+  "winter"
+ ],
+ "comment_prompt": "Would you walk on it? Yes or no",
+ "hook_banner": "ICE LIKE GLASS",
+ "scenes": [
+  {
+   "narration": "You can stand on ice you see through.",
+   "emoji": "🧊",
+   "headline": "Ice You See Through",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake Baikal transparent ice"
+  },
+  {
+   "narration": "This is Lake Baikal in Siberia, Russia.",
+   "emoji": "📍",
+   "headline": "Lake Baikal",
+   "stat": "",
+   "sub": "Siberia, Russia",
+   "visual_query": "Lake Baikal winter"
+  },
+  {
+   "narration": "Winter ice here is clear as glass.",
+   "emoji": "🪟",
+   "headline": "Clear As Glass",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baikal clear ice walking"
+  },
+  {
+   "narration": "You can see cracks racing far below.",
+   "emoji": "⚡",
+   "headline": "Cracks Far Below",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baikal ice cracks"
+  },
+  {
+   "narration": "Bubbles hang frozen deep inside the ice.",
+   "emoji": "🫧",
+   "headline": "Frozen Bubbles",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baikal ice bubbles"
+  },
+  {
+   "narration": "Baikal is the deepest lake on Earth.",
+   "emoji": "🌊",
+   "headline": "Deepest Lake On Earth",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake Baikal aerial"
+  },
+  {
+   "narration": "It holds about 20% of Earth's unfrozen fresh water.",
+   "emoji": "💧",
+   "headline": "Fresh Water Giant",
+   "stat": "~20%",
+   "sub": "of unfrozen fresh water",
+   "visual_query": "Lake Baikal shoreline"
+  },
+  {
+   "narration": "All of it sits beneath your boots.",
+   "emoji": "🥾",
+   "headline": "Under Your Boots",
+   "stat": "",
+   "sub": "",
+   "visual_query": "person standing on ice"
+  },
+  {
+   "narration": "Tomorrow: your whole world, smaller than one pixel.",
+   "emoji": "🌍",
+   "headline": "Tomorrow",
+   "stat": "",
+   "sub": "Pale Blue Dot",
+   "visual_query": "Pale Blue Dot Earth"
+  }
+ ]
+}

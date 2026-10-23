@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "La Paz Mi Teleferico",
+ "hook": "Your commute in La Paz, Bolivia can be a cable car.",
+ "title": "Your Commute Here Is a Cable Car",
+ "description": "In La Paz, Bolivia, ordinary commuters ride cable cars to work. The Mi Teleférico network is one of the largest urban cable car systems in the world. Its lines are named after colours.\n\n#Shorts #Bolivia #Geography",
+ "tags": [
+  "La Paz",
+  "Bolivia",
+  "Mi Teleferico",
+  "cable car",
+  "geography facts",
+  "public transport",
+  "places that shouldn't exist",
+  "Shorts"
+ ],
+ "comment_prompt": "Would you ride it? Yes or no",
+ "hook_banner": "BUS? NO, CABLE CAR",
+ "scenes": [
+  {
+   "narration": "Your commute in La Paz can be a cable car.",
+   "emoji": "🚠",
+   "headline": "COMMUTE BY CABLE CAR",
+   "stat": "",
+   "sub": "",
+   "visual_query": "La Paz cable car"
+  },
+  {
+   "narration": "This is La Paz, in Bolivia.",
+   "emoji": "📍",
+   "headline": "LA PAZ, BOLIVIA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "La Paz Bolivia city"
+  },
+  {
+   "narration": "The city is packed into Andes valleys.",
+   "emoji": "🏔️",
+   "headline": "ANDES VALLEYS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "La Paz Andes valley"
+  },
+  {
+   "narration": "Roads there jam up and climb steeply.",
+   "emoji": "🚗",
+   "headline": "STEEP, JAMMED ROADS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "La Paz traffic hillside"
+  },
+  {
+   "narration": "So the city built cabins over the rooftops.",
+   "emoji": "🏠",
+   "headline": "CABINS OVER ROOFTOPS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "cable car over rooftops"
+  },
+  {
+   "narration": "It is called Mi Teleférico.",
+   "emoji": "🚡",
+   "headline": "MI TELEFÉRICO",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mi Teleferico station"
+  },
+  {
+   "narration": "It is among the largest urban cable car networks.",
+   "emoji": "🌍",
+   "headline": "ONE OF THE LARGEST",
+   "stat": "",
+   "sub": "urban cable cars",
+   "visual_query": "Mi Teleferico lines aerial"
+  },
+  {
+   "narration": "Its lines are named after colours.",
+   "emoji": "🎨",
+   "headline": "COLOUR-CODED LINES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mi Teleferico red line cabin"
+  },
+  {
+   "narration": "Tomorrow: a road that ends at two seas.",
+   "emoji": "🌊",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "a road that ends at two seas",
+   "visual_query": "Dhanushkodi road sea"
+  }
+ ]
+}

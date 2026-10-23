@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Starman Tesla Roadster orbiting the Sun",
+ "hook": "Your car stays home. A Tesla orbits the Sun.",
+ "title": "A Tesla has orbited the Sun since 2018",
+ "description": "In February 2018 SpaceX launched a red Tesla Roadster on a Falcon Heavy rocket. In the driver's seat is a mannequin called Starman, and the car is still travelling around the Sun. Series: If You Were in Space.\n\n#Shorts #SpaceX #Space",
+ "tags": [
+  "Starman",
+  "Tesla Roadster",
+  "SpaceX",
+  "Falcon Heavy",
+  "car in space",
+  "space facts",
+  "If You Were in Space",
+  "Shorts"
+ ],
+ "comment_prompt": "Would you ride along? Yes or no",
+ "hook_banner": "STILL IN SPACE",
+ "scenes": [
+  {
+   "narration": "Your car stays home. A Tesla orbits the Sun.",
+   "emoji": "🚗",
+   "headline": "A Car In Space",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Tesla Roadster space Starman"
+  },
+  {
+   "narration": "It launched in February 2018 on a SpaceX rocket.",
+   "emoji": "🚀",
+   "headline": "Launched 2018",
+   "stat": "2018",
+   "sub": "SpaceX Falcon Heavy",
+   "visual_query": "Falcon Heavy launch"
+  },
+  {
+   "narration": "Behind the wheel sits a mannequin named Starman.",
+   "emoji": "🧑‍🚀",
+   "headline": "Meet Starman",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Starman mannequin Tesla"
+  },
+  {
+   "narration": "He wears a full SpaceX spacesuit.",
+   "emoji": "👨‍🚀",
+   "headline": "Full Spacesuit",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Starman spacesuit driver seat"
+  },
+  {
+   "narration": "The dashboard says Don't Panic.",
+   "emoji": "🖥️",
+   "headline": "Don't Panic",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Tesla dashboard Don't Panic"
+  },
+  {
+   "narration": "It has already flown past the orbit of Mars.",
+   "emoji": "🔴",
+   "headline": "Past Mars",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mars orbit Tesla"
+  },
+  {
+   "narration": "Nobody is steering. It just keeps coasting.",
+   "emoji": "🌌",
+   "headline": "Just Coasting",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Tesla Earth space view"
+  },
+  {
+   "narration": "Your car stays home. Starman's keeps going.",
+   "emoji": "☀️",
+   "headline": "Still Going",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Tesla Roadster orbiting Sun"
+  },
+  {
+   "narration": "Tomorrow: your fan spins backwards on video.",
+   "emoji": "🌀",
+   "headline": "Tomorrow",
+   "stat": "",
+   "sub": "Fan on camera",
+   "visual_query": "ceiling fan spinning"
+  }
+ ]
+}

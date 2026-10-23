@@ -1,0 +1,657 @@
+{
+ "topic": "Strange borders: the Matterhorn border that moves, and more",
+ "hook": "Your hike near the Matterhorn can cross a border that moves with the weather.",
+ "title": "The Matterhorn Border Moves. 6 More Make No Sense",
+ "description": "Melting glaciers have moved the Swiss-Italian border near the Matterhorn, and the two countries agreed a new line. This countdown covers seven real borders that make no sense, from a Spanish town inside France to a village in India that was once land inside land inside land. Watch to the end for the strangest one.\n\n#borders #geography #facts",
+ "tags": [
+  "strange borders",
+  "matterhorn border",
+  "switzerland italy border",
+  "melting glaciers border",
+  "enclaves",
+  "weird geography",
+  "india bangladesh enclaves",
+  "cooch behar chitmahals",
+  "northwest angle",
+  "kaliningrad",
+  "llivia",
+  "busingen",
+  "campione d'italia",
+  "geography facts",
+  "borders that make no sense"
+ ],
+ "comment_prompt": "Which border was the strangest?",
+ "hook_banner": "THIS BORDER MOVES",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "7. Llívia: Spain inside France",
+   "scene": 6
+  },
+  {
+   "title": "6. Büsingen: Germany in Switzerland",
+   "scene": 16
+  },
+  {
+   "title": "5. Campione: Italy with Swiss money",
+   "scene": 26
+  },
+  {
+   "title": "4. The Matterhorn border moves",
+   "scene": 36
+  },
+  {
+   "title": "3. The Northwest Angle",
+   "scene": 47
+  },
+  {
+   "title": "2. Kaliningrad",
+   "scene": 57
+  },
+  {
+   "title": "1. India's land inside land",
+   "scene": 66
+  },
+  {
+   "title": "The payoff",
+   "scene": 76
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your hike near the Matterhorn can cross a border that moves with the weather. Melting ice is literally shifting the line between two countries.",
+   "emoji": "🏔️",
+   "headline": "A Border That Moves",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Matterhorn glacier"
+  },
+  {
+   "narration": "That is only one of seven real borders in this video that make no sense. And the last one is in India.",
+   "emoji": "🗺️",
+   "headline": "7 Real Borders",
+   "stat": "7",
+   "sub": "all true",
+   "visual_query": "world map borders"
+  },
+  {
+   "narration": "By the end, you will see a piece of India that was land inside land inside land, inside another country.",
+   "emoji": "🇮🇳",
+   "headline": "India's Strangest",
+   "stat": "",
+   "sub": "wait for number 1",
+   "visual_query": "India Bangladesh border"
+  },
+  {
+   "narration": "Each one is stranger than the one before it. So let's count down from seven.",
+   "emoji": "⏱️",
+   "headline": "Counting Down",
+   "stat": "",
+   "sub": "",
+   "visual_query": "countdown clock"
+  },
+  {
+   "narration": "Every place here is on a normal map. Nothing is made up, and you can look all of them up yourself.",
+   "emoji": "🔍",
+   "headline": "All On The Map",
+   "stat": "",
+   "sub": "",
+   "visual_query": "person looking at map"
+  },
+  {
+   "narration": "Starting with a town that Spain owns, in the middle of France.",
+   "emoji": "🇪🇸",
+   "headline": "Number 7",
+   "stat": "7",
+   "sub": "Llívia",
+   "visual_query": "Llivia Spain town"
+  },
+  {
+   "narration": "Number seven. Llívia is a Spanish town, and France surrounds it on every side.",
+   "emoji": "📍",
+   "headline": "Llívia",
+   "stat": "",
+   "sub": "Spain inside France",
+   "visual_query": "Llivia Catalonia"
+  },
+  {
+   "narration": "In 1659, Spain and France signed a treaty and handed villages over to France.",
+   "emoji": "📜",
+   "headline": "The Treaty",
+   "stat": "1659",
+   "sub": "",
+   "visual_query": "Treaty of the Pyrenees"
+  },
+  {
+   "narration": "But Llívia was officially a town, not a village. So the treaty skipped it, and it stayed Spanish.",
+   "emoji": "🏘️",
+   "headline": "Town, Not Village",
+   "stat": "",
+   "sub": "a legal loophole",
+   "visual_query": "Llivia old town"
+  },
+  {
+   "narration": "Today you can stand in a Spanish town and see only French countryside around you.",
+   "emoji": "🌄",
+   "headline": "Spain In France",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pyrenees village France"
+  },
+  {
+   "narration": "A later treaty, in 1866, made a special road to connect Llívia to the rest of Spain.",
+   "emoji": "🛣️",
+   "headline": "The Neutral Road",
+   "stat": "1866",
+   "sub": "",
+   "visual_query": "mountain road Pyrenees"
+  },
+  {
+   "narration": "It is called a neutral road. France cannot put a customs checkpoint on it.",
+   "emoji": "🚫",
+   "headline": "No Checkpoints",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border checkpoint road"
+  },
+  {
+   "narration": "So you drive from France, through a strip that belongs to nobody's rules, into a Spanish town.",
+   "emoji": "🚗",
+   "headline": "Drive Right In",
+   "stat": "",
+   "sub": "",
+   "visual_query": "car driving mountain road"
+  },
+  {
+   "narration": "That is a strange map. But the next one has a village living by two sets of rules.",
+   "emoji": "➡️",
+   "headline": "Stranger Next",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Switzerland village"
+  },
+  {
+   "narration": "Number six is a village that wanted to leave its own country.",
+   "emoji": "🙋",
+   "headline": "Number 6",
+   "stat": "6",
+   "sub": "Büsingen",
+   "visual_query": "Busingen am Hochrhein"
+  },
+  {
+   "narration": "Büsingen is a German village, and Switzerland almost completely surrounds it.",
+   "emoji": "🇩🇪",
+   "headline": "Büsingen",
+   "stat": "",
+   "sub": "Germany inside Switzerland",
+   "visual_query": "Busingen Germany Rhine"
+  },
+  {
+   "narration": "In 1918, the villagers held their own vote about joining Switzerland. About 96 percent said yes.",
+   "emoji": "🗳️",
+   "headline": "They Voted To Leave",
+   "stat": "96%",
+   "sub": "voted for Switzerland",
+   "visual_query": "voting ballot box"
+  },
+  {
+   "narration": "Switzerland said no, because Germany wanted too much money in exchange. So the village stayed German.",
+   "emoji": "💰",
+   "headline": "Too Expensive",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss francs money"
+  },
+  {
+   "narration": "Today it is politically part of Germany, but economically part of the Swiss customs area.",
+   "emoji": "⚖️",
+   "headline": "Two Systems",
+   "stat": "",
+   "sub": "",
+   "visual_query": "customs border sign"
+  },
+  {
+   "narration": "Shops there can take both euros and Swiss francs. Your wallet needs to be ready for two currencies.",
+   "emoji": "💶",
+   "headline": "Two Currencies",
+   "stat": "",
+   "sub": "",
+   "visual_query": "euro and Swiss franc"
+  },
+  {
+   "narration": "And that is a village that is German on paper but Swiss in daily life.",
+   "emoji": "🏡",
+   "headline": "German On Paper",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss German village"
+  },
+  {
+   "narration": "Now think about the opposite: a place that is Italian, but lives like Switzerland.",
+   "emoji": "🇮🇹",
+   "headline": "The Opposite Case",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake Lugano"
+  },
+  {
+   "narration": "That is number five, and it has a casino as big as the town.",
+   "emoji": "🎰",
+   "headline": "Number 5",
+   "stat": "5",
+   "sub": "Campione d'Italia",
+   "visual_query": "Campione d'Italia casino"
+  },
+  {
+   "narration": "Campione d'Italia is Italian land on the shore of Lake Lugano, inside Swiss territory.",
+   "emoji": "🌊",
+   "headline": "Campione d'Italia",
+   "stat": "",
+   "sub": "Italy inside Switzerland",
+   "visual_query": "Campione d'Italia lake"
+  },
+  {
+   "narration": "The euro is the legal currency, but people there use the Swiss franc in daily life.",
+   "emoji": "💵",
+   "headline": "Swiss Francs",
+   "stat": "",
+   "sub": "in an Italian town",
+   "visual_query": "Swiss franc banknotes"
+  },
+  {
+   "narration": "Cars are registered with Swiss authorities, even though the town belongs to Italy.",
+   "emoji": "🚙",
+   "headline": "Swiss Number Plates",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss license plate car"
+  },
+  {
+   "narration": "And the casino there is a giant landmark, with gambling rules that are different from both countries.",
+   "emoji": "🏢",
+   "headline": "A Huge Casino",
+   "stat": "",
+   "sub": "",
+   "visual_query": "casino building lake"
+  },
+  {
+   "narration": "So you can be in Italy and pay in Swiss money. But next, the border itself starts to move.",
+   "emoji": "➡️",
+   "headline": "Next: It Moves",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss Alps glacier"
+  },
+  {
+   "narration": "Number four is the one from the start. A border that melts.",
+   "emoji": "💧",
+   "headline": "Number 4",
+   "stat": "4",
+   "sub": "Matterhorn",
+   "visual_query": "Matterhorn Zermatt"
+  },
+  {
+   "narration": "In the high Alps, the Swiss-Italian border does not follow a fence or a river.",
+   "emoji": "🏔️",
+   "headline": "No Fence At All",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Alps ridge glacier"
+  },
+  {
+   "narration": "It follows the watershed, the crest line of snow and glaciers, where water flows one way or the other.",
+   "emoji": "❄️",
+   "headline": "The Ice Line",
+   "stat": "",
+   "sub": "watershed crest",
+   "visual_query": "glacier ridge snow"
+  },
+  {
+   "narration": "But glaciers are melting. When the ice shrinks, the crest line moves, and so does the border.",
+   "emoji": "🌡️",
+   "headline": "Melting Moves It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "melting glacier"
+  },
+  {
+   "narration": "If you like strange places and facts like this, a subscribe would help a lot. There are many more coming.",
+   "emoji": "🔔",
+   "headline": "Enjoying This?",
+   "stat": "",
+   "sub": "subscribe for more",
+   "visual_query": "subscribe button"
+  },
+  {
+   "narration": "Near Zermatt in Switzerland and Breuil-Cervinia in Italy, the line is no longer where the old map put it.",
+   "emoji": "🗻",
+   "headline": "Zermatt And Cervinia",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cervinia Italy mountains"
+  },
+  {
+   "narration": "So Switzerland and Italy agreed on a new border in 2023, and Switzerland approved it in 2024.",
+   "emoji": "🤝",
+   "headline": "A New Line",
+   "stat": "2023",
+   "sub": "agreement drawn up",
+   "visual_query": "Switzerland Italy flags"
+  },
+  {
+   "narration": "Reports say Switzerland gains a little land, and the deal also covers mountain huts, like the Carrel refuge.",
+   "emoji": "🏠",
+   "headline": "Mountain Huts",
+   "stat": "",
+   "sub": "",
+   "visual_query": "mountain hut Alps"
+  },
+  {
+   "narration": "The huts matter, because climbers sleep there. The countries want each hut to stay in the country it is in now.",
+   "emoji": "🧗",
+   "headline": "Climbers' Beds",
+   "stat": "",
+   "sub": "",
+   "visual_query": "climbers mountain hut"
+  },
+  {
+   "narration": "That is a border written in ice, and the ice is disappearing. Next, a piece of America only reachable through Canada.",
+   "emoji": "➡️",
+   "headline": "Next: America",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake of the Woods"
+  },
+  {
+   "narration": "Number three starts with a map mistake from long ago.",
+   "emoji": "🧭",
+   "headline": "Number 3",
+   "stat": "3",
+   "sub": "Northwest Angle",
+   "visual_query": "Northwest Angle Minnesota"
+  },
+  {
+   "narration": "The Northwest Angle is part of Minnesota, in the United States, but it sits north of the rest of the state.",
+   "emoji": "🇺🇸",
+   "headline": "Northwest Angle",
+   "stat": "",
+   "sub": "US land in Canada's way",
+   "visual_query": "Northwest Angle map"
+  },
+  {
+   "narration": "Old treaty-makers worked from a map that was wrong about where the Mississippi River begins.",
+   "emoji": "📜",
+   "headline": "A Map Error",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old map treaty"
+  },
+  {
+   "narration": "When the border was drawn, the mistake left a small piece of Minnesota attached to the wrong side.",
+   "emoji": "✂️",
+   "headline": "Left Over Land",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake of the Woods map"
+  },
+  {
+   "narration": "To drive there by road, you have to pass through Canada, in the province of Manitoba.",
+   "emoji": "🚗",
+   "headline": "Drive Through Canada",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Manitoba road"
+  },
+  {
+   "narration": "Imagine going home in your own country, and needing to cross another country to do it.",
+   "emoji": "🏠",
+   "headline": "Home Via Canada",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Canada US border crossing"
+  },
+  {
+   "narration": "It is a small corner of land and lakes, and it is still part of the United States.",
+   "emoji": "🌲",
+   "headline": "Still American",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake of the Woods Minnesota"
+  },
+  {
+   "narration": "That is a mistake on a map. Next is a whole region cut off from its own country.",
+   "emoji": "➡️",
+   "headline": "Next: A Region",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baltic sea coast"
+  },
+  {
+   "narration": "Number two is bigger than any town. It is a piece of Russia that Russia cannot reach by land.",
+   "emoji": "🇷🇺",
+   "headline": "Number 2",
+   "stat": "2",
+   "sub": "Kaliningrad",
+   "visual_query": "Kaliningrad city"
+  },
+  {
+   "narration": "Kaliningrad sits on the Baltic Sea, with Poland on one side and Lithuania on the other.",
+   "emoji": "🗺️",
+   "headline": "Between Two Countries",
+   "stat": "",
+   "sub": "Poland and Lithuania",
+   "visual_query": "Kaliningrad map Baltic"
+  },
+  {
+   "narration": "Russia's main land is far to the east. So Kaliningrad is separated from it by other countries.",
+   "emoji": "↔️",
+   "headline": "Cut Off",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Europe map Russia Poland"
+  },
+  {
+   "narration": "The city used to be called Königsberg, and it was German until 1945.",
+   "emoji": "🏰",
+   "headline": "It Was German",
+   "stat": "1945",
+   "sub": "formerly Königsberg",
+   "visual_query": "Koenigsberg old city"
+  },
+  {
+   "narration": "After the Second World War, it became Russian. Today it is a Russian region inside the European Union's neighbourhood.",
+   "emoji": "⚓",
+   "headline": "Now Russian",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kaliningrad cathedral"
+  },
+  {
+   "narration": "That is a big place that is cut off. But now we reach the one that India made even more complicated.",
+   "emoji": "🇮🇳",
+   "headline": "Now, India",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India map West Bengal"
+  },
+  {
+   "narration": "Number one is in West Bengal, in the Cooch Behar area, along the India-Bangladesh border.",
+   "emoji": "📍",
+   "headline": "Cooch Behar",
+   "stat": "",
+   "sub": "India-Bangladesh border",
+   "visual_query": "Cooch Behar West Bengal"
+  },
+  {
+   "narration": "For decades, there were small patches of Indian land inside Bangladesh, and Bangladeshi land inside India.",
+   "emoji": "🧩",
+   "headline": "Land Inside Land",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Bangladesh enclave map"
+  },
+  {
+   "narration": "These patches are called enclaves. There were more than 160 of them, all packed along one border.",
+   "emoji": "🔢",
+   "headline": "160+ Enclaves",
+   "stat": "162",
+   "sub": "flags raised in 2015",
+   "visual_query": "enclave map Bengal"
+  },
+  {
+   "narration": "Imagine living in a village that is Indian, but every road out of it leads into another country.",
+   "emoji": "🚶",
+   "headline": "Surrounded",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bengal village road"
+  },
+  {
+   "narration": "Residents often had trouble reaching schools, hospitals and officials, because the country around them was the other one.",
+   "emoji": "🏥",
+   "headline": "No Easy Services",
+   "stat": "",
+   "sub": "",
+   "visual_query": "village India school"
+  },
+  {
+   "narration": "Then there was the strangest piece of all. It was called Dahala Khagrabari.",
+   "emoji": "😮",
+   "headline": "The Strangest Piece",
+   "stat": "",
+   "sub": "Dahala Khagrabari",
+   "visual_query": "Dahala Khagrabari"
+  },
+  {
+   "narration": "It was Indian land, inside Bangladeshi land, inside Indian land, inside Bangladesh.",
+   "emoji": "🌀",
+   "headline": "Four Layers",
+   "stat": "",
+   "sub": "India, Bangladesh, India, Bangladesh",
+   "visual_query": "nested map layers"
+  },
+  {
+   "narration": "It was the only third-order enclave in the world. That means land inside land inside land, inside a country.",
+   "emoji": "🏆",
+   "headline": "World's Only One",
+   "stat": "1",
+   "sub": "third-order enclave",
+   "visual_query": "enclave diagram"
+  },
+  {
+   "narration": "You could be standing on Indian soil and be three borders deep inside Bangladesh.",
+   "emoji": "🧍",
+   "headline": "Three Borders Deep",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Bangladesh border fence"
+  },
+  {
+   "narration": "The two countries agreed to fix this. At midnight on 31 July 2015, the enclaves were exchanged.",
+   "emoji": "🕛",
+   "headline": "Midnight Exchange",
+   "stat": "31 July 2015",
+   "sub": "",
+   "visual_query": "India Bangladesh flag raising"
+  },
+  {
+   "narration": "India received 51 Bangladeshi enclaves. Bangladesh received 111 Indian enclaves.",
+   "emoji": "🤝",
+   "headline": "51 And 111",
+   "stat": "51 / 111",
+   "sub": "the swap",
+   "visual_query": "India Bangladesh leaders handshake"
+  },
+  {
+   "narration": "People living there could choose whether they wanted to live in India or in Bangladesh.",
+   "emoji": "🧑‍🤝‍🧑",
+   "headline": "They Could Choose",
+   "stat": "",
+   "sub": "",
+   "visual_query": "villagers India Bangladesh"
+  },
+  {
+   "narration": "For many, it meant they finally had a road, a school and a vote in the country they lived in.",
+   "emoji": "🗳️",
+   "headline": "A Vote At Last",
+   "stat": "",
+   "sub": "",
+   "visual_query": "villagers voting India"
+  },
+  {
+   "narration": "So the strangest border of all was not a wall or a war zone. It was a puzzle of tiny islands of land.",
+   "emoji": "🧩",
+   "headline": "A Puzzle Of Land",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bengal rice fields border"
+  },
+  {
+   "narration": "And most of that puzzle is gone now, solved by one midnight in 2015.",
+   "emoji": "✅",
+   "headline": "Solved In 2015",
+   "stat": "",
+   "sub": "",
+   "visual_query": "midnight celebration India Bangladesh"
+  },
+  {
+   "narration": "So that is seven borders. Spain inside France, and Germany inside Switzerland.",
+   "emoji": "🗺️",
+   "headline": "Recap",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Europe borders map"
+  },
+  {
+   "narration": "Italy using Swiss money, and a Matterhorn border that melts and moves.",
+   "emoji": "🏔️",
+   "headline": "Recap",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Matterhorn snow"
+  },
+  {
+   "narration": "A piece of Minnesota you reach through Canada, and a Russian region cut off from Russia.",
+   "emoji": "🧭",
+   "headline": "Recap",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kaliningrad Baltic coast"
+  },
+  {
+   "narration": "And India's land inside land inside land, in Bengal. All real, and all on the map.",
+   "emoji": "🇮🇳",
+   "headline": "India's Winner",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Bangladesh border map"
+  },
+  {
+   "narration": "The Matterhorn one is still changing, because glaciers are still melting. The line you hiked on may not be the line next year.",
+   "emoji": "🥾",
+   "headline": "The Line Still Moves",
+   "stat": "",
+   "sub": "",
+   "visual_query": "hikers Matterhorn glacier"
+  },
+  {
+   "narration": "Your hike near the Matterhorn can cross a border that moves with the weather.",
+   "emoji": "🏔️",
+   "headline": "It Moves",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Matterhorn sunrise"
+  },
+  {
+   "narration": "Tomorrow: the country that has no border at its own front door.",
+   "emoji": "➡️",
+   "headline": "Tomorrow",
+   "stat": "",
+   "sub": "next video",
+   "visual_query": "open door landscape"
+  }
+ ]
+}

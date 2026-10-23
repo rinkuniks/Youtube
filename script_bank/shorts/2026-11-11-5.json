@@ -1,0 +1,93 @@
+{
+ "category": "technology",
+ "topic": "Nitrogen in chips packets",
+ "hook": "Your chips packet is full of gas, on purpose.",
+ "title": "Your chips packet is full of gas on purpose",
+ "description": "Grab any puffed packet of chips and you are holding a bag filled with nitrogen. The gas pushes out oxygen, which makes oils go stale, and it cushions the chips so fewer break. Try squeezing one and see.\n\n#Shorts #FoodFacts #TechFacts",
+ "tags": [
+  "chips packet",
+  "nitrogen",
+  "food science",
+  "why chips bag is puffed",
+  "tech facts",
+  "packaging",
+  "science facts",
+  "everyday science"
+ ],
+ "comment_prompt": "Favourite chips brand? One word",
+ "hook_banner": "SQUEEZE ONE NOW",
+ "scenes": [
+  {
+   "narration": "Your chips packet is full of gas, on purpose.",
+   "emoji": "🥔",
+   "headline": "Full Of Gas, On Purpose",
+   "stat": "",
+   "sub": "",
+   "visual_query": "puffed chips packet"
+  },
+  {
+   "narration": "It's nitrogen, pushed in before sealing.",
+   "emoji": "🧪",
+   "headline": "Filled With Nitrogen",
+   "stat": "",
+   "sub": "",
+   "visual_query": "chips packaging factory"
+  },
+  {
+   "narration": "Oxygen makes the oil in chips go stale.",
+   "emoji": "🛢️",
+   "headline": "Oxygen Spoils Chips",
+   "stat": "",
+   "sub": "",
+   "visual_query": "stale potato chips"
+  },
+  {
+   "narration": "Nitrogen pushes the oxygen out.",
+   "emoji": "💨",
+   "headline": "Nitrogen Pushes It Out",
+   "stat": "",
+   "sub": "",
+   "visual_query": "chips bag sealing machine"
+  },
+  {
+   "narration": "So the chips stay fresh much longer.",
+   "emoji": "✅",
+   "headline": "Stays Fresh Longer",
+   "stat": "",
+   "sub": "",
+   "visual_query": "crispy potato chips"
+  },
+  {
+   "narration": "The puffed bag also cushions every chip.",
+   "emoji": "🛡️",
+   "headline": "A Gas Cushion",
+   "stat": "",
+   "sub": "",
+   "visual_query": "hand squeezing chips bag"
+  },
+  {
+   "narration": "Without it, you'd get more crumbs.",
+   "emoji": "🍟",
+   "headline": "No Gas, More Crumbs",
+   "stat": "",
+   "sub": "",
+   "visual_query": "broken chips crumbs"
+  },
+  {
+   "narration": "So yes, your packet is full of gas.",
+   "emoji": "🎈",
+   "headline": "Gas Is Protection",
+   "stat": "",
+   "sub": "",
+   "visual_query": "puffed chips packet"
+  },
+  {
+   "narration": "Next: a country you can walk across.",
+   "emoji": "🚶",
+   "headline": "Next: Tiny Country",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Monaco harbour"
+  }
+ ]
+}

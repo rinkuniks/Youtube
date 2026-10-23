@@ -1,0 +1,85 @@
+{
+ "category": "space",
+ "topic": "Rakesh Sharma 1984",
+ "hook": "Your answer from space was Saare Jahan Se Accha.",
+ "title": "India Seen From Space: Saare Jahan Se Accha",
+ "description": "In April 1984, Rakesh Sharma became the first Indian in space. Asked by Indira Gandhi how India looked from orbit, he answered with Saare Jahan Se Accha. The line means better than the whole world. Series: If You Were in Space.\n\n#Shorts #RakeshSharma #Space",
+ "tags": [
+  "Rakesh Sharma",
+  "first Indian in space",
+  "Saare Jahan Se Accha",
+  "Indira Gandhi",
+  "1984",
+  "India space",
+  "Soyuz",
+  "shorts"
+ ],
+ "comment_prompt": "Proud of this moment? Yes or no",
+ "hook_banner": "INDIA FROM SPACE",
+ "scenes": [
+  {
+   "narration": "Your answer from space was Saare Jahan Se Accha.",
+   "emoji": "🚀",
+   "headline": "Saare Jahan Se Accha",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rakesh Sharma astronaut"
+  },
+  {
+   "narration": "Rakesh Sharma said it in April 1984.",
+   "emoji": "🧑‍🚀",
+   "headline": "April 1984",
+   "stat": "1984",
+   "sub": "",
+   "visual_query": "Rakesh Sharma spacesuit"
+  },
+  {
+   "narration": "Indira Gandhi had asked how India looked.",
+   "emoji": "📞",
+   "headline": "Indira Gandhi Asked",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Indira Gandhi"
+  },
+  {
+   "narration": "He was orbiting Earth aboard a Soviet Soyuz.",
+   "emoji": "🛰️",
+   "headline": "Aboard A Soyuz",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Soyuz spacecraft orbit"
+  },
+  {
+   "narration": "He became the first Indian in space.",
+   "emoji": "🇮🇳",
+   "headline": "First Indian In Space",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India flag astronaut"
+  },
+  {
+   "narration": "It means better than the whole world.",
+   "emoji": "🌍",
+   "headline": "Better Than The World",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Earth from space"
+  },
+  {
+   "narration": "Say it again: Saare Jahan Se Accha.",
+   "emoji": "🎶",
+   "headline": "Saare Jahan Se Accha",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India from space"
+  },
+  {
+   "narration": "Tomorrow: a banana that taps your phone.",
+   "emoji": "🍌",
+   "headline": "Tomorrow: Banana Test",
+   "stat": "",
+   "sub": "",
+   "visual_query": "banana phone screen"
+  }
+ ]
+}

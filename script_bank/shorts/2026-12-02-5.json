@@ -1,0 +1,93 @@
+{
+ "category": "technology",
+ "topic": "Waymo driverless taxi",
+ "hook": "Your taxi has no driver at all.",
+ "title": "This Taxi Has Nobody In The Driver's Seat",
+ "description": "Waymo's robotaxis carry passengers with nobody in the driver's seat, and the steering wheel turns by itself. They use cameras, lidar and radar to read the road.\n\nSeries: Tech That Sounds Fake.",
+ "tags": [
+  "waymo",
+  "robotaxi",
+  "self driving car",
+  "driverless",
+  "technology facts",
+  "autonomous",
+  "future tech",
+  "shorts"
+ ],
+ "comment_prompt": "Would you ride it? Yes or no",
+ "hook_banner": "NO ONE IS DRIVING",
+ "scenes": [
+  {
+   "narration": "Your taxi has no driver at all.",
+   "emoji": "🚕",
+   "headline": "NO DRIVER AT ALL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Waymo driverless car"
+  },
+  {
+   "narration": "Waymo robotaxis carry passengers with an empty driver's seat.",
+   "emoji": "💺",
+   "headline": "EMPTY DRIVER'S SEAT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "empty driver seat car"
+  },
+  {
+   "narration": "The steering wheel turns all by itself.",
+   "emoji": "🛞",
+   "headline": "WHEEL TURNS ITSELF",
+   "stat": "",
+   "sub": "",
+   "visual_query": "steering wheel turning self-driving"
+  },
+  {
+   "narration": "Cameras, lidar and radar watch the road.",
+   "emoji": "📡",
+   "headline": "CAMERAS, LIDAR, RADAR",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Waymo lidar sensor roof"
+  },
+  {
+   "narration": "You open an app and ride.",
+   "emoji": "📱",
+   "headline": "JUST OPEN AN APP",
+   "stat": "",
+   "sub": "",
+   "visual_query": "hailing taxi phone app"
+  },
+  {
+   "narration": "Real passengers already ride in several US cities.",
+   "emoji": "🏙️",
+   "headline": "REAL PASSENGERS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Waymo San Francisco street"
+  },
+  {
+   "narration": "Nobody sits behind that turning wheel.",
+   "emoji": "👻",
+   "headline": "NOBODY BEHIND IT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Waymo interior steering wheel"
+  },
+  {
+   "narration": "Your taxi has no driver.",
+   "emoji": "🚕",
+   "headline": "NO DRIVER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Waymo robotaxi"
+  },
+  {
+   "narration": "Tomorrow: a city abandoned in the sea.",
+   "emoji": "🏝️",
+   "headline": "NEXT: ABANDONED CITY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hashima Island aerial"
+  }
+ ]
+}

@@ -1,0 +1,101 @@
+{
+ "category": "space",
+ "topic": "Huygens probe Titan landing",
+ "hook": "Your landing on Titan in 2005 showed a riverbed.",
+ "title": "Huygens landed on Titan and found a riverbed",
+ "description": "In 2005 the Huygens probe parachuted onto Saturn's moon Titan and photographed the surface. The pictures showed rounded pebbles and channels that look like a dry riverbed. Titan has lakes of liquid methane.\n\nSeries: If You Were in Space.",
+ "tags": [
+  "Titan",
+  "Huygens",
+  "Saturn",
+  "space facts",
+  "methane lakes",
+  "Cassini",
+  "shorts",
+  "did you know"
+ ],
+ "comment_prompt": "Would you visit Titan? Yes or no",
+ "hook_banner": "ANOTHER WORLD'S RIVER",
+ "scenes": [
+  {
+   "narration": "Your landing on Titan in 2005 showed a riverbed.",
+   "emoji": "🌙",
+   "headline": "A Riverbed On Titan",
+   "stat": "2005",
+   "sub": "",
+   "visual_query": "Huygens Titan surface photo"
+  },
+  {
+   "narration": "A probe parachuted onto Saturn's moon.",
+   "emoji": "🪂",
+   "headline": "Parachute To Titan",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Huygens probe parachute"
+  },
+  {
+   "narration": "It was called Huygens.",
+   "emoji": "🛰️",
+   "headline": "Huygens Probe",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Huygens probe Cassini"
+  },
+  {
+   "narration": "Its camera showed round pebbles on the ground.",
+   "emoji": "🪨",
+   "headline": "Round Pebbles",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Titan pebbles surface"
+  },
+  {
+   "narration": "Round pebbles mean liquid once flowed there.",
+   "emoji": "💧",
+   "headline": "Liquid Shaped Them",
+   "stat": "",
+   "sub": "",
+   "visual_query": "river pebbles stream"
+  },
+  {
+   "narration": "It also saw channels like a riverbed.",
+   "emoji": "🏞️",
+   "headline": "Dry Riverbed",
+   "stat": "",
+   "sub": "",
+   "visual_query": "dry riverbed channels"
+  },
+  {
+   "narration": "Titan has lakes of liquid methane.",
+   "emoji": "🌊",
+   "headline": "Methane Lakes",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Titan methane lakes"
+  },
+  {
+   "narration": "It is the farthest landing from Earth.",
+   "emoji": "📏",
+   "headline": "Farthest Landing",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Saturn Titan moon"
+  },
+  {
+   "narration": "Your riverbed on Titan was real.",
+   "emoji": "🪐",
+   "headline": "A Real Riverbed",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Saturn rings Titan"
+  },
+  {
+   "narration": "Tomorrow: another fact that sounds fake.",
+   "emoji": "🤯",
+   "headline": "Tomorrow: More Facts",
+   "stat": "",
+   "sub": "",
+   "visual_query": "galaxy night sky"
+  }
+ ]
+}

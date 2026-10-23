@@ -1,0 +1,708 @@
+{
+ "topic": "Strange borders: the Irish speed sign and five more that make no sense",
+ "hook": "Your speed sign flips from miles to kilometres on a road that never changes.",
+ "title": "6 Absurd Borders, Ending in India's Weirdest",
+ "description": "Drive across the Irish border and your speed sign changes from miles to kilometres, with no gate and no guard. This countdown visits six real borders that make no sense: a German village inside Switzerland, a Spanish town in France, a piece of America you reach through Canada, a whole country inside another, and India's strangest enclave of all.\n\n#borders #geography #strangefacts",
+ "tags": [
+  "strange borders",
+  "borders that make no sense",
+  "Irish border",
+  "Northern Ireland mph",
+  "Busingen",
+  "Llivia",
+  "Northwest Angle",
+  "Lesotho",
+  "Cooch Behar enclaves",
+  "India Bangladesh enclaves",
+  "geography facts",
+  "weird geography",
+  "enclaves",
+  "facts that sound fake"
+ ],
+ "comment_prompt": "Which border was the strangest?",
+ "hook_banner": "BORDERS THAT MAKE NO SENSE",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "6. The sign that flips units",
+   "scene": 6
+  },
+  {
+   "title": "5. A German village in Switzerland",
+   "scene": 18
+  },
+  {
+   "title": "4. A Spanish town inside France",
+   "scene": 27
+  },
+  {
+   "title": "3. America's Northwest Angle",
+   "scene": 36
+  },
+  {
+   "title": "2. A country inside a country",
+   "scene": 47
+  },
+  {
+   "title": "1. India's enclave in an enclave",
+   "scene": 57
+  },
+  {
+   "title": "The countdown and what is next",
+   "scene": 76
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your speed sign flips from miles to kilometres on a road that never changes.",
+   "emoji": "🚗",
+   "headline": "The Sign That Flips",
+   "stat": "",
+   "sub": "mph becomes km/h",
+   "visual_query": "Ireland road speed sign"
+  },
+  {
+   "narration": "That is border number six on today's list, and it is the most normal one. Everything after it gets stranger.",
+   "emoji": "🗺️",
+   "headline": "Six Strange Borders",
+   "stat": "6",
+   "sub": "Each one stranger",
+   "visual_query": "world map borders"
+  },
+  {
+   "narration": "We will visit a village stuck inside another country, and a town that Spain owns in the middle of France.",
+   "emoji": "🏘️",
+   "headline": "Stuck Inside Countries",
+   "stat": "",
+   "sub": "",
+   "visual_query": "village surrounded by fields"
+  },
+  {
+   "narration": "Then a patch of America you can only reach by driving through Canada, and a whole country hidden inside another.",
+   "emoji": "🌍",
+   "headline": "Reached Through Canada",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake of the Woods"
+  },
+  {
+   "narration": "And at the very end, an Indian border so strange that one little plot sat inside three layers of countries.",
+   "emoji": "🇮🇳",
+   "headline": "India's Strangest",
+   "stat": "",
+   "sub": "Saved for last",
+   "visual_query": "India Bangladesh border fence"
+  },
+  {
+   "narration": "Stay till the end, because that last one is real, it is in India, and it ended only a few years ago.",
+   "emoji": "⏳",
+   "headline": "It Ended In 2015",
+   "stat": "2015",
+   "sub": "",
+   "visual_query": "West Bengal village field"
+  },
+  {
+   "narration": "Number six. Drive north on the road between Dundalk and Newry, and nothing looks different at first.",
+   "emoji": "🛣️",
+   "headline": "Number Six: Ireland",
+   "stat": "6",
+   "sub": "",
+   "visual_query": "Irish country road"
+  },
+  {
+   "narration": "There is no gate, no guard and no passport check. The road, the fields and the weather all stay the same.",
+   "emoji": "🌧️",
+   "headline": "No Gate, No Guard",
+   "stat": "",
+   "sub": "",
+   "visual_query": "open road green fields"
+  },
+  {
+   "narration": "But watch the speed signs. In the Republic of Ireland, they are in kilometres per hour.",
+   "emoji": "🇮🇪",
+   "headline": "Republic: km/h",
+   "stat": "km/h",
+   "sub": "Republic of Ireland",
+   "visual_query": "Ireland speed limit sign"
+  },
+  {
+   "narration": "Cross into Northern Ireland, part of the United Kingdom, and the same kind of sign now means miles per hour.",
+   "emoji": "🇬🇧",
+   "headline": "North: mph",
+   "stat": "mph",
+   "sub": "Northern Ireland",
+   "visual_query": "Northern Ireland road sign"
+  },
+  {
+   "narration": "So a number on a sign can be a different speed, depending on which side of an invisible line you are on.",
+   "emoji": "🔢",
+   "headline": "Same Number, New Speed",
+   "stat": "",
+   "sub": "",
+   "visual_query": "speedometer car dashboard"
+  },
+  {
+   "narration": "A limit of 100 in the Republic is about 62 miles per hour. Your speedometer might show either unit, so check.",
+   "emoji": "⚡",
+   "headline": "100 km/h Is 62 mph",
+   "stat": "62",
+   "sub": "miles per hour",
+   "visual_query": "speedometer closeup"
+  },
+  {
+   "narration": "Distances change too. Road signs in the Republic count kilometres to the next town, and in the north they count miles.",
+   "emoji": "📍",
+   "headline": "Distances Change Too",
+   "stat": "",
+   "sub": "",
+   "visual_query": "road distance sign"
+  },
+  {
+   "narration": "Locals cross this line every day to work, shop and visit family, often without noticing they have changed countries.",
+   "emoji": "👨‍👩‍👧",
+   "headline": "Crossed Every Day",
+   "stat": "",
+   "sub": "",
+   "visual_query": "cars driving rural road"
+  },
+  {
+   "narration": "The border runs about five hundred kilometres across the island, and many small roads cross it, with nothing to mark them.",
+   "emoji": "🧵",
+   "headline": "About 500 Kilometres",
+   "stat": "500 km",
+   "sub": "",
+   "visual_query": "Ireland map border"
+  },
+  {
+   "narration": "Often the only clue is the speed sign, a number that quietly changes its meaning.",
+   "emoji": "🪧",
+   "headline": "The Only Clue",
+   "stat": "",
+   "sub": "",
+   "visual_query": "roadside sign hedge"
+  },
+  {
+   "narration": "So that is number six: a border you can see only in the units on the sign. Now it gets stranger.",
+   "emoji": "👀",
+   "headline": "A Border In Units",
+   "stat": "",
+   "sub": "",
+   "visual_query": "country road sign sunset"
+  },
+  {
+   "narration": "Next, a village that is German, but you cannot reach Germany from it without driving through Switzerland.",
+   "emoji": "🏘️",
+   "headline": "Next: A Trapped Village",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss village Rhine"
+  },
+  {
+   "narration": "Number five. Büsingen am Hochrhein is a German village, and it is completely surrounded by Switzerland.",
+   "emoji": "🇩🇪",
+   "headline": "Number Five: Büsingen",
+   "stat": "5",
+   "sub": "German, but inside Switzerland",
+   "visual_query": "Busingen Rhine village"
+  },
+  {
+   "narration": "Look at the map and you see a small German pocket, with Switzerland all around it.",
+   "emoji": "🗺️",
+   "headline": "A German Pocket",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Switzerland Germany map"
+  },
+  {
+   "narration": "To reach the rest of Germany by road, you must drive through Switzerland first.",
+   "emoji": "🚙",
+   "headline": "Drive Through Switzerland",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss road Rhine river"
+  },
+  {
+   "narration": "Because of an old border deal, the village sits inside the Swiss customs area, which is the same as Switzerland for trade.",
+   "emoji": "📦",
+   "headline": "Swiss Customs Area",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss customs border"
+  },
+  {
+   "narration": "Shops there widely accept Swiss francs, even though Germany uses the euro.",
+   "emoji": "💶",
+   "headline": "Francs In Germany",
+   "stat": "CHF",
+   "sub": "",
+   "visual_query": "Swiss franc banknotes"
+  },
+  {
+   "narration": "Even the car number plates are special. Cars from the village carry the letters B, Ü, S, which no other German town uses.",
+   "emoji": "🔤",
+   "headline": "Plates Marked BÜS",
+   "stat": "BÜS",
+   "sub": "",
+   "visual_query": "German car number plate"
+  },
+  {
+   "narration": "Swiss and German rules mix together here, so a small village has to follow two systems at once.",
+   "emoji": "⚖️",
+   "headline": "Two Systems At Once",
+   "stat": "",
+   "sub": "",
+   "visual_query": "village street houses Switzerland"
+  },
+  {
+   "narration": "A German village in Switzerland sounds odd, but wait: the next one is a Spanish town inside France.",
+   "emoji": "😮",
+   "headline": "Spain Inside France",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pyrenees mountain town"
+  },
+  {
+   "narration": "And it is there because of one word in a treaty from the sixteen hundreds.",
+   "emoji": "📜",
+   "headline": "One Word In A Treaty",
+   "stat": "1659",
+   "sub": "",
+   "visual_query": "old treaty parchment"
+  },
+  {
+   "narration": "Number four. Llívia is a Spanish town, but it sits inside France, about one and a half kilometres from the Spanish border.",
+   "emoji": "🇪🇸",
+   "headline": "Number Four: Llívia",
+   "stat": "4",
+   "sub": "Spain, inside France",
+   "visual_query": "Llivia town Pyrenees"
+  },
+  {
+   "narration": "In 1659, Spain and France signed the Treaty of the Pyrenees, and Spain gave France a group of villages.",
+   "emoji": "✍️",
+   "headline": "The 1659 Treaty",
+   "stat": "1659",
+   "sub": "Treaty of the Pyrenees",
+   "visual_query": "Pyrenees mountains village"
+  },
+  {
+   "narration": "Llívia was officially a town, not a village. So the treaty did not cover it, and it stayed Spanish.",
+   "emoji": "🏙️",
+   "headline": "Town, Not Village",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Llivia church square"
+  },
+  {
+   "narration": "That one tiny difference in a word still shapes the map today, more than three centuries later.",
+   "emoji": "⏳",
+   "headline": "Still On The Map",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Spain France map border"
+  },
+  {
+   "narration": "A short road, called the neutral road, joins Llívia to Spain, and it passes through French land.",
+   "emoji": "🛤️",
+   "headline": "The Neutral Road",
+   "stat": "",
+   "sub": "",
+   "visual_query": "mountain road Pyrenees"
+  },
+  {
+   "narration": "Llívia even has one of Europe's oldest pharmacies, now a museum you can visit.",
+   "emoji": "💊",
+   "headline": "An Old Pharmacy",
+   "stat": "",
+   "sub": "Now a museum",
+   "visual_query": "old pharmacy jars"
+  },
+  {
+   "narration": "So you can have lunch in France, drive a few minutes, and eat dessert in Spain, without leaving the mountains.",
+   "emoji": "🍽️",
+   "headline": "Lunch, Then Dessert",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cerdanya valley mountains"
+  },
+  {
+   "narration": "Two countries, one valley, and a town that exists on the Spanish side only because of a legal word.",
+   "emoji": "🏔️",
+   "headline": "Two Countries, One Valley",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pyrenees valley village"
+  },
+  {
+   "narration": "But our next one is a corner of America above the line, and a mapmaker's mistake put it there.",
+   "emoji": "🗺️",
+   "headline": "A Mapmaker's Mistake",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old map antique"
+  },
+  {
+   "narration": "Number three. The Northwest Angle is part of Minnesota, but it hangs off the top of the state, north of the main border.",
+   "emoji": "🇺🇸",
+   "headline": "Number Three: The Angle",
+   "stat": "3",
+   "sub": "Minnesota",
+   "visual_query": "Northwest Angle Minnesota"
+  },
+  {
+   "narration": "Look at the 48 mainland states. This is the only place in them north of the 49th parallel.",
+   "emoji": "📐",
+   "headline": "North Of The 49th",
+   "stat": "49°",
+   "sub": "parallel",
+   "visual_query": "Minnesota Canada map"
+  },
+  {
+   "narration": "To reach it by road, you have to drive through Canada, and then enter America again on the other side.",
+   "emoji": "🚗",
+   "headline": "Drive Through Canada",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Manitoba highway"
+  },
+  {
+   "narration": "Or you can take a boat across Lake of the Woods, which is how many visitors actually arrive.",
+   "emoji": "🚤",
+   "headline": "Or Take A Boat",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake of the Woods boat"
+  },
+  {
+   "narration": "The reason is a mapmaking mistake. In 1783, the treaty after the American Revolution used a map that was wrong.",
+   "emoji": "❌",
+   "headline": "The Wrong Map",
+   "stat": "1783",
+   "sub": "",
+   "visual_query": "18th century map"
+  },
+  {
+   "narration": "The treaty said the border would go to the northwestern point of Lake of the Woods, and then due west.",
+   "emoji": "🧭",
+   "headline": "Due West, Supposedly",
+   "stat": "",
+   "sub": "",
+   "visual_query": "compass old map"
+  },
+  {
+   "narration": "But the real lake and rivers did not line up with the map, and later talks left this piece on the American side.",
+   "emoji": "🌊",
+   "headline": "Lake Did Not Match",
+   "stat": "",
+   "sub": "",
+   "visual_query": "lake islands aerial"
+  },
+  {
+   "narration": "So a bit of the USA is stuck up there, with forests, fishing lodges and water all around.",
+   "emoji": "🌲",
+   "headline": "Forest And Water",
+   "stat": "",
+   "sub": "",
+   "visual_query": "northern forest lake"
+  },
+  {
+   "narration": "People live there, and visitors come for fishing, even though the only road in goes through another country.",
+   "emoji": "🎣",
+   "headline": "Fishing In America",
+   "stat": "",
+   "sub": "",
+   "visual_query": "fishing lodge lake"
+  },
+  {
+   "narration": "A whole piece of America reached through Canada. But what about a whole country that sits inside another?",
+   "emoji": "🤯",
+   "headline": "A Country Inside One?",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Africa map Lesotho"
+  },
+  {
+   "narration": "If you enjoy strange places like these, do subscribe, because we post a new one every day.",
+   "emoji": "🔔",
+   "headline": "Like Strange Places?",
+   "stat": "",
+   "sub": "Subscribe for more",
+   "visual_query": "world globe travel"
+  },
+  {
+   "narration": "Number two. Lesotho is not a village or a town. It is a full country, and South Africa surrounds all of it.",
+   "emoji": "🇱🇸",
+   "headline": "Number Two: Lesotho",
+   "stat": "2",
+   "sub": "A country inside a country",
+   "visual_query": "Lesotho mountains"
+  },
+  {
+   "narration": "Whichever way you leave Lesotho by land, you end up in South Africa.",
+   "emoji": "🧭",
+   "headline": "Every Road Leads Out",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lesotho South Africa border"
+  },
+  {
+   "narration": "More than two million people live there, with their own king, their own flag and their own money, called the loti.",
+   "emoji": "👑",
+   "headline": "Own King, Own Money",
+   "stat": "2M+",
+   "sub": "People",
+   "visual_query": "Lesotho flag Maseru"
+  },
+  {
+   "narration": "It is one of only three countries in the world that are completely surrounded by one other country.",
+   "emoji": "3️⃣",
+   "headline": "One Of Only Three",
+   "stat": "3",
+   "sub": "",
+   "visual_query": "world map highlighted countries"
+  },
+  {
+   "narration": "The other two are San Marino and the Vatican, which sit inside Italy, and both are tiny.",
+   "emoji": "⛪",
+   "headline": "San Marino, Vatican",
+   "stat": "",
+   "sub": "Inside Italy",
+   "visual_query": "Vatican St Peters"
+  },
+  {
+   "narration": "Lesotho is large enough to have mountains, ski slopes and snow, in the middle of southern Africa.",
+   "emoji": "⛷️",
+   "headline": "Snow In Africa",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lesotho snow mountains"
+  },
+  {
+   "narration": "It is known as the Kingdom in the Sky, because every part of it is high above sea level.",
+   "emoji": "☁️",
+   "headline": "Kingdom In The Sky",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lesotho highlands"
+  },
+  {
+   "narration": "Its lowest point is about 1,400 metres up, which is the highest lowest point of any country in the world.",
+   "emoji": "🏔️",
+   "headline": "Highest Lowest Point",
+   "stat": "1,400 m",
+   "sub": "",
+   "visual_query": "Lesotho mountain valley"
+  },
+  {
+   "narration": "Because of this, almost everything Lesotho trades with the outside world has to pass through South Africa first.",
+   "emoji": "🚚",
+   "headline": "Everything Goes Through",
+   "stat": "",
+   "sub": "",
+   "visual_query": "truck mountain road Africa"
+  },
+  {
+   "narration": "A country inside a country is strange. But India has something even stranger, and it ended only in 2015.",
+   "emoji": "🇮🇳",
+   "headline": "Now: India's Strangest",
+   "stat": "2015",
+   "sub": "",
+   "visual_query": "India map West Bengal"
+  },
+  {
+   "narration": "Number one. In Cooch Behar, in West Bengal, India and Bangladesh were mixed like a jigsaw.",
+   "emoji": "🧩",
+   "headline": "Number One: Cooch Behar",
+   "stat": "1",
+   "sub": "West Bengal",
+   "visual_query": "Cooch Behar palace"
+  },
+  {
+   "narration": "Small patches of Indian land sat inside Bangladesh, and small patches of Bangladeshi land sat inside India.",
+   "emoji": "🔀",
+   "headline": "Patches In Both",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bengal paddy fields"
+  },
+  {
+   "narration": "These patches were called chhitmahals, or enclaves. Some were a few acres, and some were a few villages.",
+   "emoji": "🏡",
+   "headline": "Called Chhitmahals",
+   "stat": "",
+   "sub": "Enclaves",
+   "visual_query": "Bengal village huts"
+  },
+  {
+   "narration": "One local story says the old kings of Cooch Behar and Rangpur played games and bet villages on them.",
+   "emoji": "♟️",
+   "headline": "A Game Of Kings",
+   "stat": "",
+   "sub": "Local story",
+   "visual_query": "chess pieces king"
+  },
+  {
+   "narration": "Whatever the cause, the result was real: 162 patches of land that belonged to the wrong country.",
+   "emoji": "🗺️",
+   "headline": "162 Wrong-Side Patches",
+   "stat": "162",
+   "sub": "",
+   "visual_query": "India Bangladesh map border"
+  },
+  {
+   "narration": "In 2015, India gave Bangladesh 111 enclaves, and Bangladesh gave India 51.",
+   "emoji": "🤝",
+   "headline": "The 2015 Exchange",
+   "stat": "111 + 51",
+   "sub": "",
+   "visual_query": "India Bangladesh flags"
+  },
+  {
+   "narration": "Before that, people living in them were stuck. They were citizens of a country they could not easily reach.",
+   "emoji": "🚧",
+   "headline": "Stuck Citizens",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border fence village India"
+  },
+  {
+   "narration": "Many had no proper roads, schools or electricity from the government, because the land around them belonged to another country.",
+   "emoji": "💡",
+   "headline": "No Roads, No Power",
+   "stat": "",
+   "sub": "",
+   "visual_query": "village dirt road Bengal"
+  },
+  {
+   "narration": "Now for the strangest of all. One tiny plot called Dahala Khagrabari was a real-life Russian doll of countries.",
+   "emoji": "🪆",
+   "headline": "A Doll Of Countries",
+   "stat": "",
+   "sub": "Dahala Khagrabari",
+   "visual_query": "Russian nesting dolls"
+  },
+  {
+   "narration": "It was Indian land, inside a Bangladeshi enclave, inside an Indian enclave, inside Bangladesh.",
+   "emoji": "🔁",
+   "headline": "Inside Inside Inside",
+   "stat": "",
+   "sub": "",
+   "visual_query": "nested squares map"
+  },
+  {
+   "narration": "That is four layers of borders. It was the only one like this in the whole world.",
+   "emoji": "4️⃣",
+   "headline": "Only One In The World",
+   "stat": "4",
+   "sub": "Layers",
+   "visual_query": "aerial farmland patchwork"
+  },
+  {
+   "narration": "The plot was smaller than two acres, so a person could cross all of it in a short walk.",
+   "emoji": "🚶",
+   "headline": "Under Two Acres",
+   "stat": "<2 acres",
+   "sub": "",
+   "visual_query": "small farm plot village"
+  },
+  {
+   "narration": "Just to walk from there to mainland India, you would have had to cross four borders.",
+   "emoji": "🛂",
+   "headline": "Four Borders To Walk",
+   "stat": "4",
+   "sub": "",
+   "visual_query": "border gate India"
+  },
+  {
+   "narration": "At midnight on the thirty-first of July, 2015, the exchange began, and the enclaves changed hands.",
+   "emoji": "🕛",
+   "headline": "Midnight, 31 July 2015",
+   "stat": "2015",
+   "sub": "",
+   "visual_query": "midnight clock crowd celebration"
+  },
+  {
+   "narration": "People waved flags, ate sweets and cheered, because many were finally getting a country that could reach them.",
+   "emoji": "🎉",
+   "headline": "Flags And Sweets",
+   "stat": "",
+   "sub": "",
+   "visual_query": "villagers waving Indian flag"
+  },
+  {
+   "narration": "Residents were given a choice, to stay where they were, or to move to the country they belonged to.",
+   "emoji": "🤔",
+   "headline": "Stay Or Move",
+   "stat": "",
+   "sub": "",
+   "visual_query": "family village doorway India"
+  },
+  {
+   "narration": "Some moved across the border into India, and many others chose to stay, and became citizens of Bangladesh.",
+   "emoji": "🏠",
+   "headline": "Some Moved, Many Stayed",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bangladesh village rice field"
+  },
+  {
+   "narration": "A line that took decades to fix was finally redrawn by a treaty, and the jigsaw map became a clean line.",
+   "emoji": "✏️",
+   "headline": "A Clean Line At Last",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border map line pen"
+  },
+  {
+   "narration": "So the strangest border on our list has already vanished. You can still see its odd shape in old maps.",
+   "emoji": "🗺️",
+   "headline": "Gone, Still On Old Maps",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old atlas India Bengal"
+  },
+  {
+   "narration": "Let us count it back. Six, a sign that changes units. Five, a German village inside Switzerland.",
+   "emoji": "🔙",
+   "headline": "Counting It Back",
+   "stat": "",
+   "sub": "6 and 5",
+   "visual_query": "Irish road Swiss village"
+  },
+  {
+   "narration": "Four, a Spanish town in France. Three, American land you reach through Canada. Two, a country inside a country.",
+   "emoji": "📋",
+   "headline": "Four, Three, Two",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pyrenees Lake Woods Lesotho"
+  },
+  {
+   "narration": "One, an Indian plot inside three layers of borders. Every line on a map is a human decision.",
+   "emoji": "🧠",
+   "headline": "Lines Are Decisions",
+   "stat": "1",
+   "sub": "",
+   "visual_query": "India Bangladesh border village"
+  },
+  {
+   "narration": "Which brings you back to the start: your speed sign flips from miles to kilometres, and no road has moved.",
+   "emoji": "🔄",
+   "headline": "Same Road, New Units",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Irish road speed sign"
+  },
+  {
+   "narration": "Next video: time zones that make no sense, including one in Nepal where your watch jumps by fifteen minutes.",
+   "emoji": "🕒",
+   "headline": "Next: Strange Time Zones",
+   "stat": "15 min",
+   "sub": "Nepal",
+   "visual_query": "Kathmandu clock tower"
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "category": "geography",
+ "topic": "Danakil Depression",
+ "hook": "Your photo here would look like another planet.",
+ "title": "Ethiopia's Acid Pools Look Like Mars",
+ "description": "The Danakil Depression in Ethiopia has yellow, green and red acid pools on a hot salt desert. The colours come from minerals and sulfur. Parts of it lie below sea level and it is one of the hottest places on Earth.\n\n#Shorts #geography #Ethiopia",
+ "tags": [
+  "Danakil Depression",
+  "Dallol",
+  "Ethiopia",
+  "geography facts",
+  "places that shouldn't exist",
+  "acid pools",
+  "another planet",
+  "weird places",
+  "shorts"
+ ],
+ "comment_prompt": "Earth or alien planet? Earth or alien",
+ "hook_banner": "NOT MARS. EARTH.",
+ "scenes": [
+  {
+   "narration": "Your photo here would look like another planet.",
+   "emoji": "👽",
+   "headline": "ANOTHER PLANET",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Danakil Depression colorful pools"
+  },
+  {
+   "narration": "This is the Danakil Depression, in Ethiopia.",
+   "emoji": "🇪🇹",
+   "headline": "DANAKIL DEPRESSION",
+   "stat": "",
+   "sub": "Ethiopia",
+   "visual_query": "Danakil Depression Ethiopia"
+  },
+  {
+   "narration": "Acid pools glow yellow, green and red.",
+   "emoji": "🟡",
+   "headline": "YELLOW GREEN RED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dallol acid pools"
+  },
+  {
+   "narration": "They sit on a hot salt desert.",
+   "emoji": "🧂",
+   "headline": "HOT SALT DESERT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Danakil salt desert"
+  },
+  {
+   "narration": "The colours come from minerals and sulfur.",
+   "emoji": "🧪",
+   "headline": "MINERALS AND SULFUR",
+   "stat": "",
+   "sub": "",
+   "visual_query": "sulfur crystals yellow"
+  },
+  {
+   "narration": "Parts of it lie below sea level.",
+   "emoji": "⬇️",
+   "headline": "BELOW SEA LEVEL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dallol salt formations"
+  },
+  {
+   "narration": "It is one of the hottest places on Earth.",
+   "emoji": "🌡️",
+   "headline": "HOTTEST PLACES ON EARTH",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Danakil heat desert"
+  },
+  {
+   "narration": "Another planet, but it is right here on Earth.",
+   "emoji": "🌍",
+   "headline": "IT'S EARTH",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dallol volcano colors"
+  },
+  {
+   "narration": "Tomorrow: another place that should not exist.",
+   "emoji": "🗺️",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "Places That Shouldn't Exist",
+   "visual_query": "world map globe"
+  }
+ ]
+}

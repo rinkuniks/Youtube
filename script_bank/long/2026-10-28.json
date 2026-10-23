@@ -1,0 +1,661 @@
+{
+ "topic": "7 strange borders, ending on India's tangled enclaves",
+ "hook": "Your road in Estonia used to run through Russia, and you could not stop, slow down, or step out of the car.",
+ "title": "7 Borders That Make No Sense (India's Is Wildest)",
+ "description": "Seven real borders that sound fake: a US town you can only reach through Canada, a German town inside Switzerland, a Spanish town inside France, an Estonian road through Russia, and India's land-inside-land-inside-land enclave. Watch the countdown to find out how Cooch Behar's 162 enclaves were finally swapped with Bangladesh in 2015.\n\n#borders #geography #india",
+ "tags": [
+  "strange borders",
+  "borders that make no sense",
+  "enclaves",
+  "India Bangladesh enclaves",
+  "Cooch Behar",
+  "Saatse Boot",
+  "Point Roberts",
+  "Busingen",
+  "Llivia",
+  "Northwest Angle",
+  "geography facts",
+  "weird maps",
+  "facts that sound fake",
+  "countdown",
+  "India geography"
+ ],
+ "comment_prompt": "Which border was the strangest: 7, 6, 5, 4, 3, 2 or 1?",
+ "hook_banner": "BORDERS THAT BREAK MAPS",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "7. The US town behind Canada",
+   "scene": 6
+  },
+  {
+   "title": "6. A German town in Switzerland",
+   "scene": 15
+  },
+  {
+   "title": "5. Italy's town on a Swiss lake",
+   "scene": 24
+  },
+  {
+   "title": "4. Spain's town inside France",
+   "scene": 33
+  },
+  {
+   "title": "3. America above America",
+   "scene": 43
+  },
+  {
+   "title": "2. The road through Russia",
+   "scene": 53
+  },
+  {
+   "title": "1. India's land inside land",
+   "scene": 64
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your road in Estonia used to run through Russia, and you could not stop, slow down, or step out of the car.",
+   "emoji": "🚗",
+   "headline": "A Road Through Russia",
+   "stat": "",
+   "sub": "Estonia",
+   "visual_query": "Estonia forest road"
+  },
+  {
+   "narration": "That road is number two on today's list. Number one is in India, where land sat inside land, inside land, inside another country.",
+   "emoji": "🇮🇳",
+   "headline": "Number One Is Indian",
+   "stat": "",
+   "sub": "Land inside land inside land",
+   "visual_query": "India Bangladesh border fence"
+  },
+  {
+   "narration": "Seven borders, each one stranger than the last. All real, all on your map, and two of them changed in recent years.",
+   "emoji": "🗺️",
+   "headline": "7 Real Borders",
+   "stat": "7",
+   "sub": "Each stranger than the last",
+   "visual_query": "world map borders"
+  },
+  {
+   "narration": "We start with an American town that you can only reach by driving through another country.",
+   "emoji": "🇺🇸",
+   "headline": "US Town, Canadian Road",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border crossing sign"
+  },
+  {
+   "narration": "Then a German town packed inside Switzerland, an Italian town on a Swiss lake, and a Spanish town sitting in France.",
+   "emoji": "🏘️",
+   "headline": "Towns In Wrong Countries",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Alps village lake"
+  },
+  {
+   "narration": "Stay till the end, because the last border has a tiny patch of land that sat inside three other pieces of land.",
+   "emoji": "👀",
+   "headline": "Stay For Number One",
+   "stat": "",
+   "sub": "",
+   "visual_query": "aerial farmland India"
+  },
+  {
+   "narration": "Number seven. Point Roberts, Washington. It is part of the United States, but you cannot drive there from the rest of it.",
+   "emoji": "7️⃣",
+   "headline": "7. Point Roberts",
+   "stat": "7",
+   "sub": "Washington, USA",
+   "visual_query": "Point Roberts Washington"
+  },
+  {
+   "narration": "Look at the map near Vancouver. A small hook of land hangs below the Canadian coast, and it belongs to America.",
+   "emoji": "📍",
+   "headline": "A Hook Of America",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Vancouver coast aerial"
+  },
+  {
+   "narration": "The cause is one straight line. The border follows the 49th parallel, and that line slices through the tip of a peninsula.",
+   "emoji": "📏",
+   "headline": "The 49th Parallel",
+   "stat": "49°",
+   "sub": "North",
+   "visual_query": "49th parallel border marker"
+  },
+  {
+   "narration": "The land south of the line became American, even though it hangs off Canada with no road joining it to the United States.",
+   "emoji": "🗺️",
+   "headline": "Cut Off By A Line",
+   "stat": "",
+   "sub": "",
+   "visual_query": "peninsula map border"
+  },
+  {
+   "narration": "So to drive home to the rest of Washington, you cross into Canada, drive through it, and then cross back into America.",
+   "emoji": "🚙",
+   "headline": "Two Border Checks",
+   "stat": "2",
+   "sub": "To get home",
+   "visual_query": "Canada US border crossing"
+  },
+  {
+   "narration": "That is two border crossings for a trip inside your own country, just to run a simple errand.",
+   "emoji": "🛂",
+   "headline": "A Trip Inside Your Country",
+   "stat": "",
+   "sub": "",
+   "visual_query": "passport control booth"
+  },
+  {
+   "narration": "Canadian suburbs sit right beside the town, so the border is a short walk from many homes there.",
+   "emoji": "🏠",
+   "headline": "Border Next Door",
+   "stat": "",
+   "sub": "",
+   "visual_query": "suburban houses border"
+  },
+  {
+   "narration": "It is a place where the map and the road disagree. And it is not even the strangest one of its kind.",
+   "emoji": "🤯",
+   "headline": "Map Versus Road",
+   "stat": "",
+   "sub": "",
+   "visual_query": "road map pin"
+  },
+  {
+   "narration": "Next, a town where the shops take Swiss money, but the town is officially German.",
+   "emoji": "💶",
+   "headline": "Swiss Money, German Town",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss franc banknotes"
+  },
+  {
+   "narration": "Number six. Büsingen am Hochrhein. It is a German town, and Swiss land surrounds it on every side.",
+   "emoji": "6️⃣",
+   "headline": "6. Büsingen",
+   "stat": "6",
+   "sub": "Germany inside Switzerland",
+   "visual_query": "Busingen am Hochrhein"
+  },
+  {
+   "narration": "Find it on the map beside the Rhine. A small German patch floats inside Switzerland, with no German road joining it to Germany.",
+   "emoji": "📍",
+   "headline": "A German Island",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rhine river village"
+  },
+  {
+   "narration": "The town is part of Germany, but it sits inside the Swiss customs area, so shopkeepers there use Swiss francs.",
+   "emoji": "💰",
+   "headline": "Swiss Customs Zone",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss franc coins"
+  },
+  {
+   "narration": "Its cars even have their own number plate code, BÜS, so a German car there stands out at once.",
+   "emoji": "🚘",
+   "headline": "A Plate Just For BÜS",
+   "stat": "BÜS",
+   "sub": "",
+   "visual_query": "German licence plate"
+  },
+  {
+   "narration": "Locals say the odd borders came from old deals between old kingdoms, and nobody tidied them up afterwards.",
+   "emoji": "👑",
+   "headline": "Old Deals Stuck",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old Europe map"
+  },
+  {
+   "narration": "So here is a town where you can walk to Switzerland in minutes, yet it is still German on paper.",
+   "emoji": "🚶",
+   "headline": "Minutes To Switzerland",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss German border sign"
+  },
+  {
+   "narration": "And the next town is stuck even deeper in the same trap, only with a lake and a casino.",
+   "emoji": "🎰",
+   "headline": "A Lake And A Casino",
+   "stat": "",
+   "sub": "",
+   "visual_query": "casino lake Italy"
+  },
+  {
+   "narration": "Number five. Campione d'Italia. An Italian town that sits on the shore of Lake Lugano, inside Switzerland.",
+   "emoji": "5️⃣",
+   "headline": "5. Campione d'Italia",
+   "stat": "5",
+   "sub": "Italy inside Switzerland",
+   "visual_query": "Campione d'Italia lake"
+  },
+  {
+   "narration": "Mountains cut the town off from the rest of Italy, so for ages the easy road in and out was a Swiss one.",
+   "emoji": "⛰️",
+   "headline": "Cut Off By Mountains",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake Lugano mountains"
+  },
+  {
+   "narration": "Everyday life leaned on Switzerland. People there used Swiss francs and worked with Swiss shops and services.",
+   "emoji": "🇨🇭",
+   "headline": "Life On Swiss Terms",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss town street"
+  },
+  {
+   "narration": "In 2020 that changed, and the town joined the European Union's customs area, with the euro as its money.",
+   "emoji": "🇪🇺",
+   "headline": "Joined EU Customs",
+   "stat": "2020",
+   "sub": "Euro arrives",
+   "visual_query": "euro banknotes"
+  },
+  {
+   "narration": "So an Italian town trapped in Switzerland slowly turned into an EU patch in a country outside the EU.",
+   "emoji": "🧩",
+   "headline": "An EU Patch",
+   "stat": "",
+   "sub": "",
+   "visual_query": "European Union flags"
+  },
+  {
+   "narration": "Now a town that has been stuck for more than three hundred and fifty years, thanks to one old word in a treaty.",
+   "emoji": "📜",
+   "headline": "One Word In A Treaty",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old treaty document"
+  },
+  {
+   "narration": "Number four. Llívia. A Spanish town that sits fully inside France, just beyond the Pyrenees.",
+   "emoji": "4️⃣",
+   "headline": "4. Llívia",
+   "stat": "4",
+   "sub": "Spain inside France",
+   "visual_query": "Llivia Spain"
+  },
+  {
+   "narration": "In 1659, Spain and France signed the Treaty of the Pyrenees, and Spain handed over a list of villages to France.",
+   "emoji": "✍️",
+   "headline": "Treaty Of 1659",
+   "stat": "1659",
+   "sub": "",
+   "visual_query": "Pyrenees mountains village"
+  },
+  {
+   "narration": "But Llívia was a town, not a village. So by the wording of the treaty, it stayed Spanish.",
+   "emoji": "🏰",
+   "headline": "Town, Not Village",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Llivia old town"
+  },
+  {
+   "narration": "That single word kept Llívia Spanish while French land closed in around it, and it is still Spanish today.",
+   "emoji": "🇪🇸",
+   "headline": "Still Spanish",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Spanish flag village"
+  },
+  {
+   "narration": "A neutral road links it to Spain. That road counts as French land, yet Spanish traffic is allowed on it.",
+   "emoji": "🛣️",
+   "headline": "The Neutral Road",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pyrenees road"
+  },
+  {
+   "narration": "If you like strange places like this, subscribe, because we find a new one on the map every day.",
+   "emoji": "🔔",
+   "headline": "Subscribe For More",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world atlas map"
+  },
+  {
+   "narration": "Walk the streets of Llívia and you see Spanish signs, Spanish food, and French mountains right outside the town.",
+   "emoji": "🥘",
+   "headline": "Spain In France",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Spanish street sign"
+  },
+  {
+   "narration": "Fun fact for map fans: its chemist's shop is one of the oldest in Europe, kept as a museum.",
+   "emoji": "💊",
+   "headline": "Old Pharmacy Museum",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old pharmacy museum"
+  },
+  {
+   "narration": "That was a mistake of one word. The next one is a mistake of a whole map.",
+   "emoji": "🧭",
+   "headline": "A Mistake Of A Map",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old map compass"
+  },
+  {
+   "narration": "Number three. The Northwest Angle in Minnesota. It is the only part of the lower United States north of the 49th parallel.",
+   "emoji": "3️⃣",
+   "headline": "3. Northwest Angle",
+   "stat": "3",
+   "sub": "Minnesota, USA",
+   "visual_query": "Northwest Angle Minnesota"
+  },
+  {
+   "narration": "Look at the top of Minnesota on any map. A little square of land pokes up into Canada like a thumb.",
+   "emoji": "👍",
+   "headline": "A Thumb Into Canada",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake of the Woods"
+  },
+  {
+   "narration": "Old treaty makers drew the line using a map that was wrong about where the Mississippi River started.",
+   "emoji": "🗺️",
+   "headline": "A Map That Was Wrong",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old Mississippi map"
+  },
+  {
+   "narration": "When people later checked the real land, the line already stood, and the Angle stayed on the American side.",
+   "emoji": "📐",
+   "headline": "The Line Stayed",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake of the Woods islands"
+  },
+  {
+   "narration": "Most of it is water in Lake of the Woods, with forest and islands, and no road joins it to the rest of Minnesota.",
+   "emoji": "🌲",
+   "headline": "No Road To Minnesota",
+   "stat": "",
+   "sub": "",
+   "visual_query": "northern Minnesota lake forest"
+  },
+  {
+   "narration": "You can reach the Angle by boat across the lake, or by road through Canada, and then through a border check.",
+   "emoji": "🚤",
+   "headline": "Boat Or Canada",
+   "stat": "",
+   "sub": "",
+   "visual_query": "fishing boat lake"
+  },
+  {
+   "narration": "People who live there are fully American, yet they go to the next town by crossing a whole other country.",
+   "emoji": "🏡",
+   "headline": "American, Through Canada",
+   "stat": "",
+   "sub": "",
+   "visual_query": "remote lake cabin"
+  },
+  {
+   "narration": "A wrong map built that border, and the people there still follow it. But next, a border that is not even wrong.",
+   "emoji": "🧩",
+   "headline": "A Map Error Stays",
+   "stat": "",
+   "sub": "",
+   "visual_query": "map error border"
+  },
+  {
+   "narration": "It is a road. You can drive on it, but the land under your wheels belongs to another country.",
+   "emoji": "🛣️",
+   "headline": "Land Under Your Wheels",
+   "stat": "",
+   "sub": "",
+   "visual_query": "road through forest border"
+  },
+  {
+   "narration": "That road is back, because we are at number two, and it is the one I opened with.",
+   "emoji": "🔙",
+   "headline": "Back To The Road",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Estonia Russia border"
+  },
+  {
+   "narration": "Number two. The Saatse Boot, in south-east Estonia. A road between two Estonian villages that crossed into Russia.",
+   "emoji": "2️⃣",
+   "headline": "2. Saatse Boot",
+   "stat": "2",
+   "sub": "Estonia",
+   "visual_query": "Saatse Boot Estonia"
+  },
+  {
+   "narration": "On a map the Russian land is shaped like a boot, and the road from Värska to Saatse ran straight across it.",
+   "emoji": "🥾",
+   "headline": "A Boot Of Russia",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Varska Saatse map"
+  },
+  {
+   "narration": "The stretch was roughly a kilometre long. Drivers could pass through, but they could not stop, get out, or even slow down.",
+   "emoji": "🚫",
+   "headline": "No Stopping",
+   "stat": "~1 km",
+   "sub": "Through Russia",
+   "visual_query": "no stopping road sign"
+  },
+  {
+   "narration": "There was no gate and no passport check for people passing through. Just signs, a road, and Russian land on either side.",
+   "emoji": "🛑",
+   "headline": "No Gate, No Check",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Estonia border sign"
+  },
+  {
+   "narration": "The land stayed Russian because border treaties between Estonia and Russia were never ratified, so the old lines stayed.",
+   "emoji": "📜",
+   "headline": "Treaties Never Ratified",
+   "stat": "",
+   "sub": "",
+   "visual_query": "treaty signing table"
+  },
+  {
+   "narration": "Locals used it every day to get to work, school, and shops, and for years nobody thought twice about it.",
+   "emoji": "🧑‍🌾",
+   "headline": "Daily Commute",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Estonia village road"
+  },
+  {
+   "narration": "Then, in October 2025, armed Russian personnel were seen on the stretch, and Estonia shut the road.",
+   "emoji": "⚠️",
+   "headline": "Closed In 2025",
+   "stat": "Oct 2025",
+   "sub": "",
+   "visual_query": "road barrier closed"
+  },
+  {
+   "narration": "The government has now closed those road sections for good, with barriers, fences, and signs where cars once passed.",
+   "emoji": "🚧",
+   "headline": "Closed For Good",
+   "stat": "",
+   "sub": "",
+   "visual_query": "road barrier fence"
+  },
+  {
+   "narration": "Locals now take a muddy forest road, and a proper bypass is still being built.",
+   "emoji": "🌧️",
+   "headline": "A Muddy Detour",
+   "stat": "",
+   "sub": "",
+   "visual_query": "muddy forest road"
+  },
+  {
+   "narration": "So the strangest road in Europe, the last one that ran through Russia, is now just a closed piece of history.",
+   "emoji": "🕰️",
+   "headline": "A Road Made History",
+   "stat": "",
+   "sub": "",
+   "visual_query": "empty road forest"
+  },
+  {
+   "narration": "Now for number one. It is in India, it involves a football field of land, and it had people living in no-man's land.",
+   "emoji": "🇮🇳",
+   "headline": "Now, Number One",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cooch Behar India"
+  },
+  {
+   "narration": "Number one. The Cooch Behar enclaves, between West Bengal and Bangladesh. The most tangled border ever drawn.",
+   "emoji": "1️⃣",
+   "headline": "1. Cooch Behar",
+   "stat": "1",
+   "sub": "India and Bangladesh",
+   "visual_query": "Cooch Behar West Bengal"
+  },
+  {
+   "narration": "For decades, Indian villages sat inside Bangladesh, and Bangladeshi villages sat inside India. In all, there were 162 such patches.",
+   "emoji": "🧩",
+   "headline": "162 Patches",
+   "stat": "162",
+   "sub": "Enclaves",
+   "visual_query": "India Bangladesh border villages"
+  },
+  {
+   "narration": "111 of them were Indian, inside Bangladesh. 51 were Bangladeshi, inside India. Each was a tiny piece of one country, surrounded by the other.",
+   "emoji": "🔢",
+   "headline": "111 Indian, 51 Bangladeshi",
+   "stat": "111 + 51",
+   "sub": "",
+   "visual_query": "Bangladesh rice fields"
+  },
+  {
+   "narration": "A local story says the Maharaja of Cooch Behar and the ruler of Rangpur once played chess or dice for these lands.",
+   "emoji": "♟️",
+   "headline": "A Game Of Chess?",
+   "stat": "",
+   "sub": "A local legend",
+   "visual_query": "old chess board maharaja"
+  },
+  {
+   "narration": "Whatever the cause, the patches stayed. If you lived in one, there was no school, hospital, or electricity from your own country.",
+   "emoji": "🏚️",
+   "headline": "Stuck Without Services",
+   "stat": "",
+   "sub": "",
+   "visual_query": "village hut rural Bengal"
+  },
+  {
+   "narration": "Walk out of your field and you were abroad, with no visa, no papers, and often no easy way to reach your own country.",
+   "emoji": "🚶",
+   "headline": "A Field Is Abroad",
+   "stat": "",
+   "sub": "",
+   "visual_query": "farm field border pillar"
+  },
+  {
+   "narration": "And then there is the one that blew people's minds, a patch called Dahala Khagrabari.",
+   "emoji": "🤯",
+   "headline": "Dahala Khagrabari",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dahala Khagrabari"
+  },
+  {
+   "narration": "It was Indian land inside a Bangladeshi enclave, inside an Indian enclave, inside Bangladesh. The only one of its kind in the world.",
+   "emoji": "🪆",
+   "headline": "Land Inside Land Inside Land",
+   "stat": "3",
+   "sub": "Layers deep",
+   "visual_query": "nested map enclaves"
+  },
+  {
+   "narration": "It was tiny, about the size of a football field, and stand in the middle and you were standing in four borders at once.",
+   "emoji": "⚽",
+   "headline": "A Football Field",
+   "stat": "",
+   "sub": "",
+   "visual_query": "football field aerial"
+  },
+  {
+   "narration": "Then, at midnight on 31 July 2015, India and Bangladesh finally swapped these lands in a historic deal.",
+   "emoji": "🕛",
+   "headline": "Midnight, 31 July 2015",
+   "stat": "2015",
+   "sub": "The big swap",
+   "visual_query": "India Bangladesh flag ceremony"
+  },
+  {
+   "narration": "India received 51 Bangladeshi enclaves, and Bangladesh received 111 Indian ones. Maps were redrawn, and the patchwork vanished.",
+   "emoji": "🗺️",
+   "headline": "Maps Redrawn",
+   "stat": "51 / 111",
+   "sub": "",
+   "visual_query": "India Bangladesh map"
+  },
+  {
+   "narration": "People living there could choose which country they wanted to belong to, and many saw their first proper Indian or Bangladeshi flag.",
+   "emoji": "🏳️",
+   "headline": "People Chose A Country",
+   "stat": "",
+   "sub": "",
+   "visual_query": "villagers flag India Bangladesh"
+  },
+  {
+   "narration": "So the strangest border of all lived in India, and it ended in our lifetime, with the whole thing settled by a pen.",
+   "emoji": "🖊️",
+   "headline": "Ended By A Pen",
+   "stat": "",
+   "sub": "",
+   "visual_query": "signing agreement pen"
+  },
+  {
+   "narration": "That is the countdown: a US town behind Canada, a German town in Switzerland, an Italian one on a lake, and a Spanish one in France.",
+   "emoji": "🔁",
+   "headline": "The Full Countdown",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Europe map towns"
+  },
+  {
+   "narration": "Then a bit of America stuck above America, a road through Russia, and India's land inside land inside land.",
+   "emoji": "🧭",
+   "headline": "All Real Places",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map pins"
+  },
+  {
+   "narration": "So remember, your road in Estonia really did run through Russia, and you could not stop.",
+   "emoji": "🔄",
+   "headline": "Your Road, Russia's Land",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Estonia Russia road"
+  },
+  {
+   "narration": "Tomorrow: more places on the map that should not exist.",
+   "emoji": "➡️",
+   "headline": "Tomorrow: More Maps",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map close up"
+  }
+ ]
+}

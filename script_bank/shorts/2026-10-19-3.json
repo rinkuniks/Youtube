@@ -1,0 +1,94 @@
+{
+ "category": "geography",
+ "topic": "Llívia Spanish enclave in France",
+ "hook": "Your map shows a Spanish town sitting inside France.",
+ "title": "The Spanish Town Surrounded By France",
+ "description": "Llívia is a Spanish town completely surrounded by France in the Pyrenees. A 1659 treaty gave France villages, but Llívia counted as a town, so Spain kept it. A short road links it to the rest of Spain.\n\n#Shorts #Geography #PlacesThatShouldntExist",
+ "tags": [
+  "llivia",
+  "spain",
+  "france",
+  "pyrenees",
+  "enclave",
+  "geography facts",
+  "border facts",
+  "places that shouldn't exist",
+  "shorts"
+ ],
+ "comment_prompt": "Spain or France? Pick one",
+ "hook_banner": "SPAIN INSIDE FRANCE",
+ "scenes": [
+  {
+   "narration": "Your map shows a Spanish town inside France.",
+   "emoji": "🗺️",
+   "headline": "SPAIN INSIDE FRANCE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Llivia Spain"
+  },
+  {
+   "narration": "It is called Llívia.",
+   "emoji": "📍",
+   "headline": "LLÍVIA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Llivia town"
+  },
+  {
+   "narration": "France surrounds it on every side.",
+   "emoji": "🇫🇷",
+   "headline": "SURROUNDED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cerdanya Pyrenees"
+  },
+  {
+   "narration": "A 1659 treaty gave France villages.",
+   "emoji": "📜",
+   "headline": "THE 1659 TREATY",
+   "stat": "1659",
+   "sub": "",
+   "visual_query": "Treaty of the Pyrenees"
+  },
+  {
+   "narration": "But Llívia counted as a town, so Spain kept it.",
+   "emoji": "🏘️",
+   "headline": "TOWN, NOT VILLAGE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Llivia old town"
+  },
+  {
+   "narration": "One short road links it to the rest of Spain.",
+   "emoji": "🛣️",
+   "headline": "ONE ROAD HOME",
+   "stat": "",
+   "sub": "",
+   "visual_query": "mountain road Pyrenees"
+  },
+  {
+   "narration": "Drive it and you cross France to reach Spain.",
+   "emoji": "🚗",
+   "headline": "FRANCE IN BETWEEN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "car mountain road"
+  },
+  {
+   "narration": "So yes, a Spanish town sits inside France.",
+   "emoji": "🔁",
+   "headline": "REAL AND TRUE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Llivia Spain"
+  },
+  {
+   "narration": "Tomorrow: how astronauts sleep.",
+   "emoji": "➡️",
+   "headline": "NEXT: SLEEP IN SPACE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut sleeping bag"
+  }
+ ]
+}

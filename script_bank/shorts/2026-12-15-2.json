@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Sigiriya Rock",
+ "hook": "Your climb ends at a fortress on a rock.",
+ "title": "Your Climb Ends at a Fortress on a Rock",
+ "description": "Sigiriya in Sri Lanka is a rock about 200 m high with the ruins of a fortress palace on top. It dates to the fifth century and is a UNESCO World Heritage Site. Series: Places That Shouldn't Exist.\n\n#Shorts #SriLanka #PlacesThatShouldntExist",
+ "tags": [
+  "Sigiriya",
+  "Sri Lanka",
+  "lion rock",
+  "geography facts",
+  "Places That Shouldn't Exist",
+  "UNESCO",
+  "travel shorts",
+  "ancient fortress"
+ ],
+ "comment_prompt": "Would you climb it? Yes or no",
+ "hook_banner": "REAL FORTRESS IN SKY",
+ "scenes": [
+  {
+   "narration": "Your climb ends at a fortress on a rock.",
+   "emoji": "🏰",
+   "headline": "FORTRESS ON A ROCK",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sigiriya rock fortress"
+  },
+  {
+   "narration": "This is Sigiriya in Sri Lanka.",
+   "emoji": "🇱🇰",
+   "headline": "SIGIRIYA",
+   "stat": "",
+   "sub": "Sri Lanka",
+   "visual_query": "Sigiriya aerial"
+  },
+  {
+   "narration": "The rock rises about 200 metres.",
+   "emoji": "📏",
+   "headline": "ABOUT 200 METRES",
+   "stat": "200 m",
+   "sub": "",
+   "visual_query": "Sigiriya rock"
+  },
+  {
+   "narration": "A king built his palace on top.",
+   "emoji": "👑",
+   "headline": "A KING'S PALACE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sigiriya summit ruins"
+  },
+  {
+   "narration": "That was in the fifth century.",
+   "emoji": "📜",
+   "headline": "FIFTH CENTURY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sigiriya ancient ruins"
+  },
+  {
+   "narration": "Halfway up, giant lion paws guard the path.",
+   "emoji": "🦁",
+   "headline": "GIANT LION PAWS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sigiriya lion paws"
+  },
+  {
+   "narration": "Old paintings of women still cover the wall.",
+   "emoji": "🎨",
+   "headline": "ANCIENT PAINTINGS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sigiriya frescoes"
+  },
+  {
+   "narration": "A whole fortress sits on one rock.",
+   "emoji": "🏰",
+   "headline": "ONE ROCK, ONE FORTRESS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sigiriya sunrise"
+  },
+  {
+   "narration": "Tomorrow: your Moon is shrinking.",
+   "emoji": "➡️",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "Shrinking Moon",
+   "visual_query": "moon surface"
+  }
+ ]
+}

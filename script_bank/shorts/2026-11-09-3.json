@@ -1,0 +1,85 @@
+{
+ "category": "space",
+ "topic": "Moon drifting away",
+ "hook": "Your Moon is slowly drifting away from Earth.",
+ "title": "Your Moon Is Escaping Earth",
+ "description": "The Moon moves away from Earth by about 3.8 centimetres every year. Scientists measure it by firing lasers at mirrors left on the Moon by Apollo astronauts and timing the return of the light. It's roughly the speed your fingernails grow.\n\n#Shorts #Moon #Space",
+ "tags": [
+  "moon",
+  "apollo",
+  "laser",
+  "space facts",
+  "astronomy",
+  "moon moving away",
+  "science",
+  "shorts"
+ ],
+ "comment_prompt": "Miss the Moon already? Yes or no",
+ "hook_banner": "THE MOON IS LEAVING",
+ "scenes": [
+  {
+   "narration": "Your Moon is slowly drifting away from Earth.",
+   "emoji": "🌕",
+   "headline": "MOON DRIFTING AWAY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "full moon over earth"
+  },
+  {
+   "narration": "About 3.8 centimetres every single year.",
+   "emoji": "📏",
+   "headline": "3.8 CM A YEAR",
+   "stat": "3.8 cm",
+   "sub": "every year",
+   "visual_query": "ruler measuring centimetres"
+  },
+  {
+   "narration": "That's roughly how fast your fingernails grow.",
+   "emoji": "💅",
+   "headline": "LIKE YOUR FINGERNAILS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "fingernails closeup"
+  },
+  {
+   "narration": "We know because of mirrors on its surface.",
+   "emoji": "🪞",
+   "headline": "MIRRORS ON THE MOON",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Apollo retroreflector moon"
+  },
+  {
+   "narration": "Apollo astronauts left them there.",
+   "emoji": "👨‍🚀",
+   "headline": "LEFT BY APOLLO",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Apollo astronaut moon surface"
+  },
+  {
+   "narration": "Scientists fire lasers at them from Earth.",
+   "emoji": "🔴",
+   "headline": "LASERS FROM EARTH",
+   "stat": "",
+   "sub": "",
+   "visual_query": "laser ranging telescope moon"
+  },
+  {
+   "narration": "They time how long the light takes to return.",
+   "emoji": "⏱️",
+   "headline": "TIMING THE LIGHT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "observatory laser night sky"
+  },
+  {
+   "narration": "Your Moon is leaving, one fingernail at a time.",
+   "emoji": "🌕",
+   "headline": "IT'S LEAVING",
+   "stat": "",
+   "sub": "",
+   "visual_query": "moon rising horizon"
+  }
+ ]
+}

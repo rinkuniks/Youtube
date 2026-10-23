@@ -1,0 +1,85 @@
+{
+ "category": "geography",
+ "topic": "Meeting of Waters, Manaus",
+ "hook": "Your boat here sails between two colours of water.",
+ "title": "Your boat floats between two rivers",
+ "description": "Near Manaus in Brazil, the dark Rio Negro meets the sandy Solimões and the two flow side by side for kilometres. Differences in temperature, speed and density keep them apart for a while. This is the Meeting of Waters.\n\n#Shorts #Amazon #Geography",
+ "tags": [
+  "meeting of waters",
+  "amazon river",
+  "manaus",
+  "rio negro",
+  "brazil",
+  "geography facts",
+  "places that shouldn't exist",
+  "shorts"
+ ],
+ "comment_prompt": "Would you ride this boat? Yes or no",
+ "hook_banner": "TWO RIVERS, ONE LINE",
+ "scenes": [
+  {
+   "narration": "Your boat here sails between two colours of water.",
+   "emoji": "🚤",
+   "headline": "Two Colours, One River",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Meeting of Waters Manaus"
+  },
+  {
+   "narration": "Near Manaus, the Rio Negro meets the Solimões.",
+   "emoji": "🌎",
+   "headline": "Manaus, Brazil",
+   "stat": "",
+   "sub": "Rio Negro + Solimões",
+   "visual_query": "Manaus Amazon aerial"
+  },
+  {
+   "narration": "One is dark as tea. The other is sandy brown.",
+   "emoji": "🍵",
+   "headline": "Dark Meets Brown",
+   "stat": "",
+   "sub": "",
+   "visual_query": "dark river brown river"
+  },
+  {
+   "narration": "They flow side by side for kilometres.",
+   "emoji": "↔️",
+   "headline": "Side By Side",
+   "stat": "",
+   "sub": "For kilometres",
+   "visual_query": "two rivers merging colours"
+  },
+  {
+   "narration": "Different temperature, speed and density keep them apart.",
+   "emoji": "🌡️",
+   "headline": "Why They Don't Mix",
+   "stat": "",
+   "sub": "Temperature, speed, density",
+   "visual_query": "river confluence line"
+  },
+  {
+   "narration": "Later they blend into the mighty Amazon.",
+   "emoji": "🌊",
+   "headline": "Then The Amazon",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Amazon river wide"
+  },
+  {
+   "narration": "Your boat sits right on that line.",
+   "emoji": "📍",
+   "headline": "You're On The Line",
+   "stat": "",
+   "sub": "",
+   "visual_query": "boat Amazon river Brazil"
+  },
+  {
+   "narration": "Next: a city with no cars at all.",
+   "emoji": "➡️",
+   "headline": "Up Next",
+   "stat": "",
+   "sub": "A city with no cars",
+   "visual_query": "Venice canal boats"
+  }
+ ]
+}

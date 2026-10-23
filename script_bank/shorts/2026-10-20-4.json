@@ -1,0 +1,94 @@
+{
+ "category": "space",
+ "topic": "ISS daily workout",
+ "hook": "Your gym session in space means being strapped to a treadmill.",
+ "title": "Astronauts Get Strapped Into Their Gym",
+ "description": "Astronauts on the ISS exercise about two hours a day. They run on a treadmill held down by a harness and lift using vacuum piston machines. Without it, their bones and muscles waste away.\n\n#Shorts #space #ISS",
+ "tags": [
+  "ISS",
+  "astronaut workout",
+  "space facts",
+  "microgravity",
+  "if you were in space",
+  "space exercise",
+  "treadmill in space",
+  "space station",
+  "shorts"
+ ],
+ "comment_prompt": "Would you enjoy this workout? Yes or no",
+ "hook_banner": "STRAPPED IN, IN SPACE",
+ "scenes": [
+  {
+   "narration": "Your gym session in space is strapped on.",
+   "emoji": "🏃",
+   "headline": "STRAPPED TO A TREADMILL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut treadmill harness"
+  },
+  {
+   "narration": "Astronauts run in a harness on a treadmill.",
+   "emoji": "🪢",
+   "headline": "RUNNING IN A HARNESS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ISS treadmill astronaut"
+  },
+  {
+   "narration": "Without it, they would just float away.",
+   "emoji": "🎈",
+   "headline": "NOTHING HOLDS YOU",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut floating ISS"
+  },
+  {
+   "narration": "They also lift using vacuum piston machines.",
+   "emoji": "🏋️",
+   "headline": "VACUUM LIFTING",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ISS resistance exercise device"
+  },
+  {
+   "narration": "Weights float, so the machine pushes back.",
+   "emoji": "💪",
+   "headline": "THE MACHINE PUSHES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut lifting ISS"
+  },
+  {
+   "narration": "About two hours of this, almost every day.",
+   "emoji": "⏱️",
+   "headline": "ABOUT 2 HOURS",
+   "stat": "2 hrs",
+   "sub": "a day",
+   "visual_query": "astronaut exercising space"
+  },
+  {
+   "narration": "Skip it, and bones and muscles waste away.",
+   "emoji": "🦴",
+   "headline": "BONES WASTE AWAY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "human skeleton bones"
+  },
+  {
+   "narration": "Your workout, strapped down, hundreds of kilometres up.",
+   "emoji": "🌍",
+   "headline": "GYM IN ORBIT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ISS over Earth"
+  },
+  {
+   "narration": "Tomorrow: a phone test with your ceiling fan.",
+   "emoji": "📱",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "Fan phone test",
+   "visual_query": "ceiling fan spinning"
+  }
+ ]
+}

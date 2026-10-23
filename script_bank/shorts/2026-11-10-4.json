@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Saturn's north pole hexagon",
+ "hook": "Your view of Saturn's north pole shows a giant six-sided cloud.",
+ "title": "Saturn Has A Hexagon Wider Than Earth",
+ "description": "Saturn's north pole has a six-sided pattern of clouds. It is a jet stream, and NASA's Cassini spacecraft photographed it. The hexagon is wider than planet Earth.\n\n#Shorts #Space #Saturn",
+ "tags": [
+  "Saturn",
+  "hexagon",
+  "Cassini",
+  "space facts",
+  "north pole",
+  "jet stream",
+  "NASA",
+  "shorts"
+ ],
+ "comment_prompt": "Real or fake at first glance? Pick one",
+ "hook_banner": "YES, IT'S REAL",
+ "scenes": [
+  {
+   "narration": "Saturn's north pole has six straight sides.",
+   "emoji": "🪐",
+   "headline": "SIX-SIDED CLOUD",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Saturn hexagon Cassini"
+  },
+  {
+   "narration": "It is a giant hexagon of clouds.",
+   "emoji": "⬡",
+   "headline": "A GIANT HEXAGON",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Saturn north pole hexagon"
+  },
+  {
+   "narration": "The Cassini spacecraft photographed it up close.",
+   "emoji": "🛰️",
+   "headline": "PHOTOGRAPHED BY CASSINI",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cassini spacecraft Saturn"
+  },
+  {
+   "narration": "It is a jet stream circling the pole.",
+   "emoji": "🌀",
+   "headline": "A JET STREAM",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Saturn polar clouds"
+  },
+  {
+   "narration": "The hexagon is wider than Earth.",
+   "emoji": "🌍",
+   "headline": "WIDER THAN EARTH",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Earth compared to Saturn hexagon"
+  },
+  {
+   "narration": "Our whole planet could fit inside it.",
+   "emoji": "😳",
+   "headline": "EARTH FITS INSIDE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Earth and Saturn size comparison"
+  },
+  {
+   "narration": "Nobody built it. It is weather.",
+   "emoji": "🌪️",
+   "headline": "JUST WEATHER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Saturn atmosphere clouds"
+  },
+  {
+   "narration": "Weather that draws straight lines in space.",
+   "emoji": "📐",
+   "headline": "STRAIGHT-LINE STORM",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Saturn pole infrared"
+  },
+  {
+   "narration": "Saturn's pole really is a hexagon.",
+   "emoji": "🪐",
+   "headline": "A REAL HEXAGON",
+   "stat": "",
+   "sub": "Tomorrow: the tiny hole in your plane window",
+   "visual_query": "Saturn Cassini rings"
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Magnetic Hill Ladakh",
+ "hook": "Your car rolls uphill here with the engine off.",
+ "title": "Your Car Rolls Uphill in Ladakh",
+ "description": "At Magnetic Hill near Leh in Ladakh, a car in neutral seems to roll uphill. It is a gravity-hill illusion: the surrounding land hides the horizon, so a downhill slope looks like an uphill one. Places That Shouldn't Exist, part of our geography series.\n\n#Shorts #Ladakh #MagneticHill",
+ "tags": [
+  "magnetic hill",
+  "ladakh",
+  "leh",
+  "gravity hill",
+  "optical illusion",
+  "india facts",
+  "geography facts",
+  "places that shouldnt exist"
+ ],
+ "comment_prompt": "Would you test it? Yes or no",
+ "hook_banner": "CAR ROLLS UPHILL",
+ "scenes": [
+  {
+   "narration": "Your car rolls uphill here, engine off.",
+   "emoji": "🚗",
+   "headline": "Uphill, Engine Off",
+   "stat": "",
+   "sub": "Ladakh, India",
+   "visual_query": "Magnetic Hill Ladakh road"
+  },
+  {
+   "narration": "This is Magnetic Hill, near Leh.",
+   "emoji": "🏔️",
+   "headline": "Magnetic Hill",
+   "stat": "",
+   "sub": "Near Leh",
+   "visual_query": "Leh Ladakh mountains road"
+  },
+  {
+   "narration": "Put the car in neutral and wait.",
+   "emoji": "🅿️",
+   "headline": "Neutral. Wait.",
+   "stat": "",
+   "sub": "",
+   "visual_query": "car parked mountain road"
+  },
+  {
+   "narration": "It starts creeping up the road.",
+   "emoji": "⬆️",
+   "headline": "It Creeps Up",
+   "stat": "",
+   "sub": "",
+   "visual_query": "car driving Ladakh highway"
+  },
+  {
+   "narration": "But the slope really runs downhill.",
+   "emoji": "📉",
+   "headline": "Really Downhill",
+   "stat": "",
+   "sub": "The slope is real",
+   "visual_query": "downhill road slope"
+  },
+  {
+   "narration": "The mountains hide the true horizon.",
+   "emoji": "🌄",
+   "headline": "Hidden Horizon",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ladakh mountain horizon"
+  },
+  {
+   "narration": "Your eyes get fooled, not your car.",
+   "emoji": "👀",
+   "headline": "Eyes Fooled",
+   "stat": "",
+   "sub": "Gravity-hill illusion",
+   "visual_query": "optical illusion road"
+  },
+  {
+   "narration": "So your car was rolling downhill all along.",
+   "emoji": "🚗",
+   "headline": "Downhill All Along",
+   "stat": "",
+   "sub": "",
+   "visual_query": "car rolling Ladakh road"
+  },
+  {
+   "narration": "Tomorrow: a whole country shrunk to a dot.",
+   "emoji": "➡️",
+   "headline": "Next: A Tiny Country",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Vatican City aerial"
+  }
+ ]
+}

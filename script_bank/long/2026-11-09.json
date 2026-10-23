@@ -1,0 +1,676 @@
+{
+ "topic": "Strange borders countdown: Chung Ying Street and India's nested enclave",
+ "hook": "Your street can be half Hong Kong and half China, and India has an even stranger border.",
+ "title": "6 Strange Borders, India's Is the Wildest",
+ "description": "Six real borders that make no sense: a Spanish town inside France, a US peninsula you reach through Canada, a road across an airport runway, a German town using Swiss money, a street split between Hong Kong and China, and India's nested enclave in Cooch Behar. Every one is true, and every one is on a real map. Watch to the end for the strangest border of all.\n\n#borders #geography #facts",
+ "tags": [
+  "strange borders",
+  "weird borders",
+  "borders that make no sense",
+  "Chung Ying Street",
+  "Sha Tau Kok",
+  "Dahala Khagrabari",
+  "India Bangladesh enclaves",
+  "Cooch Behar",
+  "Llivia",
+  "Point Roberts",
+  "Gibraltar runway",
+  "Busingen",
+  "geography facts",
+  "map facts"
+ ],
+ "comment_prompt": "Which border was the strangest?",
+ "hook_banner": "SIX REAL BORDERS",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "6. Llívia, Spain inside France",
+   "scene": 6
+  },
+  {
+   "title": "5. Point Roberts, via Canada",
+   "scene": 17
+  },
+  {
+   "title": "4. Gibraltar's runway road",
+   "scene": 28
+  },
+  {
+   "title": "3. Büsingen, German but Swiss",
+   "scene": 39
+  },
+  {
+   "title": "2. Chung Ying Street",
+   "scene": 50
+  },
+  {
+   "title": "1. India's nested enclave",
+   "scene": 64
+  },
+  {
+   "title": "Outro",
+   "scene": 78
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your street can be half Hong Kong and half China, and India has an even stranger border.",
+   "emoji": "🗺️",
+   "headline": "Streets Split By Borders",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border street sign"
+  },
+  {
+   "narration": "By the end of this video, you will see a farm plot in India that sat inside a pocket, inside a pocket, inside a pocket.",
+   "emoji": "🌾",
+   "headline": "A Field Inside Fields",
+   "stat": "",
+   "sub": "",
+   "visual_query": "farmland india"
+  },
+  {
+   "narration": "Six real borders, each one stranger than the last. Every one of them is on a real map, and you can check them yourself.",
+   "emoji": "📍",
+   "headline": "Six Real Borders",
+   "stat": "6",
+   "sub": "",
+   "visual_query": "world map borders"
+  },
+  {
+   "narration": "The last two are the best, and the very last one is in India. Stay with me, because it gets weird fast.",
+   "emoji": "🇮🇳",
+   "headline": "India Comes Last",
+   "stat": "",
+   "sub": "",
+   "visual_query": "india map"
+  },
+  {
+   "narration": "We start small, with a quiet mountain town where a very old mistake in a treaty still decides who owns the land.",
+   "emoji": "📜",
+   "headline": "An Old Mistake",
+   "stat": "",
+   "sub": "",
+   "visual_query": "pyrenees mountains town"
+  },
+  {
+   "narration": "So here is number six: a Spanish town that France completely surrounds, and the odd reason it is still Spanish.",
+   "emoji": "6️⃣",
+   "headline": "Border Number Six",
+   "stat": "6",
+   "sub": "",
+   "visual_query": "spain france border"
+  },
+  {
+   "narration": "Number six. Llívia is a Spanish town, but you will not find it on the Spanish side of the mountains.",
+   "emoji": "🏘️",
+   "headline": "Llívia",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Llivia town spain"
+  },
+  {
+   "narration": "It sits inside France, a short drive from the border. Spanish flags fly there, and people live by Spanish rules.",
+   "emoji": "🚩",
+   "headline": "Spanish Inside France",
+   "stat": "",
+   "sub": "",
+   "visual_query": "spanish flag town"
+  },
+  {
+   "narration": "The reason goes back to 1659. In a peace treaty, Spain agreed to hand a group of villages over to France.",
+   "emoji": "📜",
+   "headline": "The 1659 Treaty",
+   "stat": "1659",
+   "sub": "",
+   "visual_query": "treaty of pyrenees"
+  },
+  {
+   "narration": "But Llívia was counted as a town, not a village. So by the wording of the treaty, it was never given away.",
+   "emoji": "🤷",
+   "headline": "Town, Not Village",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old map pyrenees"
+  },
+  {
+   "narration": "Think about that. One word in an old document, and hundreds of years later the map still shows a Spanish island in France.",
+   "emoji": "✍️",
+   "headline": "One Word Did It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old treaty document"
+  },
+  {
+   "narration": "Today a special road links Llívia to the rest of Spain. That road is treated as neutral ground between the two countries.",
+   "emoji": "🛣️",
+   "headline": "The Neutral Road",
+   "stat": "",
+   "sub": "",
+   "visual_query": "mountain road pyrenees"
+  },
+  {
+   "narration": "So you can drive from Spain to this Spanish town while the French countryside rolls past on both sides of your window.",
+   "emoji": "🚗",
+   "headline": "Spain Through France",
+   "stat": "",
+   "sub": "",
+   "visual_query": "car driving french countryside"
+  },
+  {
+   "narration": "It also has a pretty old centre and a church on a hill, and the views over the French hills are lovely.",
+   "emoji": "⛪",
+   "headline": "A Town On A Hill",
+   "stat": "",
+   "sub": "",
+   "visual_query": "church on hill pyrenees"
+  },
+  {
+   "narration": "A town that is Spanish on paper and French on every side, all because a treaty forgot one place.",
+   "emoji": "🧩",
+   "headline": "Forgotten By A Treaty",
+   "stat": "",
+   "sub": "",
+   "visual_query": "llivia aerial"
+  },
+  {
+   "narration": "That is strange, but at least you can drive there. The next place has a road you must leave your own country to use.",
+   "emoji": "🚧",
+   "headline": "Strange, But Wait",
+   "stat": "",
+   "sub": "",
+   "visual_query": "road sign border"
+  },
+  {
+   "narration": "Let us go from Europe to the west coast of North America, where one border line cut right through a peninsula.",
+   "emoji": "🧭",
+   "headline": "To The Pacific Coast",
+   "stat": "",
+   "sub": "",
+   "visual_query": "pacific northwest coast"
+  },
+  {
+   "narration": "Number five. Point Roberts is part of the United States, in the state of Washington, and the map shows it clearly.",
+   "emoji": "5️⃣",
+   "headline": "Point Roberts",
+   "stat": "5",
+   "sub": "",
+   "visual_query": "Point Roberts Washington"
+  },
+  {
+   "narration": "But the border was drawn along a straight line of latitude, the 49th parallel, and it sliced the tip of a peninsula off.",
+   "emoji": "📏",
+   "headline": "A Straight Line",
+   "stat": "49th",
+   "sub": "parallel",
+   "visual_query": "peninsula map border"
+  },
+  {
+   "narration": "That left a small piece of America that hangs below Canada, with no American road connecting it to the rest of the country.",
+   "emoji": "📍",
+   "headline": "America, Cut Off",
+   "stat": "",
+   "sub": "",
+   "visual_query": "canada us border map"
+  },
+  {
+   "narration": "So the only land route from Point Roberts to the rest of the United States goes through Canada.",
+   "emoji": "🍁",
+   "headline": "Through Canada",
+   "stat": "",
+   "sub": "",
+   "visual_query": "canada border crossing"
+  },
+  {
+   "narration": "Residents cross into Canada, drive through it, and then cross back into America. That is two border checks just to reach the next big town.",
+   "emoji": "🛂",
+   "headline": "Two Checks",
+   "stat": "2",
+   "sub": "",
+   "visual_query": "border checkpoint cars"
+  },
+  {
+   "narration": "Or they can take a boat across the water, which skips Canada altogether, though the weather has to be kind.",
+   "emoji": "⛵",
+   "headline": "Or Take A Boat",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ferry boat coast"
+  },
+  {
+   "narration": "Imagine driving to the supermarket and needing to show your passport twice. For these people, that is normal life.",
+   "emoji": "🛒",
+   "headline": "Passport For Groceries",
+   "stat": "",
+   "sub": "",
+   "visual_query": "passport border officer"
+  },
+  {
+   "narration": "It is still part of the United States, with American addresses, American laws and a very strange commute.",
+   "emoji": "🇺🇸",
+   "headline": "Still America",
+   "stat": "",
+   "sub": "",
+   "visual_query": "american flag small town"
+  },
+  {
+   "narration": "One straight line drawn on a map, long ago, and a whole community still pays for it every time it leaves home.",
+   "emoji": "📐",
+   "headline": "A Line Drawn Long Ago",
+   "stat": "",
+   "sub": "",
+   "visual_query": "surveyor map line"
+  },
+  {
+   "narration": "But the next border does something even odder. It makes cars and people wait for airplanes.",
+   "emoji": "✈️",
+   "headline": "Cars Wait For Planes",
+   "stat": "",
+   "sub": "",
+   "visual_query": "airplane runway"
+  },
+  {
+   "narration": "Now we go back to Europe, to a huge rock beside the sea, at the very south of Spain.",
+   "emoji": "🪨",
+   "headline": "A Rock By The Sea",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rock of Gibraltar"
+  },
+  {
+   "narration": "Number four. Gibraltar sits at the tip of Spain, and it belongs to the United Kingdom.",
+   "emoji": "4️⃣",
+   "headline": "Gibraltar",
+   "stat": "4",
+   "sub": "",
+   "visual_query": "Gibraltar rock aerial"
+  },
+  {
+   "narration": "The main road in from Spain crosses the airport runway. Yes, the very runway where aircraft land.",
+   "emoji": "🛬",
+   "headline": "Road Over Runway",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar airport runway"
+  },
+  {
+   "narration": "The road is called Winston Churchill Avenue, and for most of the day it is just a busy road.",
+   "emoji": "🛣️",
+   "headline": "Winston Churchill Avenue",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar Winston Churchill Avenue"
+  },
+  {
+   "narration": "But when a plane is about to land or take off, barriers come down and the cars and walkers all have to wait.",
+   "emoji": "🚧",
+   "headline": "Barriers Come Down",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar runway barrier"
+  },
+  {
+   "narration": "Then the plane rolls across, the barriers lift, and people carry on to work, to school or to the beach.",
+   "emoji": "🚶",
+   "headline": "Then Life Continues",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar border crossing"
+  },
+  {
+   "narration": "So here the border between Spain and the UK is a place where you queue twice: once for the passport check, and again for a plane.",
+   "emoji": "⏳",
+   "headline": "Wait For A Plane",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar spain border queue"
+  },
+  {
+   "narration": "And it all sits under a giant rock, with a small town built at its foot and monkeys running around on top.",
+   "emoji": "🐒",
+   "headline": "A Rock With Monkeys",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar barbary macaque"
+  },
+  {
+   "narration": "Very few borders in the world are crossed over a runway, and this is the one most people have heard about.",
+   "emoji": "🌍",
+   "headline": "A Runway Border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar airport aerial"
+  },
+  {
+   "narration": "The next place is not an island or a peninsula. It is a whole town that sits in the wrong country.",
+   "emoji": "🏙️",
+   "headline": "A Town In The Wrong Place",
+   "stat": "",
+   "sub": "",
+   "visual_query": "swiss german border"
+  },
+  {
+   "narration": "And the people there handle their money in a way that does not match the country they officially belong to.",
+   "emoji": "💶",
+   "headline": "Odd Money",
+   "stat": "",
+   "sub": "",
+   "visual_query": "swiss francs coins"
+  },
+  {
+   "narration": "Number three. Büsingen am Hochrhein is a German town, but Switzerland surrounds it on every side.",
+   "emoji": "3️⃣",
+   "headline": "Büsingen",
+   "stat": "3",
+   "sub": "",
+   "visual_query": "Busingen am Hochrhein"
+  },
+  {
+   "narration": "To drive from Büsingen to the rest of Germany, you have to pass through Swiss land. There is no way around.",
+   "emoji": "🛤️",
+   "headline": "Swiss On All Sides",
+   "stat": "",
+   "sub": "",
+   "visual_query": "swiss village rhine"
+  },
+  {
+   "narration": "The town is also part of the Swiss customs area, and the Swiss franc is used in everyday life there.",
+   "emoji": "🇨🇭",
+   "headline": "Swiss Customs Area",
+   "stat": "",
+   "sub": "",
+   "visual_query": "swiss franc banknote"
+  },
+  {
+   "narration": "So it is a town with German law, a German address and Swiss money in the shops. Few places mix two countries so completely.",
+   "emoji": "🧩",
+   "headline": "Two Countries At Once",
+   "stat": "",
+   "sub": "",
+   "visual_query": "german swiss border sign"
+  },
+  {
+   "narration": "If you enjoy strange places and facts like these, subscribe, because the next two borders are the best ones in the video.",
+   "emoji": "🔔",
+   "headline": "Subscribe For More",
+   "stat": "",
+   "sub": "",
+   "visual_query": "subscribe button"
+  },
+  {
+   "narration": "These first four were odd, but you could still tell where the line was. The next one runs right down the middle of a street.",
+   "emoji": "↔️",
+   "headline": "A Line Down The Street",
+   "stat": "",
+   "sub": "",
+   "visual_query": "narrow street asia"
+  },
+  {
+   "narration": "Chung Ying Street is the heart of this next story, and it sits in a small town on the edge of Hong Kong.",
+   "emoji": "🏙️",
+   "headline": "On The Edge Of Hong Kong",
+   "stat": "",
+   "sub": "",
+   "visual_query": "hong kong border town"
+  },
+  {
+   "narration": "Number two. Sha Tau Kok sits right next to the mainland Chinese city of Shenzhen, and a border cuts through the old town.",
+   "emoji": "2️⃣",
+   "headline": "Sha Tau Kok",
+   "stat": "2",
+   "sub": "",
+   "visual_query": "Sha Tau Kok Hong Kong"
+  },
+  {
+   "narration": "The name Chung Ying Street means China-Britain Street, and that name is no accident, because both countries met on this very road.",
+   "emoji": "🇨🇳",
+   "headline": "China-Britain Street",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chung Ying Street"
+  },
+  {
+   "narration": "In 1898, Britain and China agreed on a border for the Hong Kong area. In this town, the line ran down the middle of the lane.",
+   "emoji": "📜",
+   "headline": "The 1898 Line",
+   "stat": "1898",
+   "sub": "",
+   "visual_query": "hong kong 1898 map"
+  },
+  {
+   "narration": "Stone markers were set into the road to show where the line goes. They are still there, numbered one after another.",
+   "emoji": "🪨",
+   "headline": "Stone Markers",
+   "stat": "",
+   "sub": "",
+   "visual_query": "boundary stone hong kong"
+  },
+  {
+   "narration": "One side of a stone reads Anglo-Chinese Boundary 1898 in English. The other side carries Chinese writing for the same line.",
+   "emoji": "🔤",
+   "headline": "Two Languages",
+   "stat": "",
+   "sub": "",
+   "visual_query": "boundary stone inscription"
+  },
+  {
+   "narration": "So on one side of the street you are in Hong Kong, and on the other side you are in mainland China.",
+   "emoji": "↔️",
+   "headline": "One Street, Two Sides",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sha Tau Kok street"
+  },
+  {
+   "narration": "Shop doors face each other across the lane. Take a few steps across the road, and you are under a different system of laws.",
+   "emoji": "🏪",
+   "headline": "Shops Face Shops",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sha Tau Kok shops"
+  },
+  {
+   "narration": "For many years the Hong Kong side lay inside a closed frontier zone, so even getting to the street needed a permit.",
+   "emoji": "📄",
+   "headline": "A Permit To Enter",
+   "stat": "",
+   "sub": "",
+   "visual_query": "hong kong frontier closed area"
+  },
+  {
+   "narration": "That is why some people say it is the street with one road and two systems. The border is literally under your feet.",
+   "emoji": "👣",
+   "headline": "Border Under Your Feet",
+   "stat": "",
+   "sub": "",
+   "visual_query": "hong kong shenzhen border"
+  },
+  {
+   "narration": "There is no wall down the middle, no fence, just old stones and a road that people have shared for over a century.",
+   "emoji": "🧱",
+   "headline": "No Wall, Just Stones",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old stone marker road"
+  },
+  {
+   "narration": "A single lane, two governments, and a line that was drawn when the town was a fishing village.",
+   "emoji": "🎣",
+   "headline": "A Fishing Village Line",
+   "stat": "",
+   "sub": "",
+   "visual_query": "hong kong fishing village"
+  },
+  {
+   "narration": "Walk it slowly, and you cross a border without any gate, any guard or any sign other than a worn stone.",
+   "emoji": "🚶",
+   "headline": "Cross Without A Gate",
+   "stat": "",
+   "sub": "",
+   "visual_query": "stone marker street"
+  },
+  {
+   "narration": "Strange, right? And yet it is still not the strangest border in this video. That one is in India.",
+   "emoji": "🇮🇳",
+   "headline": "Not The Strangest",
+   "stat": "",
+   "sub": "",
+   "visual_query": "india bangladesh border"
+  },
+  {
+   "narration": "To find it, we go to the far north of West Bengal, to a district called Cooch Behar, right on the border.",
+   "emoji": "🧭",
+   "headline": "Cooch Behar",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cooch Behar"
+  },
+  {
+   "narration": "Number one. Here, India and Bangladesh once had a tangle of tiny pockets of land inside each other's territory.",
+   "emoji": "1️⃣",
+   "headline": "Pockets Of Land",
+   "stat": "1",
+   "sub": "",
+   "visual_query": "india bangladesh enclaves map"
+  },
+  {
+   "narration": "Over a hundred Indian pockets lay inside Bangladesh, and about fifty Bangladeshi pockets lay inside India.",
+   "emoji": "🗺️",
+   "headline": "Pockets Everywhere",
+   "stat": "",
+   "sub": "",
+   "visual_query": "india bangladesh border map"
+  },
+  {
+   "narration": "They came from old deals between local kings, and then Partition in 1947 locked every one of them in place.",
+   "emoji": "👑",
+   "headline": "Old Deals, Then 1947",
+   "stat": "1947",
+   "sub": "",
+   "visual_query": "cooch behar palace"
+  },
+  {
+   "narration": "People who lived in these pockets were cut off from their own country. Many struggled to get schools, clinics, power and water.",
+   "emoji": "🏚️",
+   "headline": "Cut Off From Home",
+   "stat": "",
+   "sub": "",
+   "visual_query": "village bangladesh india border"
+  },
+  {
+   "narration": "To reach your own country, you first had to cross foreign land. Sometimes you had to do it more than once.",
+   "emoji": "🚶",
+   "headline": "Foreign Land Around You",
+   "stat": "",
+   "sub": "",
+   "visual_query": "rural village bengal road"
+  },
+  {
+   "narration": "Now for the part I promised. Among these pockets was a plot called Dahala Khagrabari, and it was the strangest of all.",
+   "emoji": "🌾",
+   "headline": "Dahala Khagrabari",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dahala Khagrabari"
+  },
+  {
+   "narration": "It was a piece of India, inside a piece of Bangladesh, inside a piece of India, inside Bangladesh.",
+   "emoji": "🪆",
+   "headline": "Four Layers Deep",
+   "stat": "4",
+   "sub": "",
+   "visual_query": "enclave nested diagram"
+  },
+  {
+   "narration": "That makes it the only third-order enclave in the world, a pocket inside a pocket inside a pocket, with nothing else like it.",
+   "emoji": "🧅",
+   "headline": "The Only One",
+   "stat": "",
+   "sub": "",
+   "visual_query": "enclave map nested"
+  },
+  {
+   "narration": "The plot was farmland with nobody living on it. Its owner was a Bangladeshi farmer who lived in the pocket around it.",
+   "emoji": "👨‍🌾",
+   "headline": "A Lonely Farm Plot",
+   "stat": "",
+   "sub": "",
+   "visual_query": "paddy field bengal"
+  },
+  {
+   "narration": "So an Indian field was owned by a Bangladeshi farmer, who lived on Indian land, inside Bangladesh. Try drawing that on paper.",
+   "emoji": "✏️",
+   "headline": "Try Drawing It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "farmer paddy field india"
+  },
+  {
+   "narration": "In 2015, India and Bangladesh finally swapped these pockets. India even changed its constitution to make it happen.",
+   "emoji": "✅",
+   "headline": "The 2015 Swap",
+   "stat": "2015",
+   "sub": "",
+   "visual_query": "india bangladesh prime ministers"
+  },
+  {
+   "narration": "Dahala Khagrabari went to Bangladesh on the first of August 2015, and the strangest plot on the map disappeared.",
+   "emoji": "📅",
+   "headline": "Gone In August 2015",
+   "stat": "",
+   "sub": "",
+   "visual_query": "bangladesh india flags border"
+  },
+  {
+   "narration": "People in the pockets could choose their country, and many finally got proper addresses, roads and electricity.",
+   "emoji": "🏠",
+   "headline": "A Real Address",
+   "stat": "",
+   "sub": "",
+   "visual_query": "indian village road"
+  },
+  {
+   "narration": "So the next time a border looks like a simple line on your phone, remember these six places.",
+   "emoji": "🔍",
+   "headline": "Simple Lines Lie",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map"
+  },
+  {
+   "narration": "A Spanish town in France, a US peninsula you reach through Canada, and a road that crosses a runway.",
+   "emoji": "🛬",
+   "headline": "The First Three",
+   "stat": "",
+   "sub": "",
+   "visual_query": "airport border road"
+  },
+  {
+   "narration": "A German town using Swiss money, a street split down the middle, and a field inside three other pockets of land.",
+   "emoji": "🧵",
+   "headline": "The Last Three",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border markers"
+  },
+  {
+   "narration": "Borders are drawn by people, and people make odd choices. And yes, your street really can be half Hong Kong and half China.",
+   "emoji": "🔁",
+   "headline": "Half Hong Kong, Half China",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chung Ying Street"
+  },
+  {
+   "narration": "Tomorrow: the country with no border at its own front door.",
+   "emoji": "➡️",
+   "headline": "Next Video",
+   "stat": "",
+   "sub": "",
+   "visual_query": "country border gate"
+  }
+ ]
+}

@@ -1,0 +1,653 @@
+{
+ "topic": "Why Nathu La in Sikkim is stranger than you think",
+ "hook": "Your permit to Sikkim's border pass puts you metres from Chinese soldiers, and only Indians can go.",
+ "title": "Why Nathu La Is Stranger Than You Think",
+ "description": "Nathu La in Sikkim is a high Himalayan pass where Indian and Chinese soldiers stand on either side of a wire fence. In this video we go through seven true facts about it: Sikkim's days as a kingdom, the old Silk Road route, the years it was shut, who is allowed to visit, and the soldier people still talk about.\n\nSubscribe for more places and facts that sound fake but are true.\n\n#NathuLa #Sikkim #IndiaChinaBorder",
+ "tags": [
+  "Nathu La",
+  "Sikkim",
+  "India China border",
+  "Nathu La pass",
+  "Gangtok",
+  "strange facts",
+  "geography facts",
+  "border facts",
+  "Baba Harbhajan Singh",
+  "Silk Road",
+  "Himalayas",
+  "facts that sound fake",
+  "India facts",
+  "Kailash Mansarovar",
+  "Tsomgo Lake"
+ ],
+ "comment_prompt": "Would you visit Nathu La? Yes or no?",
+ "hook_banner": "CHINA IS METRES AWAY",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "Sikkim, once a kingdom",
+   "scene": 6
+  },
+  {
+   "title": "The old Silk Road doorway",
+   "scene": 16
+  },
+  {
+   "title": "Shut for over forty years",
+   "scene": 25
+  },
+  {
+   "title": "Only Indians can visit",
+   "scene": 34
+  },
+  {
+   "title": "Fighting, then sweets",
+   "scene": 43
+  },
+  {
+   "title": "Baba Harbhajan Singh",
+   "scene": 51
+  },
+  {
+   "title": "The fence itself",
+   "scene": 58
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your permit to Sikkim's border pass puts you metres from Chinese soldiers, and only Indians can go.",
+   "emoji": "🛂",
+   "headline": "CHINA, METRES AWAY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nathu La border fence"
+  },
+  {
+   "narration": "That is Nathu La, a mountain gap above four thousand metres, where two armies stand on either side of one wire fence.",
+   "emoji": "🏔️",
+   "headline": "Nathu La Pass",
+   "stat": "4,000+ m",
+   "sub": "Sikkim, India",
+   "visual_query": "Nathu La pass"
+  },
+  {
+   "narration": "You will learn why this pass stayed shut for decades, and why soldiers honour a man who died in 1968.",
+   "emoji": "🔒",
+   "headline": "Shut for decades",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nathu La gate"
+  },
+  {
+   "narration": "We start in Sikkim, a place that was not even part of India until 1975.",
+   "emoji": "🗺️",
+   "headline": "Not India until 1975",
+   "stat": "1975",
+   "sub": "",
+   "visual_query": "Sikkim map"
+  },
+  {
+   "narration": "The biggest surprise is saved for last, because it is the fence itself. Stay till the end.",
+   "emoji": "🧱",
+   "headline": "The fence is last",
+   "stat": "",
+   "sub": "",
+   "visual_query": "barbed wire fence mountain"
+  },
+  {
+   "narration": "Seven facts, each one stranger than the last. We begin at the bottom of the mountain.",
+   "emoji": "7️⃣",
+   "headline": "Seven strange facts",
+   "stat": "7",
+   "sub": "",
+   "visual_query": "Himalaya road Sikkim"
+  },
+  {
+   "narration": "Fact one. Sikkim was a separate Himalayan kingdom, ruled by a king called the Chogyal.",
+   "emoji": "👑",
+   "headline": "A Himalayan kingdom",
+   "stat": "",
+   "sub": "Ruled by the Chogyal",
+   "visual_query": "Sikkim palace Gangtok"
+  },
+  {
+   "narration": "The Chogyal's family ruled for centuries, and Gangtok was its capital, the same city tourists start from today.",
+   "emoji": "🏯",
+   "headline": "Gangtok was the capital",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gangtok city"
+  },
+  {
+   "narration": "Even after India became independent in 1947, Sikkim did not simply become an Indian state.",
+   "emoji": "🇮🇳",
+   "headline": "Not a state in 1947",
+   "stat": "1947",
+   "sub": "",
+   "visual_query": "Sikkim old flag"
+  },
+  {
+   "narration": "India protected it and handled its defence, but Sikkim kept its own king and its own flag.",
+   "emoji": "🚩",
+   "headline": "Own king, own flag",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sikkim monastery flag"
+  },
+  {
+   "narration": "Then in 1975, the people of Sikkim voted, and the kingdom became a state of India.",
+   "emoji": "🗳️",
+   "headline": "The 1975 vote",
+   "stat": "1975",
+   "sub": "Kingdom becomes a state",
+   "visual_query": "Sikkim people voting"
+  },
+  {
+   "narration": "So the road to Nathu La runs through a land that was a kingdom within living memory.",
+   "emoji": "🛣️",
+   "headline": "A kingdom, recently",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sikkim mountain road"
+  },
+  {
+   "narration": "Sikkim is tiny, yet it touches three other countries: China, Nepal and Bhutan.",
+   "emoji": "🧭",
+   "headline": "Touches 3 countries",
+   "stat": "3",
+   "sub": "China, Nepal, Bhutan",
+   "visual_query": "Sikkim border map"
+  },
+  {
+   "narration": "It is also home to Kangchenjunga, the third highest mountain on Earth, visible from Gangtok on a clear day.",
+   "emoji": "⛰️",
+   "headline": "Kangchenjunga",
+   "stat": "#3",
+   "sub": "Highest mountains",
+   "visual_query": "Kangchenjunga peak"
+  },
+  {
+   "narration": "And in 2016, Sikkim became India's first fully organic state, a fact most visitors never hear.",
+   "emoji": "🌱",
+   "headline": "India's first organic state",
+   "stat": "2016",
+   "sub": "",
+   "visual_query": "Sikkim organic farm"
+  },
+  {
+   "narration": "But that old doorway between India and Tibet is exactly what makes our next fact so strange.",
+   "emoji": "🚪",
+   "headline": "A doorway to Tibet",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sikkim Tibet mountains"
+  },
+  {
+   "narration": "Fact two. Nathu La sits on an old branch of the Silk Road, linking Tibet with India.",
+   "emoji": "🐎",
+   "headline": "A Silk Road branch",
+   "stat": "",
+   "sub": "Tibet to India",
+   "visual_query": "Silk Road mule caravan"
+  },
+  {
+   "narration": "For centuries, traders walked this track with mules, carrying wool, silk and other goods over the mountains.",
+   "emoji": "🧶",
+   "headline": "Mules and wool",
+   "stat": "",
+   "sub": "",
+   "visual_query": "mule train Himalaya"
+  },
+  {
+   "narration": "On the way up, you pass Tsomgo Lake, a high mountain lake that freezes over in winter.",
+   "emoji": "🧊",
+   "headline": "Tsomgo Lake",
+   "stat": "",
+   "sub": "Freezes in winter",
+   "visual_query": "Tsomgo Lake Sikkim"
+  },
+  {
+   "narration": "Prayer flags line the roadside, fluttering in the cold wind as the bends get sharper.",
+   "emoji": "🎏",
+   "headline": "Prayer flags",
+   "stat": "",
+   "sub": "",
+   "visual_query": "prayer flags Sikkim road"
+  },
+  {
+   "narration": "The pass itself is above four thousand metres, higher than Darjeeling or Shimla.",
+   "emoji": "📈",
+   "headline": "Above 4,000 metres",
+   "stat": "4,000+ m",
+   "sub": "Higher than Shimla",
+   "visual_query": "Nathu La altitude signboard"
+  },
+  {
+   "narration": "At this height the air holds noticeably less oxygen, so tourists often get headaches and breathe hard on arrival.",
+   "emoji": "😮‍💨",
+   "headline": "Thin air",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tourists high altitude Himalaya"
+  },
+  {
+   "narration": "Even climbing a short flight of stairs can leave you gasping for breath.",
+   "emoji": "🪜",
+   "headline": "Stairs feel hard",
+   "stat": "",
+   "sub": "",
+   "visual_query": "steps Nathu La"
+  },
+  {
+   "narration": "Snow often covers the road for long stretches, and soldiers must stay posted here through the winter.",
+   "emoji": "❄️",
+   "headline": "Snow-covered road",
+   "stat": "",
+   "sub": "",
+   "visual_query": "snow road Sikkim army"
+  },
+  {
+   "narration": "And this pass was not always open. For many years, nobody could cross it at all.",
+   "emoji": "⛔",
+   "headline": "Once sealed",
+   "stat": "",
+   "sub": "",
+   "visual_query": "closed border gate Himalaya"
+  },
+  {
+   "narration": "Fact three. After the 1962 war between India and China, Nathu La was closed to trade.",
+   "emoji": "📅",
+   "headline": "Closed after 1962",
+   "stat": "1962",
+   "sub": "",
+   "visual_query": "1962 India China war"
+  },
+  {
+   "narration": "The old route that had carried goods for generations simply went quiet.",
+   "emoji": "🤫",
+   "headline": "The route went quiet",
+   "stat": "",
+   "sub": "",
+   "visual_query": "empty mountain pass"
+  },
+  {
+   "narration": "The border stayed sealed for more than forty years, and the mountain track sat empty.",
+   "emoji": "⏳",
+   "headline": "Sealed 40+ years",
+   "stat": "40+ years",
+   "sub": "",
+   "visual_query": "empty track Himalaya"
+  },
+  {
+   "narration": "For people on both sides, that meant a trade link of generations was cut.",
+   "emoji": "✂️",
+   "headline": "A link cut",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sikkim Tibet traders"
+  },
+  {
+   "narration": "It finally reopened in 2006, with trade between India and China through the pass again.",
+   "emoji": "🔓",
+   "headline": "Reopened in 2006",
+   "stat": "2006",
+   "sub": "",
+   "visual_query": "Nathu La trade 2006"
+  },
+  {
+   "narration": "But do not imagine a busy market. Trade here is limited to certain goods and certain days.",
+   "emoji": "📦",
+   "headline": "Limited trade",
+   "stat": "",
+   "sub": "Certain goods, certain days",
+   "visual_query": "border trade mart Sherathang"
+  },
+  {
+   "narration": "Traders cross only at set times, and only with the right paperwork.",
+   "emoji": "📝",
+   "headline": "Set times only",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border trade paperwork"
+  },
+  {
+   "narration": "So the pass that once carried Silk Road caravans now handles a small, tightly controlled trickle.",
+   "emoji": "💧",
+   "headline": "A small trickle",
+   "stat": "",
+   "sub": "",
+   "visual_query": "trucks Nathu La road"
+  },
+  {
+   "narration": "Next comes a rule that surprises many visitors, because not everyone is allowed to see this border.",
+   "emoji": "🚫",
+   "headline": "Not everyone can go",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nathu La entry checkpost"
+  },
+  {
+   "narration": "Fact four. Nathu La is open to tourists, but only Indian citizens may visit.",
+   "emoji": "🇮🇳",
+   "headline": "Indians only",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Indian tourists Nathu La"
+  },
+  {
+   "narration": "Foreign passport holders are not allowed up, and reports say that includes OCI card holders.",
+   "emoji": "🛑",
+   "headline": "Foreigners not allowed",
+   "stat": "",
+   "sub": "",
+   "visual_query": "passport stamp"
+  },
+  {
+   "narration": "Indian visitors need a special permit, which you arrange through the tourism office in Gangtok.",
+   "emoji": "📄",
+   "headline": "Permit from Gangtok",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gangtok tourism office permit"
+  },
+  {
+   "narration": "Army posts line the road, and your permit is checked before you are allowed to go higher.",
+   "emoji": "🪖",
+   "headline": "Army checks on the way",
+   "stat": "",
+   "sub": "",
+   "visual_query": "army checkpost Sikkim"
+  },
+  {
+   "narration": "Visits are limited to certain days of the week, so check with Sikkim tourism before you plan.",
+   "emoji": "🗓️",
+   "headline": "Only some days",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sikkim tourism board sign"
+  },
+  {
+   "narration": "Carry a photo ID and warm clothes, and be patient, because the checks take time.",
+   "emoji": "🧥",
+   "headline": "Bring ID, warm clothes",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tourists warm jackets Himalaya"
+  },
+  {
+   "narration": "The result is odd: a live border where families come on holiday and take selfies.",
+   "emoji": "🤳",
+   "headline": "Selfies at a border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "family photo Nathu La"
+  },
+  {
+   "narration": "If you like strange places and facts that sound fake but are true, subscribe, because there is more like this coming.",
+   "emoji": "🔔",
+   "headline": "Strange but true",
+   "stat": "",
+   "sub": "Subscribe for more",
+   "visual_query": "world map globe"
+  },
+  {
+   "narration": "Now fact five shows how tense things once got up here.",
+   "emoji": "⚡",
+   "headline": "It got tense",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Indian army Sikkim"
+  },
+  {
+   "narration": "Fact five. In 1967, Indian and Chinese troops fought each other right here at Nathu La.",
+   "emoji": "💥",
+   "headline": "Fighting in 1967",
+   "stat": "1967",
+   "sub": "",
+   "visual_query": "Nathu La 1967 army"
+  },
+  {
+   "narration": "It was one of the rare clashes between the two armies, and it happened on this narrow pass.",
+   "emoji": "⚔️",
+   "headline": "A rare clash",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nathu La war memorial"
+  },
+  {
+   "narration": "The two sides also faced a standoff in 2017 at Doklam, a plateau not far from Nathu La.",
+   "emoji": "📍",
+   "headline": "Doklam, 2017",
+   "stat": "2017",
+   "sub": "",
+   "visual_query": "Doklam plateau"
+  },
+  {
+   "narration": "Yet today, the same border has something no one would expect from soldiers who once fought.",
+   "emoji": "🤝",
+   "headline": "A surprise today",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Indian Chinese soldiers meeting"
+  },
+  {
+   "narration": "On some national days, officers from both armies meet at the border and exchange sweets.",
+   "emoji": "🍬",
+   "headline": "Sweets at the border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "mithai box sweets"
+  },
+  {
+   "narration": "So the same few metres of ground have seen gunfire in one era and mithai in another.",
+   "emoji": "🍯",
+   "headline": "Gunfire, then mithai",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border personnel meeting"
+  },
+  {
+   "narration": "That does not mean the border is relaxed. Both sides keep soldiers posted all year.",
+   "emoji": "👀",
+   "headline": "Still guarded",
+   "stat": "",
+   "sub": "",
+   "visual_query": "soldiers standing border Sikkim"
+  },
+  {
+   "narration": "Think about that contrast the next time you hear the word border.",
+   "emoji": "💭",
+   "headline": "Think about that",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border signboard"
+  },
+  {
+   "narration": "Next is a soldier whose story is told on this mountain, even though he died decades ago.",
+   "emoji": "🕯️",
+   "headline": "A soldier's story",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Indian army soldier salute"
+  },
+  {
+   "narration": "Fact six. Near Nathu La, there is a shrine to Baba Harbhajan Singh, an Indian soldier.",
+   "emoji": "🛕",
+   "headline": "Baba Harbhajan Singh",
+   "stat": "",
+   "sub": "A soldier's shrine",
+   "visual_query": "Baba Mandir Sikkim"
+  },
+  {
+   "narration": "Accounts say he died in 1968 after falling into a fast stream while leading a mule train.",
+   "emoji": "🌊",
+   "headline": "Died in 1968",
+   "stat": "1968",
+   "sub": "",
+   "visual_query": "mountain stream Sikkim"
+  },
+  {
+   "narration": "Soldiers believe his spirit never left, and that he still warns them of danger in their dreams.",
+   "emoji": "💤",
+   "headline": "A spirit that warns",
+   "stat": "",
+   "sub": "Soldiers' belief",
+   "visual_query": "Baba Harbhajan Singh memorial"
+  },
+  {
+   "narration": "Whatever you believe, the shrine is real, and soldiers and visitors both stop there to pay respect.",
+   "emoji": "🙏",
+   "headline": "The shrine is real",
+   "stat": "",
+   "sub": "",
+   "visual_query": "visitors temple Sikkim"
+  },
+  {
+   "narration": "Faith or folklore, it shows how lonely and hard life on a high border can be.",
+   "emoji": "🥶",
+   "headline": "Life on a high border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "soldier snow Himalaya"
+  },
+  {
+   "narration": "Many Nathu La trips include a stop at his shrine, so you can see this for yourself.",
+   "emoji": "🚐",
+   "headline": "A stop on the trip",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nathu La tourist taxi"
+  },
+  {
+   "narration": "Now for the last fact, the one I promised at the start.",
+   "emoji": "🎯",
+   "headline": "The last fact",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nathu La fence"
+  },
+  {
+   "narration": "Fact seven. At the top, the border is a simple wire fence.",
+   "emoji": "🧱",
+   "headline": "Just a wire fence",
+   "stat": "",
+   "sub": "",
+   "visual_query": "wire fence India China border"
+  },
+  {
+   "narration": "On one side stand Indian soldiers. On the other side, just metres away, stand Chinese soldiers.",
+   "emoji": "🇮🇳",
+   "headline": "Soldiers face to face",
+   "stat": "",
+   "sub": "Just metres apart",
+   "visual_query": "Indian Chinese soldiers fence"
+  },
+  {
+   "narration": "You can stand on the Indian side and watch them watching you.",
+   "emoji": "👁️",
+   "headline": "They watch you too",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tourists at border fence"
+  },
+  {
+   "narration": "There is no giant concrete wall, no huge gate, just a fence, a line and a few uniforms.",
+   "emoji": "📏",
+   "headline": "A fence and a line",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nathu La border pillar"
+  },
+  {
+   "narration": "Nathu La is one of the few border passes where India and China have allowed trade across.",
+   "emoji": "🚪",
+   "headline": "One of few passes",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nathu La trade gate"
+  },
+  {
+   "narration": "Together, India and China are home to billions of people, and here the line between them is a wire.",
+   "emoji": "👥",
+   "headline": "Billions, one wire",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India China flags"
+  },
+  {
+   "narration": "In winter, temperatures at this height fall below freezing, and soldiers stand there in thick jackets.",
+   "emoji": "🧊",
+   "headline": "Freezing guard duty",
+   "stat": "",
+   "sub": "",
+   "visual_query": "soldiers winter Himalaya"
+  },
+  {
+   "narration": "The pass is also a pilgrim route. Indian pilgrims heading to Kailash Mansarovar travel over it into Tibet.",
+   "emoji": "🛕",
+   "headline": "A pilgrim route",
+   "stat": "",
+   "sub": "To Kailash Mansarovar",
+   "visual_query": "Kailash Mansarovar pilgrims"
+  },
+  {
+   "narration": "In 2017, after the Doklam standoff, China did not allow pilgrims through Nathu La, and the route reopened in 2018.",
+   "emoji": "📆",
+   "headline": "Closed 2017, open 2018",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kailash yatra Nathu La"
+  },
+  {
+   "narration": "So this gate between two giant countries opens and closes with politics, not weather.",
+   "emoji": "🌐",
+   "headline": "Politics, not weather",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border gate Himalaya"
+  },
+  {
+   "narration": "Let us go back to where we began: your permit, a vehicle from Gangtok, and a short walk uphill.",
+   "emoji": "🥾",
+   "headline": "Back to the start",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nathu La steps tourists"
+  },
+  {
+   "narration": "At the top is a fence, and on the other side stand Chinese soldiers, close enough that you can see their faces.",
+   "emoji": "🧍",
+   "headline": "Close enough to see faces",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chinese soldiers border Nathu La"
+  },
+  {
+   "narration": "A kingdom, a Silk Road track, forty years shut, and now a live border you can visit.",
+   "emoji": "🔁",
+   "headline": "Kingdom to live border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sikkim Himalaya landscape"
+  },
+  {
+   "narration": "Your permit, a wire fence, and Chinese soldiers just metres away. That is Nathu La.",
+   "emoji": "📍",
+   "headline": "That is Nathu La",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nathu La signboard"
+  },
+  {
+   "narration": "Next in this series: the neighbour whose clocks run fifteen minutes ahead of India.",
+   "emoji": "🕰️",
+   "headline": "Next: a strange clock",
+   "stat": "15 min",
+   "sub": "Ahead of India",
+   "visual_query": "Kathmandu clock"
+  }
+ ]
+}

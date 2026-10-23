@@ -1,0 +1,723 @@
+{
+ "topic": "Baarle-Hertog and Baarle-Nassau: why this town is stranger than you think",
+ "hook": "Your neighbour lives in Belgium, you live in the Netherlands, and you share one street.",
+ "title": "The Town Where Your Front Door Picks Your Country",
+ "description": "In Baarle, a small town on the Belgium-Netherlands border, white crosses on the pavement mark a border that runs through streets, shops and houses. See seven true facts: the front door rule, two town halls, a Dutch patch inside a Belgian patch, and why it all happened. We also compare it with the 2015 India-Bangladesh enclave swap.\n\n#Baarle #Borders #Geography",
+ "tags": [
+  "Baarle",
+  "Baarle-Hertog",
+  "Baarle-Nassau",
+  "Belgium Netherlands border",
+  "enclaves",
+  "strange borders",
+  "weird geography",
+  "geography facts",
+  "counter-enclave",
+  "border town",
+  "India Bangladesh enclaves",
+  "facts that sound fake",
+  "Europe travel"
+ ],
+ "comment_prompt": "Which side would you pick: Belgium or the Netherlands?",
+ "hook_banner": "TWO COUNTRIES, ONE STREET",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "The White Crosses",
+   "scene": 7
+  },
+  {
+   "title": "The Front Door Rule",
+   "scene": 18
+  },
+  {
+   "title": "Two of Everything",
+   "scene": 28
+  },
+  {
+   "title": "The Bar With a Border",
+   "scene": 39
+  },
+  {
+   "title": "Land Inside Land",
+   "scene": 50
+  },
+  {
+   "title": "How It Happened",
+   "scene": 62
+  },
+  {
+   "title": "India Had One Too",
+   "scene": 73
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your neighbour lives in Belgium, you live in the Netherlands, and you share one street.",
+   "emoji": "🏘️",
+   "headline": "ONE STREET, TWO COUNTRIES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baarle street border"
+  },
+  {
+   "narration": "This is a real town, and a small white cross on the pavement is the only sign of the border.",
+   "emoji": "✝️",
+   "headline": "A Cross On The Pavement",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baarle border cross pavement"
+  },
+  {
+   "narration": "Today you will see seven strange things about Baarle, a place where two countries are mixed like spilled puzzle pieces.",
+   "emoji": "🧩",
+   "headline": "Seven Strange Facts",
+   "stat": "7",
+   "sub": "",
+   "visual_query": "Baarle map enclaves"
+  },
+  {
+   "narration": "By the end, you will see a Dutch piece of land sitting inside a Belgian piece, inside the Netherlands.",
+   "emoji": "🗺️",
+   "headline": "Land Inside Land",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baarle enclave map"
+  },
+  {
+   "narration": "That sounds fake. It is not. Let us start with the crosses.",
+   "emoji": "👀",
+   "headline": "It Sounds Fake",
+   "stat": "",
+   "sub": "It is true",
+   "visual_query": "Baarle town centre"
+  },
+  {
+   "narration": "Stay till the last part, because the reason this happened goes back many centuries.",
+   "emoji": "⏳",
+   "headline": "Centuries Old",
+   "stat": "",
+   "sub": "",
+   "visual_query": "medieval Brabant map"
+  },
+  {
+   "narration": "And one rule about front doors will change how you think about a home.",
+   "emoji": "🚪",
+   "headline": "The Front Door Rule",
+   "stat": "",
+   "sub": "",
+   "visual_query": "house front door"
+  },
+  {
+   "narration": "Number one: the white crosses. Walk down the main shopping street in Baarle and look at the ground.",
+   "emoji": "✝️",
+   "headline": "1. The White Crosses",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baarle shopping street"
+  },
+  {
+   "narration": "Small white crosses are set into the pavement, and each one marks the border between Belgium and the Netherlands.",
+   "emoji": "⬜",
+   "headline": "Border In The Pavement",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baarle white cross pavement"
+  },
+  {
+   "narration": "Your left foot can be in one country, and your right foot can be in another.",
+   "emoji": "🦶",
+   "headline": "One Foot Each Side",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baarle border marker feet"
+  },
+  {
+   "narration": "There is no wall here, no gate, no guard, and nobody checks your passport.",
+   "emoji": "🚫",
+   "headline": "No Wall, No Guard",
+   "stat": "",
+   "sub": "",
+   "visual_query": "open border street"
+  },
+  {
+   "narration": "Shops, cafes and homes sit right on those lines, so a single street holds two countries.",
+   "emoji": "🏪",
+   "headline": "Shops On The Line",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baarle shops cafe"
+  },
+  {
+   "narration": "The Belgian side is called Baarle-Hertog. The Dutch side is called Baarle-Nassau.",
+   "emoji": "🏷️",
+   "headline": "Hertog And Nassau",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baarle-Hertog sign"
+  },
+  {
+   "narration": "Both speak Dutch, both use the euro, and people cross the line many times a day without noticing.",
+   "emoji": "💶",
+   "headline": "Same Language, Same Euro",
+   "stat": "",
+   "sub": "",
+   "visual_query": "euro coins Dutch"
+  },
+  {
+   "narration": "Tourists stand on the crosses and take photos with one foot on each side.",
+   "emoji": "📸",
+   "headline": "Tourists Love It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tourists photo border cross"
+  },
+  {
+   "narration": "Find a cross, stand on it, and you are standing on the edge of two governments.",
+   "emoji": "🏛️",
+   "headline": "Edge Of Two Countries",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Belgium Netherlands flags"
+  },
+  {
+   "narration": "But a cross is only a marker. The real rule is hidden in something much more ordinary.",
+   "emoji": "🔍",
+   "headline": "The Real Rule",
+   "stat": "",
+   "sub": "",
+   "visual_query": "street house numbers"
+  },
+  {
+   "narration": "That rule is about your front door, and it is next.",
+   "emoji": "🚪",
+   "headline": "Your Front Door",
+   "stat": "",
+   "sub": "",
+   "visual_query": "front door house"
+  },
+  {
+   "narration": "Number two: the front door rule. Here, your front door decides which country your house belongs to.",
+   "emoji": "🚪",
+   "headline": "2. The Door Decides",
+   "stat": "",
+   "sub": "",
+   "visual_query": "house front door Netherlands"
+  },
+  {
+   "narration": "Say a border line cuts across your garden, your kitchen and your bedroom. It does not matter.",
+   "emoji": "✂️",
+   "headline": "Line Through Your House",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border line through house"
+  },
+  {
+   "narration": "Whichever country the front door stands in, that is the country the whole house counts as.",
+   "emoji": "🏠",
+   "headline": "Door = Nationality",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Belgian house door"
+  },
+  {
+   "narration": "So a house can have its bedroom in one country, and still be fully Belgian or fully Dutch.",
+   "emoji": "🛏️",
+   "headline": "Bedroom In Another Country",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dutch house bedroom"
+  },
+  {
+   "narration": "This rule is used so that families are not split into two countries inside one living room.",
+   "emoji": "🛋️",
+   "headline": "No Split Living Room",
+   "stat": "",
+   "sub": "",
+   "visual_query": "family living room"
+  },
+  {
+   "narration": "Imagine being told your sofa is Dutch but your television is Belgian. The door rule stops that.",
+   "emoji": "📺",
+   "headline": "Dutch Sofa, Belgian TV?",
+   "stat": "",
+   "sub": "",
+   "visual_query": "sofa television living room"
+  },
+  {
+   "narration": "It also means a door is a big deal. Where it stands decides your address and which town hall you deal with.",
+   "emoji": "📬",
+   "headline": "Your Address Follows It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "town hall Baarle"
+  },
+  {
+   "narration": "Some houses are cut by the line, and the owners have lived with it for years.",
+   "emoji": "🏡",
+   "headline": "Houses Cut In Two",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baarle house border"
+  },
+  {
+   "narration": "If you think that is odd, wait, because the line goes through a lot more than houses.",
+   "emoji": "😮",
+   "headline": "More Than Houses",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baarle border street"
+  },
+  {
+   "narration": "It goes through places where people eat, sleep and shop every day.",
+   "emoji": "🍽️",
+   "headline": "Eat, Sleep, Shop",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baarle cafe terrace"
+  },
+  {
+   "narration": "Number three: two of everything. Baarle has two town halls, two mayors and two sets of local rules.",
+   "emoji": "🏛️",
+   "headline": "3. Two Of Everything",
+   "stat": "2",
+   "sub": "town halls",
+   "visual_query": "Baarle-Nassau town hall"
+  },
+  {
+   "narration": "One town hall serves the Belgian parts, and the other serves the Dutch parts.",
+   "emoji": "🏢",
+   "headline": "Two Town Halls",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baarle-Hertog town hall"
+  },
+  {
+   "narration": "The same street can have houses with Belgian postcodes next to houses with Dutch postcodes.",
+   "emoji": "📮",
+   "headline": "Two Postcodes",
+   "stat": "",
+   "sub": "",
+   "visual_query": "postcode street sign"
+  },
+  {
+   "narration": "Each country numbers its houses its own way, so two neighbours can follow different numbering.",
+   "emoji": "🔢",
+   "headline": "Two Number Systems",
+   "stat": "",
+   "sub": "",
+   "visual_query": "house number plate"
+  },
+  {
+   "narration": "Phone numbers can differ too. A Belgian landline starts with the Belgian code, and a Dutch one with the Dutch code.",
+   "emoji": "☎️",
+   "headline": "Two Phone Codes",
+   "stat": "+32 / +31",
+   "sub": "",
+   "visual_query": "landline telephone"
+  },
+  {
+   "narration": "Each side has its own police and fire services, so two sets of officers can work on one street.",
+   "emoji": "🚒",
+   "headline": "Two Police Forces",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Belgian police car"
+  },
+  {
+   "narration": "Paperwork depends on where your door stands, even if your neighbour's door is five steps away.",
+   "emoji": "📄",
+   "headline": "Paperwork By Door",
+   "stat": "",
+   "sub": "",
+   "visual_query": "paperwork forms desk"
+  },
+  {
+   "narration": "Now imagine living here and having to choose the right office for every small form.",
+   "emoji": "😵",
+   "headline": "Which Office?",
+   "stat": "",
+   "sub": "",
+   "visual_query": "government office queue"
+  },
+  {
+   "narration": "And if all this sounds like too much admin, the next one is where it gets funny.",
+   "emoji": "😄",
+   "headline": "It Gets Funny",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baarle cafe"
+  },
+  {
+   "narration": "Number four is about a beer, a toilet and a very confused rule book.",
+   "emoji": "🍺",
+   "headline": "Beer, Toilet, Rule Book",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Belgian beer glass"
+  },
+  {
+   "narration": "Number four: the bar with a border. In some places here, the line cuts straight through a building.",
+   "emoji": "🍻",
+   "headline": "4. The Bar With A Border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Belgian bar interior"
+  },
+  {
+   "narration": "In one famous case, a bar is said to have its beer in one country and its toilet in the other.",
+   "emoji": "🚻",
+   "headline": "Beer Here, Toilet There",
+   "stat": "",
+   "sub": "",
+   "visual_query": "bar toilet door"
+  },
+  {
+   "narration": "So you can order a drink in one country and walk to another country to wash your hands.",
+   "emoji": "🚶",
+   "headline": "Walk To Another Country",
+   "stat": "",
+   "sub": "",
+   "visual_query": "bar counter beer"
+  },
+  {
+   "narration": "If you enjoy strange places like this, this is a good moment to subscribe, because we find a new one every day.",
+   "emoji": "🔔",
+   "headline": "New Strange Place Daily",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map pins"
+  },
+  {
+   "narration": "Shops are the same. A shop door decides if the shop is Belgian or Dutch.",
+   "emoji": "🏬",
+   "headline": "Shop Door Decides",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baarle shop entrance"
+  },
+  {
+   "narration": "That can matter for rules such as opening hours, because each country can set its own.",
+   "emoji": "🕒",
+   "headline": "Different Rules",
+   "stat": "",
+   "sub": "",
+   "visual_query": "shop opening hours sign"
+  },
+  {
+   "narration": "Locals know which side to use for which task, and they treat it as normal everyday life.",
+   "emoji": "🧑‍🤝‍🧑",
+   "headline": "Just Normal Life",
+   "stat": "",
+   "sub": "",
+   "visual_query": "locals Baarle street"
+  },
+  {
+   "narration": "Visitors stare at the pavement and the crosses. Locals just walk to the bakery.",
+   "emoji": "🥖",
+   "headline": "Locals Walk To Bakery",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dutch bakery"
+  },
+  {
+   "narration": "It is a bit like living in a map game, except people really do pay rent here.",
+   "emoji": "🎮",
+   "headline": "A Real Map Game",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baarle aerial town"
+  },
+  {
+   "narration": "Still, all of that is nothing next to a Dutch piece of land hidden inside a Belgian piece.",
+   "emoji": "🤯",
+   "headline": "Wait For This One",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baarle enclave aerial"
+  },
+  {
+   "narration": "That is number five, and it is where the map really breaks.",
+   "emoji": "🗺️",
+   "headline": "Where The Map Breaks",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baarle border map"
+  },
+  {
+   "narration": "Number five: land inside land. Around Baarle, there are about twenty small Belgian pieces inside the Netherlands.",
+   "emoji": "🟨",
+   "headline": "5. Land Inside Land",
+   "stat": "~20",
+   "sub": "Belgian pieces",
+   "visual_query": "Baarle-Hertog enclaves map"
+  },
+  {
+   "narration": "Each piece is Belgian, but you cannot reach it without crossing Dutch ground first.",
+   "emoji": "🚧",
+   "headline": "Cross Dutch Ground First",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Belgian enclave Netherlands"
+  },
+  {
+   "narration": "These are called enclaves, which means a piece of one country completely surrounded by another.",
+   "emoji": "🏝️",
+   "headline": "What Is An Enclave?",
+   "stat": "",
+   "sub": "",
+   "visual_query": "enclave map diagram"
+  },
+  {
+   "narration": "Now comes the twist. Some of those Belgian pieces have a small Dutch piece inside them.",
+   "emoji": "🌀",
+   "headline": "The Twist",
+   "stat": "",
+   "sub": "",
+   "visual_query": "counter-enclave Baarle"
+  },
+  {
+   "narration": "So you stand on Dutch land, inside Belgian land, inside the Netherlands. That is called a counter-enclave.",
+   "emoji": "🔁",
+   "headline": "Counter-Enclave",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baarle counter-enclave map"
+  },
+  {
+   "narration": "It is a country sandwich: Dutch, then Belgian, then Dutch again.",
+   "emoji": "🥪",
+   "headline": "A Country Sandwich",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baarle map layers"
+  },
+  {
+   "narration": "That small Dutch patch inside Belgium makes this one of the most tangled borders in Europe.",
+   "emoji": "🧵",
+   "headline": "Most Tangled Border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Europe border map"
+  },
+  {
+   "narration": "Walk across it and you might change country several times in a few minutes.",
+   "emoji": "⏱️",
+   "headline": "Change Country Often",
+   "stat": "",
+   "sub": "",
+   "visual_query": "walking street Baarle"
+  },
+  {
+   "narration": "Maps of Baarle look like someone spilled paint across the border.",
+   "emoji": "🎨",
+   "headline": "Spilled Paint Map",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baarle municipality map"
+  },
+  {
+   "narration": "Yes, that sounds like a bad video game level. It is a real place with real shops.",
+   "emoji": "🕹️",
+   "headline": "Real Place, Real Shops",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baarle-Nassau centre shops"
+  },
+  {
+   "narration": "So how did anyone let a border get this messy? The answer starts in the Middle Ages.",
+   "emoji": "🏰",
+   "headline": "Start In The Middle Ages",
+   "stat": "",
+   "sub": "",
+   "visual_query": "medieval castle Brabant"
+  },
+  {
+   "narration": "Number six is the history, and it is shorter than you would think.",
+   "emoji": "📜",
+   "headline": "The Short History",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old map Brabant"
+  },
+  {
+   "narration": "Number six: how it happened. Centuries ago, local lords and the Duke of Brabant swapped and shared land around this area.",
+   "emoji": "👑",
+   "headline": "6. How It Happened",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Duke of Brabant"
+  },
+  {
+   "narration": "Those deals were made by owners of fields and farms, not by map makers.",
+   "emoji": "🌾",
+   "headline": "Farms, Not Map Makers",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Brabant farm fields"
+  },
+  {
+   "narration": "Later, Belgium and the Netherlands split into two countries, and they had to draw a new border.",
+   "emoji": "🇧🇪",
+   "headline": "Two New Countries",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Belgium Netherlands border map"
+  },
+  {
+   "narration": "In 1843 they signed the Treaty of Maastricht to fix the line, and they could not agree here.",
+   "emoji": "✍️",
+   "headline": "Treaty Of 1843",
+   "stat": "1843",
+   "sub": "",
+   "visual_query": "Maastricht treaty 1843"
+  },
+  {
+   "narration": "So they did something unusual. They gave a nationality to each piece of land, one by one.",
+   "emoji": "📍",
+   "headline": "One Parcel At A Time",
+   "stat": "",
+   "sub": "",
+   "visual_query": "land parcels map"
+  },
+  {
+   "narration": "That means more than five thousand small parcels, each one counted on its own.",
+   "emoji": "🔢",
+   "headline": "5,000+ Parcels",
+   "stat": "5,000+",
+   "sub": "small parcels",
+   "visual_query": "cadastral parcels map"
+  },
+  {
+   "narration": "Over time those parcels joined together into the odd shapes you see on the map today.",
+   "emoji": "🧩",
+   "headline": "Joined Into Odd Shapes",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baarle border shapes map"
+  },
+  {
+   "narration": "Nobody planned a puzzle. It is just what happens when old land deals meet new countries.",
+   "emoji": "🤷",
+   "headline": "Nobody Planned It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old land deed map"
+  },
+  {
+   "narration": "Even the names tell the story: Hertog means duke, and Nassau is a famous Dutch royal house.",
+   "emoji": "🏷️",
+   "headline": "Names Tell The Story",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Orange-Nassau coat of arms"
+  },
+  {
+   "narration": "And once the border was set, nobody wanted to move house, so the pattern stayed.",
+   "emoji": "🏠",
+   "headline": "Nobody Moved",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baarle houses street"
+  },
+  {
+   "narration": "Number seven shows that this kind of mess is not only European, and India knows it well.",
+   "emoji": "🇮🇳",
+   "headline": "India Knows This",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Bangladesh border"
+  },
+  {
+   "narration": "Number seven: India had a tangle like this too. For decades, India and Bangladesh had border enclaves.",
+   "emoji": "🇧🇩",
+   "headline": "7. India Had One Too",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cooch Behar enclaves map"
+  },
+  {
+   "narration": "In 2015, the two countries swapped them. India handed over more than a hundred enclaves and received about fifty.",
+   "emoji": "🤝",
+   "headline": "The 2015 Swap",
+   "stat": "2015",
+   "sub": "",
+   "visual_query": "India Bangladesh enclave exchange"
+  },
+  {
+   "narration": "People who lived there had often struggled to reach their own country's schools and clinics.",
+   "emoji": "🏥",
+   "headline": "Cut Off From Home",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bangladesh enclave village"
+  },
+  {
+   "narration": "Baarle has not gone through that. Its odd border still stands, and people choose to live with it.",
+   "emoji": "🏘️",
+   "headline": "Baarle Still Stands",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baarle town"
+  },
+  {
+   "narration": "Today it is a tourist spot as much as a town, and visitors come just to see the crosses.",
+   "emoji": "🧳",
+   "headline": "Visitors Come For Crosses",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baarle tourists border"
+  },
+  {
+   "narration": "So here is the payoff: the border is real, the crosses are real, and your front door is the judge.",
+   "emoji": "⚖️",
+   "headline": "The Door Is The Judge",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baarle border cross door"
+  },
+  {
+   "narration": "To recap: crosses on the pavement, a door rule, two of everything, and a bar with a border.",
+   "emoji": "📋",
+   "headline": "Quick Recap",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baarle street border"
+  },
+  {
+   "narration": "Then land inside land, a messy history from the Middle Ages, and an Indian echo of the same idea.",
+   "emoji": "🔄",
+   "headline": "Land, History, India",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baarle enclave map"
+  },
+  {
+   "narration": "Remember where we began? Your neighbour lives in Belgium, you live in the Netherlands, and you share one street.",
+   "emoji": "🔁",
+   "headline": "Back To The Start",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baarle street"
+  },
+  {
+   "narration": "Now you know it is true, and the pavement has the white crosses to prove it.",
+   "emoji": "✝️",
+   "headline": "Crosses Prove It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baarle white cross pavement"
+  },
+  {
+   "narration": "Tomorrow: a country with a famous border and almost nothing to mark it. See you there.",
+   "emoji": "➡️",
+   "headline": "Tomorrow: Next Border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "unmarked border road"
+  }
+ ]
+}

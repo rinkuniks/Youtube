@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Diamond Beach, Jökulsárlón Iceland",
+ "hook": "Your beach photo here shows ice on black sand.",
+ "title": "A black beach covered in glacier ice",
+ "description": "Diamond Beach in Iceland is a black sand beach scattered with chunks of glacier ice. The ice breaks off into the Jökulsárlón lagoon, floats out toward the sea, and some pieces wash back onto the sand. Places That Shouldn't Exist, part of a series.\n\n#Shorts #Iceland #DiamondBeach",
+ "tags": [
+  "diamond beach",
+  "jokulsarlon",
+  "iceland",
+  "glacier lagoon",
+  "black sand beach",
+  "places that shouldn't exist",
+  "travel facts",
+  "shorts"
+ ],
+ "comment_prompt": "Would you visit? Yes or no",
+ "hook_banner": "THIS PLACE IS REAL",
+ "scenes": [
+  {
+   "narration": "Your beach photo here shows ice on black sand.",
+   "emoji": "🧊",
+   "headline": "ICE ON BLACK SAND",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Diamond Beach Iceland ice"
+  },
+  {
+   "narration": "It's called Diamond Beach, in Iceland.",
+   "emoji": "🇮🇸",
+   "headline": "DIAMOND BEACH",
+   "stat": "",
+   "sub": "Iceland",
+   "visual_query": "Diamond Beach Iceland sunrise"
+  },
+  {
+   "narration": "Chunks break off a glacier into Jökulsárlón lagoon.",
+   "emoji": "🏔️",
+   "headline": "GLACIER BREAKS OFF",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Jokulsarlon glacier lagoon"
+  },
+  {
+   "narration": "They float in the lagoon first.",
+   "emoji": "🧊",
+   "headline": "FLOATING ICEBERGS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "icebergs floating lagoon"
+  },
+  {
+   "narration": "Then a short river carries them to the sea.",
+   "emoji": "🌊",
+   "headline": "TO THE SEA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Jokulsarlon channel icebergs sea"
+  },
+  {
+   "narration": "Waves wash some back onto the black sand.",
+   "emoji": "🏖️",
+   "headline": "WASHED ASHORE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ice chunks black sand beach"
+  },
+  {
+   "narration": "They sparkle like scattered diamonds in sunlight.",
+   "emoji": "💎",
+   "headline": "LIKE DIAMONDS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ice sparkling black sand"
+  },
+  {
+   "narration": "Your photo shows glacier ice on black sand.",
+   "emoji": "📸",
+   "headline": "ICE ON BLACK SAND",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Iceland beach icebergs photo"
+  },
+  {
+   "narration": "Tomorrow: a capital built like an airplane.",
+   "emoji": "✈️",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "Places That Shouldn't Exist",
+   "visual_query": "Brasilia aerial view"
+  }
+ ]
+}

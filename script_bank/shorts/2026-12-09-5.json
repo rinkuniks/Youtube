@@ -1,0 +1,102 @@
+{
+ "category": "technology",
+ "topic": "Face ID infrared dots on camera",
+ "hook": "Your phone shoots invisible dots at your face.",
+ "title": "Your Phone Shoots Invisible Dots at You",
+ "description": "Face ID-style phones project a grid of infrared dots to map your face. Your eyes can't see infrared, but many phone cameras can, so a second phone shows the dots as a purple glow. It works best in a dark room and depends on the camera you film with. Part of the Try This Now series.\n\n#Shorts #TryThisNow #PhoneTricks",
+ "tags": [
+  "face id",
+  "infrared",
+  "phone trick",
+  "try this now",
+  "tech facts",
+  "iphone",
+  "camera test",
+  "shorts",
+  "wait what facts"
+ ],
+ "comment_prompt": "Did you see the dots? Yes or no",
+ "hook_banner": "TRY THIS NOW",
+ "scenes": [
+  {
+   "narration": "Your phone shoots invisible dots at your face.",
+   "emoji": "📱",
+   "headline": "Invisible Dots",
+   "stat": "",
+   "sub": "Aimed at your face",
+   "visual_query": "face unlock phone"
+  },
+  {
+   "narration": "Film it with a second phone.",
+   "emoji": "🎥",
+   "headline": "Use A Second Phone",
+   "stat": "",
+   "sub": "",
+   "visual_query": "filming smartphone camera"
+  },
+  {
+   "narration": "Point that camera at the front sensor.",
+   "emoji": "👆",
+   "headline": "Aim At The Sensor",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone front camera notch"
+  },
+  {
+   "narration": "A purple glow of dots appears.",
+   "emoji": "🟣",
+   "headline": "Purple Dots Appear",
+   "stat": "",
+   "sub": "On the screen",
+   "visual_query": "infrared dots phone"
+  },
+  {
+   "narration": "Those dots map your face in 3D.",
+   "emoji": "🧑",
+   "headline": "A 3D Face Map",
+   "stat": "",
+   "sub": "",
+   "visual_query": "face scan 3D"
+  },
+  {
+   "narration": "Your eyes can't see infrared light.",
+   "emoji": "👁️",
+   "headline": "Eyes Can't See It",
+   "stat": "",
+   "sub": "Infrared",
+   "visual_query": "human eye closeup"
+  },
+  {
+   "narration": "But many phone cameras can.",
+   "emoji": "📷",
+   "headline": "Cameras Can",
+   "stat": "",
+   "sub": "",
+   "visual_query": "smartphone camera lens"
+  },
+  {
+   "narration": "Works best in a dark room.",
+   "emoji": "🌙",
+   "headline": "Turn Lights Off",
+   "stat": "",
+   "sub": "",
+   "visual_query": "dark room phone"
+  },
+  {
+   "narration": "Your phone shoots those dots every unlock.",
+   "emoji": "🔓",
+   "headline": "Every Single Unlock",
+   "stat": "",
+   "sub": "",
+   "visual_query": "unlocking smartphone face"
+  },
+  {
+   "narration": "Tomorrow: a church carved downward into rock.",
+   "emoji": "⛪",
+   "headline": "Tomorrow",
+   "stat": "",
+   "sub": "A church in a pit",
+   "visual_query": "Lalibela rock church"
+  }
+ ]
+}

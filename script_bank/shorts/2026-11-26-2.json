@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Longyearbyen polar bear rule",
+ "hook": "Your walk outside Longyearbyen comes with a rifle.",
+ "title": "The Town Where You Carry a Rifle for Bears",
+ "description": "In Longyearbyen, in Norway's Svalbard, polar bears live beyond the edge of town. Leave the settlement and you're expected to carry protection, usually a rifle. Part of the series: Places That Shouldn't Exist.\n\n#Shorts #Svalbard #Geography",
+ "tags": [
+  "Svalbard",
+  "Longyearbyen",
+  "polar bears",
+  "Arctic",
+  "Norway",
+  "geography facts",
+  "weird rules",
+  "Shorts"
+ ],
+ "comment_prompt": "Would you go outside? Yes or no",
+ "hook_banner": "THIS PLACE IS REAL",
+ "scenes": [
+  {
+   "narration": "Your walk outside Longyearbyen comes with a rifle.",
+   "emoji": "🔫",
+   "headline": "WALK = RIFLE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Longyearbyen Svalbard town"
+  },
+  {
+   "narration": "It's a town in Norway's Arctic Svalbard.",
+   "emoji": "🧭",
+   "headline": "SVALBARD, NORWAY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Svalbard Arctic landscape"
+  },
+  {
+   "narration": "Beyond town, polar bears roam.",
+   "emoji": "🐻‍❄️",
+   "headline": "POLAR BEAR COUNTRY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "polar bear Svalbard"
+  },
+  {
+   "narration": "So you're expected to carry a rifle.",
+   "emoji": "⚠️",
+   "headline": "CARRY PROTECTION",
+   "stat": "",
+   "sub": "",
+   "visual_query": "rifle Arctic hiker"
+  },
+  {
+   "narration": "Tourist groups hire guides who carry rifles.",
+   "emoji": "🥾",
+   "headline": "ARMED GUIDES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Svalbard guide tourists snow"
+  },
+  {
+   "narration": "Signs at the edge of town warn about bears.",
+   "emoji": "🪧",
+   "headline": "BEAR WARNING SIGNS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "polar bear warning sign Longyearbyen"
+  },
+  {
+   "narration": "Some shops ask you to leave rifles outside.",
+   "emoji": "🚪",
+   "headline": "RIFLES AT THE DOOR",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Longyearbyen shop entrance"
+  },
+  {
+   "narration": "Leave town, and you're in bear country.",
+   "emoji": "🏔️",
+   "headline": "ONE STEP OUT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Longyearbyen snow mountains"
+  },
+  {
+   "narration": "Tomorrow: a post office floating on a lake.",
+   "emoji": "📮",
+   "headline": "TOMORROW: FLOATING POST",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dal Lake floating post office"
+  }
+ ]
+}

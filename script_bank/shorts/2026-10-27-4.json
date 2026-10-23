@@ -1,0 +1,86 @@
+{
+ "category": "space",
+ "topic": "PSLV-C37 104 satellites",
+ "hook": "Your country put 104 satellites up with one rocket.",
+ "title": "Your Country Launched 104 Satellites at Once",
+ "description": "In February 2017, ISRO's PSLV-C37 carried 104 satellites into orbit on a single launch from Sriharikota. It was a world record at the time. Part of the series: India In Space.\n\n#Shorts #ISRO #Space",
+ "tags": [
+  "ISRO",
+  "PSLV",
+  "PSLV-C37",
+  "104 satellites",
+  "India space",
+  "world record",
+  "Sriharikota",
+  "space facts",
+  "shorts"
+ ],
+ "comment_prompt": "Proud of ISRO? Yes or no",
+ "hook_banner": "ONE ROCKET, 104 SATELLITES",
+ "scenes": [
+  {
+   "narration": "Your country put 104 satellites up with one rocket.",
+   "emoji": "🚀",
+   "headline": "ONE ROCKET",
+   "stat": "104",
+   "sub": "satellites",
+   "visual_query": "PSLV rocket launch"
+  },
+  {
+   "narration": "It happened in February 2017.",
+   "emoji": "📅",
+   "headline": "February 2017",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sriharikota launch pad"
+  },
+  {
+   "narration": "ISRO's PSLV-C37 lifted off from Sriharikota.",
+   "emoji": "🔥",
+   "headline": "PSLV-C37 LIFTOFF",
+   "stat": "",
+   "sub": "ISRO",
+   "visual_query": "rocket liftoff flame"
+  },
+  {
+   "narration": "That was a world record at the time.",
+   "emoji": "🏆",
+   "headline": "WORLD RECORD",
+   "stat": "",
+   "sub": "at the time",
+   "visual_query": "ISRO scientists celebrating"
+  },
+  {
+   "narration": "Most of them were tiny nanosatellites.",
+   "emoji": "🛰️",
+   "headline": "TINY SATELLITES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "small satellite orbit"
+  },
+  {
+   "narration": "They were released one after another in orbit.",
+   "emoji": "🌍",
+   "headline": "RELEASED IN ORBIT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "satellites above Earth"
+  },
+  {
+   "narration": "One rocket. One ride. One hundred and four.",
+   "emoji": "1️⃣",
+   "headline": "ONE RIDE",
+   "stat": "104",
+   "sub": "",
+   "visual_query": "rocket in space"
+  },
+  {
+   "narration": "Your country did that. Next: a town being moved.",
+   "emoji": "🇮🇳",
+   "headline": "INDIA DID THAT",
+   "stat": "",
+   "sub": "Next: a town on the move",
+   "visual_query": "ISRO launch India"
+  }
+ ]
+}

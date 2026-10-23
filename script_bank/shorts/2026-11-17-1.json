@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Lençóis Maranhenses lagoons",
+ "hook": "Your desert here fills with blue lagoons every year.",
+ "title": "Your Desert Fills With Blue Lagoons",
+ "description": "Lençóis Maranhenses in northern Brazil looks like a desert of white dunes. After the rains, freshwater lagoons fill the gaps between them. Part of the series Places That Shouldn't Exist.\n\n#Shorts #Geography #PlacesThatShouldntExist",
+ "tags": [
+  "Lençóis Maranhenses",
+  "Brazil",
+  "sand dunes",
+  "lagoons",
+  "geography facts",
+  "places that shouldn't exist",
+  "satellite view",
+  "Shorts"
+ ],
+ "comment_prompt": "Would you swim here? Yes or no",
+ "hook_banner": "DESERT OR LAKE?",
+ "scenes": [
+  {
+   "narration": "Your desert here fills with blue lagoons.",
+   "emoji": "🏜️",
+   "headline": "DESERT, THEN LAGOONS",
+   "stat": "",
+   "sub": "Northern Brazil",
+   "visual_query": "Lencois Maranhenses lagoons aerial"
+  },
+  {
+   "narration": "This is Lençóis Maranhenses, in northern Brazil.",
+   "emoji": "🇧🇷",
+   "headline": "LENÇÓIS MARANHENSES",
+   "stat": "",
+   "sub": "Brazil",
+   "visual_query": "Lencois Maranhenses dunes"
+  },
+  {
+   "narration": "Those white dunes look like a desert.",
+   "emoji": "⛱️",
+   "headline": "WHITE SAND DUNES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "white sand dunes Brazil"
+  },
+  {
+   "narration": "Then the rainy season arrives.",
+   "emoji": "🌧️",
+   "headline": "THE RAINS COME",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tropical rain dunes"
+  },
+  {
+   "narration": "Rainwater collects between the dunes.",
+   "emoji": "💧",
+   "headline": "WATER FILLS THE GAPS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "water between sand dunes"
+  },
+  {
+   "narration": "Rock beneath the sand traps the water.",
+   "emoji": "🪨",
+   "headline": "THE WATER IS TRAPPED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "lagoon white dunes"
+  },
+  {
+   "narration": "Freshwater lagoons appear, blue against white sand.",
+   "emoji": "🌊",
+   "headline": "BLUE FRESHWATER LAGOONS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "blue lagoons sand dunes"
+  },
+  {
+   "narration": "Your desert turns blue, then dries again.",
+   "emoji": "🔁",
+   "headline": "DESERT TURNS BLUE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lencois Maranhenses aerial lagoons"
+  },
+  {
+   "narration": "Tomorrow: a fence across Australia.",
+   "emoji": "➡️",
+   "headline": "NEXT: A HUGE FENCE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Australia outback fence"
+  }
+ ]
+}

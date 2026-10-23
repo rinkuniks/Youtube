@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Loktak Lake floating national park",
+ "hook": "Your boat in Manipur floats among drifting islands.",
+ "title": "India's Lake With a Floating National Park",
+ "description": "Loktak Lake in Manipur is covered in phumdis, floating mats of vegetation and soil. On them sits Keibul Lamjao, the world's only floating national park.\n\nSeries: Places That Shouldn't Exist.",
+ "tags": [
+  "Loktak Lake",
+  "Manipur",
+  "phumdi",
+  "Keibul Lamjao",
+  "floating national park",
+  "India",
+  "geography",
+  "incredible India"
+ ],
+ "comment_prompt": "Would you visit? Yes or no",
+ "hook_banner": "THIS PLACE IS REAL",
+ "scenes": [
+  {
+   "narration": "Your boat in Manipur floats among drifting islands.",
+   "emoji": "🛶",
+   "headline": "DRIFTING ISLANDS",
+   "stat": "",
+   "sub": "Loktak Lake, Manipur",
+   "visual_query": "Loktak Lake phumdi"
+  },
+  {
+   "narration": "They are called phumdis.",
+   "emoji": "🌿",
+   "headline": "PHUMDIS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phumdi floating Manipur"
+  },
+  {
+   "narration": "Each one is a mat of living vegetation.",
+   "emoji": "🌱",
+   "headline": "MATS OF PLANTS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Loktak Lake aerial"
+  },
+  {
+   "narration": "They float on the water and drift around.",
+   "emoji": "🌊",
+   "headline": "THEY DRIFT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Loktak Lake boat"
+  },
+  {
+   "narration": "One huge phumdi holds a national park.",
+   "emoji": "🏞️",
+   "headline": "A PARK ON WATER",
+   "stat": "",
+   "sub": "Keibul Lamjao",
+   "visual_query": "Keibul Lamjao National Park"
+  },
+  {
+   "narration": "It is the world's only floating national park.",
+   "emoji": "🌍",
+   "headline": "ONLY ONE IN THE WORLD",
+   "stat": "1",
+   "sub": "floating national park",
+   "visual_query": "Keibul Lamjao sangai deer"
+  },
+  {
+   "narration": "Rare sangai deer live on that floating ground.",
+   "emoji": "🦌",
+   "headline": "SANGAI DEER LIVE HERE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "sangai brow-antlered deer"
+  },
+  {
+   "narration": "Your boat floats beside a floating park.",
+   "emoji": "🛶",
+   "headline": "FLOATING PARK",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Loktak Lake sunrise"
+  },
+  {
+   "narration": "Next: a boat that seems to fly.",
+   "emoji": "🛶",
+   "headline": "NEXT: BOAT IN THE AIR",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dawki river boat"
+  }
+ ]
+}

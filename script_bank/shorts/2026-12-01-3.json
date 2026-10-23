@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Phone charger vs Apollo 11 computer",
+ "hook": "Your charger may out-think the Apollo 11 computer.",
+ "title": "Your Charger vs the Moon Landing Computer",
+ "description": "The Apollo Guidance Computer had about 4 KB of RAM and 72 KB of storage, and it helped land humans on the Moon. Some modern fast chargers contain chips more capable than that. Space history sounds fake until you compare the numbers.\n\n#Shorts #Apollo11 #SpaceFacts",
+ "tags": [
+  "apollo 11",
+  "apollo guidance computer",
+  "moon landing",
+  "space facts",
+  "phone charger",
+  "technology facts",
+  "nasa",
+  "did you know"
+ ],
+ "comment_prompt": "Moon landing on 4 KB: genius or luck? Genius or luck",
+ "hook_banner": "MOON vs YOUR CHARGER",
+ "scenes": [
+  {
+   "narration": "Your charger may out-think the Apollo 11 computer.",
+   "emoji": "🔌",
+   "headline": "Charger vs Apollo",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone charger plug"
+  },
+  {
+   "narration": "That computer had about 4 kilobytes of memory.",
+   "emoji": "🧠",
+   "headline": "Tiny Memory",
+   "stat": "4 KB",
+   "sub": "RAM",
+   "visual_query": "Apollo guidance computer"
+  },
+  {
+   "narration": "Just 72 kilobytes of storage.",
+   "emoji": "💾",
+   "headline": "Tiny Storage",
+   "stat": "72 KB",
+   "sub": "",
+   "visual_query": "Apollo DSKY keypad"
+  },
+  {
+   "narration": "A single phone photo is far bigger.",
+   "emoji": "📱",
+   "headline": "One Photo Is Bigger",
+   "stat": "",
+   "sub": "",
+   "visual_query": "smartphone camera photo"
+  },
+  {
+   "narration": "Yet astronauts landed on the Moon with it.",
+   "emoji": "🌕",
+   "headline": "They Still Landed",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Apollo 11 lunar module"
+  },
+  {
+   "narration": "Some tiny chips inside chargers now beat it.",
+   "emoji": "⚡",
+   "headline": "Chargers Beat It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "fast charger circuit board"
+  },
+  {
+   "narration": "Humans reached the Moon on less than your charger.",
+   "emoji": "🚀",
+   "headline": "Less Than Your Charger",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Apollo 11 astronaut moon"
+  },
+  {
+   "narration": "Your charger may out-think the Moon landing.",
+   "emoji": "🔌",
+   "headline": "Think About That",
+   "stat": "",
+   "sub": "",
+   "visual_query": "charger wall socket"
+  },
+  {
+   "narration": "Next: a patch of sky packed with galaxies.",
+   "emoji": "🌌",
+   "headline": "Next: Galaxy Patch",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hubble deep field"
+  }
+ ]
+}

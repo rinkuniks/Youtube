@@ -1,0 +1,93 @@
+{
+ "category": "technology",
+ "topic": "IKAROS solar sail",
+ "hook": "Your spaceship can sail on sunlight.",
+ "title": "A Spaceship Really Sailed on Sunlight",
+ "description": "Japan's IKAROS unfurled a thin square solar sail in 2010. It was the first to do so in interplanetary space, and it flew toward Venus. Part of the Space Firsts series.\n\n#Shorts #Technology #SpaceFirsts",
+ "tags": [
+  "ikaros",
+  "solar sail",
+  "jaxa",
+  "japan space",
+  "sunlight propulsion",
+  "space technology",
+  "venus",
+  "shorts"
+ ],
+ "comment_prompt": "Would you ride a solar sail? Yes or no",
+ "hook_banner": "SAILING ON LIGHT",
+ "scenes": [
+  {
+   "narration": "Your spaceship can sail on sunlight.",
+   "emoji": "⛵",
+   "headline": "Sailing On Sunlight",
+   "stat": "",
+   "sub": "",
+   "visual_query": "IKAROS solar sail"
+  },
+  {
+   "narration": "Japan's IKAROS proved it in 2010.",
+   "emoji": "🇯🇵",
+   "headline": "Japan, 2010",
+   "stat": "2010",
+   "sub": "IKAROS",
+   "visual_query": "IKAROS JAXA spacecraft"
+  },
+  {
+   "narration": "It unfurled a thin square sail.",
+   "emoji": "🟦",
+   "headline": "Thin Square Sail",
+   "stat": "",
+   "sub": "",
+   "visual_query": "solar sail unfurled"
+  },
+  {
+   "narration": "Sunlight pushes on it, very gently.",
+   "emoji": "☀️",
+   "headline": "Light Pushes It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "sunlight space sail"
+  },
+  {
+   "narration": "That push needs no engine fuel.",
+   "emoji": "⛽",
+   "headline": "No Fuel Needed",
+   "stat": "",
+   "sub": "",
+   "visual_query": "spacecraft sunlight"
+  },
+  {
+   "narration": "It was the first to do this in interplanetary space.",
+   "emoji": "🥇",
+   "headline": "World First",
+   "stat": "",
+   "sub": "",
+   "visual_query": "interplanetary space probe"
+  },
+  {
+   "narration": "It flew toward Venus.",
+   "emoji": "🪐",
+   "headline": "Toward Venus",
+   "stat": "",
+   "sub": "",
+   "visual_query": "planet Venus"
+  },
+  {
+   "narration": "So yes, a spaceship can sail on sunlight.",
+   "emoji": "✅",
+   "headline": "It Is Real",
+   "stat": "",
+   "sub": "",
+   "visual_query": "solar sail artist concept"
+  },
+  {
+   "narration": "Next: a city that goes down about 18 levels.",
+   "emoji": "➡️",
+   "headline": "Next Up",
+   "stat": "",
+   "sub": "An underground city",
+   "visual_query": "Derinkuyu underground city"
+  }
+ ]
+}

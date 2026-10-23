@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Pamban Bridge vertical lift",
+ "hook": "Your train waits while the bridge itself lifts into the air.",
+ "title": "The Indian Rail Bridge That Rises Into the Air",
+ "description": "The new Pamban Bridge near Rameswaram has a middle span that rises vertically so ships can pass. It is India's first vertical-lift sea bridge. Trains wait until it lowers again.\n\n#Shorts #Geography #India",
+ "tags": [
+  "Pamban Bridge",
+  "Rameswaram",
+  "vertical lift bridge",
+  "India",
+  "Tamil Nadu",
+  "railway",
+  "geography facts",
+  "Shorts"
+ ],
+ "comment_prompt": "Would you wait for it? Yes or no",
+ "hook_banner": "THE BRIDGE LIFTS UP",
+ "scenes": [
+  {
+   "narration": "Your train waits while the bridge itself lifts into the air.",
+   "emoji": "🌉",
+   "headline": "BRIDGE LIFTS UP",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pamban Bridge vertical lift"
+  },
+  {
+   "narration": "This is the Pamban Bridge, near Rameswaram.",
+   "emoji": "🚆",
+   "headline": "PAMBAN BRIDGE",
+   "stat": "",
+   "sub": "Rameswaram",
+   "visual_query": "Pamban Bridge Rameswaram"
+  },
+  {
+   "narration": "The train runs over open sea.",
+   "emoji": "🌊",
+   "headline": "OVER THE SEA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pamban Bridge train sea"
+  },
+  {
+   "narration": "Then a ship needs to pass.",
+   "emoji": "🚢",
+   "headline": "SHIP INCOMING",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ship under bridge"
+  },
+  {
+   "narration": "The middle span rises straight up.",
+   "emoji": "⬆️",
+   "headline": "SPAN RISES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "vertical lift bridge raised"
+  },
+  {
+   "narration": "Trains stop until it comes back down.",
+   "emoji": "✋",
+   "headline": "TRAINS WAIT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "train waiting bridge"
+  },
+  {
+   "narration": "It's India's first vertical-lift sea bridge.",
+   "emoji": "🇮🇳",
+   "headline": "INDIA'S FIRST",
+   "stat": "",
+   "sub": "vertical-lift sea bridge",
+   "visual_query": "Pamban new railway bridge"
+  },
+  {
+   "narration": "Your train waits for a bridge to rise.",
+   "emoji": "🌉",
+   "headline": "BRIDGE RISES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pamban Bridge India"
+  },
+  {
+   "narration": "Tomorrow: an island the sea cuts off.",
+   "emoji": "➡️",
+   "headline": "UP NEXT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mont Saint-Michel"
+  }
+ ]
+}

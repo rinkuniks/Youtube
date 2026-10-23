@@ -1,0 +1,94 @@
+{
+ "category": "geography",
+ "topic": "Dead Sea lowest dry land",
+ "hook": "Your car can drive on the lowest dry land on Earth.",
+ "title": "Drive On Earth's Lowest Dry Land",
+ "description": "The Dead Sea shore is the lowest dry land on Earth, more than 400 metres below sea level. The water is so salty that people float and read a newspaper on it. Part of the Places That Shouldn't Exist series.\n\n#Shorts #Geography #PlacesThatShouldntExist",
+ "tags": [
+  "dead sea",
+  "lowest place on earth",
+  "geography facts",
+  "floating",
+  "salt water",
+  "jordan",
+  "israel",
+  "places that shouldn't exist",
+  "shorts"
+ ],
+ "comment_prompt": "Would you float here? Yes or no",
+ "hook_banner": "LOWEST LAND ON EARTH",
+ "scenes": [
+  {
+   "narration": "Your car can drive on the lowest dry land on Earth.",
+   "emoji": "🚗",
+   "headline": "LOWEST DRY LAND",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dead Sea road"
+  },
+  {
+   "narration": "It is the Dead Sea shore.",
+   "emoji": "📍",
+   "headline": "THE DEAD SEA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dead Sea shore"
+  },
+  {
+   "narration": "It sits over 400 metres below sea level.",
+   "emoji": "⬇️",
+   "headline": "BELOW SEA LEVEL",
+   "stat": "400+ M",
+   "sub": "below sea level",
+   "visual_query": "Dead Sea landscape"
+  },
+  {
+   "narration": "The water is so salty that you cannot sink.",
+   "emoji": "🧂",
+   "headline": "TOO SALTY TO SINK",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dead Sea salt crystals"
+  },
+  {
+   "narration": "People float and read a newspaper on it.",
+   "emoji": "📰",
+   "headline": "READING ON WATER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "floating Dead Sea newspaper"
+  },
+  {
+   "narration": "No swimming needed, you just lie back.",
+   "emoji": "🏖️",
+   "headline": "JUST LIE BACK",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dead Sea floating tourist"
+  },
+  {
+   "narration": "Fish cannot live in it, so it is called dead.",
+   "emoji": "🐟",
+   "headline": "NO FISH LIVE HERE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dead Sea water"
+  },
+  {
+   "narration": "So you drive on the lowest land, then float.",
+   "emoji": "🔁",
+   "headline": "DRIVE THEN FLOAT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dead Sea shore"
+  },
+  {
+   "narration": "Tomorrow: a place where the ground becomes sky.",
+   "emoji": "➡️",
+   "headline": "NEXT: GROUND BECOMES SKY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Salar de Uyuni"
+  }
+ ]
+}

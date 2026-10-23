@@ -1,0 +1,93 @@
+{
+ "category": "technology",
+ "topic": "Phone camera sees rolling black bar on screens",
+ "hook": "Your phone camera can show a black bar rolling down a screen.",
+ "title": "Your Phone Camera Sees a Bar Screens Hide",
+ "description": "Point your phone camera at a laptop or TV and you may see a dark bar rolling down it. Screens redraw the picture many times a second, and your camera can catch that clash. It depends on the screen, so try a few.\n\n#Shorts #PhoneTricks #Tech",
+ "tags": [
+  "phone camera trick",
+  "screen refresh rate",
+  "black bar on screen",
+  "tech facts",
+  "try this now",
+  "android",
+  "iphone",
+  "did you know"
+ ],
+ "comment_prompt": "Did you see the black bar? Yes or no",
+ "hook_banner": "TRY THIS NOW",
+ "scenes": [
+  {
+   "narration": "Your phone camera can show a black bar on screens.",
+   "emoji": "📱",
+   "headline": "BLACK BAR ON SCREEN",
+   "stat": "",
+   "sub": "Try it now",
+   "visual_query": "phone filming TV screen"
+  },
+  {
+   "narration": "Open your camera and point it at a laptop.",
+   "emoji": "💻",
+   "headline": "POINT AT A SCREEN",
+   "stat": "",
+   "sub": "Or a TV",
+   "visual_query": "smartphone camera laptop screen"
+  },
+  {
+   "narration": "Your eyes see one steady picture.",
+   "emoji": "👁️",
+   "headline": "EYES: STEADY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "laptop screen display"
+  },
+  {
+   "narration": "But screens redraw the image many times a second.",
+   "emoji": "🔁",
+   "headline": "SCREENS REDRAW",
+   "stat": "",
+   "sub": "Many times a second",
+   "visual_query": "monitor refresh scan lines"
+  },
+  {
+   "narration": "Your camera catches the screen mid-redraw.",
+   "emoji": "📸",
+   "headline": "CAMERA CATCHES IT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "camera filming monitor flicker"
+  },
+  {
+   "narration": "That clash shows up as a dark rolling band.",
+   "emoji": "⬛",
+   "headline": "THE ROLLING BAR",
+   "stat": "",
+   "sub": "",
+   "visual_query": "banding bar filmed monitor"
+  },
+  {
+   "narration": "It depends on the screen, so try a few.",
+   "emoji": "📺",
+   "headline": "TRY DIFFERENT SCREENS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "television screen living room"
+  },
+  {
+   "narration": "Your phone camera can show a black bar.",
+   "emoji": "📱",
+   "headline": "BLACK BAR",
+   "stat": "",
+   "sub": "",
+   "visual_query": "hand holding smartphone camera"
+  },
+  {
+   "narration": "Tomorrow: a country thinner than a ribbon.",
+   "emoji": "🇨🇱",
+   "headline": "NEXT: THIN COUNTRY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chile map"
+  }
+ ]
+}

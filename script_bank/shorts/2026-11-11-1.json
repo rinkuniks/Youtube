@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Waitomo glowworm caves, New Zealand",
+ "hook": "Your boat glides under a sky of living lights.",
+ "title": "Your boat sails under a ceiling of stars",
+ "description": "The Waitomo Caves in New Zealand look like a night sky, but the lights are glowing larvae hanging from the cave roof. They glow to lure insects into sticky silk threads. Part of the Places That Shouldn't Exist series.\n\n#Shorts #NewZealand #PlacesThatShouldntExist",
+ "tags": [
+  "waitomo caves",
+  "glowworms",
+  "new zealand",
+  "geography facts",
+  "places that shouldn't exist",
+  "cave boat ride",
+  "amazing places",
+  "travel facts"
+ ],
+ "comment_prompt": "Would you ride this boat? Yes or no",
+ "hook_banner": "THIS PLACE IS REAL",
+ "scenes": [
+  {
+   "narration": "Your boat glides under a sky of living lights.",
+   "emoji": "🚣",
+   "headline": "A Sky Of Living Lights",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Waitomo glowworm cave boat"
+  },
+  {
+   "narration": "This cave is in Waitomo, New Zealand.",
+   "emoji": "🇳🇿",
+   "headline": "Waitomo, New Zealand",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Waitomo caves New Zealand"
+  },
+  {
+   "narration": "Those stars are thousands of glowing larvae.",
+   "emoji": "✨",
+   "headline": "Not Stars. Larvae.",
+   "stat": "",
+   "sub": "",
+   "visual_query": "glowworms cave ceiling"
+  },
+  {
+   "narration": "They're baby flies, not actually worms.",
+   "emoji": "🪰",
+   "headline": "Baby Flies",
+   "stat": "",
+   "sub": "Not worms",
+   "visual_query": "Arachnocampa glowworm closeup"
+  },
+  {
+   "narration": "Each one glows to lure insects in.",
+   "emoji": "💡",
+   "headline": "The Glow Is Bait",
+   "stat": "",
+   "sub": "",
+   "visual_query": "glowworm light dark cave"
+  },
+  {
+   "narration": "Sticky silk threads hang down to trap them.",
+   "emoji": "🕸️",
+   "headline": "Sticky Silk Traps",
+   "stat": "",
+   "sub": "",
+   "visual_query": "glowworm silk threads"
+  },
+  {
+   "narration": "So that starry ceiling is a hunting trap.",
+   "emoji": "🪤",
+   "headline": "A Starry Hunting Trap",
+   "stat": "",
+   "sub": "",
+   "visual_query": "glowworm cave ceiling stars"
+  },
+  {
+   "narration": "Your sky of living lights is a trap.",
+   "emoji": "🌌",
+   "headline": "Beautiful And Deadly",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Waitomo cave boat tourists"
+  },
+  {
+   "narration": "Next: a wave frozen in solid stone.",
+   "emoji": "🌊",
+   "headline": "Next: Stone Wave",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Wave Rock Hyden"
+  }
+ ]
+}

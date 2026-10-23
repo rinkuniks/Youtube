@@ -1,0 +1,101 @@
+{
+ "category": "space",
+ "topic": "Shrinking Moon lobate scarps",
+ "hook": "Your Moon is shrinking and wrinkling.",
+ "title": "Your Moon Is Shrinking and Wrinkling",
+ "description": "NASA's Lunar Reconnaissance Orbiter photographed cliffs on the Moon called lobate scarps. They formed as the Moon's interior slowly cooled and contracted. Series: If You Were in Space.\n\n#Shorts #Moon #NASA",
+ "tags": [
+  "moon",
+  "shrinking moon",
+  "lobate scarps",
+  "NASA LRO",
+  "space facts",
+  "moonquakes",
+  "space shorts",
+  "did you know"
+ ],
+ "comment_prompt": "Did you know this? Yes or no",
+ "hook_banner": "THE MOON IS WRINKLING",
+ "scenes": [
+  {
+   "narration": "Your Moon is shrinking and wrinkling.",
+   "emoji": "🌕",
+   "headline": "MOON IS SHRINKING",
+   "stat": "",
+   "sub": "",
+   "visual_query": "full moon craters"
+  },
+  {
+   "narration": "NASA's orbiter photographed cliffs across its surface.",
+   "emoji": "📸",
+   "headline": "CLIFFS ON THE MOON",
+   "stat": "",
+   "sub": "NASA LRO",
+   "visual_query": "Lunar Reconnaissance Orbiter"
+  },
+  {
+   "narration": "They are called lobate scarps.",
+   "emoji": "🏔️",
+   "headline": "LOBATE SCARPS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "lobate scarp moon"
+  },
+  {
+   "narration": "The Moon's inside is slowly cooling.",
+   "emoji": "🧊",
+   "headline": "SLOWLY COOLING",
+   "stat": "",
+   "sub": "",
+   "visual_query": "moon interior cutaway"
+  },
+  {
+   "narration": "As it cools, it contracts.",
+   "emoji": "🤏",
+   "headline": "IT CONTRACTS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "moon surface closeup"
+  },
+  {
+   "narration": "The crust wrinkles like a drying grape.",
+   "emoji": "🍇",
+   "headline": "WRINKLED CRUST",
+   "stat": "",
+   "sub": "",
+   "visual_query": "wrinkled raisin grape"
+  },
+  {
+   "narration": "It has shrunk about 50 metres.",
+   "emoji": "📏",
+   "headline": "SHRUNK ~50 METRES",
+   "stat": "50 m",
+   "sub": "Over hundreds of millions of years",
+   "visual_query": "moon surface NASA"
+  },
+  {
+   "narration": "Some of those cliffs may still shake.",
+   "emoji": "🌋",
+   "headline": "MOONQUAKES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "moon surface cliff"
+  },
+  {
+   "narration": "So yes, your Moon is wrinkling.",
+   "emoji": "🌕",
+   "headline": "IT'S WRINKLING",
+   "stat": "",
+   "sub": "",
+   "visual_query": "moon night sky"
+  },
+  {
+   "narration": "Tomorrow: a storm bigger than Earth.",
+   "emoji": "➡️",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "Jupiter's storm",
+   "visual_query": "Jupiter Great Red Spot"
+  }
+ ]
+}

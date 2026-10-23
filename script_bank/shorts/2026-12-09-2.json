@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Nyiragongo lava lake",
+ "hook": "Your night view here is a lake of lava.",
+ "title": "A Volcano Crater Full of Glowing Lava",
+ "description": "Nyiragongo in the Democratic Republic of Congo has held one of the largest lava lakes on Earth. At night the crater glows, and the city of Goma sits close by.\n\n#Shorts #Volcano #Geography",
+ "tags": [
+  "Nyiragongo",
+  "Congo",
+  "lava lake",
+  "volcano",
+  "Goma",
+  "geography facts",
+  "Africa",
+  "night view"
+ ],
+ "comment_prompt": "Would you look inside? Yes or no",
+ "hook_banner": "THIS PLACE IS REAL",
+ "scenes": [
+  {
+   "narration": "Your night view here is a lake of lava.",
+   "emoji": "🌋",
+   "headline": "A Lake Of Lava",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nyiragongo lava lake night"
+  },
+  {
+   "narration": "This is Nyiragongo, in the Democratic Republic of Congo.",
+   "emoji": "🌍",
+   "headline": "Nyiragongo, Congo",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nyiragongo volcano"
+  },
+  {
+   "narration": "Its crater has held a glowing lava lake.",
+   "emoji": "🔥",
+   "headline": "Glowing Crater",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nyiragongo crater glow"
+  },
+  {
+   "narration": "It's among the largest lava lakes on Earth.",
+   "emoji": "📏",
+   "headline": "Among Earth's Largest",
+   "stat": "",
+   "sub": "",
+   "visual_query": "lava lake volcano crater"
+  },
+  {
+   "narration": "At night, the crater glows red-orange.",
+   "emoji": "🌃",
+   "headline": "Glows At Night",
+   "stat": "",
+   "sub": "",
+   "visual_query": "volcano glow night"
+  },
+  {
+   "narration": "The city of Goma sits close by.",
+   "emoji": "🏙️",
+   "headline": "Goma Is Close",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Goma city volcano"
+  },
+  {
+   "narration": "Scientists monitor it closely.",
+   "emoji": "🔬",
+   "headline": "Closely Watched",
+   "stat": "",
+   "sub": "",
+   "visual_query": "volcanologist volcano"
+  },
+  {
+   "narration": "Your night view: a lake of fire.",
+   "emoji": "🔥",
+   "headline": "Lake Of Fire",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nyiragongo eruption"
+  },
+  {
+   "narration": "Tomorrow: a rover finds leopard spots on Mars.",
+   "emoji": "➡️",
+   "headline": "Next: Mars Spots",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cheyava Falls Mars rock"
+  }
+ ]
+}

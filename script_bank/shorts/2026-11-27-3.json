@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Super Heavy booster catch",
+ "hook": "Your rocket booster just got caught by giant metal arms.",
+ "title": "A Giant Rocket Was Caught By Metal Arms",
+ "description": "In October 2024, SpaceX's Super Heavy booster returned to its launch tower and was caught mid-air by the arms nicknamed the chopsticks. It had no landing legs. Series: Wait, What? Space.\n\n#Shorts #SpaceX #Starship",
+ "tags": [
+  "spacex",
+  "starship",
+  "super heavy",
+  "chopsticks",
+  "rocket catch",
+  "space facts",
+  "mechazilla",
+  "shorts"
+ ],
+ "comment_prompt": "Genius or crazy? One word",
+ "hook_banner": "CAUGHT MID-AIR",
+ "scenes": [
+  {
+   "narration": "Your rocket booster just got caught by giant metal arms.",
+   "emoji": "🦾",
+   "headline": "ROCKET CAUGHT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Starship booster catch chopsticks"
+  },
+  {
+   "narration": "In October 2024, SpaceX tried something wild.",
+   "emoji": "🚀",
+   "headline": "OCTOBER 2024",
+   "stat": "2024",
+   "sub": "",
+   "visual_query": "SpaceX Starbase launch"
+  },
+  {
+   "narration": "Its Super Heavy booster flew back to the tower.",
+   "emoji": "🔙",
+   "headline": "BACK TO THE TOWER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Super Heavy booster returning"
+  },
+  {
+   "narration": "Two giant arms, called chopsticks, closed around it.",
+   "emoji": "🥢",
+   "headline": "THE CHOPSTICKS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Starship launch tower arms"
+  },
+  {
+   "narration": "No landing legs. No landing pad.",
+   "emoji": "🚫",
+   "headline": "NO LEGS, NO PAD",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Super Heavy booster tower"
+  },
+  {
+   "narration": "The booster was caught in mid-air.",
+   "emoji": "😮",
+   "headline": "CAUGHT MID-AIR",
+   "stat": "",
+   "sub": "",
+   "visual_query": "booster caught tower SpaceX"
+  },
+  {
+   "narration": "Catching it makes reuse faster.",
+   "emoji": "♻️",
+   "headline": "BUILT FOR REUSE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Starbase Texas rocket"
+  },
+  {
+   "narration": "Yes, giant arms really caught a rocket.",
+   "emoji": "🤯",
+   "headline": "TOTALLY REAL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Starship Mechazilla"
+  },
+  {
+   "narration": "Tomorrow: India's mark on the Moon.",
+   "emoji": "➡️",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "India's mark on the Moon",
+   "visual_query": "Pragyan rover Moon"
+  }
+ ]
+}

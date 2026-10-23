@@ -1,0 +1,85 @@
+{
+ "category": "space",
+ "topic": "ISRO bicycle and bullock cart",
+ "hook": "Your idea of a rocket launch breaks at early ISRO.",
+ "title": "ISRO Carried Rocket Parts on a Bicycle",
+ "description": "In ISRO's early days, rocket parts were carried to the launch site on a bicycle. A famous photo also shows a satellite moved on a bullock cart. Today India sends missions to the Moon and Mars.\n\n#Shorts #ISRO #SpaceFacts",
+ "tags": [
+  "ISRO",
+  "bicycle rocket",
+  "bullock cart satellite",
+  "Thumba",
+  "APPLE satellite",
+  "India space",
+  "space facts",
+  "Shorts"
+ ],
+ "comment_prompt": "Bicycle or bullock cart? Pick one",
+ "hook_banner": "THIS PHOTO IS REAL",
+ "scenes": [
+  {
+   "narration": "Your idea of a rocket launch breaks at early ISRO.",
+   "emoji": "🚀",
+   "headline": "ROCKET ON A BICYCLE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ISRO rocket bicycle"
+  },
+  {
+   "narration": "Rocket parts rode to the launch site on a bicycle.",
+   "emoji": "🚲",
+   "headline": "PARTS BY BICYCLE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Thumba rocket bicycle"
+  },
+  {
+   "narration": "That launch site was a small fishing village.",
+   "emoji": "🏖️",
+   "headline": "A FISHING VILLAGE",
+   "stat": "",
+   "sub": "Thumba, Kerala",
+   "visual_query": "Thumba launch station"
+  },
+  {
+   "narration": "It gets stranger. A satellite rode a bullock cart.",
+   "emoji": "🐂",
+   "headline": "SATELLITE ON A CART",
+   "stat": "",
+   "sub": "",
+   "visual_query": "APPLE satellite bullock cart"
+  },
+  {
+   "narration": "The photo is real, and ISRO shares it proudly.",
+   "emoji": "📸",
+   "headline": "THE REAL PHOTO",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ISRO bullock cart photo"
+  },
+  {
+   "narration": "Those same people later reached the Moon and Mars.",
+   "emoji": "🌕",
+   "headline": "THEN CAME THE MOON",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chandrayaan Moon landing"
+  },
+  {
+   "narration": "So next time, remember the bicycle.",
+   "emoji": "🇮🇳",
+   "headline": "START SMALL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ISRO scientists early days"
+  },
+  {
+   "narration": "Tomorrow: why your Netflix screenshot goes black.",
+   "emoji": "📱",
+   "headline": "NEXT: BLACK SCREENSHOT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "black phone screen"
+  }
+ ]
+}

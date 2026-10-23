@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Coober Pedy underground hotel",
+ "hook": "Your hotel room here can be underground.",
+ "title": "Your Hotel Room Is Dug Into a Hillside",
+ "description": "In Coober Pedy, Australia, locals dug homes into the hillside to escape the desert heat. Hotels, bedrooms and even churches sit inside the rock. Part of the Places That Shouldn't Exist series.\n\n#Shorts #Geography #PlacesThatShouldntExist",
+ "tags": [
+  "coober pedy",
+  "underground hotel",
+  "australia",
+  "outback",
+  "geography facts",
+  "places that shouldn't exist",
+  "weird places",
+  "travel facts"
+ ],
+ "comment_prompt": "Would you sleep underground? Yes or no",
+ "hook_banner": "THIS PLACE IS REAL",
+ "scenes": [
+  {
+   "narration": "Your hotel room here can be underground.",
+   "emoji": "🏨",
+   "headline": "UNDERGROUND HOTEL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Coober Pedy underground hotel"
+  },
+  {
+   "narration": "This is Coober Pedy, in the Australian outback.",
+   "emoji": "🇦🇺",
+   "headline": "COOBER PEDY",
+   "stat": "",
+   "sub": "Australia",
+   "visual_query": "Coober Pedy town"
+  },
+  {
+   "narration": "Summer heat here gets brutal.",
+   "emoji": "🔥",
+   "headline": "BRUTAL DESERT HEAT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Australian outback desert"
+  },
+  {
+   "narration": "So locals dug their homes into the hillside.",
+   "emoji": "⛏️",
+   "headline": "HOMES DUG INTO HILLS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Coober Pedy dugout home"
+  },
+  {
+   "narration": "Bedrooms, kitchens, even churches sit inside the rock.",
+   "emoji": "⛪",
+   "headline": "EVEN CHURCHES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Coober Pedy underground church"
+  },
+  {
+   "narration": "Underground, the temperature stays far cooler.",
+   "emoji": "❄️",
+   "headline": "COOL INSIDE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "underground cave bedroom"
+  },
+  {
+   "narration": "Visitors sleep in those same carved rooms.",
+   "emoji": "🛏️",
+   "headline": "SLEEP IN THE ROCK",
+   "stat": "",
+   "sub": "",
+   "visual_query": "underground hotel room"
+  },
+  {
+   "narration": "Your hotel room really can be underground.",
+   "emoji": "🏨",
+   "headline": "REALLY UNDERGROUND",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Coober Pedy hotel"
+  },
+  {
+   "narration": "Next: islands made of reeds.",
+   "emoji": "🌾",
+   "headline": "NEXT: REED ISLANDS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Uros floating islands"
+  }
+ ]
+}

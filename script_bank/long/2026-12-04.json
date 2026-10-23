@@ -1,0 +1,645 @@
+{
+ "topic": "Why Northeast India is stranger than you think (ending at Longwa village, Nagaland)",
+ "hook": "Your night in Longwa, Nagaland, puts your bed in India and Myanmar at once.",
+ "title": "Northeast India: 7 Facts That Sound Fake",
+ "description": "Northeast India has a village where the India-Myanmar border runs through the chief's house, a national park that floats on a lake, and tea gardens that run an hour ahead of Indian time. This video walks through seven real, checkable facts about the region, ending at Longwa in Nagaland. Watch to the end to see where the line cuts through the Angh's home.\n\n#NortheastIndia #Longwa #IndiaFacts",
+ "tags": [
+  "northeast india",
+  "longwa village",
+  "nagaland",
+  "india myanmar border",
+  "konyak naga",
+  "majuli island",
+  "loktak lake",
+  "living root bridge",
+  "bagan time",
+  "bhut jolokia",
+  "battle of kohima",
+  "strange places in india",
+  "india facts",
+  "unbelievable but true",
+  "geography facts"
+ ],
+ "comment_prompt": "Which place would you visit first?",
+ "hook_banner": "A BED IN TWO COUNTRIES",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "The Chicken's Neck",
+   "scene": 5
+  },
+  {
+   "title": "Tea Garden Time",
+   "scene": 10
+  },
+  {
+   "title": "Majuli, The River Island",
+   "scene": 16
+  },
+  {
+   "title": "The Floating Park",
+   "scene": 23
+  },
+  {
+   "title": "Meghalaya's Grown Bridges",
+   "scene": 30
+  },
+  {
+   "title": "Nagaland: Chilli and Tennis",
+   "scene": 39
+  },
+  {
+   "title": "Longwa: Two Countries, One House",
+   "scene": 51
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your night in Longwa, Nagaland, puts your bed in India and Myanmar at once. The border runs straight through the chief's house.",
+   "emoji": "🛏️",
+   "headline": "Bed in Two Countries",
+   "stat": "",
+   "sub": "Longwa, Nagaland",
+   "visual_query": "Longwa village Nagaland"
+  },
+  {
+   "narration": "That is real, and it is the last stop in this video. Before it, six more places in Northeast India that sound fake.",
+   "emoji": "🗺️",
+   "headline": "7 Places, All Real",
+   "stat": "7",
+   "sub": "",
+   "visual_query": "Northeast India map"
+  },
+  {
+   "narration": "You will see clocks that run an hour ahead, an island the river is eating, and a national park that floats on water.",
+   "emoji": "⏰",
+   "headline": "Clocks, Islands, Floating Parks",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Loktak lake floating"
+  },
+  {
+   "narration": "By the end, you will see where the line cuts through the chief's home, and why villagers hold two citizenships.",
+   "emoji": "🏠",
+   "headline": "The Chief's House",
+   "stat": "",
+   "sub": "Saved for last",
+   "visual_query": "Konyak village house"
+  },
+  {
+   "narration": "Each place is stranger than the one before it. So start where the whole region hangs by a thread.",
+   "emoji": "🧵",
+   "headline": "Getting Stranger",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Northeast India hills"
+  },
+  {
+   "narration": "First, look at a map of India. The Northeast hangs off the country by a thin strip of land.",
+   "emoji": "🗺️",
+   "headline": "A Thin Strip",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India map northeast"
+  },
+  {
+   "narration": "It is called the Siliguri Corridor, or the Chicken's Neck, and in places it is only tens of kilometres wide.",
+   "emoji": "🐔",
+   "headline": "The Chicken's Neck",
+   "stat": "",
+   "sub": "Siliguri Corridor",
+   "visual_query": "Siliguri corridor"
+  },
+  {
+   "narration": "Nepal, Bhutan and Bangladesh all crowd around it, so three other countries sit beside one narrow road to the region.",
+   "emoji": "🚧",
+   "headline": "Three Countries Nearby",
+   "stat": "3",
+   "sub": "Nepal, Bhutan, Bangladesh",
+   "visual_query": "Siliguri highway"
+  },
+  {
+   "narration": "Seven states, with their own languages and foods, depend on that thin link for trains and highways.",
+   "emoji": "🚆",
+   "headline": "Seven States, One Link",
+   "stat": "7",
+   "sub": "",
+   "visual_query": "northeast india train"
+  },
+  {
+   "narration": "Now stay with me, because the strangeness really starts with the clocks.",
+   "emoji": "👀",
+   "headline": "Now The Clocks",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tea garden Assam"
+  },
+  {
+   "narration": "Next: tea time. India has one official time zone, but in Assam's tea gardens, people often run on a different clock.",
+   "emoji": "🍵",
+   "headline": "Tea Garden Time",
+   "stat": "",
+   "sub": "Assam",
+   "visual_query": "Assam tea garden"
+  },
+  {
+   "narration": "It is called Bagan time, and it runs one hour ahead of Indian Standard Time.",
+   "emoji": "⏰",
+   "headline": "One Hour Ahead",
+   "stat": "+1 hour",
+   "sub": "Bagan time",
+   "visual_query": "tea garden workers"
+  },
+  {
+   "narration": "The sun rises very early in the Northeast, so planters moved the clocks forward to use the daylight.",
+   "emoji": "🌅",
+   "headline": "Early Sunrise",
+   "stat": "",
+   "sub": "",
+   "visual_query": "sunrise Assam"
+  },
+  {
+   "narration": "So a worker can start at what your phone calls seven in the morning, while the garden clock already says eight.",
+   "emoji": "📱",
+   "headline": "Phone Says 7, Garden Says 8",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tea plucking morning"
+  },
+  {
+   "narration": "Your phone shows IST. The garden bell follows its own time, and nobody there thinks twice about it.",
+   "emoji": "🔔",
+   "headline": "Two Clocks, One Day",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tea estate bell"
+  },
+  {
+   "narration": "Same country, same day, two clocks. And that is the mildest thing on this list.",
+   "emoji": "😮",
+   "headline": "The Mildest One",
+   "stat": "",
+   "sub": "",
+   "visual_query": "wall clock tea"
+  },
+  {
+   "narration": "Next: an island so big it has villages, farms and monasteries, and it sits inside a river.",
+   "emoji": "🏝️",
+   "headline": "An Island in a River",
+   "stat": "",
+   "sub": "Majuli, Assam",
+   "visual_query": "Majuli island"
+  },
+  {
+   "narration": "Majuli sits in the Brahmaputra, and in 2016 Guinness recognised it as the world's largest river island.",
+   "emoji": "🏆",
+   "headline": "Largest River Island",
+   "stat": "2016",
+   "sub": "Guinness record",
+   "visual_query": "Brahmaputra river island"
+  },
+  {
+   "narration": "Picture a place where you take a ferry to school, and the school is on an island.",
+   "emoji": "⛴️",
+   "headline": "Ferry to School",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Majuli ferry"
+  },
+  {
+   "narration": "The Brahmaputra floods every year, and the river keeps eating the island's banks. Majuli has been shrinking.",
+   "emoji": "🌊",
+   "headline": "The River Takes It Back",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Brahmaputra flood"
+  },
+  {
+   "narration": "Satras, which are old Vaishnav monasteries, still stand there, with monks who keep dance and mask-making alive.",
+   "emoji": "🎭",
+   "headline": "Monks and Masks",
+   "stat": "",
+   "sub": "Satras",
+   "visual_query": "Majuli satra mask"
+  },
+  {
+   "narration": "So you can visit a living culture, on land the river is slowly taking back.",
+   "emoji": "🌾",
+   "headline": "Culture on Shrinking Land",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Majuli village paddy"
+  },
+  {
+   "narration": "But the next place is even stranger, because there the ground itself floats.",
+   "emoji": "👀",
+   "headline": "Floating Ground Next",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Loktak lake phumdi"
+  },
+  {
+   "narration": "In Manipur there is a lake where the ground floats, and people live and fish on it.",
+   "emoji": "🛶",
+   "headline": "A Lake With Floating Ground",
+   "stat": "",
+   "sub": "Loktak Lake, Manipur",
+   "visual_query": "Loktak lake"
+  },
+  {
+   "narration": "Loktak is covered in phumdis, thick mats of weeds, soil and plant matter that drift on the water.",
+   "emoji": "🌿",
+   "headline": "Phumdis",
+   "stat": "",
+   "sub": "Floating mats",
+   "visual_query": "phumdi Loktak"
+  },
+  {
+   "narration": "Some are thick enough for fishermen to build huts on, so whole homes float in the lake.",
+   "emoji": "🏠",
+   "headline": "Homes That Float",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Loktak fisherman hut"
+  },
+  {
+   "narration": "The biggest mat holds Keibul Lamjao, the only floating national park in the world.",
+   "emoji": "🌍",
+   "headline": "The Only Floating Park",
+   "stat": "1",
+   "sub": "In the world",
+   "visual_query": "Keibul Lamjao national park"
+  },
+  {
+   "narration": "It protects the sangai, a rare deer with antlers that curve like a dancer's arms.",
+   "emoji": "🦌",
+   "headline": "The Dancing Deer",
+   "stat": "",
+   "sub": "Sangai",
+   "visual_query": "sangai deer"
+  },
+  {
+   "narration": "So a deer lives and walks on a field that is actually sitting on a lake.",
+   "emoji": "💧",
+   "headline": "A Field on a Lake",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Loktak lake deer"
+  },
+  {
+   "narration": "Now head west to Meghalaya, where bridges are not built with steel or concrete. They are grown.",
+   "emoji": "🌳",
+   "headline": "Bridges That Grow",
+   "stat": "",
+   "sub": "Meghalaya",
+   "visual_query": "living root bridge"
+  },
+  {
+   "narration": "The Khasi people guide the roots of rubber fig trees across a stream, and wait for years until they hold.",
+   "emoji": "🌱",
+   "headline": "Roots Become Bridges",
+   "stat": "",
+   "sub": "Khasi people",
+   "visual_query": "rubber fig roots bridge"
+  },
+  {
+   "narration": "Some of these living root bridges are said to be hundreds of years old, and they get stronger as they grow.",
+   "emoji": "💪",
+   "headline": "Stronger With Age",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cherrapunji root bridge"
+  },
+  {
+   "narration": "Nearby, Mawsynram holds the Guinness record for the highest average yearly rainfall of any place on Earth.",
+   "emoji": "🌧️",
+   "headline": "Wettest Place on Earth",
+   "stat": "",
+   "sub": "Mawsynram",
+   "visual_query": "Mawsynram rain"
+  },
+  {
+   "narration": "People there wear woven bamboo shields called knups on their backs, like a turtle shell, to stay dry.",
+   "emoji": "🐢",
+   "headline": "Rain Shields",
+   "stat": "",
+   "sub": "Knup",
+   "visual_query": "Khasi knup rain"
+  },
+  {
+   "narration": "And at Dawki, the Umngot river is so clear that boats look like they are floating in the air.",
+   "emoji": "🛶",
+   "headline": "Boats in Mid-Air",
+   "stat": "",
+   "sub": "Umngot river, Dawki",
+   "visual_query": "Dawki Umngot river boat"
+  },
+  {
+   "narration": "That glass-like view is best in the cooler dry months, when the water is calm and clear.",
+   "emoji": "❄️",
+   "headline": "Best in Winter",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dawki clear water"
+  },
+  {
+   "narration": "If you like places that sound fake but are true, subscribe. The next two stops are in Nagaland.",
+   "emoji": "🔔",
+   "headline": "Stay for Nagaland",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nagaland hills"
+  },
+  {
+   "narration": "One is a chilli that works like a weapon. The other is a battle fought over a tennis court.",
+   "emoji": "🌶️",
+   "headline": "Chilli and Tennis",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kohima Nagaland"
+  },
+  {
+   "narration": "Nagaland has a chilli that once held the world record for the hottest on Earth.",
+   "emoji": "🌶️",
+   "headline": "The Ghost Pepper",
+   "stat": "",
+   "sub": "Bhut jolokia",
+   "visual_query": "bhut jolokia ghost pepper"
+  },
+  {
+   "narration": "It is the bhut jolokia, and Guinness certified it in 2007 at over a million Scoville units.",
+   "emoji": "🔥",
+   "headline": "Over a Million Scoville",
+   "stat": "2007",
+   "sub": "Guinness record",
+   "visual_query": "ghost chilli plant"
+  },
+  {
+   "narration": "The green chilli in your kitchen is only a small fraction of that heat.",
+   "emoji": "🥵",
+   "headline": "Your Chilli vs This",
+   "stat": "",
+   "sub": "",
+   "visual_query": "green chilli market"
+  },
+  {
+   "narration": "India's defence research lab even looked at it for chilli grenades, meant to control crowds without bullets.",
+   "emoji": "💥",
+   "headline": "Chilli Grenades",
+   "stat": "",
+   "sub": "DRDO",
+   "visual_query": "chilli grenade DRDO"
+  },
+  {
+   "narration": "Now the war story. In April 1944, in Kohima, soldiers fought a battle across a tennis court.",
+   "emoji": "🎾",
+   "headline": "The Tennis Court Battle",
+   "stat": "1944",
+   "sub": "Kohima",
+   "visual_query": "Kohima war cemetery"
+  },
+  {
+   "narration": "The court belonged to the British deputy commissioner's bungalow, and the two sides fought over it only metres apart.",
+   "emoji": "🏚️",
+   "headline": "Metres Apart",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kohima tennis court memorial"
+  },
+  {
+   "narration": "It is now remembered as the Battle of the Tennis Court, and the court's outline is marked inside the Kohima war cemetery.",
+   "emoji": "🪦",
+   "headline": "Marked in the Cemetery",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kohima cemetery"
+  },
+  {
+   "narration": "Kohima is seen as a turning point of the war in Asia, because the Japanese advance into India was stopped there.",
+   "emoji": "🛑",
+   "headline": "Japan Stopped Here",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kohima 1944 soldiers"
+  },
+  {
+   "narration": "In 2013, Britain's National Army Museum voted Kohima and Imphal the greatest battle Britain ever fought.",
+   "emoji": "🏛️",
+   "headline": "Greatest Battle Vote",
+   "stat": "2013",
+   "sub": "National Army Museum",
+   "visual_query": "Kohima memorial"
+  },
+  {
+   "narration": "A memorial there carries these words: 'When you go home, tell them of us, and say,",
+   "emoji": "📜",
+   "headline": "The Kohima Epitaph",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kohima epitaph stone"
+  },
+  {
+   "narration": "for your tomorrow, we gave our today.' It is carved in stone above the graves.",
+   "emoji": "🕯️",
+   "headline": "For Your Tomorrow",
+   "stat": "",
+   "sub": "",
+   "visual_query": "war cemetery graves flowers"
+  },
+  {
+   "narration": "You have now seen a floating park and a tennis court war. The last stop beats both.",
+   "emoji": "👀",
+   "headline": "The Last Stop",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mon district Nagaland"
+  },
+  {
+   "narration": "Last stop, the one I promised: Longwa village, in Mon district, home of the Konyak Naga people.",
+   "emoji": "📍",
+   "headline": "Longwa Village",
+   "stat": "",
+   "sub": "Mon district, Nagaland",
+   "visual_query": "Longwa village Konyak"
+  },
+  {
+   "narration": "Their grandfathers were headhunters. That stopped decades ago, but some elders still wear tattoos on their faces.",
+   "emoji": "🧓",
+   "headline": "Konyak Elders",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Konyak elder tattoo"
+  },
+  {
+   "narration": "Today they are known for hospitality, hornbill-feather headgear, and one very unusual line on the map.",
+   "emoji": "🪶",
+   "headline": "Hornbill Feathers",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Konyak hornbill headgear"
+  },
+  {
+   "narration": "The village sits high on a ridge, with Myanmar's hills rolling out behind it.",
+   "emoji": "⛰️",
+   "headline": "Hills of Myanmar",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Longwa ridge Myanmar view"
+  },
+  {
+   "narration": "The India-Myanmar border runs right through Longwa. A boundary pillar marks it, and people stand with one foot on each side.",
+   "emoji": "🧍",
+   "headline": "One Foot Each Side",
+   "stat": "",
+   "sub": "India | Myanmar",
+   "visual_query": "Longwa border pillar"
+  },
+  {
+   "narration": "The village chief is called the Angh. His large wooden house sits right on that line.",
+   "emoji": "🏛️",
+   "headline": "The Angh's House",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Angh house Longwa"
+  },
+  {
+   "narration": "So one part of the house is in India, and another part is in Myanmar.",
+   "emoji": "🇮🇳",
+   "headline": "India Here, Myanmar There",
+   "stat": "2",
+   "sub": "Countries, one roof",
+   "visual_query": "Longwa chief house border"
+  },
+  {
+   "narration": "Locals say the chief can eat in one country and sleep in the other, with no passport check inside his own home.",
+   "emoji": "🍚",
+   "headline": "Eat in One, Sleep in Other",
+   "stat": "",
+   "sub": "Locals say",
+   "visual_query": "Naga chief house interior"
+  },
+  {
+   "narration": "In a house like that, a bed can sit on one side of the line, and the kitchen on the other.",
+   "emoji": "🛏️",
+   "headline": "Bed Across the Line",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Naga village wooden bed"
+  },
+  {
+   "narration": "The villagers also hold citizenship of both sides, so they are Indian and Myanmar citizens at once.",
+   "emoji": "🪪",
+   "headline": "Two Citizenships",
+   "stat": "2",
+   "sub": "",
+   "visual_query": "Longwa villagers"
+  },
+  {
+   "narration": "Many families have members on each side, and people cross for farming, for weddings, and for work.",
+   "emoji": "👨‍👩‍👧",
+   "headline": "Families on Both Sides",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Konyak family village"
+  },
+  {
+   "narration": "Under a free movement arrangement, people living near the border have been able to cross a short distance without a visa.",
+   "emoji": "🚶",
+   "headline": "Free Movement",
+   "stat": "",
+   "sub": "No visa for locals",
+   "visual_query": "India Myanmar border Nagaland"
+  },
+  {
+   "narration": "Both sides also share one language, Konyak, and one way of life, from long before any line was drawn.",
+   "emoji": "🗣️",
+   "headline": "One People",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Konyak people festival"
+  },
+  {
+   "narration": "The line was drawn on a map, and it cut through Konyak land without asking the people who lived there.",
+   "emoji": "✏️",
+   "headline": "A Line on a Map",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Myanmar border map"
+  },
+  {
+   "narration": "In a way, the people did not cross the border. The border crossed them.",
+   "emoji": "💭",
+   "headline": "The Border Crossed Them",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Longwa border marker"
+  },
+  {
+   "narration": "Visitors can walk the village lanes, see the chief's house, and meet elders who remember the old days.",
+   "emoji": "🚶‍♂️",
+   "headline": "Walk the Village",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Longwa village lane"
+  },
+  {
+   "narration": "That may change. India has announced plans to fence the border and end free movement, and Naga groups have objected.",
+   "emoji": "🚧",
+   "headline": "A Fence Is Planned",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Myanmar border fence"
+  },
+  {
+   "narration": "So the open, shared life of Longwa may look different soon.",
+   "emoji": "⏳",
+   "headline": "It May Change",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Longwa sunset"
+  },
+  {
+   "narration": "Think back through the list. A thin strip of land holds a whole region to the country.",
+   "emoji": "🗺️",
+   "headline": "Recap",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Siliguri corridor road"
+  },
+  {
+   "narration": "A tea garden clock runs an hour ahead. A river keeps an island shrinking, and a lake carries a park.",
+   "emoji": "⏰",
+   "headline": "Clocks, Rivers, Lakes",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Majuli Loktak"
+  },
+  {
+   "narration": "Roots become bridges, and a tennis court became a battlefield.",
+   "emoji": "🌳",
+   "headline": "Roots and Tennis",
+   "stat": "",
+   "sub": "",
+   "visual_query": "root bridge Meghalaya"
+  },
+  {
+   "narration": "And in Longwa, a chief's home sits across two countries, with villagers who hold citizenship of both.",
+   "emoji": "🏠",
+   "headline": "Two Countries, One Home",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Longwa Angh house"
+  },
+  {
+   "narration": "Tomorrow: the countries that sit completely inside another country. And remember, in Longwa your bed can sit in India and Myanmar at once.",
+   "emoji": "🛏️",
+   "headline": "Tomorrow: Countries Inside Countries",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lesotho South Africa map"
+  }
+ ]
+}

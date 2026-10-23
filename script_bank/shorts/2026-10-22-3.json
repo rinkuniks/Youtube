@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Tortillas instead of bread on the ISS",
+ "hook": "Your sandwich in space would be a tortilla.",
+ "title": "Astronauts Can't Eat Bread in Space",
+ "description": "Bread makes crumbs, and crumbs float in space. They can drift into equipment and even into eyes. That is why ISS crews eat tortillas instead.\n\n#Shorts #Space #ISS",
+ "tags": [
+  "astronaut food",
+  "tortilla in space",
+  "ISS",
+  "space facts",
+  "zero gravity",
+  "if you were in space",
+  "NASA",
+  "bread crumbs"
+ ],
+ "comment_prompt": "Bread or tortilla? Pick one",
+ "hook_banner": "NO BREAD IN SPACE",
+ "scenes": [
+  {
+   "narration": "Your sandwich in space would be a tortilla.",
+   "emoji": "🌯",
+   "headline": "NO BREAD ALLOWED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut tortilla ISS"
+  },
+  {
+   "narration": "Bread is a problem up there.",
+   "emoji": "🍞",
+   "headline": "BREAD IS TROUBLE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "sliced bread crumbs"
+  },
+  {
+   "narration": "Bread makes crumbs, and crumbs don't fall.",
+   "emoji": "✨",
+   "headline": "CRUMBS DON'T FALL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "floating crumbs"
+  },
+  {
+   "narration": "They float and drift everywhere.",
+   "emoji": "🌫️",
+   "headline": "CRUMBS FLOAT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "floating food ISS"
+  },
+  {
+   "narration": "Crumbs can get into equipment.",
+   "emoji": "⚙️",
+   "headline": "BREAKS EQUIPMENT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "space station equipment panel"
+  },
+  {
+   "narration": "They can even float into eyes.",
+   "emoji": "👁️",
+   "headline": "EYES AT RISK",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut face floating"
+  },
+  {
+   "narration": "So ISS crews eat tortillas instead.",
+   "emoji": "🧑‍🚀",
+   "headline": "TORTILLAS WIN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronauts eating ISS"
+  },
+  {
+   "narration": "Your space sandwich? A tortilla wrap.",
+   "emoji": "🌯",
+   "headline": "NO BREAD ALLOWED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tortilla wrap"
+  },
+  {
+   "narration": "Next: flowers that bloomed in orbit.",
+   "emoji": "🌸",
+   "headline": "NEXT UP",
+   "stat": "",
+   "sub": "",
+   "visual_query": "zinnia flower"
+  }
+ ]
+}

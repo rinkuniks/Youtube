@@ -1,0 +1,93 @@
+{
+ "category": "technology",
+ "topic": "Salt dancing on a phone speaker",
+ "hook": "Your phone speaker can make salt dance.",
+ "title": "Make Salt Dance on Your Phone Speaker",
+ "description": "Lay your phone flat, stretch cling film over the speaker, sprinkle salt and play bass-heavy music. The grains jump and shift because sound is vibration. Works with any phone speaker.\n\n#Shorts #PhoneTricks #Science",
+ "tags": [
+  "phone trick",
+  "sound vibration",
+  "salt experiment",
+  "cling film",
+  "science at home",
+  "cymatics",
+  "easy experiment",
+  "bass"
+ ],
+ "comment_prompt": "Did the salt move? Yes or no",
+ "hook_banner": "TRY THIS NOW",
+ "scenes": [
+  {
+   "narration": "Your phone speaker can make salt dance.",
+   "emoji": "🧂",
+   "headline": "Salt Can Dance",
+   "stat": "",
+   "sub": "Any phone works",
+   "visual_query": "salt grains vibrating"
+  },
+  {
+   "narration": "Lay your phone flat, speaker facing up.",
+   "emoji": "📱",
+   "headline": "Phone Flat",
+   "stat": "",
+   "sub": "Speaker up",
+   "visual_query": "smartphone speaker"
+  },
+  {
+   "narration": "Stretch cling film tight over it.",
+   "emoji": "🎞️",
+   "headline": "Cover With Film",
+   "stat": "",
+   "sub": "Pull it tight",
+   "visual_query": "cling film roll"
+  },
+  {
+   "narration": "Sprinkle a pinch of salt on top.",
+   "emoji": "🧂",
+   "headline": "Add Salt",
+   "stat": "",
+   "sub": "",
+   "visual_query": "sprinkling salt"
+  },
+  {
+   "narration": "Play loud, bass-heavy music.",
+   "emoji": "🎵",
+   "headline": "Play Bass Music",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone playing music"
+  },
+  {
+   "narration": "Watch the grains jump and shift.",
+   "emoji": "👀",
+   "headline": "Watch The Grains",
+   "stat": "",
+   "sub": "",
+   "visual_query": "salt jumping vibration"
+  },
+  {
+   "narration": "Sound is vibration, and the film shows it.",
+   "emoji": "🔊",
+   "headline": "Sound You Can See",
+   "stat": "",
+   "sub": "",
+   "visual_query": "sound waves vibration"
+  },
+  {
+   "narration": "So your speaker really can make salt dance.",
+   "emoji": "💃",
+   "headline": "Salt Dances",
+   "stat": "",
+   "sub": "",
+   "visual_query": "salt on speaker"
+  },
+  {
+   "narration": "Tomorrow: snow on a mountain at the equator.",
+   "emoji": "➡️",
+   "headline": "Next: Equator Snow",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kilimanjaro snow"
+  }
+ ]
+}

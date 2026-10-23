@@ -1,0 +1,629 @@
+{
+ "topic": "Strange borders countdown: Brazil-Uruguay twin towns to India's enclaves",
+ "hook": "Your shopping street in Brazil ends in Uruguay, and nobody stops you crossing it.",
+ "title": "Your Street Ends in Another Country: 6 Odd Borders",
+ "description": "Six real borders that look like map mistakes, from a Brazilian street that runs into Uruguay to the enclaves India and Bangladesh finally swapped in 2015. Each one is stranger than the last, and every one can be checked on a map. Tell us which border you would live on.\n\n#borders #geography #mapfacts",
+ "tags": [
+  "strange borders",
+  "weird borders",
+  "Santana do Livramento",
+  "Rivera Uruguay",
+  "Brazil Uruguay border",
+  "Point Roberts",
+  "Llivia",
+  "Busingen",
+  "Lake Constance border",
+  "Cooch Behar enclaves",
+  "India Bangladesh enclaves",
+  "chhitmahal",
+  "geography facts",
+  "map facts",
+  "borders that make no sense"
+ ],
+ "comment_prompt": "Which border would you live on?",
+ "hook_banner": "THESE BORDERS ARE REAL",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "6: Brazil and Uruguay Share a Street",
+   "scene": 7
+  },
+  {
+   "title": "5: The US Town Cut Off by Canada",
+   "scene": 21
+  },
+  {
+   "title": "4: The Spanish Town Inside France",
+   "scene": 32
+  },
+  {
+   "title": "3: The German Town in Switzerland",
+   "scene": 42
+  },
+  {
+   "title": "2: The Lake With No Border",
+   "scene": 50
+  },
+  {
+   "title": "1: India's Land Inside Bangladesh",
+   "scene": 57
+  },
+  {
+   "title": "Back to the Start",
+   "scene": 69
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your shopping street in Brazil ends in Uruguay, and nobody stops you crossing it.",
+   "emoji": "🗺️",
+   "headline": "Brazil Meets Uruguay",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Santana do Livramento Rivera border"
+  },
+  {
+   "narration": "Today I have six real borders that make no sense, and every single one is stranger than the one before it.",
+   "emoji": "🧭",
+   "headline": "6 Borders, All Real",
+   "stat": "6",
+   "sub": "each stranger than the last",
+   "visual_query": "world map borders"
+  },
+  {
+   "narration": "By the end, you will see a place in India where land sat inside land, inside other land, inside another country.",
+   "emoji": "🇮🇳",
+   "headline": "India's Is Last",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Bangladesh border map"
+  },
+  {
+   "narration": "Some of these borders run through parks. Some cut off whole towns. One of them was never even drawn on the water.",
+   "emoji": "🏞️",
+   "headline": "Parks, Towns, Water",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border marker park"
+  },
+  {
+   "narration": "You can find every one of them on a map, and you can check each fact yourself after the video.",
+   "emoji": "🔍",
+   "headline": "Check Them Yourself",
+   "stat": "",
+   "sub": "",
+   "visual_query": "person looking at map"
+  },
+  {
+   "narration": "Stay till the end, because number one is in India, and it involves tiny plots of land stacked inside each other.",
+   "emoji": "⏳",
+   "headline": "Number One Is Indian",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cooch Behar rice fields"
+  },
+  {
+   "narration": "We start at number six, where the border is a park and the two towns share the same pavement.",
+   "emoji": "⬇️",
+   "headline": "Starting At Six",
+   "stat": "6",
+   "sub": "",
+   "visual_query": "countdown number six"
+  },
+  {
+   "narration": "Number six. Santana do Livramento in Brazil and Rivera in Uruguay look like one single town from above.",
+   "emoji": "🏙️",
+   "headline": "One Town, Two Countries",
+   "stat": "",
+   "sub": "Brazil and Uruguay",
+   "visual_query": "Rivera Uruguay aerial city"
+  },
+  {
+   "narration": "But you are looking at two countries, and the line between them is very hard to spot on the ground.",
+   "emoji": "🧐",
+   "headline": "Spot The Border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rivera Livramento street"
+  },
+  {
+   "narration": "In many places, a row of small border markers is all that separates Brazil from Uruguay.",
+   "emoji": "🪧",
+   "headline": "Just Border Markers",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border marker pillar street"
+  },
+  {
+   "narration": "In other places, a long public park sits right on the line, so you can walk across it without noticing.",
+   "emoji": "🌳",
+   "headline": "A Park Is The Border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Parque Internacional Rivera"
+  },
+  {
+   "narration": "Walk along one pavement, and you can pass from Brazil into Uruguay between one shop and the next.",
+   "emoji": "🚶",
+   "headline": "Shop To Shop, Country To Country",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rivera shopping street"
+  },
+  {
+   "narration": "In Brazil, people speak Portuguese. A few steps away in Uruguay, the main language is Spanish.",
+   "emoji": "🗣️",
+   "headline": "Two Languages",
+   "stat": "",
+   "sub": "Portuguese and Spanish",
+   "visual_query": "Brazil Uruguay flags"
+  },
+  {
+   "narration": "Many locals speak a mix of both, so one single conversation can slide across the border and back.",
+   "emoji": "💬",
+   "headline": "A Mixed Language",
+   "stat": "",
+   "sub": "",
+   "visual_query": "friends talking street"
+  },
+  {
+   "narration": "Rivera has duty-free shops, so many Brazilian shoppers happily walk across the line just to buy things there.",
+   "emoji": "🛍️",
+   "headline": "Cross To Shop",
+   "stat": "",
+   "sub": "",
+   "visual_query": "duty free shop street"
+  },
+  {
+   "narration": "A special agreement between the two countries lets people in border cities like these work, study and use public services on both sides.",
+   "emoji": "📄",
+   "headline": "Work On Both Sides",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Uruguay Brazil agreement border"
+  },
+  {
+   "narration": "So a person can live in one country and go to school or work in the other, every single day.",
+   "emoji": "🎒",
+   "headline": "Live In One, Work In Other",
+   "stat": "",
+   "sub": "",
+   "visual_query": "students walking school"
+  },
+  {
+   "narration": "Imagine paying for your chai in one country and walking home to another before it even cools.",
+   "emoji": "☕",
+   "headline": "Chai In Two Countries",
+   "stat": "",
+   "sub": "",
+   "visual_query": "chai cup street"
+  },
+  {
+   "narration": "Two flags, two languages, two countries, and one shared pavement. That is number six.",
+   "emoji": "🚩",
+   "headline": "One Shared Pavement",
+   "stat": "6",
+   "sub": "",
+   "visual_query": "Uruguay flag Brazil flag"
+  },
+  {
+   "narration": "But a border that is easy to cross is only the start. Next, an American town that cannot reach America.",
+   "emoji": "➡️",
+   "headline": "Next: A Cut-Off Town",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Point Roberts Washington"
+  },
+  {
+   "narration": "Number five is a piece of the United States that you cannot reach by road without leaving the United States.",
+   "emoji": "🧩",
+   "headline": "A Cut-Off US Town",
+   "stat": "5",
+   "sub": "",
+   "visual_query": "Point Roberts peninsula aerial"
+  },
+  {
+   "narration": "Number five. Look at the map near Vancouver, and you will find a piece of the United States hanging off Canada.",
+   "emoji": "📍",
+   "headline": "Point Roberts",
+   "stat": "5",
+   "sub": "Washington, USA",
+   "visual_query": "Point Roberts map Vancouver"
+  },
+  {
+   "narration": "It is called Point Roberts, in Washington state, and it sits on a small peninsula just below the forty-ninth parallel.",
+   "emoji": "🌊",
+   "headline": "A Tiny Peninsula",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Point Roberts coastline"
+  },
+  {
+   "narration": "The border between the US and Canada follows that line of latitude, so this little tip ended up on the American side.",
+   "emoji": "📏",
+   "headline": "A Straight Line On Paper",
+   "stat": "",
+   "sub": "",
+   "visual_query": "49th parallel border sign"
+  },
+  {
+   "narration": "The problem is that the rest of America is a long way off, across water and across Canada.",
+   "emoji": "🚗",
+   "headline": "Far From Home",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Canada US border crossing road"
+  },
+  {
+   "narration": "To reach the rest of the United States by road, a resident has to drive into Canada first.",
+   "emoji": "🛂",
+   "headline": "Drive Through Canada",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border checkpoint car"
+  },
+  {
+   "narration": "That means crossing a border to go to the American mainland, and crossing another border again to come back home.",
+   "emoji": "🔁",
+   "headline": "Two Crossings, Same Trip",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Blaine border crossing"
+  },
+  {
+   "narration": "Minnesota has a similar oddity called the Northwest Angle, a piece of land you can only reach by land through Canada.",
+   "emoji": "🌲",
+   "headline": "Northwest Angle Too",
+   "stat": "",
+   "sub": "Minnesota, USA",
+   "visual_query": "Northwest Angle Minnesota map"
+  },
+  {
+   "narration": "On a map, these places look like mistakes. They are what you get when treaty makers draw straight lines across land they barely mapped.",
+   "emoji": "✏️",
+   "headline": "Lines Drawn In Haste",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old treaty map border line"
+  },
+  {
+   "narration": "A straight line on paper, and a town that needs a border crossing to go home. That is number five.",
+   "emoji": "📜",
+   "headline": "Number Five Done",
+   "stat": "5",
+   "sub": "",
+   "visual_query": "Point Roberts welcome sign"
+  },
+  {
+   "narration": "Number four is an entire town that sits inside another country, and it has been there for hundreds of years.",
+   "emoji": "🏰",
+   "headline": "Four Is Centuries Old",
+   "stat": "4",
+   "sub": "",
+   "visual_query": "Pyrenees village France Spain"
+  },
+  {
+   "narration": "Number four. Llívia is a Spanish town sitting completely inside France, with French land on every side.",
+   "emoji": "🇪🇸",
+   "headline": "Spain Inside France",
+   "stat": "4",
+   "sub": "Llívia",
+   "visual_query": "Llivia town Spain"
+  },
+  {
+   "narration": "The story goes back to 1659, when Spain and France signed the Treaty of the Pyrenees after a long war.",
+   "emoji": "📜",
+   "headline": "The Treaty Of 1659",
+   "stat": "1659",
+   "sub": "Treaty of the Pyrenees",
+   "visual_query": "Treaty of the Pyrenees painting"
+  },
+  {
+   "narration": "France was given a set of villages in this area. But Llívia was officially a town, not a village.",
+   "emoji": "🏘️",
+   "headline": "Village Or Town?",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cerdanya villages mountains"
+  },
+  {
+   "narration": "Because of that wording, Llívia stayed Spanish, and the French villages around it went to France.",
+   "emoji": "✍️",
+   "headline": "One Word Decided It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Llivia street houses"
+  },
+  {
+   "narration": "One word in a treaty left a Spanish town stranded, with a different country in every direction.",
+   "emoji": "🧭",
+   "headline": "Stranded By A Word",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Llivia map enclave"
+  },
+  {
+   "narration": "Today, a short road links Llívia to the rest of Spain. It is called the neutral road.",
+   "emoji": "🛣️",
+   "headline": "The Neutral Road",
+   "stat": "",
+   "sub": "",
+   "visual_query": "mountain road Pyrenees"
+  },
+  {
+   "narration": "The road crosses French land, but it is kept neutral so that people can travel between the town and Spain.",
+   "emoji": "🚦",
+   "headline": "Spain Through France",
+   "stat": "",
+   "sub": "",
+   "visual_query": "road sign Spain France"
+  },
+  {
+   "narration": "Visitors come to Llívia for its old pharmacy museum and mountain views, and the border is just a quiet road.",
+   "emoji": "💊",
+   "headline": "A Quiet Border Town",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Llivia pharmacy museum"
+  },
+  {
+   "narration": "If you like strange places and facts like these, subscribe, because there is another one waiting tomorrow.",
+   "emoji": "🔔",
+   "headline": "Like Strange Places?",
+   "stat": "",
+   "sub": "Subscribe for more",
+   "visual_query": "world map pins travel"
+  },
+  {
+   "narration": "So far, every border has been odd. But number three is a German town that lives inside Switzerland.",
+   "emoji": "👀",
+   "headline": "Odder Still",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Buesingen Rhine river"
+  },
+  {
+   "narration": "Number three. Büsingen am Hochrhein is a German town of old houses, a church and a river, surrounded by Switzerland.",
+   "emoji": "🇩🇪",
+   "headline": "Germany Inside Switzerland",
+   "stat": "3",
+   "sub": "Büsingen",
+   "visual_query": "Busingen am Hochrhein town"
+  },
+  {
+   "narration": "Büsingen is part of Germany. Its people are German citizens and follow German law.",
+   "emoji": "⚖️",
+   "headline": "Legally German",
+   "stat": "",
+   "sub": "",
+   "visual_query": "German flag village"
+  },
+  {
+   "narration": "But the town sits inside the Swiss customs area, so businesses there are treated like part of Switzerland.",
+   "emoji": "🛃",
+   "headline": "A Swiss Customs Zone",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss customs sign"
+  },
+  {
+   "narration": "Both euros and Swiss francs are used in town, even though Germany only uses the euro.",
+   "emoji": "💶",
+   "headline": "Two Currencies",
+   "stat": "",
+   "sub": "Euro and Swiss franc",
+   "visual_query": "euro coins Swiss francs"
+  },
+  {
+   "narration": "Even the car number plates are special. They start with BÜS, so you can spot a Büsingen car on the road.",
+   "emoji": "🚘",
+   "headline": "Plates Start BÜS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "German car number plate"
+  },
+  {
+   "narration": "From the outside, Büsingen looks like a quiet village on the Rhine. All of the strangeness is hidden in the map.",
+   "emoji": "🏡",
+   "headline": "Quiet On Top",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rhine village Switzerland Germany"
+  },
+  {
+   "narration": "A German town in Switzerland, with its own plates and two currencies. That is number three.",
+   "emoji": "3️⃣",
+   "headline": "Number Three Done",
+   "stat": "3",
+   "sub": "",
+   "visual_query": "Schaffhausen Rhine view"
+  },
+  {
+   "narration": "Number two is even stranger, because this border does not exist at all. And it is on the water.",
+   "emoji": "🌊",
+   "headline": "A Border You Cannot Find",
+   "stat": "2",
+   "sub": "",
+   "visual_query": "Lake Constance aerial"
+  },
+  {
+   "narration": "Number two. Lake Constance, where Germany, Switzerland and Austria meet, has no agreed border across its water.",
+   "emoji": "🏞️",
+   "headline": "Lake Constance",
+   "stat": "2",
+   "sub": "Germany, Switzerland, Austria",
+   "visual_query": "Lake Constance map three countries"
+  },
+  {
+   "narration": "On land, borders are clear. But on this big lake, the three countries never signed a line through the middle.",
+   "emoji": "〰️",
+   "headline": "No Line On The Water",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake Constance shoreline boats"
+  },
+  {
+   "narration": "The three countries have different views on how to divide the water, and they have never agreed on one answer.",
+   "emoji": "🤷",
+   "headline": "Three Different Views",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bodensee lake view"
+  },
+  {
+   "narration": "So when a boat sails across the middle of the lake, there is no official line to tell you which country it is in.",
+   "emoji": "⛵",
+   "headline": "Which Country Is This?",
+   "stat": "",
+   "sub": "",
+   "visual_query": "sailboat Lake Constance"
+  },
+  {
+   "narration": "Ferries, fishermen and sailors share the water through practical agreements instead, so daily life carries on without any trouble.",
+   "emoji": "⛴️",
+   "headline": "Life Goes On",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake Constance ferry"
+  },
+  {
+   "narration": "A famous lake with three countries on its shore, and not one official line anywhere on its water. That is number two.",
+   "emoji": "2️⃣",
+   "headline": "Number Two Done",
+   "stat": "2",
+   "sub": "",
+   "visual_query": "Bregenz Lake Constance sunset"
+  },
+  {
+   "narration": "Now for number one, and it is right here in India, which is exactly why I saved it for last.",
+   "emoji": "🇮🇳",
+   "headline": "Now: India's Border",
+   "stat": "1",
+   "sub": "",
+   "visual_query": "India Bangladesh border fence"
+  },
+  {
+   "narration": "Number one. On the border between India and Bangladesh, in West Bengal's Cooch Behar region, the map once looked like a puzzle.",
+   "emoji": "🧩",
+   "headline": "A Border Like A Puzzle",
+   "stat": "1",
+   "sub": "Cooch Behar, West Bengal",
+   "visual_query": "Cooch Behar West Bengal village"
+  },
+  {
+   "narration": "Small patches of India sat inside Bangladesh. And small patches of Bangladesh sat inside India.",
+   "emoji": "🗺️",
+   "headline": "Land Inside Land",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Bangladesh enclaves map"
+  },
+  {
+   "narration": "In India, we know these patches as chhitmahals, the word used for these enclaves along the Bengal border.",
+   "emoji": "📖",
+   "headline": "Called Chhitmahals",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bengal village paddy field"
+  },
+  {
+   "narration": "Some were just villages, with farms, houses and families cut off from the country they belonged to.",
+   "emoji": "🏠",
+   "headline": "Cut Off From Home",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bangladesh village farmers"
+  },
+  {
+   "narration": "Then it got stranger. One plot was an Indian piece of land inside a Bangladeshi piece inside an Indian piece inside Bangladesh.",
+   "emoji": "🪆",
+   "headline": "Land Inside Land Inside Land",
+   "stat": "",
+   "sub": "",
+   "visual_query": "nested enclaves diagram map"
+  },
+  {
+   "narration": "It was called Dahala Khagrabari, and it was the only one of its kind in the whole world.",
+   "emoji": "🌏",
+   "headline": "Dahala Khagrabari",
+   "stat": "",
+   "sub": "Only one in the world",
+   "visual_query": "Dahala Khagrabari enclave"
+  },
+  {
+   "narration": "People in such pockets often struggled to get a school, a hospital or electricity, because the country around them did not own them.",
+   "emoji": "🏥",
+   "headline": "No School, No Hospital",
+   "stat": "",
+   "sub": "",
+   "visual_query": "village children school Bengal"
+  },
+  {
+   "narration": "For years they lived in the middle of a country that was not theirs, and their own government could not easily reach them.",
+   "emoji": "🚧",
+   "headline": "Living In Limbo",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Bangladesh border pillar"
+  },
+  {
+   "narration": "Then in 2015, India and Bangladesh swapped these lands. One hundred and eleven Indian enclaves went to Bangladesh, and fifty-one Bangladeshi ones came to India.",
+   "emoji": "🤝",
+   "headline": "The Great Swap, 2015",
+   "stat": "111 + 51",
+   "sub": "enclaves exchanged",
+   "visual_query": "India Bangladesh enclave exchange 2015"
+  },
+  {
+   "narration": "People living there got a choice of which country to belong to, and families had to decide where their future would be.",
+   "emoji": "🗳️",
+   "headline": "A Choice Of Country",
+   "stat": "",
+   "sub": "",
+   "visual_query": "enclave residents celebrate flag"
+  },
+  {
+   "narration": "It was a rare border clean-up on this scale, and it happened right here in South Asia.",
+   "emoji": "🧹",
+   "headline": "A Rare Clean-Up",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Narendra Modi Sheikh Hasina land boundary"
+  },
+  {
+   "narration": "So one of the strangest borders in the world was in our own backyard. Now it is a puzzle that has been solved.",
+   "emoji": "🏆",
+   "headline": "India's Strangest Border",
+   "stat": "1",
+   "sub": "",
+   "visual_query": "India Bangladesh border Cooch Behar"
+  },
+  {
+   "narration": "That was all six: a shared street, a stranded American town, a Spanish town in France, a German town in Switzerland, a lake with no line, and India's puzzle map.",
+   "emoji": "🗺️",
+   "headline": "All Six Borders",
+   "stat": "6",
+   "sub": "",
+   "visual_query": "world map pins"
+  },
+  {
+   "narration": "So go back to the start: your shopping street in Brazil really does end in Uruguay, and nobody stops you crossing it.",
+   "emoji": "🔄",
+   "headline": "Brazil To Uruguay",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Santana do Livramento Rivera street"
+  },
+  {
+   "narration": "Next video: another place that sounds fake but is completely real. Same channel, same strange maps.",
+   "emoji": "➡️",
+   "headline": "Next: Another Real Place",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map globe"
+  }
+ ]
+}

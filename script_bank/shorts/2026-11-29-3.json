@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Chang'e 4 cotton sprout on the Moon",
+ "hook": "Your cotton seed sprouted on the Moon's far side.",
+ "title": "A Cotton Plant Sprouted on the Moon",
+ "description": "In 2019, China's Chang'e 4 lander carried cotton seeds to the far side of the Moon. One sprouted inside a sealed canister, the first plant to sprout on the Moon. The freezing lunar night later ended the experiment. Part of the series If You Were in Space.\n\n#Shorts #Space #Moon",
+ "tags": [
+  "change 4",
+  "moon",
+  "far side of the moon",
+  "cotton",
+  "space facts",
+  "china space",
+  "plants in space",
+  "if you were in space"
+ ],
+ "comment_prompt": "Would you eat Moon-grown food? Yes or no",
+ "hook_banner": "A PLANT GREW ON THE MOON",
+ "scenes": [
+  {
+   "narration": "Your cotton seed sprouted on the Moon's far side.",
+   "emoji": "🌱",
+   "headline": "COTTON ON THE MOON",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chang'e 4 cotton sprout"
+  },
+  {
+   "narration": "China's Chang'e 4 lander carried it there in 2019.",
+   "emoji": "🚀",
+   "headline": "CHANG'E 4, 2019",
+   "stat": "2019",
+   "sub": "",
+   "visual_query": "Chang'e 4 lander Moon"
+  },
+  {
+   "narration": "The seed sat inside a sealed canister.",
+   "emoji": "🥫",
+   "headline": "SEALED CANISTER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chang'e 4 biological experiment canister"
+  },
+  {
+   "narration": "Soon a green cotton sprout appeared.",
+   "emoji": "🌿",
+   "headline": "GREEN SPROUT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "cotton seedling green leaf"
+  },
+  {
+   "narration": "First plant ever to sprout on the Moon.",
+   "emoji": "🌕",
+   "headline": "A MOON FIRST",
+   "stat": "FIRST",
+   "sub": "",
+   "visual_query": "Moon far side surface"
+  },
+  {
+   "narration": "The canister held air, water and soil.",
+   "emoji": "💧",
+   "headline": "AIR, WATER, SOIL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "plant growth chamber"
+  },
+  {
+   "narration": "Then the freezing lunar night killed it.",
+   "emoji": "🥶",
+   "headline": "THEN IT FROZE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Moon night frozen surface"
+  },
+  {
+   "narration": "Still, a plant grew where no plant had.",
+   "emoji": "🌱",
+   "headline": "IT STILL GREW",
+   "stat": "",
+   "sub": "",
+   "visual_query": "cotton plant field"
+  },
+  {
+   "narration": "Tomorrow: soil from that same far side.",
+   "emoji": "➡️",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "Soil from the far side",
+   "visual_query": "Moon far side crater"
+  }
+ ]
+}

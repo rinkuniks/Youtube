@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Hampi boulder landscape",
+ "hook": "Your Hampi photo shows giant boulders balanced everywhere.",
+ "title": "Hampi: Giant Boulders Among Ancient Temples",
+ "description": "Hampi in Karnataka is a landscape of giant boulders scattered and balanced across the land, with ancient temples among them. It was once the capital of the Vijayanagara empire and is a UNESCO World Heritage Site. Part of the Places That Shouldn't Exist series.\n\n#Shorts #Hampi #IndiaFacts",
+ "tags": [
+  "Hampi",
+  "Karnataka",
+  "boulders",
+  "Vijayanagara",
+  "UNESCO",
+  "India travel",
+  "geography facts",
+  "Places That Shouldn't Exist"
+ ],
+ "comment_prompt": "Have you visited Hampi? Yes or no",
+ "hook_banner": "ROCKS LIKE ANOTHER PLANET",
+ "scenes": [
+  {
+   "narration": "Your Hampi photo shows boulders stacked everywhere.",
+   "emoji": "🪨",
+   "headline": "BOULDERS EVERYWHERE",
+   "stat": "",
+   "sub": "Hampi, Karnataka",
+   "visual_query": "Hampi boulder landscape"
+  },
+  {
+   "narration": "Giant rocks balance across the whole land.",
+   "emoji": "⚖️",
+   "headline": "BALANCED ROCKS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hampi balancing rocks"
+  },
+  {
+   "narration": "Some look ready to roll.",
+   "emoji": "😮",
+   "headline": "READY TO ROLL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hampi precarious boulder"
+  },
+  {
+   "narration": "Ancient temples sit right among them.",
+   "emoji": "🛕",
+   "headline": "TEMPLES AMONG ROCKS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Virupaksha temple Hampi"
+  },
+  {
+   "narration": "This was once the Vijayanagara capital.",
+   "emoji": "👑",
+   "headline": "VIJAYANAGARA CAPITAL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hampi ruins Vijayanagara"
+  },
+  {
+   "narration": "It is a UNESCO World Heritage Site.",
+   "emoji": "🏛️",
+   "headline": "UNESCO SITE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hampi stone chariot"
+  },
+  {
+   "narration": "The rocks are far older than the temples.",
+   "emoji": "⏳",
+   "headline": "OLDER THAN TEMPLES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hampi hills sunset"
+  },
+  {
+   "narration": "Your Hampi photo shows rocks and temples.",
+   "emoji": "📸",
+   "headline": "ROCKS AND TEMPLES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hampi panorama"
+  },
+  {
+   "narration": "Next: another place that looks fake.",
+   "emoji": "🌏",
+   "headline": "NEXT TIME",
+   "stat": "",
+   "sub": "Another real place",
+   "visual_query": "unusual landscape India"
+  }
+ ]
+}

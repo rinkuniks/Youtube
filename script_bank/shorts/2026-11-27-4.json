@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Pragyan rover wheel imprints",
+ "hook": "Your Ashoka emblem is pressed into the Moon's soil.",
+ "title": "India's Rover Stamped Its Logo On The Moon",
+ "description": "ISRO's Pragyan rover, which landed on the Moon with Chandrayaan-3 in 2023, had wheels designed to imprint the ISRO logo and the Ashoka emblem into the lunar soil as it rolled. Series: Wait, What? Space.\n\n#Shorts #ISRO #Chandrayaan3",
+ "tags": [
+  "isro",
+  "chandrayaan 3",
+  "pragyan rover",
+  "ashoka emblem",
+  "moon",
+  "space facts",
+  "india",
+  "shorts"
+ ],
+ "comment_prompt": "Proud of ISRO? Yes or no",
+ "hook_banner": "INDIA'S MARK ON MOON",
+ "scenes": [
+  {
+   "narration": "Your Ashoka emblem is pressed into the Moon's soil.",
+   "emoji": "🇮🇳",
+   "headline": "INDIA ON THE MOON",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pragyan rover Moon"
+  },
+  {
+   "narration": "India's Pragyan rover landed on the Moon.",
+   "emoji": "🌙",
+   "headline": "PRAGYAN ROVER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chandrayaan-3 Pragyan rover"
+  },
+  {
+   "narration": "Its wheels carried the ISRO logo.",
+   "emoji": "🛞",
+   "headline": "ISRO LOGO WHEELS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ISRO logo"
+  },
+  {
+   "narration": "They also carried the Ashoka emblem.",
+   "emoji": "🦁",
+   "headline": "ASHOKA EMBLEM",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ashoka emblem lion capital"
+  },
+  {
+   "narration": "Every roll pressed them into the lunar soil.",
+   "emoji": "👣",
+   "headline": "STAMPED WHILE ROLLING",
+   "stat": "",
+   "sub": "",
+   "visual_query": "rover wheel tracks Moon"
+  },
+  {
+   "narration": "There is no wind on the Moon to wipe them.",
+   "emoji": "🌬️",
+   "headline": "NO WIND TO ERASE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Moon surface dust"
+  },
+  {
+   "narration": "Chandrayaan-3 landed near the Moon's south pole.",
+   "emoji": "📍",
+   "headline": "SOUTH POLE LANDING",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chandrayaan-3 Vikram lander"
+  },
+  {
+   "narration": "India was the first country to land there.",
+   "emoji": "🏆",
+   "headline": "FIRST TO LAND THERE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ISRO scientists celebrate"
+  },
+  {
+   "narration": "So India's mark really sits on the Moon.",
+   "emoji": "🤯",
+   "headline": "TOTALLY REAL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ISRO Chandrayaan launch"
+  }
+ ]
+}

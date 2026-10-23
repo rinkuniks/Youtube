@@ -1,0 +1,589 @@
+{
+ "topic": "Why Korea Is Stranger Than You Think (DMZ wildlife haven)",
+ "hook": "Your border map shows two countries still at war, yet cranes nest between them.",
+ "title": "Why Korea Is Stranger Than You Think",
+ "description": "Korea has a 4 km wide war zone where nature took over, a room that sits in two countries, a fake-looking village, and a time zone that moved by 30 minutes. Here are 7 true facts about the Korean peninsula, with a link to India that most people never hear about. Watch to the end to see why the most guarded border on Earth became a home for rare cranes.\n\n#Korea #DMZ #FactsYouDidntKnow",
+ "tags": [
+  "korean dmz",
+  "dmz wildlife",
+  "north korea facts",
+  "south korea facts",
+  "why korea is stranger than you think",
+  "panmunjom",
+  "joint security area",
+  "red-crowned crane",
+  "korean war armistice",
+  "pyongyang time",
+  "heo hwang-ok ayodhya",
+  "strange geography",
+  "facts that sound fake",
+  "border facts",
+  "india korea connection"
+ ],
+ "comment_prompt": "Which fact surprised you most: 1 to 7?",
+ "hook_banner": "STILL AT WAR TODAY",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "A war that never ended",
+   "scene": 6
+  },
+  {
+   "title": "One room, two countries",
+   "scene": 18
+  },
+  {
+   "title": "The village with a giant flag",
+   "scene": 29
+  },
+  {
+   "title": "Tunnels under the border",
+   "scene": 40
+  },
+  {
+   "title": "The clock moved 30 minutes",
+   "scene": 50
+  },
+  {
+   "title": "The queen from Ayodhya",
+   "scene": 59
+  },
+  {
+   "title": "A war zone full of cranes",
+   "scene": 68
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your border map shows two countries still at war, yet cranes nest between them. That strip of land is real, and it is stranger than it sounds.",
+   "emoji": "🕊️",
+   "headline": "STILL AT WAR",
+   "stat": "",
+   "sub": "Yet cranes nest here",
+   "visual_query": "Korean DMZ cranes"
+  },
+  {
+   "narration": "Between North and South Korea there is a strip about four kilometres wide where almost nobody has lived for decades.",
+   "emoji": "🗺️",
+   "headline": "The 4 km strip",
+   "stat": "4 km",
+   "sub": "Nearly empty of people",
+   "visual_query": "Korean DMZ fence"
+  },
+  {
+   "narration": "By the end of this video, you will see why the most guarded border on Earth became a home for rare birds.",
+   "emoji": "🦢",
+   "headline": "A wildlife haven",
+   "stat": "",
+   "sub": "Stay to the end",
+   "visual_query": "red-crowned crane flying"
+  },
+  {
+   "narration": "But first, seven true facts about Korea that sound fake. Each one is stranger than the one before it.",
+   "emoji": "7️⃣",
+   "headline": "7 strange facts",
+   "stat": "7",
+   "sub": "Each one stranger",
+   "visual_query": "Korea map peninsula"
+  },
+  {
+   "narration": "There is a room where you can stand in two countries, a village that may be fake, and a clock that moved by thirty minutes.",
+   "emoji": "⏰",
+   "headline": "Wait for the clock",
+   "stat": "",
+   "sub": "",
+   "visual_query": "wall clock close up"
+  },
+  {
+   "narration": "And one of these facts connects Korea to a famous Indian city. Keep watching for that one too.",
+   "emoji": "🇮🇳",
+   "headline": "An India link",
+   "stat": "",
+   "sub": "Yes, really",
+   "visual_query": "Ayodhya temple"
+  },
+  {
+   "narration": "Fact one: North and South Korea never signed a peace treaty. They signed a ceasefire called an armistice on 27 July 1953.",
+   "emoji": "📜",
+   "headline": "No peace treaty",
+   "stat": "1953",
+   "sub": "Ceasefire only",
+   "visual_query": "Korean War armistice signing"
+  },
+  {
+   "narration": "That means that, on paper, the Korean War never officially ended. The two sides simply stopped shooting.",
+   "emoji": "⏸️",
+   "headline": "War on pause",
+   "stat": "",
+   "sub": "Never officially ended",
+   "visual_query": "Korean War soldiers 1953"
+  },
+  {
+   "narration": "The ceasefire line created the Demilitarized Zone, or DMZ. It runs across the whole peninsula, about two kilometres on each side.",
+   "emoji": "📏",
+   "headline": "The DMZ",
+   "stat": "",
+   "sub": "2 km each side",
+   "visual_query": "DMZ border sign"
+  },
+  {
+   "narration": "The name is a joke, because it is one of the most heavily armed borders anywhere. Soldiers watch each other across it every day.",
+   "emoji": "🪖",
+   "headline": "Not really demilitarized",
+   "stat": "",
+   "sub": "Heavily guarded",
+   "visual_query": "DMZ soldiers watching"
+  },
+  {
+   "narration": "Here is the part Indian viewers rarely hear. India played a big role in how that war ended.",
+   "emoji": "🇮🇳",
+   "headline": "India's role",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Indian army soldiers 1950s"
+  },
+  {
+   "narration": "After the ceasefire, thousands of prisoners had to choose whether to go home or not. Indian troops were put in charge of guarding them.",
+   "emoji": "🛡️",
+   "headline": "Indian troops on duty",
+   "stat": "",
+   "sub": "Guarding the prisoners",
+   "visual_query": "prisoners of war Korea 1953"
+  },
+  {
+   "narration": "An Indian general, K S Thimayya, led that effort. So when you hear about Korea, India is part of the story.",
+   "emoji": "🎖️",
+   "headline": "General Thimayya",
+   "stat": "",
+   "sub": "India helped end the fighting",
+   "visual_query": "General Thimayya portrait"
+  },
+  {
+   "narration": "So, fact one: there is still no peace treaty. But the next fact is something you can actually walk into.",
+   "emoji": "🚪",
+   "headline": "Next: a strange room",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Panmunjom blue buildings"
+  },
+  {
+   "narration": "Fact two is at a place called Panmunjom, inside the Joint Security Area. A few small blue huts sit right on the border line.",
+   "emoji": "🏠",
+   "headline": "The blue huts",
+   "stat": "",
+   "sub": "Panmunjom",
+   "visual_query": "Panmunjom blue huts"
+  },
+  {
+   "narration": "Inside one hut, a table sits in the middle of the room. The border between the two countries runs straight across it.",
+   "emoji": "🪑",
+   "headline": "The border table",
+   "stat": "",
+   "sub": "Line runs across it",
+   "visual_query": "Panmunjom conference table"
+  },
+  {
+   "narration": "A cable of microphones on that table marks the line. One end of the table is in the South, the other is in the North.",
+   "emoji": "🎙️",
+   "headline": "Microphones mark the line",
+   "stat": "",
+   "sub": "",
+   "visual_query": "microphones on table"
+  },
+  {
+   "narration": "On guided tours, visitors have been able to step across to the far side of the room. For a moment, you are standing in North Korea.",
+   "emoji": "👣",
+   "headline": "Step into the North",
+   "stat": "",
+   "sub": "Inside a room",
+   "visual_query": "tourists Panmunjom room"
+  },
+  {
+   "narration": "Compare that with India, where you can walk across a border at Sunauli without a visa. Here, the line is the most tense on Earth.",
+   "emoji": "🧭",
+   "headline": "Two very different borders",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sunauli border gate"
+  },
+  {
+   "narration": "Outside the huts, a low concrete strip runs along the ground. That small step is the border between two armies.",
+   "emoji": "🧱",
+   "headline": "A border you can step over",
+   "stat": "",
+   "sub": "",
+   "visual_query": "concrete border marker Korea"
+  },
+  {
+   "narration": "Nearby is the Bridge of No Return, where prisoners in 1953 had to choose a side. Once they crossed, they could not come back.",
+   "emoji": "🌉",
+   "headline": "Bridge of No Return",
+   "stat": "",
+   "sub": "One choice, one way",
+   "visual_query": "Bridge of No Return Korea"
+  },
+  {
+   "narration": "Today it is a quiet bridge with trees on either side. The history behind it is anything but quiet.",
+   "emoji": "🌳",
+   "headline": "A quiet bridge",
+   "stat": "",
+   "sub": "",
+   "visual_query": "bridge in forest mist"
+  },
+  {
+   "narration": "The villages next to this border are even stranger, and one of them has a flagpole you can see from far away.",
+   "emoji": "🚩",
+   "headline": "A giant flagpole",
+   "stat": "",
+   "sub": "Coming up",
+   "visual_query": "Kijong-dong flagpole"
+  },
+  {
+   "narration": "So that was two facts. But the next one is a village with a flagpole so tall, it is part of an arms race.",
+   "emoji": "⬆️",
+   "headline": "Next: two villages",
+   "stat": "",
+   "sub": "",
+   "visual_query": "village near DMZ"
+  },
+  {
+   "narration": "Fact three: both sides built a village inside the DMZ. The South's is called Daeseong-dong, often known as Freedom Village.",
+   "emoji": "🏡",
+   "headline": "Freedom Village",
+   "stat": "",
+   "sub": "Daeseong-dong, South Korea",
+   "visual_query": "Daeseong-dong village"
+  },
+  {
+   "narration": "Real farmers live there. They get special rules, like a curfew, but they are also exempt from taxes and military service.",
+   "emoji": "🌾",
+   "headline": "Farmers in the DMZ",
+   "stat": "",
+   "sub": "Curfew, no taxes",
+   "visual_query": "farmers rice field Korea"
+  },
+  {
+   "narration": "The North's village is Kijong-dong. It has bright, tidy buildings and one of the tallest flagpoles in the world.",
+   "emoji": "🏢",
+   "headline": "Kijong-dong",
+   "stat": "",
+   "sub": "North Korea's village",
+   "visual_query": "Kijong-dong village"
+  },
+  {
+   "narration": "South Korea says the buildings are mostly empty shells, with lights that switch on and off by timer. North Korea calls it a real village.",
+   "emoji": "💡",
+   "headline": "Real or for show?",
+   "stat": "",
+   "sub": "Claims differ",
+   "visual_query": "empty buildings at night"
+  },
+  {
+   "narration": "For years, both sides blasted loudspeakers at each other across the border. Sound itself became a weapon.",
+   "emoji": "📢",
+   "headline": "A war of loudspeakers",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border loudspeakers Korea"
+  },
+  {
+   "narration": "If you like strange places and surprising facts like these, this is a good moment to subscribe. There are many more to come.",
+   "emoji": "🔔",
+   "headline": "Subscribe for more",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map globe"
+  },
+  {
+   "narration": "Now, back to Korea. Because the next fact is about something hidden under the ground, and it was found by accident.",
+   "emoji": "🕳️",
+   "headline": "Hidden underground",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tunnel underground dark"
+  },
+  {
+   "narration": "In the 1970s, South Korea began finding secret tunnels dug under the border. Someone had been digging toward Seoul.",
+   "emoji": "⛏️",
+   "headline": "Secret tunnels",
+   "stat": "1970s",
+   "sub": "Found under the border",
+   "visual_query": "DMZ infiltration tunnel"
+  },
+  {
+   "narration": "It is tense for a reason. Seoul is a huge city, and these tunnels were close enough for a drive of under an hour.",
+   "emoji": "🏙️",
+   "headline": "Close to Seoul",
+   "stat": "",
+   "sub": "Under an hour away",
+   "visual_query": "Seoul skyline"
+  },
+  {
+   "narration": "Fact four: when South Korea found one, the North said it was a coal mine. So they had painted the walls black.",
+   "emoji": "⬛",
+   "headline": "The coal mine excuse",
+   "stat": "",
+   "sub": "Walls painted black",
+   "visual_query": "coal mine tunnel walls"
+  },
+  {
+   "narration": "But the rock is granite, not coal. The black was only paint, and the story did not fit the rock around it.",
+   "emoji": "🪨",
+   "headline": "Granite, not coal",
+   "stat": "",
+   "sub": "The story didn't fit",
+   "visual_query": "granite rock tunnel"
+  },
+  {
+   "narration": "At least four of these tunnels have been found so far. Engineers still search the ground for more.",
+   "emoji": "🔍",
+   "headline": "At least four found",
+   "stat": "4",
+   "sub": "Search continues",
+   "visual_query": "tunnel inspection engineers"
+  },
+  {
+   "narration": "Today you can walk down one of them on a tour. You wear a hard hat and bend low, because the ceiling is low.",
+   "emoji": "⛑️",
+   "headline": "Walk the tunnel",
+   "stat": "",
+   "sub": "Tourists wear hard hats",
+   "visual_query": "tourists hard hats tunnel"
+  },
+  {
+   "narration": "Imagine standing underground, knowing the border is just above your head. It is a very strange kind of tourism.",
+   "emoji": "😮",
+   "headline": "Border above your head",
+   "stat": "",
+   "sub": "",
+   "visual_query": "underground tunnel light"
+  },
+  {
+   "narration": "That is one strange war. But the next fact is about something as ordinary as the time on your phone.",
+   "emoji": "📱",
+   "headline": "Next: the time",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone clock screen"
+  },
+  {
+   "narration": "Fact five: in 2015, North Korea moved its clocks back by thirty minutes. Pyongyang time became its own time zone.",
+   "emoji": "🕰️",
+   "headline": "Pyongyang Time",
+   "stat": "30 min",
+   "sub": "Set in 2015",
+   "visual_query": "Pyongyang clock tower"
+  },
+  {
+   "narration": "That put the North half an hour behind the South. The two Koreas were next to each other but on different clocks.",
+   "emoji": "⏱️",
+   "headline": "Half an hour apart",
+   "stat": "",
+   "sub": "North behind South",
+   "visual_query": "two clocks different times"
+  },
+  {
+   "narration": "An Indian viewer will know this feeling. India is five and a half hours ahead of GMT, a half-hour time zone too.",
+   "emoji": "🇮🇳",
+   "headline": "Like India's half hour",
+   "stat": "UTC+5:30",
+   "sub": "",
+   "visual_query": "Indian railway station clock"
+  },
+  {
+   "narration": "So the half-hour clock is not that rare. But in Korea it was a political message, not just a map choice.",
+   "emoji": "🗺️",
+   "headline": "A political clock",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world time zone map"
+  },
+  {
+   "narration": "North Korea explained the move as breaking away from Japanese colonial rule, which had set the older time.",
+   "emoji": "📆",
+   "headline": "Why they did it",
+   "stat": "",
+   "sub": "Break from colonial time",
+   "visual_query": "old Korean clock"
+  },
+  {
+   "narration": "In 2018, after the two leaders met, North Korea moved its clocks forward again. Both sides now share one time.",
+   "emoji": "🤝",
+   "headline": "Clocks match again",
+   "stat": "2018",
+   "sub": "Both on one time",
+   "visual_query": "Korean leaders handshake 2018"
+  },
+  {
+   "narration": "So for about three years, you could cross a line and gain or lose thirty minutes. That is real, and it is recent.",
+   "emoji": "↔️",
+   "headline": "Lose 30 minutes",
+   "stat": "",
+   "sub": "In about 3 years",
+   "visual_query": "watch face time zone"
+  },
+  {
+   "narration": "It shows how a clock can be a flag. Time itself became a way to draw a border.",
+   "emoji": "🚩",
+   "headline": "Time as a border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "clock face close up"
+  },
+  {
+   "narration": "The next fact is the one I promised earlier, and it starts in a city many of you know well.",
+   "emoji": "🏛️",
+   "headline": "Next: Ayodhya",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ayodhya Saryu river"
+  },
+  {
+   "narration": "Fact six: an old Korean legend says that a princess from a place called Ayuta travelled by sea to Korea.",
+   "emoji": "🚢",
+   "headline": "A princess by sea",
+   "stat": "",
+   "sub": "Ancient legend",
+   "visual_query": "ancient ship sailing sea"
+  },
+  {
+   "narration": "Her name was Heo Hwang-ok, and the story says she married King Suro of Gaya in the year 48.",
+   "emoji": "👑",
+   "headline": "Queen Heo Hwang-ok",
+   "stat": "48 CE",
+   "sub": "Married King Suro",
+   "visual_query": "King Suro tomb Gimhae"
+  },
+  {
+   "narration": "Many Koreans believe Ayuta means Ayodhya. It is a legend, not proven history, but it is told in an old Korean book.",
+   "emoji": "📖",
+   "headline": "Ayuta means Ayodhya?",
+   "stat": "",
+   "sub": "Legend, not proven",
+   "visual_query": "ancient Korean book"
+  },
+  {
+   "narration": "Many families with the Kim surname from Gimhae say they descend from this queen. They treat the story with great respect.",
+   "emoji": "👨‍👩‍👧",
+   "headline": "Gimhae Kim clan",
+   "stat": "",
+   "sub": "They claim descent",
+   "visual_query": "Gimhae Korea tomb park"
+  },
+  {
+   "narration": "In Ayodhya there is a memorial to her. In 2018, Korea's First Lady visited the city to honour the queen.",
+   "emoji": "🏵️",
+   "headline": "A memorial in Ayodhya",
+   "stat": "2018",
+   "sub": "Korea's First Lady visited",
+   "visual_query": "Ayodhya Korean memorial queen"
+  },
+  {
+   "narration": "Today the story is a bridge between India and Korea. An old tale is now part of how two countries talk.",
+   "emoji": "🌏",
+   "headline": "A bridge of stories",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Korea flags"
+  },
+  {
+   "narration": "Next time you hear about Korea, remember that a legend ties it to a city on the Saryu river.",
+   "emoji": "🌊",
+   "headline": "Korea meets Ayodhya",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Saryu river Ayodhya ghat"
+  },
+  {
+   "narration": "So that is six. But I saved the biggest one for last, and it brings us back to the cranes.",
+   "emoji": "🦩",
+   "headline": "The biggest one",
+   "stat": "",
+   "sub": "Back to the cranes",
+   "visual_query": "crane birds wetland"
+  },
+  {
+   "narration": "Fact seven: the DMZ was meant to keep armies apart. But it also kept people out, and nature moved in.",
+   "emoji": "🌿",
+   "headline": "Nature moved in",
+   "stat": "",
+   "sub": "Because people stayed out",
+   "visual_query": "DMZ forest grassland"
+  },
+  {
+   "narration": "Farmers could not return, and landmines make walking there dangerous. For decades, almost nothing was built, ploughed or hunted.",
+   "emoji": "⚠️",
+   "headline": "Landmines keep people out",
+   "stat": "",
+   "sub": "Decades untouched",
+   "visual_query": "landmine warning sign Korea"
+  },
+  {
+   "narration": "The result is a long green belt across the peninsula, with wetlands, forests and rivers that look wild from above.",
+   "emoji": "🛰️",
+   "headline": "A green belt",
+   "stat": "",
+   "sub": "Seen from above",
+   "visual_query": "DMZ aerial wetlands"
+  },
+  {
+   "narration": "Rare red-crowned cranes are famous in East Asia, and they are a symbol of long life. They gather in and around the DMZ in winter.",
+   "emoji": "🦢",
+   "headline": "Red-crowned cranes",
+   "stat": "",
+   "sub": "Symbol of long life",
+   "visual_query": "red-crowned cranes winter"
+  },
+  {
+   "narration": "White-naped cranes come there too. Birds do not care about borders, and the empty land gives them quiet.",
+   "emoji": "🐦",
+   "headline": "White-naped cranes",
+   "stat": "",
+   "sub": "No borders for birds",
+   "visual_query": "white-naped crane"
+  },
+  {
+   "narration": "Other wild animals have been seen there as well, such as the Amur leopard cat and the Asiatic black bear.",
+   "emoji": "🐻",
+   "headline": "More wild animals",
+   "stat": "",
+   "sub": "Leopard cat, black bear",
+   "visual_query": "Asiatic black bear forest"
+  },
+  {
+   "narration": "That is the strange truth. One of the most dangerous borders on Earth has become one of the quietest wild places in the region.",
+   "emoji": "🌄",
+   "headline": "Danger became shelter",
+   "stat": "",
+   "sub": "",
+   "visual_query": "misty valley wildlife sunrise"
+  },
+  {
+   "narration": "So go back to the start. Two countries still at war, with a strip between them where cranes nest.",
+   "emoji": "🔁",
+   "headline": "Still at war, still green",
+   "stat": "",
+   "sub": "",
+   "visual_query": "cranes flying over border fence"
+  },
+  {
+   "narration": "Seven true facts: no peace treaty, a room in two countries, a village that may be for show, secret tunnels, a moved clock, a legendary queen, and a wildlife haven.",
+   "emoji": "✅",
+   "headline": "All seven are true",
+   "stat": "7",
+   "sub": "",
+   "visual_query": "Korean DMZ landscape"
+  },
+  {
+   "narration": "Next video: why Nepal's clock is fifteen minutes away from India's, and how one small change makes a whole country different.",
+   "emoji": "🇳🇵",
+   "headline": "Next: Nepal's clock",
+   "stat": "",
+   "sub": "Coming next",
+   "visual_query": "Kathmandu clock tower"
+  }
+ ]
+}

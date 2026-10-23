@@ -1,0 +1,101 @@
+{
+ "category": "geography",
+ "topic": "South Africa's three capitals",
+ "hook": "Your map of South Africa shows three capitals.",
+ "title": "Your map shows 3 capitals in one country",
+ "description": "South Africa has three capital cities, and each one holds a different branch of government. Pretoria is the executive capital, Cape Town is the legislative capital, and Bloemfontein is the judicial capital. Places That Shouldn't Exist, part of our daily series.\n\n#Shorts #SouthAfrica #Geography",
+ "tags": [
+  "south africa",
+  "three capitals",
+  "pretoria",
+  "cape town",
+  "bloemfontein",
+  "geography facts",
+  "places that shouldn't exist",
+  "shorts"
+ ],
+ "comment_prompt": "Which capital would you visit first? Pretoria, Cape Town or Bloemfontein",
+ "hook_banner": "ONE COUNTRY, 3 CAPITALS",
+ "scenes": [
+  {
+   "narration": "Your map of South Africa shows three capitals.",
+   "emoji": "🗺️",
+   "headline": "THREE CAPITALS",
+   "stat": "3",
+   "sub": "One country",
+   "visual_query": "South Africa map"
+  },
+  {
+   "narration": "Pretoria is where the government runs.",
+   "emoji": "🏛️",
+   "headline": "PRETORIA",
+   "stat": "",
+   "sub": "Executive branch",
+   "visual_query": "Union Buildings Pretoria"
+  },
+  {
+   "narration": "Cape Town is where parliament meets.",
+   "emoji": "📜",
+   "headline": "CAPE TOWN",
+   "stat": "",
+   "sub": "Legislative branch",
+   "visual_query": "Cape Town Parliament"
+  },
+  {
+   "narration": "Bloemfontein holds the top appeals court.",
+   "emoji": "⚖️",
+   "headline": "BLOEMFONTEIN",
+   "stat": "",
+   "sub": "Judicial branch",
+   "visual_query": "Bloemfontein Supreme Court"
+  },
+  {
+   "narration": "Three cities, three branches of power.",
+   "emoji": "3️⃣",
+   "headline": "3 CITIES, 3 BRANCHES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "South Africa cities aerial"
+  },
+  {
+   "narration": "Most countries keep all three in one city.",
+   "emoji": "🌍",
+   "headline": "MOST USE ONE CITY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "capital city government buildings"
+  },
+  {
+   "narration": "South Africa spread them across the country.",
+   "emoji": "📍",
+   "headline": "SPREAD ACROSS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "South Africa landscape road"
+  },
+  {
+   "narration": "Each city holds a different piece of power.",
+   "emoji": "🔑",
+   "headline": "A PIECE EACH",
+   "stat": "",
+   "sub": "",
+   "visual_query": "South Africa flag"
+  },
+  {
+   "narration": "So your map shows three capitals.",
+   "emoji": "🗺️",
+   "headline": "THREE CAPITALS",
+   "stat": "3",
+   "sub": "",
+   "visual_query": "South Africa map"
+  },
+  {
+   "narration": "Tomorrow: a rocket pad Russia rents.",
+   "emoji": "🚀",
+   "headline": "NEXT: RENTED ROCKET PAD",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baikonur launch pad"
+  }
+ ]
+}

@@ -1,0 +1,677 @@
+{
+ "topic": "Strange borders countdown: Valga-Valka to India's enclaves",
+ "hook": "Your walk across one small town takes you from Estonia to Latvia, and India has a border stranger still.",
+ "title": "6 Borders That Make No Sense, Ending in India",
+ "description": "A walk across one small town takes you from Estonia to Latvia, and that is only number six. Count down six real borders that make no sense, from Valga-Valka and a German town inside Switzerland to the tangle of enclaves on the India-Bangladesh border. Every place is real and on the map.",
+ "tags": [
+  "strange borders",
+  "weird borders",
+  "Valga Valka",
+  "Estonia Latvia border",
+  "Busingen",
+  "Llivia",
+  "Northwest Angle",
+  "Kaliningrad",
+  "Cooch Behar enclaves",
+  "India Bangladesh enclaves",
+  "border facts",
+  "geography facts",
+  "places that shouldn't exist",
+  "enclaves",
+  "map facts"
+ ],
+ "comment_prompt": "Which border was the strangest?",
+ "hook_banner": "ONE TOWN, TWO COUNTRIES",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "6. Valga-Valka",
+   "scene": 6
+  },
+  {
+   "title": "5. Büsingen",
+   "scene": 19
+  },
+  {
+   "title": "4. Llívia",
+   "scene": 27
+  },
+  {
+   "title": "3. Northwest Angle",
+   "scene": 35
+  },
+  {
+   "title": "2. Kaliningrad",
+   "scene": 46
+  },
+  {
+   "title": "1. India's enclaves",
+   "scene": 55
+  },
+  {
+   "title": "The countdown again",
+   "scene": 72
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your walk across one small town takes you from Estonia to Latvia, and India has a border stranger still.",
+   "emoji": "🗺️",
+   "headline": "One Town, Two Countries",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Valga Valka border"
+  },
+  {
+   "narration": "By the end, you will see a patch of Indian land inside Bangladeshi land, inside Indian land, inside Bangladesh.",
+   "emoji": "🇮🇳",
+   "headline": "Land Inside Land",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Bangladesh border fence"
+  },
+  {
+   "narration": "Six real borders. Each one stranger than the last. And number one is right here in India.",
+   "emoji": "🔢",
+   "headline": "Six Real Borders",
+   "stat": "6",
+   "sub": "",
+   "visual_query": "world map borders"
+  },
+  {
+   "narration": "We start with a town where the border runs down a street, through a square and across a park.",
+   "emoji": "📍",
+   "headline": "Street, Square, Park",
+   "stat": "",
+   "sub": "",
+   "visual_query": "town square border marker"
+  },
+  {
+   "narration": "Stay for the last one. Many people have never heard of it, and it only disappeared from the map in 2015.",
+   "emoji": "⏳",
+   "headline": "Gone In 2015",
+   "stat": "2015",
+   "sub": "",
+   "visual_query": "old map India Bangladesh"
+  },
+  {
+   "narration": "So let's start the countdown at number six, in a small town in the Baltics.",
+   "emoji": "⬇️",
+   "headline": "Countdown Starts",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baltic town street"
+  },
+  {
+   "narration": "Number six. One town, two countries, and you can cross the border on your way to the shop.",
+   "emoji": "6️⃣",
+   "headline": "6. Valga-Valka",
+   "stat": "",
+   "sub": "Estonia and Latvia",
+   "visual_query": "Valga Estonia town"
+  },
+  {
+   "narration": "It is called Valga on the Estonian side and Valka on the Latvian side. Same town, two names, two countries.",
+   "emoji": "🏘️",
+   "headline": "Two Names, One Town",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Valka Latvia town"
+  },
+  {
+   "narration": "Look at the map and you see one built-up town, with a border line cutting straight through the middle.",
+   "emoji": "🗺️",
+   "headline": "A Line Through Town",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Estonia Latvia map"
+  },
+  {
+   "narration": "The border runs along a street, across a square and through a park. You can step over it without noticing.",
+   "emoji": "🚶",
+   "headline": "Step Over It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Estonia Latvia border sign"
+  },
+  {
+   "narration": "Each half has its own town council, its own flag and its own local rules, yet the buildings sit side by side.",
+   "emoji": "🏛️",
+   "headline": "Two Councils",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Valga town hall"
+  },
+  {
+   "narration": "So how did this happen? In 1920, both Estonia and Latvia claimed the town, and neither would give way.",
+   "emoji": "⚖️",
+   "headline": "Both Wanted It",
+   "stat": "1920",
+   "sub": "",
+   "visual_query": "1920 Baltic map"
+  },
+  {
+   "narration": "A British officer, Colonel Tallents, was asked to settle it. He drew a line that split the town in two.",
+   "emoji": "✏️",
+   "headline": "A Line Drawn",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old map pencil line"
+  },
+  {
+   "narration": "For decades that hardly mattered, because both countries were inside the Soviet Union and the border was only on paper.",
+   "emoji": "📄",
+   "headline": "A Paper Border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Soviet Union flag"
+  },
+  {
+   "narration": "Then the Soviet Union ended, and that paper line became a real border between two independent countries again.",
+   "emoji": "🚧",
+   "headline": "A Real Border Again",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border post barrier"
+  },
+  {
+   "narration": "Today both countries are in the Schengen area, so you can walk across with no passport check at all.",
+   "emoji": "🛂",
+   "headline": "No Passport Check",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Schengen border sign"
+  },
+  {
+   "narration": "Both even use the euro. But during Covid, checks came back for a while, and the town felt cut in half.",
+   "emoji": "💶",
+   "headline": "Covid Checks",
+   "stat": "",
+   "sub": "",
+   "visual_query": "euro coins notes"
+  },
+  {
+   "narration": "Estonian is spoken on one side and Latvian on the other, yet people move between them like crossing a road.",
+   "emoji": "🗣️",
+   "headline": "Two Languages",
+   "stat": "",
+   "sub": "",
+   "visual_query": "people crossing street town"
+  },
+  {
+   "narration": "A town split in half is strange. But wait until you see a town that is stuck inside another country.",
+   "emoji": "👀",
+   "headline": "It Gets Stranger",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Switzerland German border"
+  },
+  {
+   "narration": "Number five. There is a town that is German on paper, yet completely surrounded by Switzerland on every side.",
+   "emoji": "5️⃣",
+   "headline": "5. Büsingen",
+   "stat": "",
+   "sub": "German town in Switzerland",
+   "visual_query": "Busingen am Hochrhein"
+  },
+  {
+   "narration": "It is called Büsingen. Look at the map and you see a small German pocket sitting inside the Swiss border.",
+   "emoji": "🗺️",
+   "headline": "A German Pocket",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Busingen map Switzerland"
+  },
+  {
+   "narration": "The town is part of the Swiss customs area, even though it belongs to Germany.",
+   "emoji": "📦",
+   "headline": "Swiss Customs Zone",
+   "stat": "",
+   "sub": "",
+   "visual_query": "customs border Switzerland"
+  },
+  {
+   "narration": "Shops accept Swiss francs, and many people use them every day, even though the town is in Germany.",
+   "emoji": "🇨🇭",
+   "headline": "Swiss Francs Used",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss francs banknotes"
+  },
+  {
+   "narration": "Its cars carry a special German number plate with the letters BÜS, so you can spot a Büsingen car at once.",
+   "emoji": "🚗",
+   "headline": "The BÜS Plate",
+   "stat": "",
+   "sub": "",
+   "visual_query": "German number plate"
+  },
+  {
+   "narration": "Its laws are mostly German, but many everyday habits feel Swiss, because Switzerland is all around it.",
+   "emoji": "🏡",
+   "headline": "German Laws, Swiss Life",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss village Rhine"
+  },
+  {
+   "narration": "Old land deals and treaties from centuries ago left the town cut off, and nobody ever fixed it.",
+   "emoji": "📜",
+   "headline": "Old Deals, Odd Map",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old treaty document"
+  },
+  {
+   "narration": "A German town inside Switzerland is odd. Next is a Spanish town stuck inside France.",
+   "emoji": "➡️",
+   "headline": "Next: Spain In France",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pyrenees mountains valley"
+  },
+  {
+   "narration": "Number four. Llívia is a Spanish town, but you can only reach it by driving through France.",
+   "emoji": "4️⃣",
+   "headline": "4. Llívia",
+   "stat": "",
+   "sub": "Spain inside France",
+   "visual_query": "Llivia Spain town"
+  },
+  {
+   "narration": "It sits in a valley in the Pyrenees mountains, with French land on every side.",
+   "emoji": "⛰️",
+   "headline": "Ringed By France",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cerdanya valley Pyrenees"
+  },
+  {
+   "narration": "In 1659 Spain and France signed a treaty, and Spain handed over a set of villages to France.",
+   "emoji": "🖋️",
+   "headline": "The 1659 Treaty",
+   "stat": "1659",
+   "sub": "",
+   "visual_query": "Treaty of the Pyrenees"
+  },
+  {
+   "narration": "Llívia was officially a town, not a village. So the treaty did not count it, and it stayed Spanish.",
+   "emoji": "🏙️",
+   "headline": "Town, Not Village",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Llivia old town"
+  },
+  {
+   "narration": "That tiny technical difference is why a Spanish town sits inside France today, more than three hundred years later.",
+   "emoji": "🤯",
+   "headline": "A Tiny Technicality",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Llivia France Spain border"
+  },
+  {
+   "narration": "A road links it back to Spain through French land, so you cross a border just to reach a Spanish town.",
+   "emoji": "🛣️",
+   "headline": "Road Through France",
+   "stat": "",
+   "sub": "",
+   "visual_query": "mountain road Pyrenees"
+  },
+  {
+   "narration": "Llívia is quiet and peaceful. Next is a place where a mapmaker's mistake left American land cut off by Canada.",
+   "emoji": "🧭",
+   "headline": "A Mapmaker's Mistake",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake of the Woods"
+  },
+  {
+   "narration": "Number three. There is a piece of the United States that you can only reach by land if you pass through Canada.",
+   "emoji": "3️⃣",
+   "headline": "3. Northwest Angle",
+   "stat": "",
+   "sub": "US land cut off by Canada",
+   "visual_query": "Northwest Angle Minnesota"
+  },
+  {
+   "narration": "It is called the Northwest Angle, a small piece of Minnesota that sticks up into a huge lake called Lake of the Woods.",
+   "emoji": "🏞️",
+   "headline": "Minnesota's Odd Corner",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Northwest Angle map"
+  },
+  {
+   "narration": "To get there by road, you drive through Canada and then take a boat across the water to American land.",
+   "emoji": "⛵",
+   "headline": "Through Canada, By Boat",
+   "stat": "",
+   "sub": "",
+   "visual_query": "boat Lake of the Woods"
+  },
+  {
+   "narration": "In winter the lake freezes and an ice road opens, so you can drive on frozen water to reach the United States.",
+   "emoji": "🧊",
+   "headline": "An Ice Road",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ice road frozen lake"
+  },
+  {
+   "narration": "Only a small number of people live there, and fishing lodges are a big part of life on the Angle.",
+   "emoji": "🎣",
+   "headline": "Fishing Lodges",
+   "stat": "",
+   "sub": "",
+   "visual_query": "fishing lodge lake"
+  },
+  {
+   "narration": "Why does it exist? An old treaty from 1783 was written using a map with mistakes on it.",
+   "emoji": "🗺️",
+   "headline": "A Faulty Map",
+   "stat": "1783",
+   "sub": "",
+   "visual_query": "1783 old map North America"
+  },
+  {
+   "narration": "The mapmakers did not know the real shape of the land, so the line the treaty described did not fit it.",
+   "emoji": "❓",
+   "headline": "The Line Did Not Fit",
+   "stat": "",
+   "sub": "",
+   "visual_query": "antique map lakes"
+  },
+  {
+   "narration": "Later talks tried to fix the line, but they left this odd corner on the American side.",
+   "emoji": "🔧",
+   "headline": "Fixed, But Not Here",
+   "stat": "",
+   "sub": "",
+   "visual_query": "US Canada border marker"
+  },
+  {
+   "narration": "So the Angle is American, but cut off from the rest of its country by a lake and by Canada.",
+   "emoji": "🇺🇸",
+   "headline": "Cut Off By A Lake",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Northwest Angle Canada border"
+  },
+  {
+   "narration": "If you enjoy strange places like these, subscribe, because there are more coming, and a few are even stranger.",
+   "emoji": "🔔",
+   "headline": "More Strange Places",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map globe"
+  },
+  {
+   "narration": "Number two is not a small pocket. It is a whole region of a huge country, sitting far away from it.",
+   "emoji": "👉",
+   "headline": "A Whole Region",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baltic Sea coast"
+  },
+  {
+   "narration": "Number two. Russia owns a piece of land in Europe that does not touch the rest of Russia.",
+   "emoji": "2️⃣",
+   "headline": "2. Kaliningrad",
+   "stat": "",
+   "sub": "Russia, cut off by land",
+   "visual_query": "Kaliningrad city"
+  },
+  {
+   "narration": "It is called Kaliningrad, and it sits on the Baltic Sea, between Poland and Lithuania.",
+   "emoji": "🌊",
+   "headline": "Between Poland, Lithuania",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kaliningrad map Poland Lithuania"
+  },
+  {
+   "narration": "The land was once German, and its main city was Königsberg. After the Second World War, it became Russian.",
+   "emoji": "🏰",
+   "headline": "Once Königsberg",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Konigsberg cathedral Kaliningrad"
+  },
+  {
+   "narration": "Later the Soviet Union ended, the countries around it became independent, and Kaliningrad was cut off from Russia by land.",
+   "emoji": "✂️",
+   "headline": "Cut Off By Land",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Poland Lithuania border"
+  },
+  {
+   "narration": "To go from Moscow to Kaliningrad by land, you must cross other countries. Many travellers fly or go by sea.",
+   "emoji": "✈️",
+   "headline": "Fly Or Sail",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baltic ferry port"
+  },
+  {
+   "narration": "Imagine a piece of India that you could only reach through another country. That is how Kaliningrad works for Russia.",
+   "emoji": "🇷🇺",
+   "headline": "Imagine It For India",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India map"
+  },
+  {
+   "narration": "It is also home to a large Russian naval base on the Baltic Sea.",
+   "emoji": "⚓",
+   "headline": "A Naval Base",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baltiysk naval base"
+  },
+  {
+   "narration": "Even so, it is a working region with ports, roads and a big city, all far from Moscow.",
+   "emoji": "🏙️",
+   "headline": "Far From Moscow",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kaliningrad port"
+  },
+  {
+   "narration": "That is strange. But now we reach number one, and it is not in Europe or America. It is in India.",
+   "emoji": "🇮🇳",
+   "headline": "Now, Number One",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India West Bengal map"
+  },
+  {
+   "narration": "Number one. India's strangest border was not a single line at all. It was a puzzle of tiny islands of land.",
+   "emoji": "1️⃣",
+   "headline": "1. India's Enclaves",
+   "stat": "",
+   "sub": "Cooch Behar, West Bengal",
+   "visual_query": "Cooch Behar West Bengal"
+  },
+  {
+   "narration": "Along the India-Bangladesh border, there were small patches of Indian land sitting inside Bangladesh.",
+   "emoji": "🟧",
+   "headline": "Indian Land In Bangladesh",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Bangladesh border village"
+  },
+  {
+   "narration": "And there were patches of Bangladeshi land inside India. These patches are called enclaves.",
+   "emoji": "🟩",
+   "headline": "Bangladeshi Land In India",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bangladesh enclave India map"
+  },
+  {
+   "narration": "There were 111 Indian enclaves inside Bangladesh, and 51 Bangladeshi enclaves inside India.",
+   "emoji": "🔢",
+   "headline": "111 And 51",
+   "stat": "111 + 51",
+   "sub": "",
+   "visual_query": "enclave map Cooch Behar"
+  },
+  {
+   "narration": "The tangle goes back to old deals between the kings of Cooch Behar and the Mughals, long before 1947.",
+   "emoji": "👑",
+   "headline": "Old Kings, Old Deals",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cooch Behar palace"
+  },
+  {
+   "narration": "When India and Pakistan split in 1947, the new line was drawn around these patches, and the puzzle stayed.",
+   "emoji": "✂️",
+   "headline": "1947 Left The Puzzle",
+   "stat": "1947",
+   "sub": "",
+   "visual_query": "1947 Partition map Bengal"
+  },
+  {
+   "narration": "People in an enclave were stuck. To reach a school or a hospital, they often had to cross into the other country.",
+   "emoji": "🏥",
+   "headline": "Stuck In An Enclave",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bangladesh village road"
+  },
+  {
+   "narration": "Many lacked basic services, because neither country could easily reach them.",
+   "emoji": "💡",
+   "headline": "Cut Off From Services",
+   "stat": "",
+   "sub": "",
+   "visual_query": "rural village Bengal"
+  },
+  {
+   "narration": "In 2011, officials from both countries went door to door in the enclaves to count the people living there.",
+   "emoji": "📋",
+   "headline": "A Joint Headcount",
+   "stat": "2011",
+   "sub": "",
+   "visual_query": "census door to door India"
+  },
+  {
+   "narration": "Then there was the most extreme case, a place called Dahala Khagrabari, in the middle of the puzzle.",
+   "emoji": "🎯",
+   "headline": "Dahala Khagrabari",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dahala Khagrabari"
+  },
+  {
+   "narration": "It was a patch of Indian land inside Bangladeshi land, inside Indian land, inside Bangladesh. Land inside land inside land.",
+   "emoji": "🪆",
+   "headline": "Land In Land In Land",
+   "stat": "",
+   "sub": "",
+   "visual_query": "nested enclave map"
+  },
+  {
+   "narration": "Reports called it the only place of its kind in the world, a third-level enclave.",
+   "emoji": "🌍",
+   "headline": "One Of A Kind",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bangladesh India border map"
+  },
+  {
+   "narration": "At midnight on 31 July 2015, India and Bangladesh finally swapped these lands under a land border agreement.",
+   "emoji": "🕛",
+   "headline": "Midnight, 2015",
+   "stat": "2015",
+   "sub": "",
+   "visual_query": "India Bangladesh border agreement"
+  },
+  {
+   "narration": "Residents were allowed to choose which country they wanted to belong to, and some chose to move.",
+   "emoji": "🧳",
+   "headline": "Residents Chose",
+   "stat": "",
+   "sub": "",
+   "visual_query": "villagers India Bangladesh border"
+  },
+  {
+   "narration": "Many people celebrated that night, and the tangle of enclaves was gone from the map.",
+   "emoji": "🎉",
+   "headline": "The Tangle Is Gone",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Bangladesh flags celebration"
+  },
+  {
+   "narration": "So the strangest border in India is one you can no longer visit. It now lives on old maps.",
+   "emoji": "🗺️",
+   "headline": "Only On Old Maps",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old map West Bengal"
+  },
+  {
+   "narration": "A border made of tiny islands inside islands is stranger than any single line, and that is why it takes number one.",
+   "emoji": "🏆",
+   "headline": "Why It's Number One",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Bangladesh border aerial"
+  },
+  {
+   "narration": "So here is the countdown again. Six, Valga and Valka, a town split between Estonia and Latvia.",
+   "emoji": "6️⃣",
+   "headline": "Six: Valga-Valka",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Valga Valka border"
+  },
+  {
+   "narration": "Five, a German town inside Switzerland. Four, a Spanish town inside France. Three, an American corner reached through Canada.",
+   "emoji": "🔙",
+   "headline": "Five, Four, Three",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Europe map borders"
+  },
+  {
+   "narration": "Two, Russian land far from Russia. And one, India's tangle of land inside land inside land.",
+   "emoji": "🔝",
+   "headline": "Two And One",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Bangladesh enclaves map"
+  },
+  {
+   "narration": "Maps look neat and solid. But every line on them was drawn by people, and people make strange choices.",
+   "emoji": "✏️",
+   "headline": "People Drew These Lines",
+   "stat": "",
+   "sub": "",
+   "visual_query": "hand drawing map line"
+  },
+  {
+   "narration": "Now think back to the start. Your walk across one small town takes you from Estonia to Latvia.",
+   "emoji": "🔁",
+   "headline": "Back To Valga-Valka",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Estonia Latvia border walk"
+  },
+  {
+   "narration": "Come back tomorrow for another place on the map that should not exist, and it is real.",
+   "emoji": "➡️",
+   "headline": "Tomorrow: Another Place",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map pins"
+  }
+ ]
+}

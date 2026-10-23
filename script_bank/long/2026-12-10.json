@@ -1,0 +1,648 @@
+{
+ "topic": "Why Kinmen, Taiwan, is stranger than you think",
+ "hook": "Your beach on Kinmen, Taiwan, faces a Chinese skyline, and the island's kitchen knives were once bombs.",
+ "title": "Why Kinmen Is Stranger Than You Think",
+ "description": "Kinmen belongs to Taiwan, yet it sits only a few kilometres from the Chinese city of Xiamen. In this video you will see six true facts about the island: the skyline across the water, phones that can join a Chinese network, tap water that comes through a pipe from China, life under military rule until 1992, a war fought with loudspeakers, and kitchen knives made from bombs.\n\n#Kinmen #Taiwan #StrangePlaces",
+ "tags": [
+  "Kinmen",
+  "Quemoy",
+  "Kinmen Taiwan",
+  "Taiwan China border",
+  "Xiamen",
+  "Taiwan Strait",
+  "strange places",
+  "geography facts",
+  "places that look fake",
+  "Kinmen knives",
+  "Second Taiwan Strait Crisis",
+  "Why Kinmen is stranger than you think",
+  "Taiwan facts",
+  "weird geography"
+ ],
+ "comment_prompt": "Which Kinmen fact surprised you most?",
+ "hook_banner": "CHINA IS THIS CLOSE",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "A skyline across the water",
+   "scene": 6
+  },
+  {
+   "title": "Phones, spikes and a landing",
+   "scene": 16
+  },
+  {
+   "title": "Tap water from China",
+   "scene": 27
+  },
+  {
+   "title": "Life under military rule",
+   "scene": 36
+  },
+  {
+   "title": "The loudspeaker war",
+   "scene": 45
+  },
+  {
+   "title": "Bombs that became knives",
+   "scene": 56
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your beach on Kinmen, Taiwan, faces a Chinese skyline, and the island's kitchen knives were once bombs.",
+   "emoji": "🏝️",
+   "headline": "Taiwan Faces China",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kinmen beach skyline"
+  },
+  {
+   "narration": "Kinmen belongs to Taiwan, yet it sits only a few kilometres from the Chinese city of Xiamen, across a narrow strip of water.",
+   "emoji": "📍",
+   "headline": "A Few Kilometres Away",
+   "stat": "",
+   "sub": "Kinmen to Xiamen",
+   "visual_query": "Xiamen skyline sea"
+  },
+  {
+   "narration": "Taiwan's main island is far away across the sea, but this small island is almost touching the coast of China.",
+   "emoji": "🗺️",
+   "headline": "Far From Taiwan",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Taiwan Strait map"
+  },
+  {
+   "narration": "By the end you will see how a bomb became a knife, and why that is only part of the story.",
+   "emoji": "🔪",
+   "headline": "A Bomb Became A Knife",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kinmen steel knife"
+  },
+  {
+   "narration": "Six strange facts are coming, and each one is stranger than the one before it.",
+   "emoji": "6️⃣",
+   "headline": "Six Strange Facts",
+   "stat": "6",
+   "sub": "",
+   "visual_query": "Kinmen island aerial"
+  },
+  {
+   "narration": "Stay for the last one, because it explains how this island ended up this way.",
+   "emoji": "👀",
+   "headline": "Stay For The Last One",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kinmen coast sunset"
+  },
+  {
+   "narration": "Fact one: you can stand on Taiwanese land and look straight at the buildings of another country.",
+   "emoji": "🏙️",
+   "headline": "Fact One: The Skyline",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kinmen shoreline view"
+  },
+  {
+   "narration": "Take a boat to Kinmen, walk to the shore that faces Xiamen, and just look across the water.",
+   "emoji": "⛴️",
+   "headline": "Take The Boat",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kinmen ferry boat"
+  },
+  {
+   "narration": "You can see a modern skyline with tall towers and cranes, and every one of those buildings is in mainland China.",
+   "emoji": "🏢",
+   "headline": "Towers In China",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Xiamen skyscrapers"
+  },
+  {
+   "narration": "Xiamen is a large port city in Fujian province, with millions of people living in full view of this small island.",
+   "emoji": "🌆",
+   "headline": "Xiamen Is Huge",
+   "stat": "",
+   "sub": "Fujian, China",
+   "visual_query": "Xiamen city harbor"
+  },
+  {
+   "narration": "Imagine standing in your own city and seeing a rival country's towers just across a narrow strip of sea.",
+   "emoji": "🤯",
+   "headline": "A Rival Across The Sea",
+   "stat": "",
+   "sub": "",
+   "visual_query": "city across sea strait"
+  },
+  {
+   "narration": "And Kinmen is nowhere near the rest of Taiwan. It sits much closer to China than it does to Taipei.",
+   "emoji": "📏",
+   "headline": "Closer To China",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Taipei skyline"
+  },
+  {
+   "narration": "Older maps spell the name Quemoy, and during the Cold War this small island was a famous flashpoint.",
+   "emoji": "📜",
+   "headline": "Also Called Quemoy",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old map Taiwan"
+  },
+  {
+   "narration": "Even the clock matches China. Kinmen, Xiamen and Taipei all share one time, which is two and a half hours ahead of India.",
+   "emoji": "🕐",
+   "headline": "Same Clock As China",
+   "stat": "+2h 30m",
+   "sub": "ahead of India",
+   "visual_query": "world clock time zones"
+  },
+  {
+   "narration": "People on both sides of the water also grew up speaking the same Hokkien dialect, also called Minnan.",
+   "emoji": "🗣️",
+   "headline": "Same Dialect",
+   "stat": "",
+   "sub": "Hokkien / Minnan",
+   "visual_query": "Kinmen old street"
+  },
+  {
+   "narration": "So the voices sound alike, but the flags are different. Now, fact two, which happens right inside your pocket.",
+   "emoji": "🚩",
+   "headline": "Different Flags",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Taiwan flag"
+  },
+  {
+   "narration": "Fact two: on Kinmen, your phone can get confused about which country it is standing in.",
+   "emoji": "📱",
+   "headline": "Fact Two: Your Phone",
+   "stat": "",
+   "sub": "",
+   "visual_query": "smartphone signal"
+  },
+  {
+   "narration": "Phones look for the strongest signal, and on the Xiamen side of the water there are Chinese mobile towers very close by.",
+   "emoji": "📡",
+   "headline": "Towers Across The Water",
+   "stat": "",
+   "sub": "",
+   "visual_query": "mobile phone tower coast"
+  },
+  {
+   "narration": "Visitors and locals have reported their phones joining a Chinese network and sending a welcome message from China.",
+   "emoji": "💬",
+   "headline": "Welcome To China",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone network welcome message"
+  },
+  {
+   "narration": "A roaming warning can pop up even though you never left Taiwan, and you never boarded a ship or a plane.",
+   "emoji": "⚠️",
+   "headline": "Roaming Warning",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone roaming screen"
+  },
+  {
+   "narration": "Signals do not care about borders, and on Kinmen the border is only water, which radio waves cross very easily.",
+   "emoji": "📶",
+   "headline": "Signals Ignore Borders",
+   "stat": "",
+   "sub": "",
+   "visual_query": "signal bars phone"
+  },
+  {
+   "narration": "Now think about what a place this close to China had to prepare for in the past.",
+   "emoji": "🪖",
+   "headline": "Ready For Attack",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kinmen soldiers statue"
+  },
+  {
+   "narration": "In 1949, soldiers from the Chinese mainland tried to land on Kinmen near a village called Guningtou.",
+   "emoji": "⚔️",
+   "headline": "The 1949 Landing",
+   "stat": "1949",
+   "sub": "Guningtou",
+   "visual_query": "Guningtou battle Kinmen"
+  },
+  {
+   "narration": "The defenders won that battle, and it is the main reason Kinmen is still under Taiwan today.",
+   "emoji": "🛡️",
+   "headline": "Why Kinmen Stayed",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Guningtou battlefield memorial"
+  },
+  {
+   "narration": "Some beaches still have rows of steel spikes stuck in the sand, built to rip open landing boats.",
+   "emoji": "🔩",
+   "headline": "Spikes In The Sand",
+   "stat": "",
+   "sub": "",
+   "visual_query": "beach anti-landing spikes"
+  },
+  {
+   "narration": "Guningtou is still remembered on the island with a museum and a memorial.",
+   "emoji": "🏛️",
+   "headline": "A Museum Of War",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Guningtou museum"
+  },
+  {
+   "narration": "Those spikes are still there for tourists to photograph. But fact three is about something you drink every day.",
+   "emoji": "💧",
+   "headline": "Next: Your Water",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kinmen beach spikes tourists"
+  },
+  {
+   "narration": "Fact three: some of the water running out of Kinmen's taps travels from China.",
+   "emoji": "🚰",
+   "headline": "Fact Three: Tap Water",
+   "stat": "",
+   "sub": "",
+   "visual_query": "water tap running"
+  },
+  {
+   "narration": "Kinmen is small and often short of fresh water, so for years the island has had to think hard about every drop.",
+   "emoji": "🏜️",
+   "headline": "A Thirsty Island",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kinmen reservoir"
+  },
+  {
+   "narration": "In 2018, a pipeline opened that carries water under the sea from the Chinese side, in Fujian province, to Kinmen.",
+   "emoji": "🚇",
+   "headline": "A Pipe Under The Sea",
+   "stat": "2018",
+   "sub": "",
+   "visual_query": "underwater pipeline sea"
+  },
+  {
+   "narration": "The water comes from the Chinese side because that is the nearest big supply, a short distance from where Kinmen sits.",
+   "emoji": "📍",
+   "headline": "The Nearest Supply",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Fujian coast reservoir"
+  },
+  {
+   "narration": "Think about that: two governments that are political rivals, connected by one pipe that runs under the sea.",
+   "emoji": "🤝",
+   "headline": "Rivals Share A Pipe",
+   "stat": "",
+   "sub": "",
+   "visual_query": "water pipe sea"
+  },
+  {
+   "narration": "There was already a ferry link before that. Since 2001, boats have run between Kinmen and the city of Xiamen.",
+   "emoji": "⛴️",
+   "headline": "Ferry Since 2001",
+   "stat": "2001",
+   "sub": "",
+   "visual_query": "Xiamen ferry terminal"
+  },
+  {
+   "narration": "For years, people used that ferry for family visits, shopping and trade, on the same water that once carried warships.",
+   "emoji": "🛍️",
+   "headline": "Families And Trade",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ferry passengers harbor"
+  },
+  {
+   "narration": "Before the ferry, that stretch of sea was a front line with guns pointing across it in both directions.",
+   "emoji": "🔫",
+   "headline": "Once A Front Line",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old coastal artillery gun"
+  },
+  {
+   "narration": "Soon you will hear how bad that front line got. But first, fact four, about who ran the island.",
+   "emoji": "❓",
+   "headline": "Who Ran The Island?",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kinmen military bunker"
+  },
+  {
+   "narration": "Fact four: until 1992, ordinary families on Kinmen lived under military rule.",
+   "emoji": "🪖",
+   "headline": "Fact Four: Army Rule",
+   "stat": "1992",
+   "sub": "",
+   "visual_query": "Taiwan soldiers Kinmen"
+  },
+  {
+   "narration": "The army, not a normal local government, ran daily life on the island for decades, with curfews and travel limits.",
+   "emoji": "🚧",
+   "headline": "Curfews And Limits",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kinmen military checkpoint"
+  },
+  {
+   "narration": "Soldiers were stationed all over this small island, and the whole place was built to survive an attack from the sea.",
+   "emoji": "🏰",
+   "headline": "Built For War",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kinmen fortress"
+  },
+  {
+   "narration": "They dug tunnels by hand through solid rock, including the Zhaishan tunnel, which was cut so boats could hide inside a hill.",
+   "emoji": "⛏️",
+   "headline": "Tunnels Dug By Hand",
+   "stat": "",
+   "sub": "Zhaishan tunnel",
+   "visual_query": "Zhaishan tunnel Kinmen"
+  },
+  {
+   "narration": "Boats could shelter and unload inside the hill, safe from enemy fire, and tourists can walk through part of it today.",
+   "emoji": "🚣",
+   "headline": "A Harbour Inside A Hill",
+   "stat": "",
+   "sub": "",
+   "visual_query": "underground tunnel water boats"
+  },
+  {
+   "narration": "Villages on Kinmen also have stone wind lions, guardian statues set on roofs and at village edges.",
+   "emoji": "🦁",
+   "headline": "Wind Lion Guardians",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kinmen wind lion statue"
+  },
+  {
+   "narration": "People believed the wind lions calmed the strong winds on the island, so even the statues have a job here.",
+   "emoji": "🌬️",
+   "headline": "Statues With A Job",
+   "stat": "",
+   "sub": "",
+   "visual_query": "wind lion god rooftop"
+  },
+  {
+   "narration": "If you enjoy strange places and facts like these, subscribe, because there are plenty more places that sound fake but are real.",
+   "emoji": "🔔",
+   "headline": "More Strange Places",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map globe"
+  },
+  {
+   "narration": "Back to Kinmen. The soldiers had good reason to be nervous, and fact five shows how tense it got.",
+   "emoji": "😬",
+   "headline": "Tension Rises",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kinmen coast soldier lookout"
+  },
+  {
+   "narration": "Fact five: for years, the two sides fought each other with giant loudspeakers and music.",
+   "emoji": "📢",
+   "headline": "Fact Five: Loudspeakers",
+   "stat": "",
+   "sub": "",
+   "visual_query": "giant loudspeakers wall"
+  },
+  {
+   "narration": "On Kinmen, huge speakers pointed across the water at China, and speakers on the other side pointed right back.",
+   "emoji": "🔊",
+   "headline": "Speakers Face Speakers",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kinmen loudspeaker"
+  },
+  {
+   "narration": "Taiwan's side played songs, including music by the famous singer Teresa Teng, whose songs were frowned on in mainland China.",
+   "emoji": "🎤",
+   "headline": "Teresa Teng's Songs",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Teresa Teng singer"
+  },
+  {
+   "narration": "The speakers also carried news and messages meant to change minds, not just to make noise.",
+   "emoji": "📰",
+   "headline": "Messages To Change Minds",
+   "stat": "",
+   "sub": "",
+   "visual_query": "radio broadcast speaker"
+  },
+  {
+   "narration": "At Beishan there is a long concrete wall full of speaker openings that was built to face the mainland.",
+   "emoji": "🧱",
+   "headline": "The Broadcasting Wall",
+   "stat": "",
+   "sub": "Beishan",
+   "visual_query": "Beishan broadcasting wall"
+  },
+  {
+   "narration": "Imagine trying to sleep with a speaker war going on across a narrow strip of sea.",
+   "emoji": "😴",
+   "headline": "Try Sleeping Here",
+   "stat": "",
+   "sub": "",
+   "visual_query": "night coast speakers"
+  },
+  {
+   "narration": "At Mashan, there is an observation post where visitors can look at the Chinese coast through binoculars.",
+   "emoji": "🔭",
+   "headline": "Binoculars At Mashan",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mashan observation post"
+  },
+  {
+   "narration": "Past the water, the Chinese island of Dadeng is easy to spot from there.",
+   "emoji": "🏝️",
+   "headline": "Dadeng Island, China",
+   "stat": "",
+   "sub": "",
+   "visual_query": "binoculars looking sea island"
+  },
+  {
+   "narration": "Today, some of those speakers are tourist sights, and you can walk right up to them.",
+   "emoji": "🚶",
+   "headline": "War Gear As Sights",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tourists old loudspeaker"
+  },
+  {
+   "narration": "Eventually the speakers fell silent. But the loudspeakers were the gentle part of this fight.",
+   "emoji": "🔇",
+   "headline": "The Speakers Fall Silent",
+   "stat": "",
+   "sub": "",
+   "visual_query": "silent speaker wall"
+  },
+  {
+   "narration": "The last fact is the biggest one, and it is the reason for the knives in the hook.",
+   "emoji": "🔪",
+   "headline": "The Biggest Fact",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kinmen kitchen knife"
+  },
+  {
+   "narration": "Fact six: in 1958, China began firing heavy artillery at Kinmen, shell after shell.",
+   "emoji": "💥",
+   "headline": "Fact Six: 1958",
+   "stat": "1958",
+   "sub": "",
+   "visual_query": "artillery shells 1958"
+  },
+  {
+   "narration": "It is known as the Second Taiwan Strait Crisis, and Kinmen was right at the centre of it.",
+   "emoji": "📜",
+   "headline": "Second Strait Crisis",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Taiwan Strait crisis 1958"
+  },
+  {
+   "narration": "Underground shelters and tunnels became part of daily life, because the sky above the island was not safe.",
+   "emoji": "🕳️",
+   "headline": "Life Underground",
+   "stat": "",
+   "sub": "",
+   "visual_query": "underground shelter tunnel"
+  },
+  {
+   "narration": "The shelling later settled into a strange pattern: China fired on odd-numbered days only.",
+   "emoji": "📅",
+   "headline": "Odd Days Only",
+   "stat": "",
+   "sub": "",
+   "visual_query": "calendar odd dates"
+  },
+  {
+   "narration": "Even days were quiet, so islanders learned to plan their lives by the calendar.",
+   "emoji": "🗓️",
+   "headline": "Life By The Calendar",
+   "stat": "",
+   "sub": "",
+   "visual_query": "wall calendar"
+  },
+  {
+   "narration": "Some of the shells were not even explosive. They were filled with propaganda leaflets instead.",
+   "emoji": "📄",
+   "headline": "Shells Full Of Leaflets",
+   "stat": "",
+   "sub": "",
+   "visual_query": "propaganda leaflets"
+  },
+  {
+   "narration": "That odd-day shelling went on for more than twenty years, and it finally stopped in 1979.",
+   "emoji": "⏳",
+   "headline": "Stopped In 1979",
+   "stat": "1979",
+   "sub": "",
+   "visual_query": "Kinmen war memorial"
+  },
+  {
+   "narration": "Soldiers on both sides spent years watching each other, each side knowing the other was only a short boat ride away.",
+   "emoji": "👁️",
+   "headline": "Watching Each Other",
+   "stat": "",
+   "sub": "",
+   "visual_query": "soldier binoculars coast"
+  },
+  {
+   "narration": "Islanders were left with a huge amount of metal: shell casings and bomb pieces lying all over the place.",
+   "emoji": "🧰",
+   "headline": "Metal Everywhere",
+   "stat": "",
+   "sub": "",
+   "visual_query": "artillery shell casings"
+  },
+  {
+   "narration": "A local man named Wu Tseng-tung had an idea: melt that metal and turn it into kitchen knives.",
+   "emoji": "🔥",
+   "headline": "Wu's Big Idea",
+   "stat": "",
+   "sub": "Wu Tseng-tung",
+   "visual_query": "blacksmith forging knife"
+  },
+  {
+   "narration": "Today Kinmen steel knives are sold as souvenirs, forged from the shells once fired at the island.",
+   "emoji": "🔪",
+   "headline": "Knives From Shells",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kinmen steel knife shop"
+  },
+  {
+   "narration": "So a kitchen knife can literally be a bomb from a conflict that has never ended with a peace treaty.",
+   "emoji": "🕊️",
+   "headline": "A Bomb In Your Kitchen",
+   "stat": "",
+   "sub": "",
+   "visual_query": "knife made from shell"
+  },
+  {
+   "narration": "That answers the hook: a beach facing China, and a knife made from China's own shells.",
+   "emoji": "🎯",
+   "headline": "The Hook Paid Off",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kinmen beach knife"
+  },
+  {
+   "narration": "Today the island is also known for sorghum liquor, old village houses and visitors who come to see the war leftovers.",
+   "emoji": "🍶",
+   "headline": "Kinmen Today",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kinmen old village house"
+  },
+  {
+   "narration": "Look back at the opening picture: the skyline across the water, only a few kilometres away.",
+   "emoji": "🌇",
+   "headline": "Back To The Skyline",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Xiamen skyline from Kinmen"
+  },
+  {
+   "narration": "The six facts: the skyline, the confused phone, the water pipe, the military rule, the speaker war, and the bomb knives.",
+   "emoji": "✅",
+   "headline": "Six Facts Recap",
+   "stat": "6",
+   "sub": "",
+   "visual_query": "Kinmen landmarks"
+  },
+  {
+   "narration": "All of it comes from one simple fact of geography: Kinmen sits where Taiwan's reach meets China's coast.",
+   "emoji": "🗺️",
+   "headline": "One Fact Of Geography",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kinmen map coast"
+  },
+  {
+   "narration": "Tomorrow: another place on the map that looks fake but is completely real.",
+   "emoji": "➡️",
+   "headline": "Tomorrow: Another Place",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map pin"
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Oymyakon, coldest inhabited place",
+ "hook": "Your phone would struggle in Oymyakon, Siberia.",
+ "title": "The Coldest Town on Earth Where People Live",
+ "description": "Oymyakon in Siberia is the coldest permanently inhabited place on Earth. A temperature of -67.7 °C was recorded there in 1933. Batteries lose power in the cold, so your phone would struggle.\n\n#Shorts #Siberia #PlacesThatShouldntExist",
+ "tags": [
+  "oymyakon",
+  "siberia",
+  "coldest place on earth",
+  "russia",
+  "geography facts",
+  "places that shouldnt exist",
+  "extreme cold",
+  "did you know"
+ ],
+ "comment_prompt": "Could you survive there? Yes or no",
+ "hook_banner": "COLDEST TOWN ON EARTH",
+ "scenes": [
+  {
+   "narration": "Your phone would struggle in Oymyakon, Siberia.",
+   "emoji": "🥶",
+   "headline": "Phone Would Struggle",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Oymyakon Siberia winter"
+  },
+  {
+   "narration": "It is the coldest inhabited place on Earth.",
+   "emoji": "❄️",
+   "headline": "Coldest Inhabited Place",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Oymyakon village snow"
+  },
+  {
+   "narration": "In 1933, it hit minus 67.7 degrees Celsius.",
+   "emoji": "🌡️",
+   "headline": "Record Cold",
+   "stat": "-67.7°C",
+   "sub": "1933",
+   "visual_query": "thermometer extreme cold"
+  },
+  {
+   "narration": "Lithium batteries lose power in the cold.",
+   "emoji": "🔋",
+   "headline": "Batteries Die Fast",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone low battery"
+  },
+  {
+   "narration": "Your phone could shut down outdoors.",
+   "emoji": "📱",
+   "headline": "Phone Shuts Down",
+   "stat": "",
+   "sub": "",
+   "visual_query": "frozen smartphone snow"
+  },
+  {
+   "narration": "Imagine charging it there.",
+   "emoji": "🔌",
+   "headline": "Try Charging It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Siberia winter street"
+  },
+  {
+   "narration": "Still, hundreds of people live there.",
+   "emoji": "🏠",
+   "headline": "People Live Here",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Yakutia village winter"
+  },
+  {
+   "narration": "They live there all year round.",
+   "emoji": "🧥",
+   "headline": "All Year Round",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Siberia people fur coat"
+  },
+  {
+   "narration": "Your phone would not last like they do.",
+   "emoji": "📵",
+   "headline": "Phone Gives Up",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Oymyakon frozen landscape"
+  }
+ ]
+}

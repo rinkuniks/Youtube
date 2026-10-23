@@ -1,0 +1,92 @@
+{
+ "category": "technology",
+ "topic": "Neuralink cursor control",
+ "hook": "Your brain can move a computer cursor without your hand.",
+ "title": "Your Brain Can Move a Computer Cursor",
+ "description": "Neuralink patients with paralysis have moved a computer cursor using only their thoughts, shown in public demo videos. A tiny implant reads brain signals and turns them into cursor movement. Series: Facts That Sound Fake.\n\n#Shorts #Neuralink #Technology",
+ "tags": [
+  "neuralink",
+  "brain computer interface",
+  "technology facts",
+  "mind control cursor",
+  "future tech",
+  "wait what facts",
+  "science shorts"
+ ],
+ "comment_prompt": "Would you get a brain implant? Yes or no",
+ "hook_banner": "CONTROLLED BY THOUGHT",
+ "scenes": [
+  {
+   "narration": "Your brain can move a cursor without your hand.",
+   "emoji": "🧠",
+   "headline": "CURSOR BY THOUGHT",
+   "stat": "",
+   "sub": "No mouse. No touch.",
+   "visual_query": "Neuralink demo cursor"
+  },
+  {
+   "narration": "Neuralink patients did it in public demo videos.",
+   "emoji": "🎥",
+   "headline": "SHOWN ON VIDEO",
+   "stat": "",
+   "sub": "Public demos",
+   "visual_query": "Neuralink patient demo"
+  },
+  {
+   "narration": "They live with paralysis and use only thought.",
+   "emoji": "♿",
+   "headline": "ONLY THOUGHT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "man wheelchair computer"
+  },
+  {
+   "narration": "A tiny implant reads signals from the brain.",
+   "emoji": "🔬",
+   "headline": "TINY BRAIN IMPLANT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "brain implant chip"
+  },
+  {
+   "narration": "Those signals become cursor movement on screen.",
+   "emoji": "🖱️",
+   "headline": "SIGNAL TO CURSOR",
+   "stat": "",
+   "sub": "",
+   "visual_query": "computer cursor screen"
+  },
+  {
+   "narration": "Patients have even played chess this way.",
+   "emoji": "♟️",
+   "headline": "PLAYING CHESS",
+   "stat": "",
+   "sub": "By thinking",
+   "visual_query": "chess board computer"
+  },
+  {
+   "narration": "No mouse, no hands, just intention.",
+   "emoji": "✋",
+   "headline": "NO HANDS NEEDED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "empty desk computer"
+  },
+  {
+   "narration": "Your brain really can move a cursor.",
+   "emoji": "🧠",
+   "headline": "IT'S REAL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "human brain scan"
+  },
+  {
+   "narration": "Tomorrow: a sky that flashes lightning almost every night.",
+   "emoji": "⚡",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "Lightning that never stops",
+   "visual_query": "lightning night sky"
+  }
+ ]
+}

@@ -1,0 +1,656 @@
+{
+ "topic": "Why the US-Canada Border Is Stranger Than You Think",
+ "hook": "Your satellite view of the US-Canada border shows a scar, a strip only six metres wide, cut through forest and mountain.",
+ "title": "Why the US-Canada Border Is Stranger Than You Think",
+ "description": "The US-Canada border is kept visible by a six-metre cleared strip, and it hides places that sound fake but are true: a town you can only reach through Canada, a city where you drive south into Canada, and a piece of Minnesota left behind by a wrong map. Watch to the end for the strangest one.\n\n#geography #borders #facts",
+ "tags": [
+  "US Canada border",
+  "strange borders",
+  "geography facts",
+  "border facts",
+  "Northwest Angle",
+  "Point Roberts",
+  "Hyder Alaska",
+  "Peace Arch Park",
+  "Detroit Windsor",
+  "Akwesasne",
+  "International Boundary Commission",
+  "weird maps",
+  "facts that sound fake",
+  "map mysteries"
+ ],
+ "comment_prompt": "Which border place would you visit first?",
+ "hook_banner": "A SCAR ON THE MAP",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "The six-metre scar",
+   "scene": 6
+  },
+  {
+   "title": "Drive south into Canada",
+   "scene": 16
+  },
+  {
+   "title": "The park on the border",
+   "scene": 26
+  },
+  {
+   "title": "Hyder, the Alaska town",
+   "scene": 36
+  },
+  {
+   "title": "Akwesasne, one land, two nations",
+   "scene": 46
+  },
+  {
+   "title": "Point Roberts",
+   "scene": 55
+  },
+  {
+   "title": "The Northwest Angle",
+   "scene": 64
+  },
+  {
+   "title": "Back to the scar",
+   "scene": 73
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your satellite view of the US-Canada border shows a scar, a strip only six metres wide, cut through forest and mountain.",
+   "emoji": "🛰️",
+   "headline": "A Scar On Earth",
+   "stat": "6 m",
+   "sub": "wide strip",
+   "visual_query": "US Canada border cleared strip"
+  },
+  {
+   "narration": "That scar is the border between the United States and Canada. It is real, and people keep it clear with saws.",
+   "emoji": "🪚",
+   "headline": "People Keep It Clear",
+   "stat": "",
+   "sub": "",
+   "visual_query": "boundary vista forest cut"
+  },
+  {
+   "narration": "By the end, you will see a town you can only reach through Canada, and a city where you drive south to enter Canada.",
+   "emoji": "🧭",
+   "headline": "Drive South To Canada",
+   "stat": "",
+   "sub": "",
+   "visual_query": "road sign Canada border"
+  },
+  {
+   "narration": "You will also see a park where families met when the border was closed, and a piece of America left behind by a wrong map.",
+   "emoji": "🗺️",
+   "headline": "A Wrong Map",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old treaty map North America"
+  },
+  {
+   "narration": "Seven strange facts, and each one is stranger than the last. The final one starts with a mapmaker's mistake.",
+   "emoji": "7️⃣",
+   "headline": "Seven Strange Facts",
+   "stat": "7",
+   "sub": "each stranger",
+   "visual_query": "world map border lines"
+  },
+  {
+   "narration": "Let's start with that scar on the map, because somebody has to keep it clean.",
+   "emoji": "🧹",
+   "headline": "Who Keeps It Clean?",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border monument forest clearing"
+  },
+  {
+   "narration": "Fact one: this border has caretakers. They belong to a group whose only job is keeping a line visible.",
+   "emoji": "👷",
+   "headline": "Border Caretakers",
+   "stat": "",
+   "sub": "",
+   "visual_query": "surveyors forest crew"
+  },
+  {
+   "narration": "It is called the International Boundary Commission, with people from both Canada and the United States, set up under a treaty in 1908.",
+   "emoji": "📜",
+   "headline": "Boundary Commission",
+   "stat": "1908",
+   "sub": "treaty year",
+   "visual_query": "International Boundary Commission"
+  },
+  {
+   "narration": "They keep a strip about six metres wide cleared along the border, so anyone can see exactly where the line runs.",
+   "emoji": "📏",
+   "headline": "Six Metres Wide",
+   "stat": "6 m",
+   "sub": "cleared strip",
+   "visual_query": "border cut through trees aerial"
+  },
+  {
+   "narration": "That is about three metres on each side of the line, through thick forest, over mountain ridges and across open farmland.",
+   "emoji": "⛰️",
+   "headline": "Over Mountains",
+   "stat": "3 m",
+   "sub": "each side",
+   "visual_query": "border line mountains Canada"
+  },
+  {
+   "narration": "Crews cut back the trees and brush, and from the air it looks like a straight cut drawn across the wilderness.",
+   "emoji": "✂️",
+   "headline": "A Straight Cut",
+   "stat": "",
+   "sub": "",
+   "visual_query": "straight line through forest aerial"
+  },
+  {
+   "narration": "Along the strip stand markers made of stone, metal and concrete, so nobody can say they did not know where the line was.",
+   "emoji": "🪨",
+   "headline": "Stone Border Markers",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border monument obelisk"
+  },
+  {
+   "narration": "Much of the western border follows the 49th parallel, a line of latitude that mathematicians drew on a globe.",
+   "emoji": "🌐",
+   "headline": "The 49th Parallel",
+   "stat": "49°",
+   "sub": "north",
+   "visual_query": "49th parallel border marker"
+  },
+  {
+   "narration": "Alaska's eastern edge follows a line of longitude instead, the 141st meridian, running north all the way to the Arctic Ocean.",
+   "emoji": "🧊",
+   "headline": "Alaska's Straight Edge",
+   "stat": "141°",
+   "sub": "west",
+   "visual_query": "Alaska Yukon border cut"
+  },
+  {
+   "narration": "So a line drawn on a globe becomes a real strip in a real forest, and the trees keep trying to grow back.",
+   "emoji": "🌲",
+   "headline": "Trees Grow Back",
+   "stat": "",
+   "sub": "",
+   "visual_query": "forest border clearing snow"
+  },
+  {
+   "narration": "And that is the quiet part. Next, a city where you drive south to enter Canada.",
+   "emoji": "➡️",
+   "headline": "Next: South To Canada",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Detroit skyline river"
+  },
+  {
+   "narration": "Fact two: there is a place where you drive south from America to reach Canada, and it is not a mistake.",
+   "emoji": "⬇️",
+   "headline": "South Into Canada",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Detroit Windsor map"
+  },
+  {
+   "narration": "Stand in Detroit, Michigan, and look across the river. The city you see is Windsor, in Ontario, Canada.",
+   "emoji": "🏙️",
+   "headline": "Detroit Meets Windsor",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Windsor Ontario skyline from Detroit"
+  },
+  {
+   "narration": "Windsor sits south of Detroit. Cross the Ambassador Bridge or take the tunnel, and you head south into another country.",
+   "emoji": "🌉",
+   "headline": "Windsor Is South",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ambassador Bridge"
+  },
+  {
+   "narration": "Most people picture Canada straight up north from America. Here, the map bends the other way and the compass looks wrong.",
+   "emoji": "🧭",
+   "headline": "The Compass Lies",
+   "stat": "",
+   "sub": "",
+   "visual_query": "compass on map"
+  },
+  {
+   "narration": "The reason is the river. The Detroit River twists around, and the border follows the middle of the water.",
+   "emoji": "🌊",
+   "headline": "The River Decides",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Detroit River aerial"
+  },
+  {
+   "narration": "Many people cross here every day for work, shopping and hockey games, and the trucks never really stop.",
+   "emoji": "🚚",
+   "headline": "Daily Crossings",
+   "stat": "",
+   "sub": "",
+   "visual_query": "trucks border crossing bridge"
+  },
+  {
+   "narration": "The Ambassador Bridge is one of the busiest crossings between the two countries, carrying car parts and goods all day.",
+   "emoji": "🚛",
+   "headline": "A Busy Bridge",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ambassador Bridge traffic"
+  },
+  {
+   "narration": "So if your GPS says head south to Canada, it is not broken. It is just the map.",
+   "emoji": "📍",
+   "headline": "GPS Is Not Broken",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone GPS map navigation"
+  },
+  {
+   "narration": "Now, a border does not always have to stop you. Sometimes it can feel like a handshake.",
+   "emoji": "🤝",
+   "headline": "A Friendly Border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Peace Arch Park"
+  },
+  {
+   "narration": "The next place goes further. There, the border is a park where you can stand in both countries at once.",
+   "emoji": "🌳",
+   "headline": "A Park On The Line",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Peace Arch Blaine Surrey"
+  },
+  {
+   "narration": "Fact three: a park where the border is a line in the grass, and where families met when the border was shut.",
+   "emoji": "🏞️",
+   "headline": "Peace Arch Park",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Peace Arch Park gardens"
+  },
+  {
+   "narration": "It is called Peace Arch Park, between Blaine in Washington state and Surrey in British Columbia.",
+   "emoji": "📌",
+   "headline": "Blaine And Surrey",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Peace Arch Washington British Columbia"
+  },
+  {
+   "narration": "A white arch was built right on the line in 1921, to celebrate the peace between the two countries since the War of 1812.",
+   "emoji": "🕊️",
+   "headline": "The White Arch",
+   "stat": "1921",
+   "sub": "built",
+   "visual_query": "Peace Arch monument white"
+  },
+  {
+   "narration": "Walk in from either side, wander across the gardens, and you can stand with one foot in each country.",
+   "emoji": "👣",
+   "headline": "One Foot Each Side",
+   "stat": "",
+   "sub": "",
+   "visual_query": "people standing border line park"
+  },
+  {
+   "narration": "There is one rule. You cannot walk on into the other country; you have to leave the way you came.",
+   "emoji": "🚧",
+   "headline": "One Simple Rule",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Peace Arch border sign"
+  },
+  {
+   "narration": "In 2020, when the border was closed for COVID, the park stayed open, and it became a place to meet.",
+   "emoji": "😷",
+   "headline": "Closed Border, Open Park",
+   "stat": "2020",
+   "sub": "",
+   "visual_query": "Peace Arch park families meeting"
+  },
+  {
+   "narration": "Families split by the closure met on the grass, each person on their own side, for the first time in months.",
+   "emoji": "👨‍👩‍👧",
+   "headline": "Families Reunited",
+   "stat": "",
+   "sub": "",
+   "visual_query": "family reunion park border"
+  },
+  {
+   "narration": "There is no wall in the middle. Just flowers, a few markers and an arch with a message about peace.",
+   "emoji": "🌷",
+   "headline": "No Wall Here",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Peace Arch flowers garden"
+  },
+  {
+   "narration": "That is a border at its friendliest. Now, a town that is American but has no road to America.",
+   "emoji": "🏔️",
+   "headline": "A Town Cut Off",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hyder Alaska town"
+  },
+  {
+   "narration": "Fact four: Hyder, Alaska, a tiny American town at the end of a road that only goes through Canada.",
+   "emoji": "🏘️",
+   "headline": "Hyder, Alaska",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hyder Alaska"
+  },
+  {
+   "narration": "You cannot drive to Hyder from the rest of Alaska. The only road in comes from Stewart, in British Columbia.",
+   "emoji": "🛣️",
+   "headline": "Only Road: Canada",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Stewart British Columbia road Hyder"
+  },
+  {
+   "narration": "Drive from Stewart into Hyder, and there is no American checkpoint waiting for you. You simply roll in.",
+   "emoji": "🚗",
+   "headline": "No Check Going In",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hyder Alaska entrance sign"
+  },
+  {
+   "narration": "The checkpoint is Canadian, and you meet it when you leave Hyder. The check happens on the way out.",
+   "emoji": "🛂",
+   "headline": "Checked On Exit",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Canada customs booth Stewart"
+  },
+  {
+   "narration": "That is the reverse of what you expect: the country you are leaving is the one that stops you.",
+   "emoji": "🔄",
+   "headline": "Everything Reversed",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border checkpoint booth"
+  },
+  {
+   "narration": "If you enjoy strange places like this, subscribe, because there is a new map that sounds fake but is true every day.",
+   "emoji": "🔔",
+   "headline": "Subscribe For More",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map pins travel"
+  },
+  {
+   "narration": "Hyder is the kind of place where the map says one thing and the only road says another.",
+   "emoji": "🗺️",
+   "headline": "Map Versus Road",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hyder Alaska mountains road"
+  },
+  {
+   "narration": "The town leans on Stewart, the Canadian town next door, for supplies and services, even though it flies an American flag.",
+   "emoji": "🇺🇸",
+   "headline": "Leaning On Canada",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Stewart Hyder border town"
+  },
+  {
+   "narration": "Stay with me, because the next place has a river, three jurisdictions, and people who were here first.",
+   "emoji": "🛶",
+   "headline": "Next: Three Borders",
+   "stat": "",
+   "sub": "",
+   "visual_query": "St Lawrence River aerial"
+  },
+  {
+   "narration": "Fact five: a community that lived here long before any border, and a line that now runs through the middle of it.",
+   "emoji": "🌾",
+   "headline": "A Border Through Home",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Akwesasne territory"
+  },
+  {
+   "narration": "Akwesasne is a Mohawk territory on the St. Lawrence River, where New York, Ontario and Quebec all meet.",
+   "emoji": "🏞️",
+   "headline": "Akwesasne",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Akwesasne Mohawk territory river"
+  },
+  {
+   "narration": "The Mohawk people lived here long before either country existed, and they see their home as one place, not two.",
+   "emoji": "🪶",
+   "headline": "Home Before Borders",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mohawk community St Lawrence"
+  },
+  {
+   "narration": "But on the map the territory is cut up: part in the United States, part in Canada, divided by an international line.",
+   "emoji": "✂️",
+   "headline": "One Land, Cut Up",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Akwesasne map border"
+  },
+  {
+   "narration": "That means ordinary things, like visiting family, can involve crossing a border that nobody in the community asked for.",
+   "emoji": "👪",
+   "headline": "Errands Cross Borders",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border crossing sign river"
+  },
+  {
+   "narration": "Mohawk leaders have long argued that people of this land should be able to move across it freely.",
+   "emoji": "🗣️",
+   "headline": "Right To Move Freely",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mohawk community gathering"
+  },
+  {
+   "narration": "It is a reminder that every line on a map was drawn over a place where people already lived.",
+   "emoji": "🧩",
+   "headline": "Lines Over Homes",
+   "stat": "",
+   "sub": "",
+   "visual_query": "map line over village"
+  },
+  {
+   "narration": "India knows this feeling too, where lines drawn on maps have split villages and families.",
+   "emoji": "🇮🇳",
+   "headline": "India Knows This",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India border village fence"
+  },
+  {
+   "narration": "The next two places exist because of the shape of the map. And the last one exists because of a mistake.",
+   "emoji": "❓",
+   "headline": "A Map Mistake Next",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old map error"
+  },
+  {
+   "narration": "Fact six: Point Roberts, Washington, an American town on a tiny hook of land cut off from America.",
+   "emoji": "📍",
+   "headline": "Point Roberts",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Point Roberts Washington aerial"
+  },
+  {
+   "narration": "The border follows the 49th parallel, but that line slices through a peninsula, leaving its tip on the American side.",
+   "emoji": "🔪",
+   "headline": "A Sliced Peninsula",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Point Roberts peninsula map"
+  },
+  {
+   "narration": "So the tip belongs to the United States, but the rest of Washington state is far away by land.",
+   "emoji": "🏝️",
+   "headline": "America's Far Tip",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Point Roberts beach"
+  },
+  {
+   "narration": "To drive to the rest of Washington, you leave Point Roberts, cross into Canada, then cross the border again back into America.",
+   "emoji": "🚙",
+   "headline": "Cross Twice To Get Home",
+   "stat": "2",
+   "sub": "border checks",
+   "visual_query": "Point Roberts border crossing"
+  },
+  {
+   "narration": "Two border checks just to drive home. People who live there plan their trips around the lines and the wait times.",
+   "emoji": "⏱️",
+   "headline": "Plan Around The Line",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border queue cars"
+  },
+  {
+   "narration": "The cause is a treaty in 1846 that chose the 49th parallel as the border, using a ruler line with no thought for the coastline.",
+   "emoji": "📐",
+   "headline": "A Ruler Decided",
+   "stat": "1846",
+   "sub": "treaty",
+   "visual_query": "Oregon Treaty 1846 map"
+  },
+  {
+   "narration": "The treaty makers drew the line on a map, and the land beneath it simply followed whatever the ruler said.",
+   "emoji": "📏",
+   "headline": "Land Obeys The Ruler",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ruler on map"
+  },
+  {
+   "narration": "That one line decided who would own the tip of a peninsula, without anyone really noticing at the time.",
+   "emoji": "🤷",
+   "headline": "Nobody Noticed",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Point Roberts shoreline"
+  },
+  {
+   "narration": "The last place has the same problem, but bigger, and it comes from a map that was simply wrong.",
+   "emoji": "🗺️",
+   "headline": "The Biggest One",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake of the Woods aerial"
+  },
+  {
+   "narration": "Fact seven: the Northwest Angle, a piece of Minnesota sitting north of the 49th parallel, surrounded by Canada and water.",
+   "emoji": "⛵",
+   "headline": "Northwest Angle",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Northwest Angle Minnesota"
+  },
+  {
+   "narration": "It is the northernmost point of the lower forty-eight states, a part of America above the line that should mark its edge.",
+   "emoji": "⬆️",
+   "headline": "Northernmost Point",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Northwest Angle sign"
+  },
+  {
+   "narration": "By road, you can only reach it through Manitoba in Canada. Otherwise, you cross Lake of the Woods by boat.",
+   "emoji": "🚤",
+   "headline": "Only Via Canada",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake of the Woods boat"
+  },
+  {
+   "narration": "So to drive from Minnesota to this part of Minnesota, you have to pass through another country first.",
+   "emoji": "🛣️",
+   "headline": "Minnesota Through Canada",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Minnesota Manitoba road border"
+  },
+  {
+   "narration": "How did this happen? In 1783, the people writing the peace treaty used a map, and the map was wrong.",
+   "emoji": "📜",
+   "headline": "The Wrong Map",
+   "stat": "1783",
+   "sub": "treaty",
+   "visual_query": "Mitchell map 1755"
+  },
+  {
+   "narration": "They believed the Mississippi River started farther north, and they wrote the border to run to that point.",
+   "emoji": "🌎",
+   "headline": "A River In The Wrong Place",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mississippi River source Lake Itasca"
+  },
+  {
+   "narration": "The river did not start where the map said, so the line got caught in a strange corner of land and water.",
+   "emoji": "🧵",
+   "headline": "The Line Got Stuck",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Northwest Angle map border"
+  },
+  {
+   "narration": "Later agreements fixed most of the line, but this small angle of land stayed on the American side.",
+   "emoji": "📎",
+   "headline": "Left Behind",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake of the Woods islands map"
+  },
+  {
+   "narration": "One mistaken map in 1783, and today a piece of America is a Canadian road trip away.",
+   "emoji": "🍁",
+   "headline": "One Map, One Mistake",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Northwest Angle lake"
+  },
+  {
+   "narration": "So back to the scar: a six-metre strip in the forest, kept clear so two countries never argue about where the line is.",
+   "emoji": "🛰️",
+   "headline": "Back To The Scar",
+   "stat": "6 m",
+   "sub": "",
+   "visual_query": "US Canada border cleared strip"
+  },
+  {
+   "narration": "Every strange thing we saw today came from lines drawn by hand, on maps that were sometimes wrong.",
+   "emoji": "✏️",
+   "headline": "Lines Drawn By Hand",
+   "stat": "",
+   "sub": "",
+   "visual_query": "hand drawing border map"
+  },
+  {
+   "narration": "Next in this series: Why Japan Is Stranger Than You Think. Same rules: strange, but true.",
+   "emoji": "🇯🇵",
+   "headline": "Next: Japan",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Japan map aerial"
+  }
+ ]
+}

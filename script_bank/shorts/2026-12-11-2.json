@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Sweden Dagen H 1967",
+ "hook": "Your road in Sweden used to run on the left.",
+ "title": "Sweden Switched Road Sides in One Night",
+ "description": "On 3 September 1967, Sweden moved from driving on the left to driving on the right. The change is known as Dagen H. Almost all traffic stopped while the whole country made the switch.\n\nSeries: Places That Shouldn't Exist.\n\n#Shorts #Sweden #Geography",
+ "tags": [
+  "sweden",
+  "dagen h",
+  "1967",
+  "driving on the right",
+  "left side driving",
+  "history facts",
+  "geography facts",
+  "shorts"
+ ],
+ "comment_prompt": "Would you have driven that day? Yes or no",
+ "hook_banner": "ONE NIGHT. WHOLE COUNTRY.",
+ "scenes": [
+  {
+   "narration": "Your road in Sweden used to run on the left.",
+   "emoji": "⬅️",
+   "headline": "LEFT-SIDE SWEDEN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Stockholm street 1967"
+  },
+  {
+   "narration": "On 3 September 1967, everything flipped.",
+   "emoji": "📅",
+   "headline": "3 SEPT 1967",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dagen H Sweden traffic"
+  },
+  {
+   "narration": "The whole country moved to the right.",
+   "emoji": "➡️",
+   "headline": "NOW RIGHT SIDE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sweden road sign right"
+  },
+  {
+   "narration": "They called it Dagen H.",
+   "emoji": "🇸🇪",
+   "headline": "DAGEN H",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dagen H Stockholm"
+  },
+  {
+   "narration": "Almost all traffic stopped for the changeover.",
+   "emoji": "🛑",
+   "headline": "TRAFFIC STOPPED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "empty Stockholm road"
+  },
+  {
+   "narration": "At five in the morning, everyone switched.",
+   "emoji": "⏰",
+   "headline": "5 AM SWITCH",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Stockholm cars 1967"
+  },
+  {
+   "narration": "Crews had swapped road signs overnight.",
+   "emoji": "🪧",
+   "headline": "SIGNS SWAPPED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swedish road signs worker"
+  },
+  {
+   "narration": "Now your road in Sweden runs right.",
+   "emoji": "🚗",
+   "headline": "RIGHT SINCE 1967",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sweden highway cars"
+  },
+  {
+   "narration": "Tomorrow: a message from Earth, on the Moon.",
+   "emoji": "👀",
+   "headline": "NEXT: THE MOON",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Apollo 11 Moon surface"
+  }
+ ]
+}

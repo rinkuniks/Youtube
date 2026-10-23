@@ -1,0 +1,94 @@
+{
+ "category": "geography",
+ "topic": "Lake Hillier pink lake",
+ "hook": "Your eyes would swear this lake is edited.",
+ "title": "This Bubblegum Pink Lake Is Real",
+ "description": "Lake Hillier in Western Australia looks bubblegum pink from above. Salt-loving microbes in the water are the likely cause. A narrow strip of land separates it from the blue ocean.\n\n#Shorts #geography #LakeHillier",
+ "tags": [
+  "Lake Hillier",
+  "pink lake",
+  "Australia",
+  "geography facts",
+  "places that shouldn't exist",
+  "weird places",
+  "travel facts",
+  "nature",
+  "shorts"
+ ],
+ "comment_prompt": "Would you visit this lake? Yes or no",
+ "hook_banner": "THIS PLACE IS REAL",
+ "scenes": [
+  {
+   "narration": "Your eyes would swear this lake is edited.",
+   "emoji": "🩷",
+   "headline": "NOT EDITED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake Hillier aerial"
+  },
+  {
+   "narration": "This is Lake Hillier, in Western Australia.",
+   "emoji": "🇦🇺",
+   "headline": "LAKE HILLIER",
+   "stat": "",
+   "sub": "Western Australia",
+   "visual_query": "Lake Hillier Australia"
+  },
+  {
+   "narration": "The water is bubblegum pink.",
+   "emoji": "🍬",
+   "headline": "BUBBLEGUM PINK",
+   "stat": "",
+   "sub": "",
+   "visual_query": "pink lake aerial"
+  },
+  {
+   "narration": "From the air, it glows bright pink.",
+   "emoji": "🚁",
+   "headline": "PINK FROM ABOVE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Middle Island pink lake"
+  },
+  {
+   "narration": "Salt-loving microbes give it the colour.",
+   "emoji": "🦠",
+   "headline": "SALT-LOVING MICROBES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "salt lake microbes"
+  },
+  {
+   "narration": "A narrow strip of land separates it from the ocean.",
+   "emoji": "🏝️",
+   "headline": "OCEAN RIGHT NEXT TO IT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "pink lake ocean strip"
+  },
+  {
+   "narration": "The ocean beside it stays deep blue.",
+   "emoji": "🌊",
+   "headline": "BLUE NEXT TO PINK",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Southern Ocean coast Australia"
+  },
+  {
+   "narration": "No filter. This pink lake is real.",
+   "emoji": "✅",
+   "headline": "NO FILTER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake Hillier pink water"
+  },
+  {
+   "narration": "Tomorrow: a desert pit that burns all night.",
+   "emoji": "🔥",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "Pit of fire",
+   "visual_query": "Darvaza gas crater night"
+  }
+ ]
+}

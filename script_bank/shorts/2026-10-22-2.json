@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Giant's Causeway basalt columns",
+ "hook": "Your steps here land on about 40,000 stone columns.",
+ "title": "A Path Made of 40,000 Stone Columns",
+ "description": "The Giant's Causeway in Northern Ireland is made of about 40,000 interlocking stone columns. Many of them are hexagons that fit together like tiles. It is a UNESCO World Heritage Site, and it is real.\n\n#Shorts #Geography #GiantsCausewayNorthernIreland",
+ "tags": [
+  "Giant's Causeway",
+  "Northern Ireland",
+  "hexagon",
+  "basalt columns",
+  "geography facts",
+  "places that shouldn't exist",
+  "UNESCO",
+  "nature"
+ ],
+ "comment_prompt": "Natural or man-made? Natural or fake",
+ "hook_banner": "NATURE DID THIS",
+ "scenes": [
+  {
+   "narration": "Your steps here land on 40,000 stone columns.",
+   "emoji": "🪨",
+   "headline": "40,000 STONE COLUMNS",
+   "stat": "40,000",
+   "sub": "about",
+   "visual_query": "Giant's Causeway columns"
+  },
+  {
+   "narration": "This is the Giant's Causeway, Northern Ireland.",
+   "emoji": "🇬🇧",
+   "headline": "NORTHERN IRELAND",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Giant's Causeway coast"
+  },
+  {
+   "narration": "Most of the columns are hexagons.",
+   "emoji": "⬡",
+   "headline": "MOSTLY HEXAGONS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "hexagonal basalt columns"
+  },
+  {
+   "narration": "They lock together like perfect tiles.",
+   "emoji": "🧩",
+   "headline": "INTERLOCKING",
+   "stat": "",
+   "sub": "",
+   "visual_query": "basalt column tops"
+  },
+  {
+   "narration": "Nobody laid them down by hand.",
+   "emoji": "🙅",
+   "headline": "NOT BUILT BY HUMANS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Giant's Causeway stones"
+  },
+  {
+   "narration": "Cooling volcanic rock cracked into these shapes.",
+   "emoji": "🌋",
+   "headline": "COOLED VOLCANIC ROCK",
+   "stat": "",
+   "sub": "",
+   "visual_query": "volcanic basalt cooling"
+  },
+  {
+   "narration": "It is a UNESCO World Heritage Site.",
+   "emoji": "🏛️",
+   "headline": "UNESCO SITE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Giant's Causeway tourists"
+  },
+  {
+   "narration": "So every step lands on a stone column.",
+   "emoji": "👣",
+   "headline": "40,000 STONE COLUMNS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "walking Giant's Causeway"
+  },
+  {
+   "narration": "Next: lunch that floats.",
+   "emoji": "🌮",
+   "headline": "NEXT UP",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tortilla"
+  }
+ ]
+}

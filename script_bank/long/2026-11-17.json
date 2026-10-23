@@ -1,0 +1,732 @@
+{
+ "topic": "7 strange borders countdown ending on Nathu La, Sikkim",
+ "hook": "Your Nathu La visit puts you a few steps from Chinese soldiers, and that is the last border on this list.",
+ "title": "7 Borders That Make No Sense, Ending in Sikkim",
+ "description": "A countdown of seven real borders that look fake on the map: a road through Canada to reach America, a Spanish town inside France, a German village on Swiss money, and more. The last stop is Nathu La in Sikkim, where Indian visitors can stand metres from Chinese soldiers.\n\n#borders #geography #nathula",
+ "tags": [
+  "strange borders",
+  "borders that make no sense",
+  "Nathu La",
+  "Sikkim",
+  "India China border",
+  "Wagah border",
+  "Point Roberts",
+  "Llivia",
+  "Busingen",
+  "Gibraltar airport",
+  "Northwest Angle",
+  "geography facts",
+  "enclaves",
+  "weird maps"
+ ],
+ "comment_prompt": "Which border would you visit first?",
+ "hook_banner": "BORDERS THAT MAKE NO SENSE",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "7: Point Roberts",
+   "scene": 6
+  },
+  {
+   "title": "6: Llívia",
+   "scene": 17
+  },
+  {
+   "title": "5: Büsingen",
+   "scene": 28
+  },
+  {
+   "title": "4: Gibraltar runway",
+   "scene": 39
+  },
+  {
+   "title": "3: Northwest Angle",
+   "scene": 50
+  },
+  {
+   "title": "2: Wagah-Attari",
+   "scene": 61
+  },
+  {
+   "title": "1: Nathu La",
+   "scene": 72
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your Nathu La visit puts you a few steps from Chinese soldiers, and that is the last border on this list.",
+   "emoji": "🏔️",
+   "headline": "Metres From China",
+   "stat": "",
+   "sub": "Nathu La, Sikkim",
+   "visual_query": "Nathu La border fence"
+  },
+  {
+   "narration": "Here are seven real borders, each one stranger than the one before. Every one of them is on the map today.",
+   "emoji": "🗺️",
+   "headline": "7 Real Borders",
+   "stat": "7",
+   "sub": "",
+   "visual_query": "world map borders"
+  },
+  {
+   "narration": "One road leaves a country and comes back without turning. One village is German, but sits inside Switzerland.",
+   "emoji": "🛣️",
+   "headline": "Roads And Villages",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border road sign"
+  },
+  {
+   "narration": "One road was shut for aeroplanes. And one border is a ceremony that happens every evening.",
+   "emoji": "✈️",
+   "headline": "Shut For Planes",
+   "stat": "",
+   "sub": "",
+   "visual_query": "airport runway road"
+  },
+  {
+   "narration": "By the end, you will see why the pass at Nathu La is the strangest of them all.",
+   "emoji": "🇮🇳",
+   "headline": "India's Strangest",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sikkim mountain pass"
+  },
+  {
+   "narration": "Let us start the countdown, with a piece of America that you cannot reach by driving through America.",
+   "emoji": "⬇️",
+   "headline": "Countdown Starts",
+   "stat": "",
+   "sub": "",
+   "visual_query": "countdown map"
+  },
+  {
+   "narration": "Number seven: Point Roberts, in Washington state. It is part of America, but you cannot drive there from America.",
+   "emoji": "7️⃣",
+   "headline": "Point Roberts",
+   "stat": "7",
+   "sub": "Washington, USA",
+   "visual_query": "Point Roberts Washington"
+  },
+  {
+   "narration": "The border follows the 49th parallel, a straight line on the map that ignores the shape of the land.",
+   "emoji": "📏",
+   "headline": "A Straight Line",
+   "stat": "",
+   "sub": "49th parallel",
+   "visual_query": "49th parallel border"
+  },
+  {
+   "narration": "That line cuts across a small peninsula, so the tip ended up American while everything around it stayed Canadian.",
+   "emoji": "🗺️",
+   "headline": "Cut By A Line",
+   "stat": "",
+   "sub": "",
+   "visual_query": "peninsula map border"
+  },
+  {
+   "narration": "To reach Point Roberts by road, you drive into Canada first. Then you drive out again, back into the United States.",
+   "emoji": "🚗",
+   "headline": "Drive Through Canada",
+   "stat": "",
+   "sub": "",
+   "visual_query": "US Canada border crossing"
+  },
+  {
+   "narration": "Residents cross borders just to reach the rest of their own country. Shopping, doctors and work can all mean a queue.",
+   "emoji": "🛂",
+   "headline": "Passport To Go Home",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border checkpoint queue"
+  },
+  {
+   "narration": "Boats and small planes can get there without touching Canada. But for most people, the road runs through another country.",
+   "emoji": "⛵",
+   "headline": "Boat Or Canada",
+   "stat": "",
+   "sub": "",
+   "visual_query": "small harbor boats"
+  },
+  {
+   "narration": "When the border closed to non-essential travel in 2020, this small community felt it hard.",
+   "emoji": "🚧",
+   "headline": "2020 Border Closure",
+   "stat": "",
+   "sub": "",
+   "visual_query": "closed border barrier"
+  },
+  {
+   "narration": "Imagine living in your own country, and needing a passport to get home from the shops.",
+   "emoji": "🏠",
+   "headline": "Passport To Get Home",
+   "stat": "",
+   "sub": "",
+   "visual_query": "passport stamp"
+  },
+  {
+   "narration": "A straight line drawn on paper in 1846 still decides how these people live today.",
+   "emoji": "📜",
+   "headline": "A Line From 1846",
+   "stat": "1846",
+   "sub": "",
+   "visual_query": "old treaty map"
+  },
+  {
+   "narration": "That was a line cutting through land. Next, a town that was left behind when a whole region changed hands.",
+   "emoji": "👀",
+   "headline": "Next: A Left-Behind Town",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pyrenees mountain village"
+  },
+  {
+   "narration": "And that town sits beside a road that belongs to nobody.",
+   "emoji": "❓",
+   "headline": "A Road Of No Country",
+   "stat": "",
+   "sub": "",
+   "visual_query": "mountain road Pyrenees"
+  },
+  {
+   "narration": "Number six: Llívia. It is a Spanish town sitting inside France, high in the Pyrenees mountains.",
+   "emoji": "6️⃣",
+   "headline": "Llívia",
+   "stat": "6",
+   "sub": "Spanish town in France",
+   "visual_query": "Llivia town Pyrenees"
+  },
+  {
+   "narration": "Walk out of town in any direction and you step onto French land. The rest of Spain is a short distance away.",
+   "emoji": "🇫🇷",
+   "headline": "France On Every Side",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Llivia France Spain map"
+  },
+  {
+   "narration": "It goes back to a treaty in 1659, when Spain handed France a number of villages in this area.",
+   "emoji": "📜",
+   "headline": "Treaty Of 1659",
+   "stat": "1659",
+   "sub": "",
+   "visual_query": "Treaty of the Pyrenees"
+  },
+  {
+   "narration": "But Llívia counted as a town, not a village. So the treaty skipped it, and it stayed Spanish.",
+   "emoji": "✍️",
+   "headline": "Town, Not Village",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old treaty document"
+  },
+  {
+   "narration": "One word in a treaty left a Spanish town stranded inside France, and nobody has changed it since.",
+   "emoji": "🔤",
+   "headline": "One Word Did This",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Llivia old town"
+  },
+  {
+   "narration": "Today a road links Llívia to Spain. That strip of road is treated as neutral ground.",
+   "emoji": "🛣️",
+   "headline": "Neutral Road",
+   "stat": "",
+   "sub": "",
+   "visual_query": "mountain road Catalonia"
+  },
+  {
+   "narration": "Both countries are in the Schengen area, so you drive through with no border check, yet you still cross French land.",
+   "emoji": "🚗",
+   "headline": "No Check, Still Crossed",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Schengen border sign"
+  },
+  {
+   "narration": "The town has Spanish rules and Spanish street signs, with France on every side.",
+   "emoji": "🇪🇸",
+   "headline": "Spain, Surrounded",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Spanish flag village"
+  },
+  {
+   "narration": "How can a single word in a treaty still matter after hundreds of years? Because borders stick.",
+   "emoji": "⏳",
+   "headline": "Borders Stick",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border marker stone"
+  },
+  {
+   "narration": "The next one is even stranger, because this time the village is German, but the country around it is Switzerland.",
+   "emoji": "🇨🇭",
+   "headline": "German Inside Swiss",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Switzerland Germany border"
+  },
+  {
+   "narration": "And its shops run on Swiss money.",
+   "emoji": "💰",
+   "headline": "Swiss Money",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss franc banknotes"
+  },
+  {
+   "narration": "Number five: Büsingen am Hochrhein. A German village that is separated from the rest of Germany by Swiss land.",
+   "emoji": "5️⃣",
+   "headline": "Büsingen",
+   "stat": "5",
+   "sub": "German village in Switzerland",
+   "visual_query": "Busingen Rhine village"
+  },
+  {
+   "narration": "It sits on the Rhine river, with Swiss fields and Swiss towns all around it, yet it is legally German.",
+   "emoji": "🌊",
+   "headline": "German On The Rhine",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rhine river village"
+  },
+  {
+   "narration": "German law applies there, and people vote in German elections, but the village sits inside the Swiss customs area.",
+   "emoji": "⚖️",
+   "headline": "German Law, Swiss Customs",
+   "stat": "",
+   "sub": "",
+   "visual_query": "customs border sign"
+  },
+  {
+   "narration": "That means shops and businesses there widely use Swiss francs as well as euros.",
+   "emoji": "💶",
+   "headline": "Francs And Euros",
+   "stat": "",
+   "sub": "",
+   "visual_query": "euro and franc coins"
+  },
+  {
+   "narration": "A German village on Swiss money, inside a Swiss customs area, with German law. That is a tangled border.",
+   "emoji": "🧵",
+   "headline": "A Tangled Border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tangled border map"
+  },
+  {
+   "narration": "Locals can walk into a Swiss town in minutes, and still be crossing a border on paper.",
+   "emoji": "🚶",
+   "headline": "Walk To Switzerland",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss town street"
+  },
+  {
+   "narration": "The border here is no great wall or fence. It is mostly a line on a map and small markers.",
+   "emoji": "🪨",
+   "headline": "Just A Marker",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border marker stone"
+  },
+  {
+   "narration": "Most days nothing looks different. That is exactly what makes it so strange.",
+   "emoji": "🤔",
+   "headline": "Nothing Looks Different",
+   "stat": "",
+   "sub": "",
+   "visual_query": "quiet village street"
+  },
+  {
+   "narration": "You could pass through without noticing, and only a sign tells you which country's law applies.",
+   "emoji": "🪧",
+   "headline": "Only A Sign",
+   "stat": "",
+   "sub": "",
+   "visual_query": "village welcome sign"
+  },
+  {
+   "narration": "Now for number four, where the border and an airport share one road.",
+   "emoji": "✈️",
+   "headline": "Border Meets Airport",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar rock airport"
+  },
+  {
+   "narration": "And yes, that road used to cross the runway.",
+   "emoji": "🛬",
+   "headline": "A Road Over A Runway",
+   "stat": "",
+   "sub": "",
+   "visual_query": "airport runway road crossing"
+  },
+  {
+   "narration": "Number four: Gibraltar. A British territory at the southern tip of Spain, with a huge rock you can spot from far away.",
+   "emoji": "4️⃣",
+   "headline": "Gibraltar",
+   "stat": "4",
+   "sub": "British territory",
+   "visual_query": "Rock of Gibraltar"
+  },
+  {
+   "narration": "To enter from Spain, you walk or drive over the border, and then you meet a runway.",
+   "emoji": "🛂",
+   "headline": "Border, Then Runway",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar Spain border"
+  },
+  {
+   "narration": "For years, the main road to the border, Winston Churchill Avenue, crossed the airport runway at ground level.",
+   "emoji": "🛣️",
+   "headline": "Road Across Runway",
+   "stat": "",
+   "sub": "Winston Churchill Avenue",
+   "visual_query": "Gibraltar runway road"
+  },
+  {
+   "narration": "When a plane was about to land or take off, barriers came down and the road simply closed.",
+   "emoji": "🚧",
+   "headline": "Barriers Come Down",
+   "stat": "",
+   "sub": "",
+   "visual_query": "road barrier plane landing"
+  },
+  {
+   "narration": "Cars, buses and people waited while an aeroplane passed right in front of them.",
+   "emoji": "🚌",
+   "headline": "Waiting For A Plane",
+   "stat": "",
+   "sub": "",
+   "visual_query": "aeroplane landing over road"
+  },
+  {
+   "narration": "If you like strange places like this, subscribe, because there are more of them coming.",
+   "emoji": "🔔",
+   "headline": "More Strange Places",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map globe"
+  },
+  {
+   "narration": "In 2023, a tunnel opened for everyday traffic, so cars now go under the east end of the runway.",
+   "emoji": "🚇",
+   "headline": "The 2023 Tunnel",
+   "stat": "2023",
+   "sub": "",
+   "visual_query": "road tunnel entrance"
+  },
+  {
+   "narration": "Pedestrians and cyclists can still use the runway crossing, so the strange sight has not fully disappeared.",
+   "emoji": "🚲",
+   "headline": "Still Crossable",
+   "stat": "",
+   "sub": "",
+   "visual_query": "cyclist airport runway"
+  },
+  {
+   "narration": "The reason is simple: Gibraltar is tiny, and there was almost no flat land for an airport.",
+   "emoji": "📐",
+   "headline": "No Flat Land",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar aerial view"
+  },
+  {
+   "narration": "Spain also claims Gibraltar, so this small border carries an argument that has run for a very long time.",
+   "emoji": "🇪🇸",
+   "headline": "A Long Dispute",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar border fence"
+  },
+  {
+   "narration": "Next, a piece of America that you reach through Canada, because of a mapmaker's mistake.",
+   "emoji": "🗺️",
+   "headline": "A Mapmaker's Mistake",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old Mississippi map"
+  },
+  {
+   "narration": "Number three: the Northwest Angle in Minnesota. It is the only part of the lower 48 states north of the 49th parallel.",
+   "emoji": "3️⃣",
+   "headline": "Northwest Angle",
+   "stat": "3",
+   "sub": "Minnesota, USA",
+   "visual_query": "Northwest Angle Lake of the Woods"
+  },
+  {
+   "narration": "It sits on Lake of the Woods, and by road you must drive through Canada to reach it.",
+   "emoji": "🌲",
+   "headline": "Through Canada By Road",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake of the Woods"
+  },
+  {
+   "narration": "Like Point Roberts, it is American land that you reach through Canada.",
+   "emoji": "🔁",
+   "headline": "Like Point Roberts",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Canada forest road"
+  },
+  {
+   "narration": "The story goes back to 1783, when a treaty described the border using a map that was wrong.",
+   "emoji": "📜",
+   "headline": "The 1783 Treaty",
+   "stat": "1783",
+   "sub": "",
+   "visual_query": "1783 treaty map"
+  },
+  {
+   "narration": "That map showed the Mississippi river beginning much farther north and west than it really does.",
+   "emoji": "🌊",
+   "headline": "Wrong River Source",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mississippi river source"
+  },
+  {
+   "narration": "When the real source was found, the treaty line no longer made clean sense, and this corner was left over.",
+   "emoji": "🧩",
+   "headline": "A Leftover Corner",
+   "stat": "",
+   "sub": "",
+   "visual_query": "map corner border"
+  },
+  {
+   "narration": "In the end the corner stayed American, a small patch of land cut off by lakes and forest.",
+   "emoji": "🏞️",
+   "headline": "Cut Off By Lakes",
+   "stat": "",
+   "sub": "",
+   "visual_query": "northern Minnesota lake"
+  },
+  {
+   "narration": "Many visitors come by boat across the lake, or by plane.",
+   "emoji": "🛶",
+   "headline": "Boat Or Plane",
+   "stat": "",
+   "sub": "",
+   "visual_query": "fishing boat lake"
+  },
+  {
+   "narration": "One wrong map from the 1700s still decides how you travel there today.",
+   "emoji": "🗺️",
+   "headline": "A Map From The 1700s",
+   "stat": "",
+   "sub": "",
+   "visual_query": "antique map"
+  },
+  {
+   "narration": "Now we move to India, with a border that is strange because of what happens there every evening.",
+   "emoji": "🇮🇳",
+   "headline": "Now, India",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Pakistan border gate"
+  },
+  {
+   "narration": "Two armies that rarely agree on anything perform together, and thousands of people come to watch.",
+   "emoji": "🎭",
+   "headline": "A Daily Show",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Wagah border ceremony crowd"
+  },
+  {
+   "narration": "Number two: Wagah-Attari, the road crossing between Amritsar in India and Lahore in Pakistan.",
+   "emoji": "2️⃣",
+   "headline": "Wagah-Attari",
+   "stat": "2",
+   "sub": "Amritsar and Lahore",
+   "visual_query": "Wagah Attari border"
+  },
+  {
+   "narration": "Every evening at sunset, crowds gather on both sides, and the soldiers put on a loud, high-kicking show.",
+   "emoji": "🌇",
+   "headline": "Sunset Ceremony",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Wagah border soldiers parade"
+  },
+  {
+   "narration": "Border guards from both countries march to the line with stiff steps, big boots and fierce looks.",
+   "emoji": "🥾",
+   "headline": "High-Kicking Guards",
+   "stat": "",
+   "sub": "",
+   "visual_query": "BSF soldiers march"
+  },
+  {
+   "narration": "It is called the Beating Retreat ceremony, and it has been performed for decades.",
+   "emoji": "🥁",
+   "headline": "Beating Retreat",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Beating Retreat ceremony"
+  },
+  {
+   "narration": "The crowds cheer, chant and wave flags, almost like a cricket match, but with soldiers.",
+   "emoji": "🏏",
+   "headline": "Like A Cricket Match",
+   "stat": "",
+   "sub": "",
+   "visual_query": "crowd waving Indian flags"
+  },
+  {
+   "narration": "Then the flags of both countries are lowered at the same time, and the gates are shut.",
+   "emoji": "🚩",
+   "headline": "Flags Down Together",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border gate flags lowered"
+  },
+  {
+   "narration": "Two countries that have fought wars still perform a daily ceremony, side by side, with a gate between them.",
+   "emoji": "🤝",
+   "headline": "Rivals, Side By Side",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Wagah border gate"
+  },
+  {
+   "narration": "It is a rivalry and a performance in the same few metres, and everybody knows the steps.",
+   "emoji": "🎬",
+   "headline": "Rivalry As A Show",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Wagah border stands"
+  },
+  {
+   "narration": "Many Indians have sat in those stands and felt a strange mix of pride, noise and a border they could see.",
+   "emoji": "🇮🇳",
+   "headline": "Pride And Noise",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Attari border crowd"
+  },
+  {
+   "narration": "But there is one Indian border with no show and no crowd, only a fence and a few metres.",
+   "emoji": "🧊",
+   "headline": "No Show, No Crowd",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Himalaya border fence"
+  },
+  {
+   "narration": "Number one is high in the Himalayas, and it is the highest border on this list.",
+   "emoji": "🏔️",
+   "headline": "Up In The Himalayas",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sikkim Himalaya road"
+  },
+  {
+   "narration": "Number one: Nathu La, in Sikkim. It is a mountain pass at more than fourteen thousand feet.",
+   "emoji": "1️⃣",
+   "headline": "Nathu La",
+   "stat": "14,000 ft+",
+   "sub": "Sikkim, India",
+   "visual_query": "Nathu La pass Sikkim"
+  },
+  {
+   "narration": "On the other side is Tibet, which is part of China. The border runs right across the pass.",
+   "emoji": "🇨🇳",
+   "headline": "Tibet On The Other Side",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India China border pass"
+  },
+  {
+   "narration": "Indian visitors with a permit can drive up from Gangtok and reach the border point. This visit is for Indian citizens.",
+   "emoji": "📋",
+   "headline": "Permit Needed",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gangtok mountain road"
+  },
+  {
+   "narration": "And when you get there, you stand metres away from Chinese soldiers, with a fence between you.",
+   "emoji": "🪖",
+   "headline": "Soldiers, A Fence Away",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nathu La fence soldiers"
+  },
+  {
+   "narration": "Indian and Chinese guards stand on either side, close enough to see each other's faces.",
+   "emoji": "👁️",
+   "headline": "Face To Face",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Indian army soldier border"
+  },
+  {
+   "narration": "This pass was once part of an old trade route between India and Tibet.",
+   "emoji": "🐎",
+   "headline": "An Old Trade Route",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old Silk Route Himalaya"
+  },
+  {
+   "narration": "After the 1962 war, it was shut. It reopened for trade in 2006, after decades.",
+   "emoji": "📅",
+   "headline": "Shut In 1962",
+   "stat": "2006",
+   "sub": "Reopened for trade",
+   "visual_query": "Nathu La trade market"
+  },
+  {
+   "narration": "Trade stopped again around 2020, and it has restarted after about six years.",
+   "emoji": "📦",
+   "headline": "Trade Restarts",
+   "stat": "6 years",
+   "sub": "",
+   "visual_query": "border trade trucks Himalaya"
+  },
+  {
+   "narration": "So the same few metres hold soldiers, tourists and traders, in a place most of us only know from a map.",
+   "emoji": "🧭",
+   "headline": "Soldiers, Tourists, Traders",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tourists Nathu La"
+  },
+  {
+   "narration": "That is what makes it the strangest: a military border that is also a trading post and a tourist stop.",
+   "emoji": "🏁",
+   "headline": "India's Strangest Border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nathu La India China gate"
+  },
+  {
+   "narration": "From a road through Canada to a fence in the clouds, every one of these borders is real.",
+   "emoji": "🌍",
+   "headline": "All Seven Are Real",
+   "stat": "7",
+   "sub": "",
+   "visual_query": "world map borders"
+  },
+  {
+   "narration": "Your Nathu La visit puts you a few steps from Chinese soldiers. Next video: more places on the map that look fake but are real.",
+   "emoji": "➡️",
+   "headline": "Next: More Real Places",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Himalaya border post"
+  }
+ ]
+}

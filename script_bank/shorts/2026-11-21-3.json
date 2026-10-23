@@ -1,0 +1,86 @@
+{
+ "category": "space",
+ "topic": "Brushing teeth in space",
+ "hook": "Your toothpaste in space gets swallowed or wiped into a towel.",
+ "title": "Your Toothpaste in Space Gets Swallowed",
+ "description": "There is no sink on the space station, and spit would float around the cabin. So astronauts either swallow their toothpaste or wipe it into a towel. Astronauts have filmed themselves brushing with a floating blob of paste.\n\n#Shorts #Space #Astronaut",
+ "tags": [
+  "space",
+  "astronaut",
+  "brushing teeth in space",
+  "toothpaste",
+  "ISS",
+  "life in space",
+  "space facts",
+  "if you were in space",
+  "weird facts"
+ ],
+ "comment_prompt": "Swallow or towel? Pick one",
+ "hook_banner": "NO SINK IN SPACE",
+ "scenes": [
+  {
+   "narration": "Your toothpaste in space gets swallowed or wiped into a towel.",
+   "emoji": "🪥",
+   "headline": "SWALLOW OR WIPE",
+   "stat": "",
+   "sub": "If You Were in Space",
+   "visual_query": "astronaut brushing teeth space"
+  },
+  {
+   "narration": "There is no sink on the station.",
+   "emoji": "🚫",
+   "headline": "NO SINK",
+   "stat": "",
+   "sub": "",
+   "visual_query": "International Space Station interior"
+  },
+  {
+   "narration": "Spit would just float around the cabin.",
+   "emoji": "🫧",
+   "headline": "SPIT FLOATS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "water blob floating astronaut"
+  },
+  {
+   "narration": "So the paste sits as a floating blob.",
+   "emoji": "🫠",
+   "headline": "FLOATING BLOB",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut toothpaste floating"
+  },
+  {
+   "narration": "Astronauts have filmed themselves brushing on camera.",
+   "emoji": "🎥",
+   "headline": "FILMED ON CAMERA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut brushing teeth ISS"
+  },
+  {
+   "narration": "Then some just swallow it.",
+   "emoji": "😬",
+   "headline": "SOME SWALLOW IT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut smiling space station"
+  },
+  {
+   "narration": "Others wipe their mouth with a towel.",
+   "emoji": "🧻",
+   "headline": "OR USE A TOWEL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut towel mouth space"
+  },
+  {
+   "narration": "Your toothpaste has nowhere to go up there.",
+   "emoji": "🌍",
+   "headline": "NOWHERE TO SPIT",
+   "stat": "",
+   "sub": "Tomorrow: a haircut in space",
+   "visual_query": "Earth from space station window"
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "category": "technology",
+ "topic": "DRDO 30 kW laser weapon",
+ "hook": "Your drone can be burnt out of the sky by a laser.",
+ "title": "India's Laser Burns Drones Out of the Sky",
+ "description": "In 2025 India's DRDO tested a 30-kilowatt laser weapon that brought down drones. The beam is invisible light and it heats the drone until it fails. It's a big step for India's defence tech.\n\n#Shorts #Technology #India",
+ "tags": [
+  "DRDO",
+  "laser weapon",
+  "India",
+  "drone",
+  "defence technology",
+  "tech facts",
+  "technology",
+  "Shorts"
+ ],
+ "comment_prompt": "Laser or missile? One word",
+ "hook_banner": "REAL INDIAN LASER",
+ "scenes": [
+  {
+   "narration": "Your drone can be burnt out of the sky by a laser.",
+   "emoji": "🔦",
+   "headline": "LASER VS DRONE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "laser weapon drone"
+  },
+  {
+   "narration": "India's DRDO tested this in 2025.",
+   "emoji": "🇮🇳",
+   "headline": "DRDO, INDIA",
+   "stat": "2025",
+   "sub": "",
+   "visual_query": "DRDO laser weapon"
+  },
+  {
+   "narration": "It's a thirty-kilowatt laser weapon.",
+   "emoji": "⚡",
+   "headline": "30 KILOWATTS",
+   "stat": "30 kW",
+   "sub": "",
+   "visual_query": "DRDO directed energy weapon"
+  },
+  {
+   "narration": "The beam stays on the drone.",
+   "emoji": "🎯",
+   "headline": "LOCKED ON",
+   "stat": "",
+   "sub": "",
+   "visual_query": "drone flying sky"
+  },
+  {
+   "narration": "The drone heats up and fails.",
+   "emoji": "🔥",
+   "headline": "BURNT OUT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "drone falling sky"
+  },
+  {
+   "narration": "Then it drops out of the sky.",
+   "emoji": "⬇️",
+   "headline": "DRONE DOWN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "drone crash"
+  },
+  {
+   "narration": "No missile needed, just a beam of light.",
+   "emoji": "💡",
+   "headline": "JUST LIGHT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "laser beam light"
+  },
+  {
+   "narration": "Your drone met a laser, and lost.",
+   "emoji": "🚁",
+   "headline": "LASER WINS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "drone sky India"
+  },
+  {
+   "narration": "Tomorrow: a highway tunnel through the Himalayas.",
+   "emoji": "➡️",
+   "headline": "UP NEXT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Atal Tunnel Rohtang"
+  }
+ ]
+}

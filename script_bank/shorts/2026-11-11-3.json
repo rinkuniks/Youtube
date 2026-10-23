@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Uranus tilted 98 degrees",
+ "hook": "If you stood on Uranus, daylight could last 42 years.",
+ "title": "On Uranus, one day can last 42 years",
+ "description": "Uranus is tilted about 98 degrees, so it rolls around the Sun like a ball. Its rings and moons circle it vertically, and each pole gets years of non-stop sunlight. Part of the If You Were in Space series.\n\n#Shorts #Uranus #IfYouWereInSpace",
+ "tags": [
+  "uranus",
+  "space facts",
+  "planets",
+  "solar system",
+  "if you were in space",
+  "axial tilt",
+  "astronomy",
+  "science facts"
+ ],
+ "comment_prompt": "Weirdest planet? Uranus or Venus",
+ "hook_banner": "A PLANET ON ITS SIDE",
+ "scenes": [
+  {
+   "narration": "If you stood on Uranus, daylight could last 42 years.",
+   "emoji": "☀️",
+   "headline": "42 Years Of Daylight",
+   "stat": "42 yrs",
+   "sub": "",
+   "visual_query": "Uranus planet rings"
+  },
+  {
+   "narration": "The planet is tilted about 98 degrees.",
+   "emoji": "🪐",
+   "headline": "Tilted 98 Degrees",
+   "stat": "98°",
+   "sub": "",
+   "visual_query": "Uranus tilted axis"
+  },
+  {
+   "narration": "So it rolls around the Sun like a ball.",
+   "emoji": "⚽",
+   "headline": "It Rolls Like A Ball",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Uranus orbit Sun"
+  },
+  {
+   "narration": "Its rings stand upright, like a wheel.",
+   "emoji": "💍",
+   "headline": "Rings Stand Upright",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Uranus rings Webb"
+  },
+  {
+   "narration": "Its moons circle it vertically too.",
+   "emoji": "🌙",
+   "headline": "Moons Go Vertical",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Uranus moons Miranda"
+  },
+  {
+   "narration": "One pole faces the Sun, then the other.",
+   "emoji": "🧭",
+   "headline": "Poles Take Turns",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Uranus pole Voyager"
+  },
+  {
+   "narration": "One lap around the Sun takes 84 years.",
+   "emoji": "🕰️",
+   "headline": "One Year = 84 Years",
+   "stat": "84 yrs",
+   "sub": "",
+   "visual_query": "solar system orbit diagram"
+  },
+  {
+   "narration": "Uranus is a planet lying on its side.",
+   "emoji": "🔄",
+   "headline": "Lying On Its Side",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Uranus Voyager 2"
+  },
+  {
+   "narration": "Tomorrow: a blue sunset on Mars.",
+   "emoji": "🔵",
+   "headline": "Next: Blue Mars Sunset",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mars sunset rover"
+  }
+ ]
+}

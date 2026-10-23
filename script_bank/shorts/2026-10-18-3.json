@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Wringing a washcloth in space",
+ "hook": "If you wrung out a wet cloth in space, the water would not drip.",
+ "title": "Wring a Washcloth in Space, No Drip",
+ "description": "Astronaut Chris Hadfield showed this on camera aboard the ISS. Wring a wet washcloth in microgravity and the water wraps around the cloth and his hands instead of falling. Surface tension holds it there. Part of our If You Were in Space series.\n\n#Shorts #Space #ISS",
+ "tags": [
+  "chris hadfield",
+  "iss",
+  "microgravity",
+  "wet washcloth space",
+  "water in space",
+  "if you were in space",
+  "space facts",
+  "astronaut"
+ ],
+ "comment_prompt": "Would you try it? Yes or no",
+ "hook_banner": "WATER WON'T DRIP",
+ "scenes": [
+  {
+   "narration": "If you wrung a wet cloth in space, nothing would drip.",
+   "emoji": "🧼",
+   "headline": "Wring It. No Drip.",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chris Hadfield washcloth ISS"
+  },
+  {
+   "narration": "Astronaut Chris Hadfield showed this on camera.",
+   "emoji": "🧑‍🚀",
+   "headline": "Chris Hadfield",
+   "stat": "",
+   "sub": "Aboard the ISS",
+   "visual_query": "Chris Hadfield ISS"
+  },
+  {
+   "narration": "He squeezed the cloth with both hands.",
+   "emoji": "✊",
+   "headline": "Squeeze Hard",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut wet towel space"
+  },
+  {
+   "narration": "The water wrapped around it like a skin.",
+   "emoji": "💧",
+   "headline": "A Skin Of Water",
+   "stat": "",
+   "sub": "",
+   "visual_query": "water blob space station"
+  },
+  {
+   "narration": "It clung to the cloth and his hands.",
+   "emoji": "🖐️",
+   "headline": "Clings To Hands",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut hands water space"
+  },
+  {
+   "narration": "There is no gravity to pull it down.",
+   "emoji": "🌌",
+   "headline": "No Gravity",
+   "stat": "",
+   "sub": "Microgravity",
+   "visual_query": "astronaut floating ISS"
+  },
+  {
+   "narration": "Surface tension holds the water in place.",
+   "emoji": "🔬",
+   "headline": "Surface Tension",
+   "stat": "",
+   "sub": "",
+   "visual_query": "water droplet macro"
+  },
+  {
+   "narration": "So in space, a wrung cloth stays wet.",
+   "emoji": "🧼",
+   "headline": "Still Wet",
+   "stat": "",
+   "sub": "",
+   "visual_query": "washcloth wet space"
+  },
+  {
+   "narration": "Tomorrow: a water ball with bubbles trapped inside.",
+   "emoji": "➡️",
+   "headline": "Next: Water Ball",
+   "stat": "",
+   "sub": "",
+   "visual_query": "water sphere ISS"
+  }
+ ]
+}

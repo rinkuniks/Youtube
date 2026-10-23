@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Lake Constance border",
+ "hook": "Your boat on Lake Constance floats where no border is agreed.",
+ "title": "Three countries, one lake, no agreed border",
+ "description": "Germany, Austria and Switzerland all touch Lake Constance, yet there is no officially agreed border line through the water. Boats cross it every day. Part of the series 'Places That Shouldn't Exist'.\n\n#Shorts #Geography #LakeConstance",
+ "tags": [
+  "lake constance",
+  "bodensee",
+  "borders",
+  "geography facts",
+  "germany",
+  "austria",
+  "switzerland",
+  "places that shouldnt exist"
+ ],
+ "comment_prompt": "Would you sail it? Yes or no",
+ "hook_banner": "NO BORDER LINE",
+ "scenes": [
+  {
+   "narration": "Your boat on Lake Constance floats where no border is agreed.",
+   "emoji": "⛵",
+   "headline": "NO AGREED BORDER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake Constance sailing boat"
+  },
+  {
+   "narration": "Germany, Austria and Switzerland all touch this lake.",
+   "emoji": "🗺️",
+   "headline": "THREE COUNTRIES",
+   "stat": "3",
+   "sub": "",
+   "visual_query": "Lake Constance map"
+  },
+  {
+   "narration": "Nobody has officially agreed where the lines run.",
+   "emoji": "❓",
+   "headline": "NO OFFICIAL LINE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake Constance aerial"
+  },
+  {
+   "narration": "Each country holds its own view of the water.",
+   "emoji": "🏳️",
+   "headline": "DIFFERENT VIEWS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Germany Austria Switzerland flags"
+  },
+  {
+   "narration": "There is no painted line on the water.",
+   "emoji": "🌊",
+   "headline": "NO LINE ON WATER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake Constance water"
+  },
+  {
+   "narration": "Yet ferries cross it every day.",
+   "emoji": "⛴️",
+   "headline": "FERRIES SAIL ON",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake Constance ferry"
+  },
+  {
+   "narration": "Practical agreements keep things running.",
+   "emoji": "🤝",
+   "headline": "IT JUST WORKS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bodensee harbor Lindau"
+  },
+  {
+   "narration": "You could cross three countries without a line.",
+   "emoji": "🧭",
+   "headline": "NO LINE ANYWHERE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake Constance shoreline Alps"
+  },
+  {
+   "narration": "Tomorrow: a lake that looks blood red.",
+   "emoji": "➡️",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "A lake that looks blood red",
+   "visual_query": "Lake Natron red water"
+  }
+ ]
+}

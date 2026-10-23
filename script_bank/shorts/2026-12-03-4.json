@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "ISS crossing India",
+ "hook": "Your whole country flies by in minutes.",
+ "title": "The ISS Crosses India In About 6 Minutes",
+ "description": "The ISS travels at about 7.7 km per second. India is roughly 2,900 km wide east to west, so the station could cross it in about 6 minutes.\n\nSeries: Space Facts That Sound Fake.",
+ "tags": [
+  "iss",
+  "international space station",
+  "india",
+  "space facts",
+  "orbital speed",
+  "geography",
+  "astronomy",
+  "shorts"
+ ],
+ "comment_prompt": "Faster than you expected? Yes or no",
+ "hook_banner": "INDIA IN MINUTES",
+ "scenes": [
+  {
+   "narration": "Your whole country flies by in minutes.",
+   "emoji": "🇮🇳",
+   "headline": "COUNTRY IN MINUTES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India from space"
+  },
+  {
+   "narration": "The ISS moves about 7.7 kilometres per second.",
+   "emoji": "🛰️",
+   "headline": "7.7 KM PER SECOND",
+   "stat": "7.7 km/s",
+   "sub": "",
+   "visual_query": "International Space Station orbit"
+  },
+  {
+   "narration": "India is roughly 2,900 kilometres wide.",
+   "emoji": "🗺️",
+   "headline": "INDIA: 2,900 KM WIDE",
+   "stat": "2,900 km",
+   "sub": "East to west",
+   "visual_query": "India map"
+  },
+  {
+   "narration": "East to west, that's about six minutes.",
+   "emoji": "⏱️",
+   "headline": "ABOUT 6 MINUTES",
+   "stat": "~6 min",
+   "sub": "",
+   "visual_query": "ISS over India night"
+  },
+  {
+   "narration": "That's shorter than a song.",
+   "emoji": "🎵",
+   "headline": "SHORTER THAN A SONG",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India city lights night"
+  },
+  {
+   "narration": "The station circles Earth every ninety minutes.",
+   "emoji": "🌍",
+   "headline": "ORBIT EVERY 90 MIN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ISS orbit Earth"
+  },
+  {
+   "narration": "That's about sixteen orbits every day.",
+   "emoji": "🔄",
+   "headline": "16 ORBITS A DAY",
+   "stat": "16",
+   "sub": "",
+   "visual_query": "astronaut ISS window Earth"
+  },
+  {
+   "narration": "Your whole country flies by in minutes.",
+   "emoji": "🇮🇳",
+   "headline": "GONE IN MINUTES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India satellite view"
+  },
+  {
+   "narration": "Tomorrow: more facts that sound fake.",
+   "emoji": "🤯",
+   "headline": "NEXT: MORE TRUE FACTS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Earth from space"
+  }
+ ]
+}

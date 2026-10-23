@@ -1,0 +1,720 @@
+{
+ "topic": "Strange borders countdown ending at the open India-Nepal border at Sunauli",
+ "hook": "Your own country has a border so open you can walk across it before your tea cools.",
+ "title": "6 Weird Borders, and India's Has No Visa",
+ "description": "Six real borders that look fake on a map, from a US town you reach through Canada to a whole country inside another. The last one is in India: at Sunauli, Indians and Nepalis walk across a simple gate with no visa. Watch to the end to see why the open gate may be the strangest one.\n\n#borders #geography #india",
+ "tags": [
+  "strange borders",
+  "weird borders",
+  "India Nepal border",
+  "Sunauli border",
+  "open border India Nepal",
+  "Point Roberts",
+  "Llivia",
+  "Lesotho",
+  "Kaliningrad",
+  "Northwest Angle",
+  "enclaves and exclaves",
+  "geography facts",
+  "facts that sound fake",
+  "border facts"
+ ],
+ "comment_prompt": "Which border would you cross first?",
+ "hook_banner": "6 BORDERS, 1 OPEN GATE",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "6: Point Roberts, USA",
+   "scene": 6
+  },
+  {
+   "title": "5: Büsingen, Germany",
+   "scene": 16
+  },
+  {
+   "title": "4: Llívia, Spain",
+   "scene": 26
+  },
+  {
+   "title": "3: Kaliningrad, Russia",
+   "scene": 36
+  },
+  {
+   "title": "2: Lesotho",
+   "scene": 46
+  },
+  {
+   "title": "1: The Northwest Angle",
+   "scene": 56
+  },
+  {
+   "title": "India's open gate at Sunauli",
+   "scene": 66
+  },
+  {
+   "title": "The last word",
+   "scene": 78
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your own country has a border so open you can walk across it before your tea cools.",
+   "emoji": "🚶",
+   "headline": "A Border Without A Visa",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sunauli border gate"
+  },
+  {
+   "narration": "No visa. No passport stamp. Just a plain gate, a rickshaw ride and a few steps into Nepal.",
+   "emoji": "🛺",
+   "headline": "Gate, Rickshaw, Nepal",
+   "stat": "",
+   "sub": "",
+   "visual_query": "rickshaw border gate Nepal"
+  },
+  {
+   "narration": "First, six borders around the world that really do make no sense. Each one is stranger than the last.",
+   "emoji": "🗺️",
+   "headline": "Six Borders, Counting Down",
+   "stat": "6",
+   "sub": "",
+   "visual_query": "world map borders"
+  },
+  {
+   "narration": "By the end, you'll see why India's wide open gate may be the strangest of them all.",
+   "emoji": "🇮🇳",
+   "headline": "India's Is Last",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Nepal border"
+  },
+  {
+   "narration": "Every one of these is real, and you can find each of them on your phone map right now.",
+   "emoji": "📱",
+   "headline": "All Real, All On Maps",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone map navigation"
+  },
+  {
+   "narration": "We start with an American place that you can only reach by road if you leave America.",
+   "emoji": "🚗",
+   "headline": "Leave America To Arrive",
+   "stat": "",
+   "sub": "",
+   "visual_query": "highway border sign"
+  },
+  {
+   "narration": "Number six: Point Roberts, in Washington state. Your drive to the rest of America goes through Canada.",
+   "emoji": "📍",
+   "headline": "Point Roberts, USA",
+   "stat": "6",
+   "sub": "",
+   "visual_query": "Point Roberts Washington"
+  },
+  {
+   "narration": "Point Roberts sits on the tip of a small peninsula. The land is American, but it hangs off Canada.",
+   "emoji": "🏝️",
+   "headline": "American Land On Canada",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Point Roberts peninsula aerial"
+  },
+  {
+   "narration": "The reason is one straight line. America and Britain agreed to split their territory along the 49th parallel.",
+   "emoji": "📏",
+   "headline": "One Straight Line",
+   "stat": "49th",
+   "sub": "parallel",
+   "visual_query": "49th parallel border"
+  },
+  {
+   "narration": "Nobody stopped to check that this line would slice through the bottom of a peninsula.",
+   "emoji": "✂️",
+   "headline": "The Line Cuts Through",
+   "stat": "",
+   "sub": "",
+   "visual_query": "peninsula map border"
+  },
+  {
+   "narration": "So a small piece of the United States ended up cut off from the rest of the United States.",
+   "emoji": "🧩",
+   "headline": "A Piece Cut Off",
+   "stat": "",
+   "sub": "",
+   "visual_query": "United States Canada map"
+  },
+  {
+   "narration": "To drive to the rest of Washington, you leave America, cross Canadian roads, and then enter America again.",
+   "emoji": "🛣️",
+   "headline": "Out Of USA And Back",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Canada US border crossing"
+  },
+  {
+   "narration": "That means two border checks to go from one American town to another American town.",
+   "emoji": "🛂",
+   "headline": "Two Border Checks",
+   "stat": "2",
+   "sub": "",
+   "visual_query": "border checkpoint booth"
+  },
+  {
+   "narration": "Locals still make that trip for everyday errands like shopping and work.",
+   "emoji": "🛒",
+   "headline": "Just Running Errands",
+   "stat": "",
+   "sub": "",
+   "visual_query": "supermarket small town"
+  },
+  {
+   "narration": "One old line drawn on a map still decides which road everyone there must take.",
+   "emoji": "🗺️",
+   "headline": "A Line Picks Your Road",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old map boundary line"
+  },
+  {
+   "narration": "That was a piece of America stuck on foreign land. Next, a village that did the opposite.",
+   "emoji": "➡️",
+   "headline": "Next: A German Village",
+   "stat": "",
+   "sub": "",
+   "visual_query": "German village Switzerland"
+  },
+  {
+   "narration": "Number five: Büsingen am Hochrhein. This is a German village, but all around it is Switzerland.",
+   "emoji": "🏘️",
+   "headline": "Büsingen, Germany",
+   "stat": "5",
+   "sub": "",
+   "visual_query": "Büsingen am Hochrhein"
+  },
+  {
+   "narration": "Look at the map and you see a small German patch sitting inside Swiss land.",
+   "emoji": "🇩🇪",
+   "headline": "Germany Inside Switzerland",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Büsingen map Switzerland"
+  },
+  {
+   "narration": "It ended up there through old deals between rulers, and later talks to change it never worked out.",
+   "emoji": "📜",
+   "headline": "Old Deals, Stuck Forever",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old treaty document"
+  },
+  {
+   "narration": "Today the village is German on paper, but it sits inside the Swiss customs area.",
+   "emoji": "📦",
+   "headline": "German, But Swiss Customs",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss customs sign"
+  },
+  {
+   "narration": "That means Swiss francs are part of daily life there, alongside the euro.",
+   "emoji": "💶",
+   "headline": "Francs And Euros",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss franc banknotes"
+  },
+  {
+   "narration": "Its people follow German law, yet live inside Swiss customs rules, so every day mixes two systems.",
+   "emoji": "⚖️",
+   "headline": "Two Systems, One Village",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss German road sign"
+  },
+  {
+   "narration": "A walk down a road can take you from Germany into Switzerland with no border check at all.",
+   "emoji": "🚶",
+   "headline": "No Check On The Road",
+   "stat": "",
+   "sub": "",
+   "visual_query": "road border marker Switzerland"
+  },
+  {
+   "narration": "It is a whole German village, with homes and shops, living inside another country.",
+   "emoji": "🏠",
+   "headline": "A Village Inside A Country",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rhine river village houses"
+  },
+  {
+   "narration": "No guards, no fence, just a village that belongs to one country and sits inside another.",
+   "emoji": "🚫",
+   "headline": "No Fence, Still Foreign",
+   "stat": "",
+   "sub": "",
+   "visual_query": "empty border marker stone"
+  },
+  {
+   "narration": "Next, a Spanish town inside France, and it exists because of one word in a treaty.",
+   "emoji": "🔤",
+   "headline": "One Word Changed It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pyrenees mountains"
+  },
+  {
+   "narration": "Number four: Llívia. This Spanish town sits inside France, with French land on every side.",
+   "emoji": "🇪🇸",
+   "headline": "Llívia, Spain",
+   "stat": "4",
+   "sub": "",
+   "visual_query": "Llívia town Spain"
+  },
+  {
+   "narration": "In 1659, Spain and France signed the Treaty of the Pyrenees to end a long war.",
+   "emoji": "🖋️",
+   "headline": "Treaty Of The Pyrenees",
+   "stat": "1659",
+   "sub": "",
+   "visual_query": "Treaty of the Pyrenees"
+  },
+  {
+   "narration": "Spain handed over a list of villages to France as part of the deal.",
+   "emoji": "📋",
+   "headline": "A List Of Villages",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pyrenees village France"
+  },
+  {
+   "narration": "But Llívia was a town, not a village. So by the wording of the treaty, it stayed Spanish.",
+   "emoji": "🏙️",
+   "headline": "Town, Not Village",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Llívia old town"
+  },
+  {
+   "narration": "Think about that. A single word kept a whole town on the other side of a border.",
+   "emoji": "💭",
+   "headline": "A Single Word",
+   "stat": "",
+   "sub": "",
+   "visual_query": "treaty text magnifying glass"
+  },
+  {
+   "narration": "Today you can still drive there. A short road links Llívia back to Spain. It runs through France, but cars can pass freely.",
+   "emoji": "🛣️",
+   "headline": "The Neutral Road",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Llívia road France Spain"
+  },
+  {
+   "narration": "So you can drive from Spain to a Spanish town while passing over French ground.",
+   "emoji": "🚗",
+   "headline": "Spain To Spain Via France",
+   "stat": "",
+   "sub": "",
+   "visual_query": "car mountain road Pyrenees"
+  },
+  {
+   "narration": "On the map, it looks like a drop of Spain spilled onto the French side of the mountains.",
+   "emoji": "💧",
+   "headline": "A Drop Of Spain",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Spain France border map"
+  },
+  {
+   "narration": "The lesson of number four: a border is sometimes just a word that nobody ever changed.",
+   "emoji": "📖",
+   "headline": "A Word Nobody Changed",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old book treaty page"
+  },
+  {
+   "narration": "If you enjoy facts that sound fake but are true, subscribe, because there are more of these coming.",
+   "emoji": "🔔",
+   "headline": "More Strange Places Coming",
+   "stat": "",
+   "sub": "",
+   "visual_query": "subscribe button"
+  },
+  {
+   "narration": "The next one is not a village or a town. It is a whole region cut off from its own country.",
+   "emoji": "🌍",
+   "headline": "A Whole Region Cut Off",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baltic Sea coast"
+  },
+  {
+   "narration": "Number three: Kaliningrad. A piece of Russia that has no land connection to the rest of Russia.",
+   "emoji": "🇷🇺",
+   "headline": "Kaliningrad, Russia",
+   "stat": "3",
+   "sub": "",
+   "visual_query": "Kaliningrad city"
+  },
+  {
+   "narration": "Look at the map and you will find it squeezed between Poland and Lithuania, with the Baltic Sea to the north.",
+   "emoji": "🗺️",
+   "headline": "Between Poland And Lithuania",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kaliningrad map Poland Lithuania"
+  },
+  {
+   "narration": "Before 1945 this was the German city of Königsberg, and the famous thinker Immanuel Kant lived his whole life here.",
+   "emoji": "🏛️",
+   "headline": "Once Königsberg",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Immanuel Kant statue Königsberg"
+  },
+  {
+   "narration": "After the Second World War it became part of the Soviet Union.",
+   "emoji": "☭",
+   "headline": "Soviet After 1945",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Soviet flag old"
+  },
+  {
+   "narration": "When the Soviet Union broke up in 1991, Lithuania, Latvia and Belarus became separate countries between Kaliningrad and the rest of Russia.",
+   "emoji": "💥",
+   "headline": "1991: Everything Changed",
+   "stat": "1991",
+   "sub": "",
+   "visual_query": "Soviet Union breakup map"
+  },
+  {
+   "narration": "Overnight, a Russian region was sitting alone, surrounded by other countries and the sea.",
+   "emoji": "🏝️",
+   "headline": "Alone Overnight",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baltic coast lighthouse"
+  },
+  {
+   "narration": "Going by land from the rest of Russia means passing through other countries, with rules for every crossing.",
+   "emoji": "🚆",
+   "headline": "Rules At Every Crossing",
+   "stat": "",
+   "sub": "",
+   "visual_query": "train border crossing Lithuania"
+  },
+  {
+   "narration": "A trip inside one country can become an international trip, just because of where the lines fell.",
+   "emoji": "🧳",
+   "headline": "Home Trip, Foreign Land",
+   "stat": "",
+   "sub": "",
+   "visual_query": "passport and suitcase"
+  },
+  {
+   "narration": "Same country, but a German past and no road home on Russian soil.",
+   "emoji": "🛤️",
+   "headline": "No Road On Home Soil",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kaliningrad cathedral"
+  },
+  {
+   "narration": "Kaliningrad is only a region, though. The next border is an entire country trapped inside another.",
+   "emoji": "⏭️",
+   "headline": "Next: A Whole Country",
+   "stat": "",
+   "sub": "",
+   "visual_query": "African mountain kingdom"
+  },
+  {
+   "narration": "Number two: Lesotho. This is not a village or a region. It is an entire country, surrounded by one other.",
+   "emoji": "🇱🇸",
+   "headline": "Lesotho",
+   "stat": "2",
+   "sub": "",
+   "visual_query": "Lesotho mountains"
+  },
+  {
+   "narration": "South Africa wraps around Lesotho on every side. No sea, no third neighbour, just one country around another.",
+   "emoji": "🌍",
+   "headline": "One Country Around Another",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lesotho South Africa map"
+  },
+  {
+   "narration": "Lesotho has its own king, its own flag, its own money and its own seat at the United Nations.",
+   "emoji": "👑",
+   "headline": "A Full Country",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lesotho flag"
+  },
+  {
+   "narration": "Yet every road out of it leads into South Africa.",
+   "emoji": "🛣️",
+   "headline": "Every Road Leads Out To SA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lesotho mountain road"
+  },
+  {
+   "narration": "It is called the Kingdom in the Sky, because the whole country sits high in the mountains.",
+   "emoji": "⛰️",
+   "headline": "Kingdom In The Sky",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Drakensberg mountains Lesotho"
+  },
+  {
+   "narration": "Even its lowest point is more than one thousand metres above sea level.",
+   "emoji": "📈",
+   "headline": "Lowest Point: 1,000 m+",
+   "stat": "1,000 m+",
+   "sub": "above sea level",
+   "visual_query": "high plateau mountains Africa"
+  },
+  {
+   "narration": "Winters there bring real snow, and people even ski in a country with South Africa all around it.",
+   "emoji": "⛷️",
+   "headline": "Snow In Africa",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Afriski Lesotho snow"
+  },
+  {
+   "narration": "Lesotho has just one neighbour, and that neighbour is on all sides.",
+   "emoji": "🫂",
+   "headline": "One Neighbour, All Sides",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lesotho village"
+  },
+  {
+   "narration": "Imagine a free country sitting inside the map of another, like a coin in a ring.",
+   "emoji": "💍",
+   "headline": "A Coin In A Ring",
+   "stat": "",
+   "sub": "",
+   "visual_query": "coin inside ring"
+  },
+  {
+   "narration": "Now for number one, and it comes with a map mistake and a very big lake.",
+   "emoji": "🌊",
+   "headline": "A Map Mistake",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake of the Woods"
+  },
+  {
+   "narration": "Number one: the Northwest Angle in Minnesota. It is American land that you can reach by road only through Canada.",
+   "emoji": "📍",
+   "headline": "The Northwest Angle",
+   "stat": "1",
+   "sub": "",
+   "visual_query": "Northwest Angle Minnesota"
+  },
+  {
+   "narration": "On a map of the United States, there is a small square sticking up from the top of Minnesota.",
+   "emoji": "⬆️",
+   "headline": "A Square On Top",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Minnesota map Northwest Angle"
+  },
+  {
+   "narration": "It sits north of the 49th parallel, which is the line that marks much of the US-Canada border.",
+   "emoji": "📏",
+   "headline": "North Of The Line",
+   "stat": "49th",
+   "sub": "parallel",
+   "visual_query": "US Canada border line forest"
+  },
+  {
+   "narration": "It is the only part of the lower 48 states that lies north of that line.",
+   "emoji": "☝️",
+   "headline": "The Only One",
+   "stat": "",
+   "sub": "",
+   "visual_query": "lower 48 states map"
+  },
+  {
+   "narration": "The reason goes back to 1783, when negotiators used a map that had mistakes about the rivers and lakes.",
+   "emoji": "🗺️",
+   "headline": "A Flawed 1783 Map",
+   "stat": "1783",
+   "sub": "",
+   "visual_query": "old 1783 map America"
+  },
+  {
+   "narration": "The treaty line was drawn using that map, and later surveys found it did not match the real land.",
+   "emoji": "❌",
+   "headline": "Map Did Not Match",
+   "stat": "",
+   "sub": "",
+   "visual_query": "surveyor map old lake"
+  },
+  {
+   "narration": "That left a piece of Minnesota stuck on the wrong side, across a big lake.",
+   "emoji": "🏞️",
+   "headline": "Stuck Across The Lake",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake of the Woods islands"
+  },
+  {
+   "narration": "To reach it by road, you drive through Manitoba in Canada, then arrive back in the United States.",
+   "emoji": "🚗",
+   "headline": "Drive Through Manitoba",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Manitoba road forest"
+  },
+  {
+   "narration": "Or you take a boat across the Lake of the Woods and stay on the water.",
+   "emoji": "⛵",
+   "headline": "Or Take A Boat",
+   "stat": "",
+   "sub": "",
+   "visual_query": "fishing boat lake"
+  },
+  {
+   "narration": "A mapping mistake from 1783 is still making people use another country's roads today.",
+   "emoji": "🛣️",
+   "headline": "A 1783 Mistake, Still Here",
+   "stat": "",
+   "sub": "",
+   "visual_query": "road sign Canada border"
+  },
+  {
+   "narration": "That was number one on the list. But India has a border that is stranger in the opposite way.",
+   "emoji": "🇮🇳",
+   "headline": "India's Is Different",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India map border"
+  },
+  {
+   "narration": "It is the India-Nepal border at Sunauli, in Uttar Pradesh. Cross it, and you arrive in Bhairahawa, Nepal.",
+   "emoji": "📍",
+   "headline": "Sunauli To Bhairahawa",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sunauli Bhairahawa border"
+  },
+  {
+   "narration": "Here the strange part is not a cut-off island. It is that you can walk across without a visa.",
+   "emoji": "🛂",
+   "headline": "No Visa Needed",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sunauli border crossing people"
+  },
+  {
+   "narration": "Indians and Nepalis cross on foot, by bicycle, by rickshaw, or on a bus, in front of a simple gate.",
+   "emoji": "🛺",
+   "headline": "Walk, Cycle, Rickshaw",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sunauli border rickshaw"
+  },
+  {
+   "narration": "Shops, hotels and traffic run on both sides, with one quiet gate between two countries.",
+   "emoji": "🏪",
+   "headline": "One Gate, Two Countries",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sunauli border market"
+  },
+  {
+   "narration": "The reason is a treaty signed in 1950, called the Treaty of Peace and Friendship.",
+   "emoji": "🤝",
+   "headline": "The 1950 Treaty",
+   "stat": "1950",
+   "sub": "",
+   "visual_query": "India Nepal friendship treaty"
+  },
+  {
+   "narration": "Under it, Indians and Nepalis can travel, live and work in each other's country without a visa or work permit.",
+   "emoji": "💼",
+   "headline": "Live And Work Freely",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nepali workers India"
+  },
+  {
+   "narration": "Many Nepalis work in India, and many Indians have family, business and pilgrimage ties in Nepal.",
+   "emoji": "👨‍👩‍👧",
+   "headline": "Families On Both Sides",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Nepal border bus"
+  },
+  {
+   "narration": "You should still carry a valid ID, and foreign travellers must use official crossing points with their documents.",
+   "emoji": "🪪",
+   "headline": "Carry Your ID",
+   "stat": "",
+   "sub": "",
+   "visual_query": "identity card passport"
+  },
+  {
+   "narration": "A short drive from the Nepal side is Lumbini, where the Buddha was born.",
+   "emoji": "🪷",
+   "headline": "Lumbini Is Close",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lumbini Maya Devi temple"
+  },
+  {
+   "narration": "Step across, and even the clock changes: Nepal is fifteen minutes ahead of Indian time.",
+   "emoji": "🕐",
+   "headline": "Clock Jumps 15 Minutes",
+   "stat": "+15 min",
+   "sub": "Nepal vs India",
+   "visual_query": "clock Kathmandu"
+  },
+  {
+   "narration": "Most borders are made to stop you. This one is made to let you through.",
+   "emoji": "🚪",
+   "headline": "Made To Let You Through",
+   "stat": "",
+   "sub": "",
+   "visual_query": "open gate border Nepal"
+  },
+  {
+   "narration": "So the strangest border on this list is not cut off, split or lost. It is open.",
+   "emoji": "🟢",
+   "headline": "The Strangest Is Open",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Nepal border gate people"
+  },
+  {
+   "narration": "From a town in Washington to a gate in Uttar Pradesh, one line on a map can change everything.",
+   "emoji": "🗺️",
+   "headline": "One Line Changes Everything",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map pins"
+  },
+  {
+   "narration": "Tomorrow: a real city that sits on two continents at once.",
+   "emoji": "🌆",
+   "headline": "Tomorrow: Two Continents",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bosphorus Istanbul bridge"
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "category": "space",
+ "topic": "Fallen Astronaut statue on the Moon",
+ "hook": "Your tiny statue sits on the Moon.",
+ "title": "A Tiny Statue Has Sat on the Moon Since 1971",
+ "description": "Apollo 15 astronauts left a small aluminium figure called Fallen Astronaut on the Moon in 1971, beside Hadley Rille. It honours astronauts and cosmonauts who died in the exploration of space, and a plaque beside it lists their names. Part of the If You Were in Space series.\n\n#Shorts #IfYouWereInSpace #Apollo15",
+ "tags": [
+  "fallen astronaut",
+  "apollo 15",
+  "moon",
+  "space facts",
+  "moon statue",
+  "nasa",
+  "if you were in space",
+  "shorts",
+  "wait what facts"
+ ],
+ "comment_prompt": "Would you visit it? Yes or no",
+ "hook_banner": "IT'S ON THE MOON",
+ "scenes": [
+  {
+   "narration": "Your tiny statue sits on the Moon.",
+   "emoji": "🌕",
+   "headline": "A Statue On The Moon",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Fallen Astronaut statue Moon"
+  },
+  {
+   "narration": "It's an aluminium figure of an astronaut.",
+   "emoji": "🧑‍🚀",
+   "headline": "Aluminium Astronaut",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Fallen Astronaut sculpture"
+  },
+  {
+   "narration": "It's called Fallen Astronaut.",
+   "emoji": "🗿",
+   "headline": "Fallen Astronaut",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Apollo 15 Fallen Astronaut"
+  },
+  {
+   "narration": "Apollo fifteen's crew left it in 1971.",
+   "emoji": "🚀",
+   "headline": "Left In 1971",
+   "stat": "1971",
+   "sub": "Apollo 15",
+   "visual_query": "Apollo 15 astronaut Moon"
+  },
+  {
+   "narration": "It lies beside Hadley Rille, a winding valley.",
+   "emoji": "🏔️",
+   "headline": "Beside Hadley Rille",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hadley Rille Moon"
+  },
+  {
+   "narration": "It honours astronauts who died exploring space.",
+   "emoji": "🕊️",
+   "headline": "A Space Memorial",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut memorial"
+  },
+  {
+   "narration": "Fourteen names, from two rival nations.",
+   "emoji": "📜",
+   "headline": "Fourteen Names",
+   "stat": "14",
+   "sub": "",
+   "visual_query": "memorial plaque names"
+  },
+  {
+   "narration": "It's still there today.",
+   "emoji": "📍",
+   "headline": "Still There Today",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Moon surface lunar rover"
+  },
+  {
+   "narration": "Your tiny statue sits on the Moon.",
+   "emoji": "🌑",
+   "headline": "Statue On The Moon",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Moon landscape astronaut"
+  },
+  {
+   "narration": "Tomorrow: the flicker hiding in your lights.",
+   "emoji": "💡",
+   "headline": "Tomorrow",
+   "stat": "",
+   "sub": "Your lights flicker",
+   "visual_query": "LED bulb light"
+  }
+ ]
+}

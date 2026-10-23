@@ -1,0 +1,85 @@
+{
+ "category": "geography",
+ "topic": "Mont Saint-Michel tidal island",
+ "hook": "Your walk to this castle island can be cut off by the sea.",
+ "title": "The Island the Sea Cuts Off Twice a Day",
+ "description": "Mont Saint-Michel in France is a tidal island. At high tide the sea cuts it off from the mainland. At low tide, you can walk across the sands.\n\n#Shorts #Geography #France",
+ "tags": [
+  "Mont Saint-Michel",
+  "France",
+  "tidal island",
+  "high tide",
+  "geography facts",
+  "places that shouldn't exist",
+  "travel",
+  "Shorts"
+ ],
+ "comment_prompt": "Would you visit? Yes or no",
+ "hook_banner": "THIS PLACE IS REAL",
+ "scenes": [
+  {
+   "narration": "Your walk to this castle island can be cut off by the sea.",
+   "emoji": "🏰",
+   "headline": "CUT OFF BY SEA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mont Saint-Michel high tide"
+  },
+  {
+   "narration": "This is Mont Saint-Michel, in France.",
+   "emoji": "🇫🇷",
+   "headline": "MONT SAINT-MICHEL",
+   "stat": "",
+   "sub": "France",
+   "visual_query": "Mont Saint-Michel France"
+  },
+  {
+   "narration": "At low tide, you can walk across the sand.",
+   "emoji": "🚶",
+   "headline": "LOW TIDE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mont Saint-Michel low tide sand"
+  },
+  {
+   "narration": "Then the sea comes rushing back in.",
+   "emoji": "🌊",
+   "headline": "TIDE RETURNS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mont Saint-Michel tide water"
+  },
+  {
+   "narration": "At high tide, it becomes a true island.",
+   "emoji": "🏝️",
+   "headline": "TRUE ISLAND",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mont Saint-Michel island water"
+  },
+  {
+   "narration": "The water cuts it off from land.",
+   "emoji": "🚧",
+   "headline": "CUT OFF",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mont Saint-Michel causeway flooded"
+  },
+  {
+   "narration": "A whole abbey sits on top.",
+   "emoji": "⛪",
+   "headline": "ABBEY ON TOP",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mont Saint-Michel abbey"
+  },
+  {
+   "narration": "Your walk ends where the sea decides.",
+   "emoji": "🏰",
+   "headline": "THE SEA DECIDES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mont Saint-Michel aerial"
+  }
+ ]
+}

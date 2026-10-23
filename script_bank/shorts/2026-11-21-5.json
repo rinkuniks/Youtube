@@ -1,0 +1,85 @@
+{
+ "category": "technology",
+ "topic": "Klein Vision AirCar Nitra to Bratislava",
+ "hook": "Your car grows wings and flies to another city.",
+ "title": "A Car That Grew Wings And Flew Cities",
+ "description": "In 2021, Klein Vision's AirCar flew from Nitra to Bratislava in Slovakia. Its wings fold out of the car body, then fold back so it can drive on the road. A real car, a real flight between two real cities.\n\n#Shorts #AirCar #FlyingCar",
+ "tags": [
+  "aircar",
+  "flying car",
+  "klein vision",
+  "slovakia",
+  "nitra",
+  "bratislava",
+  "future tech",
+  "shorts"
+ ],
+ "comment_prompt": "Would you fly to work in this? Yes or no",
+ "hook_banner": "THIS REALLY FLEW",
+ "scenes": [
+  {
+   "narration": "Your car grows wings and flies.",
+   "emoji": "✈️",
+   "headline": "A CAR WITH WINGS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "AirCar flying car"
+  },
+  {
+   "narration": "It really happened in Slovakia in 2021.",
+   "emoji": "🇸🇰",
+   "headline": "SLOVAKIA, 2021",
+   "stat": "2021",
+   "sub": "",
+   "visual_query": "Slovakia countryside road"
+  },
+  {
+   "narration": "The AirCar drove onto a runway.",
+   "emoji": "🚗",
+   "headline": "DRIVES TO RUNWAY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "AirCar runway"
+  },
+  {
+   "narration": "Then its wings folded out from the body.",
+   "emoji": "🪽",
+   "headline": "WINGS FOLD OUT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "AirCar wings extended"
+  },
+  {
+   "narration": "It flew from Nitra to Bratislava.",
+   "emoji": "🛫",
+   "headline": "NITRA TO BRATISLAVA",
+   "stat": "",
+   "sub": "Two real cities",
+   "visual_query": "Bratislava castle aerial"
+  },
+  {
+   "narration": "Two real cities, no traffic jam.",
+   "emoji": "🏙️",
+   "headline": "NO TRAFFIC JAM",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nitra Slovakia city"
+  },
+  {
+   "narration": "It landed, folded its wings, and drove off.",
+   "emoji": "🛬",
+   "headline": "WINGS FOLD BACK",
+   "stat": "",
+   "sub": "",
+   "visual_query": "AirCar landing"
+  },
+  {
+   "narration": "Your car grows wings, and one already did.",
+   "emoji": "🚀",
+   "headline": "IT ALREADY DID",
+   "stat": "",
+   "sub": "Tomorrow: a desert full of ships",
+   "visual_query": "flying car sky"
+  }
+ ]
+}

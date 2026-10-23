@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Suez Canal ships crossing the desert",
+ "hook": "Your ship in Egypt seems to sail across sand.",
+ "title": "Your ship seems to sail through sand",
+ "description": "From the shore of the Suez Canal, giant ships look like they glide straight across the Egyptian desert. The canal links the Mediterranean and the Red Sea. Series: Places That Shouldn't Exist.\n\n#Shorts #SuezCanal #Geography",
+ "tags": [
+  "Suez Canal",
+  "Egypt",
+  "ships in desert",
+  "Ever Given",
+  "geography facts",
+  "places that shouldn't exist",
+  "shipping",
+  "Shorts"
+ ],
+ "comment_prompt": "Would you watch this live? Yes or no",
+ "hook_banner": "SHIPS IN THE DESERT",
+ "scenes": [
+  {
+   "narration": "Your ship in Egypt seems to sail across sand.",
+   "emoji": "🚢",
+   "headline": "Ship In The Desert",
+   "stat": "",
+   "sub": "Suez Canal, Egypt",
+   "visual_query": "ship Suez Canal desert"
+  },
+  {
+   "narration": "From the shore, giant vessels glide over desert.",
+   "emoji": "🏜️",
+   "headline": "Gliding Over Sand",
+   "stat": "",
+   "sub": "",
+   "visual_query": "container ship Egyptian desert"
+  },
+  {
+   "narration": "This is the Suez Canal in Egypt.",
+   "emoji": "🇪🇬",
+   "headline": "The Suez Canal",
+   "stat": "",
+   "sub": "Egypt",
+   "visual_query": "Suez Canal aerial"
+  },
+  {
+   "narration": "It links the Mediterranean and the Red Sea.",
+   "emoji": "🗺️",
+   "headline": "Two Seas Linked",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Suez Canal map"
+  },
+  {
+   "narration": "It runs about 193 kilometres.",
+   "emoji": "📏",
+   "headline": "Long Channel",
+   "stat": "193 km",
+   "sub": "",
+   "visual_query": "Suez Canal channel"
+  },
+  {
+   "narration": "In 2021, one ship blocked it for six days.",
+   "emoji": "⚠️",
+   "headline": "Stuck For Days",
+   "stat": "6 days",
+   "sub": "Ever Given, 2021",
+   "visual_query": "Ever Given stuck Suez"
+  },
+  {
+   "narration": "Indian cargo bound for Europe has long used this shortcut.",
+   "emoji": "🇮🇳",
+   "headline": "India To Europe",
+   "stat": "",
+   "sub": "",
+   "visual_query": "cargo ship Indian port"
+  },
+  {
+   "narration": "So yes, ships really do sail through sand.",
+   "emoji": "🚢",
+   "headline": "Ships Through Sand",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ship sand dunes canal"
+  },
+  {
+   "narration": "Tomorrow: a Tesla parked in space.",
+   "emoji": "🚗",
+   "headline": "Tomorrow",
+   "stat": "",
+   "sub": "A car in space",
+   "visual_query": "Tesla Roadster space Starman"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "category": "geography",
+ "topic": "Nepal's non-rectangular flag",
+ "hook": "Your drawing of Nepal's flag can't be a rectangle.",
+ "title": "Your Nepal Flag Drawing Can't Be a Rectangle",
+ "description": "Nepal has the only national flag in the world that is not a rectangle or square. It is made of two stacked triangles. The two points are said to stand for the Himalayas. Series: Places That Shouldn't Exist.\n\n#Shorts #Nepal #FlagFacts",
+ "tags": [
+  "Nepal flag",
+  "only non-rectangular flag",
+  "Nepal",
+  "flags",
+  "geography facts",
+  "Places That Shouldn't Exist",
+  "Himalayas",
+  "shorts"
+ ],
+ "comment_prompt": "Could you draw it? Yes or no",
+ "hook_banner": "ONLY ONE LIKE IT",
+ "scenes": [
+  {
+   "narration": "Your drawing of Nepal's flag can't be a rectangle.",
+   "emoji": "🇳🇵",
+   "headline": "Not A Rectangle",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nepal flag waving"
+  },
+  {
+   "narration": "It's the only national flag that isn't.",
+   "emoji": "🚩",
+   "headline": "The Only One",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nepal flag pole"
+  },
+  {
+   "narration": "Two triangles are stacked on top of each other.",
+   "emoji": "🔺",
+   "headline": "Two Stacked Triangles",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nepal flag close"
+  },
+  {
+   "narration": "The two points are said to stand for the Himalayas.",
+   "emoji": "🏔️",
+   "headline": "Said To Mean Himalayas",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Himalayas Nepal mountains"
+  },
+  {
+   "narration": "Neighbours India and China use rectangles.",
+   "emoji": "🇮🇳",
+   "headline": "India And China: Rectangles",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India China flags"
+  },
+  {
+   "narration": "Every other country uses a four-sided flag.",
+   "emoji": "🌐",
+   "headline": "Everyone Else: Four Sides",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world flags row"
+  },
+  {
+   "narration": "Your drawing of Nepal's flag needs two triangles.",
+   "emoji": "✏️",
+   "headline": "Draw Two Triangles",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nepal flag"
+  },
+  {
+   "narration": "Tomorrow: your Everest photo crosses a border.",
+   "emoji": "🏔️",
+   "headline": "Tomorrow: Everest Border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mount Everest summit"
+  }
+ ]
+}

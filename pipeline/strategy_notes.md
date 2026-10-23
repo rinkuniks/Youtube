@@ -1,0 +1,9 @@
+- Open with one plain second-person line about the viewer's own body, phone, home, road or location. Examples that worked: "Your front door decides which country you live in.", "Your car has to stop at a red light for airplanes here.", "If you lit a candle in space, the flame would turn into a blue ball."
+- Never open with a question, "You won't believe", "Nobody tells you" or "You think you know... You don't". Each of these got 22 views or fewer.
+- Geography (lean in hardest): borders, "which country or time zone am I in" twists, and odd rules where roads, maps, GPS or phones behave strangely. Pick places a viewer can picture, like Gibraltar, Null Island and the Northwest Angle. Skip obscure place trivia such as Bir Tawil and Alaska's hemisphere.
+- Space: "If you did a normal human thing in space" (cry, light a flame, sleep, wash hair). Skip sky-spotting and abstract planet facts.
+- Tech: only a 10-second test that works on any Android or iPhone, such as the remote-through-camera test. Skip obscure sensors, Apple-only tricks, and anything that needs the viewer to buy something.
+- Put the surprising payoff in the first 3 seconds. Aim for 22 to 28 seconds. The top Shorts ran 20.6 to 31.2 seconds, and the shortest one (18.4 seconds) was the worst.
+- Keep titles short and concrete, starting with "Your..." or a vivid contrast. No questions.
+- For follow value, tag a series, e.g. "Places That Shouldn't Exist" or "If You Were in Space". End on a loop back to the hook plus a one-line tease for the next one, e.g. "Tomorrow: the country with no border at its own front door."
+- Most viewers are in India (about 68%) and aged 25–34. Prefer examples that need no US-specific knowledge.

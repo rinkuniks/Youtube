@@ -1,0 +1,93 @@
+{
+ "category": "technology",
+ "topic": "Phone camera sees through black plastic",
+ "hook": "Your phone camera can see through some black plastic.",
+ "title": "Your Camera Sees Through Black Plastic",
+ "description": "Cover an old-style filament bulb with a thin black plastic bag and film it. Near-infrared light passes through the plastic and your camera picks it up, so the bulb shows on screen. It works better on some phones than others, and the plastic must be thin.\n\n#Shorts #PhoneTricks #Tech",
+ "tags": [
+  "phone camera",
+  "infrared",
+  "black plastic",
+  "tech test",
+  "try this",
+  "camera trick",
+  "science",
+  "shorts"
+ ],
+ "comment_prompt": "Did it work on your phone? Yes or no",
+ "hook_banner": "TRY THIS NOW",
+ "scenes": [
+  {
+   "narration": "Your phone camera can see through some black plastic.",
+   "emoji": "📱",
+   "headline": "Camera Sees Through",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone camera black plastic"
+  },
+  {
+   "narration": "Switch on an old filament bulb.",
+   "emoji": "💡",
+   "headline": "Switch On A Bulb",
+   "stat": "",
+   "sub": "",
+   "visual_query": "filament light bulb"
+  },
+  {
+   "narration": "Cover it with a thin black plastic bag.",
+   "emoji": "🛍️",
+   "headline": "Cover It Up",
+   "stat": "",
+   "sub": "Thin black plastic",
+   "visual_query": "black plastic bag"
+  },
+  {
+   "narration": "To your eyes, the bulb nearly disappears.",
+   "emoji": "👀",
+   "headline": "Eyes See Nothing",
+   "stat": "",
+   "sub": "",
+   "visual_query": "dark plastic bag light"
+  },
+  {
+   "narration": "Now film it with your phone camera.",
+   "emoji": "🎥",
+   "headline": "Now Film It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "filming with smartphone"
+  },
+  {
+   "narration": "The bulb shows up right through the bag.",
+   "emoji": "✨",
+   "headline": "Bulb Shows Up",
+   "stat": "",
+   "sub": "",
+   "visual_query": "infrared camera bulb"
+  },
+  {
+   "narration": "Near-infrared light passes through the plastic.",
+   "emoji": "🔴",
+   "headline": "Near-Infrared Light",
+   "stat": "",
+   "sub": "",
+   "visual_query": "infrared light spectrum"
+  },
+  {
+   "narration": "You can't see it, but your camera can.",
+   "emoji": "📷",
+   "headline": "Invisible To Eyes",
+   "stat": "",
+   "sub": "Works better on some phones",
+   "visual_query": "smartphone camera lens"
+  },
+  {
+   "narration": "Tomorrow: another place that shouldn't exist.",
+   "emoji": "🌍",
+   "headline": "Up Next",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map globe"
+  }
+ ]
+}

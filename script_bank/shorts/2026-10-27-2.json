@@ -1,0 +1,85 @@
+{
+ "category": "geography",
+ "topic": "Istanbul on two continents",
+ "hook": "Your ferry ride in Istanbul crosses two continents.",
+ "title": "This Ferry Ride Crosses Two Continents",
+ "description": "Istanbul is split by the Bosphorus strait, with one side in Europe and the other in Asia. Commuters cross between continents by ferry every day. It is one city on two continents.\n\n#Shorts #Istanbul #Geography",
+ "tags": [
+  "Istanbul",
+  "two continents",
+  "Bosphorus",
+  "Europe Asia",
+  "Turkey",
+  "geography facts",
+  "ferry",
+  "Shorts"
+ ],
+ "comment_prompt": "Europe or Asia side? Pick one",
+ "hook_banner": "ONE CITY, TWO CONTINENTS",
+ "scenes": [
+  {
+   "narration": "Your ferry ride in Istanbul crosses two continents.",
+   "emoji": "⛴️",
+   "headline": "EUROPE TO ASIA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Istanbul ferry Bosphorus"
+  },
+  {
+   "narration": "A narrow strait splits the city in half.",
+   "emoji": "🌊",
+   "headline": "THE BOSPHORUS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bosphorus strait aerial"
+  },
+  {
+   "narration": "One side is Europe. The other is Asia.",
+   "emoji": "🗺️",
+   "headline": "TWO CONTINENTS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Istanbul Europe Asia map"
+  },
+  {
+   "narration": "People cross it by ferry on the way to work.",
+   "emoji": "🧳",
+   "headline": "A DAILY COMMUTE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Istanbul ferry commuters"
+  },
+  {
+   "narration": "A short ferry ride takes you between continents.",
+   "emoji": "⏱️",
+   "headline": "SHORT RIDE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Istanbul ferry crossing"
+  },
+  {
+   "narration": "You can have breakfast in Europe, lunch in Asia.",
+   "emoji": "🍳",
+   "headline": "BREAKFAST TO LUNCH",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Istanbul Turkish breakfast"
+  },
+  {
+   "narration": "So one boat ticket crosses a whole continent line.",
+   "emoji": "🎟️",
+   "headline": "ONE FERRY TICKET",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bosphorus bridge Istanbul"
+  },
+  {
+   "narration": "Tomorrow: a country with eleven clocks.",
+   "emoji": "🕐",
+   "headline": "NEXT: 11 TIME ZONES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Russia map"
+  }
+ ]
+}

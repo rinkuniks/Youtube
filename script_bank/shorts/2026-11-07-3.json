@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Apollo 12 lightning strike",
+ "hook": "Your rocket launch can get hit by lightning.",
+ "title": "Your rocket got hit by lightning twice",
+ "description": "Apollo 12 was struck by lightning twice in the first minute after liftoff in 1969. Systems dropped out, then came back, and the crew flew on to the Moon. Part of the series 'If You Were in Space'.\n\n#Shorts #Apollo12 #Space",
+ "tags": [
+  "apollo 12",
+  "lightning",
+  "space facts",
+  "nasa",
+  "moon mission",
+  "rocket launch",
+  "shorts",
+  "space history"
+ ],
+ "comment_prompt": "Would you still fly? Yes or no",
+ "hook_banner": "STRUCK TWICE",
+ "scenes": [
+  {
+   "narration": "Your rocket launch can get hit by lightning.",
+   "emoji": "⚡",
+   "headline": "LIGHTNING VS ROCKET",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Apollo 12 launch lightning"
+  },
+  {
+   "narration": "Apollo 12 was struck twice in 1969.",
+   "emoji": "🚀",
+   "headline": "STRUCK TWICE",
+   "stat": "1969",
+   "sub": "Apollo 12",
+   "visual_query": "Saturn V liftoff"
+  },
+  {
+   "narration": "Both strikes came in the first minute.",
+   "emoji": "⏱️",
+   "headline": "FIRST MINUTE",
+   "stat": "",
+   "sub": "after liftoff",
+   "visual_query": "Saturn V rising clouds"
+  },
+  {
+   "narration": "Warning lights flooded the crew's panels.",
+   "emoji": "🚨",
+   "headline": "WARNING LIGHTS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Apollo command module cockpit"
+  },
+  {
+   "narration": "Power dropped out for a moment.",
+   "emoji": "🔌",
+   "headline": "POWER DROPPED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Apollo spacecraft control panel"
+  },
+  {
+   "narration": "Controllers got the systems back online.",
+   "emoji": "🛠️",
+   "headline": "SYSTEMS RESTORED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Apollo mission control room"
+  },
+  {
+   "narration": "The crew flew on to the Moon.",
+   "emoji": "🌕",
+   "headline": "STILL WENT TO THE MOON",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Apollo 12 astronaut Moon"
+  },
+  {
+   "narration": "Struck twice, and it still landed there.",
+   "emoji": "⚡",
+   "headline": "HIT TWICE, LANDED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Apollo 12 lunar surface"
+  },
+  {
+   "narration": "Tomorrow: the town that fined NASA.",
+   "emoji": "➡️",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "The town that fined NASA",
+   "visual_query": "Skylab space station"
+  }
+ ]
+}

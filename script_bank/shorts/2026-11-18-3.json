@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Chand Baori stepwell in Rajasthan",
+ "hook": "Your staircase here goes thirteen storeys straight down.",
+ "title": "A 13-Storey Staircase Into the Ground",
+ "description": "Chand Baori in Rajasthan is a stepwell with about 3,500 steps arranged in perfect geometric patterns. It drops 13 storeys down. Part of the Places That Shouldn't Exist series.\n\n#Shorts #ChandBaori #Rajasthan",
+ "tags": [
+  "Chand Baori",
+  "stepwell",
+  "Rajasthan",
+  "India facts",
+  "Abhaneri",
+  "geography facts",
+  "places that shouldn't exist",
+  "Indian architecture"
+ ],
+ "comment_prompt": "Would you climb it? Yes or no",
+ "hook_banner": "THIS PLACE IS REAL",
+ "scenes": [
+  {
+   "narration": "Your staircase here goes thirteen storeys straight down.",
+   "emoji": "🪜",
+   "headline": "13 Storeys Down",
+   "stat": "13",
+   "sub": "storeys",
+   "visual_query": "Chand Baori stepwell"
+  },
+  {
+   "narration": "This is Chand Baori, in Rajasthan.",
+   "emoji": "📍",
+   "headline": "Chand Baori",
+   "stat": "",
+   "sub": "Rajasthan, India",
+   "visual_query": "Chand Baori Abhaneri"
+  },
+  {
+   "narration": "It has about 3,500 steps.",
+   "emoji": "🔢",
+   "headline": "About 3,500 Steps",
+   "stat": "3,500",
+   "sub": "steps",
+   "visual_query": "stepwell steps pattern"
+  },
+  {
+   "narration": "The steps form perfect zigzag patterns.",
+   "emoji": "📐",
+   "headline": "Perfect Geometry",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chand Baori triangles steps"
+  },
+  {
+   "narration": "It's a stepwell, built to reach water.",
+   "emoji": "💧",
+   "headline": "Built For Water",
+   "stat": "",
+   "sub": "",
+   "visual_query": "stepwell water India"
+  },
+  {
+   "narration": "People climbed down these steps to fetch it.",
+   "emoji": "🚶",
+   "headline": "Down To The Water",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chand Baori people steps"
+  },
+  {
+   "narration": "It is over a thousand years old.",
+   "emoji": "🏛️",
+   "headline": "1,000+ Years Old",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chand Baori ancient temple"
+  },
+  {
+   "narration": "Thirteen storeys down, all made of steps.",
+   "emoji": "🪜",
+   "headline": "All Steps",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chand Baori aerial"
+  },
+  {
+   "narration": "Next: a comet shaped like a duck.",
+   "emoji": "➡️",
+   "headline": "Next: Space Duck",
+   "stat": "",
+   "sub": "",
+   "visual_query": "comet 67P Rosetta"
+  }
+ ]
+}

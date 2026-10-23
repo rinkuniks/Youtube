@@ -1,0 +1,692 @@
+{
+ "topic": "Why Thailand Is Stranger Than You Think",
+ "hook": "Your car swaps sides of the road on a bridge between Thailand and Laos.",
+ "title": "Why Thailand Is Stranger Than You Think",
+ "description": "Thailand lives in the year 2569, has a city named after Ayodhya, and has a bridge where cars swap sides of the road. Here are seven strange facts about Thailand that sound fake and are true, from a train running through a market to a monkey banquet. Watch to the end for the Thai-Lao Friendship Bridge.\n\n#Thailand #Geography #FactsThatSoundFake",
+ "tags": [
+  "Thailand facts",
+  "Thailand is stranger than you think",
+  "Thai-Lao Friendship Bridge",
+  "Laos Thailand border",
+  "Maeklong railway market",
+  "Thailand year 2569",
+  "Ayutthaya Ayodhya",
+  "Lopburi monkey festival",
+  "strange places",
+  "geography facts",
+  "weird facts",
+  "Bangkok Krung Thep",
+  "driving on left vs right",
+  "facts that sound fake"
+ ],
+ "comment_prompt": "Which Thailand fact surprised you most?",
+ "hook_banner": "CARS SWITCH SIDES",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "It Is Year 2569 in Thailand",
+   "scene": 6
+  },
+  {
+   "title": "The City Named After Ayodhya",
+   "scene": 16
+  },
+  {
+   "title": "The Country Nobody Ruled",
+   "scene": 26
+  },
+  {
+   "title": "The Train Through the Market",
+   "scene": 36
+  },
+  {
+   "title": "Bangkok's Giant Name",
+   "scene": 46
+  },
+  {
+   "title": "The Monkey Banquet",
+   "scene": 56
+  },
+  {
+   "title": "The Bridge That Flips Cars",
+   "scene": 66
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your car swaps sides of the road on a bridge between Thailand and Laos.",
+   "emoji": "🌉",
+   "headline": "Cars Swap Sides",
+   "stat": "",
+   "sub": "Thailand to Laos",
+   "visual_query": "Thai-Lao Friendship Bridge"
+  },
+  {
+   "narration": "Thailand is full of facts like this, where the real thing sounds more fake than anything you could make up.",
+   "emoji": "🇹🇭",
+   "headline": "True, Not Fake",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Thailand map"
+  },
+  {
+   "narration": "By the end, you will see seven strange true facts, from a year that reads 2569 to a train running through a market.",
+   "emoji": "📋",
+   "headline": "Seven Strange Facts",
+   "stat": "7",
+   "sub": "all true",
+   "visual_query": "Bangkok skyline"
+  },
+  {
+   "narration": "The bridge is saved for last, because it is the one that breaks your brain.",
+   "emoji": "🧠",
+   "headline": "Saved For Last",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mekong river bridge"
+  },
+  {
+   "narration": "Each fact is stranger than the one before, so do not leave after the first one.",
+   "emoji": "⬆️",
+   "headline": "Stranger Each Time",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Thailand temple"
+  },
+  {
+   "narration": "We start with the date on a Thai calendar today.",
+   "emoji": "📅",
+   "headline": "Thai Calendar",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Thai calendar"
+  },
+  {
+   "narration": "Fact one. Open a Thai calendar today and it does not say 2026. It says 2569.",
+   "emoji": "📅",
+   "headline": "It Says 2569",
+   "stat": "2569",
+   "sub": "not 2026",
+   "visual_query": "Thai calendar year"
+  },
+  {
+   "narration": "Thailand officially counts years from the Buddha's passing, which puts it 543 years ahead of the calendar on your phone.",
+   "emoji": "☸️",
+   "headline": "543 Years Ahead",
+   "stat": "+543",
+   "sub": "Buddhist Era",
+   "visual_query": "Buddha statue Thailand"
+  },
+  {
+   "narration": "Next January, the Thai year will tick over to 2570 while yours reads 2027.",
+   "emoji": "🎆",
+   "headline": "Year 2570 Next",
+   "stat": "2570",
+   "sub": "",
+   "visual_query": "Bangkok fireworks"
+  },
+  {
+   "narration": "Their traditional new year, Songkran, comes in April, and the whole country turns into a giant water fight.",
+   "emoji": "💦",
+   "headline": "Songkran Water Fight",
+   "stat": "",
+   "sub": "April",
+   "visual_query": "Songkran water festival"
+  },
+  {
+   "narration": "The name Songkran comes from Sanskrit, the same root as India's Sankranti.",
+   "emoji": "📜",
+   "headline": "Same Sanskrit Root",
+   "stat": "",
+   "sub": "Songkran = Sankranti",
+   "visual_query": "Sanskrit manuscript"
+  },
+  {
+   "narration": "Strangers throw buckets of water at you on the road, and it is meant as a blessing, not an attack.",
+   "emoji": "🪣",
+   "headline": "Water As Blessing",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Songkran street bucket"
+  },
+  {
+   "narration": "Thailand also has no daylight saving, so its clocks sit one and a half hours ahead of India all year.",
+   "emoji": "🕐",
+   "headline": "Ahead Of India",
+   "stat": "+1:30",
+   "sub": "all year",
+   "visual_query": "world clock map"
+  },
+  {
+   "narration": "Easy trick: Thai time is Indian time plus ninety minutes, so seven in the evening in Delhi is half past eight there.",
+   "emoji": "⏰",
+   "headline": "7 PM Becomes 8:30",
+   "stat": "",
+   "sub": "Delhi to Bangkok",
+   "visual_query": "wall clocks time zones"
+  },
+  {
+   "narration": "Stranger still, Thailand has a city named after a place you know well, and its kings share a name with Lord Ram.",
+   "emoji": "👑",
+   "headline": "A Familiar Name",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Thai royal palace"
+  },
+  {
+   "narration": "Stay with me, because that one is next.",
+   "emoji": "➡️",
+   "headline": "Up Next",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ayutthaya ruins"
+  },
+  {
+   "narration": "Fact two. A Thai city is named after Ayodhya, and its kings are called Rama.",
+   "emoji": "🏛️",
+   "headline": "Ayutthaya = Ayodhya",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ayutthaya temple"
+  },
+  {
+   "narration": "Ayutthaya was the old capital of the kingdom, and its name comes from Ayodhya, the city of Lord Ram.",
+   "emoji": "🛕",
+   "headline": "Old Capital",
+   "stat": "",
+   "sub": "named for Ayodhya",
+   "visual_query": "Ayutthaya Buddha head tree"
+  },
+  {
+   "narration": "Thailand's national epic, the Ramakien, is its own version of the Ramayana, with Hanuman, Ravana and Sita all in it.",
+   "emoji": "📖",
+   "headline": "Thai Ramayana",
+   "stat": "",
+   "sub": "the Ramakien",
+   "visual_query": "Ramakien mural"
+  },
+  {
+   "narration": "Walk into the Grand Palace temple in Bangkok and you will see giant demon guardians from this story standing at the gates.",
+   "emoji": "👹",
+   "headline": "Demon Guardians",
+   "stat": "",
+   "sub": "from the Ramakien",
+   "visual_query": "Wat Phra Kaew yaksha"
+  },
+  {
+   "narration": "The ruling Chakri dynasty gives every king the title Rama, and the current king is Rama the Tenth.",
+   "emoji": "👑",
+   "headline": "King Rama X",
+   "stat": "X",
+   "sub": "Chakri dynasty",
+   "visual_query": "Thai king portrait"
+  },
+  {
+   "narration": "Thailand is a Buddhist country, yet its main airport is called Suvarnabhumi, Sanskrit for golden land.",
+   "emoji": "✈️",
+   "headline": "Golden Land Airport",
+   "stat": "",
+   "sub": "Suvarnabhumi",
+   "visual_query": "Suvarnabhumi airport"
+  },
+  {
+   "narration": "Thai dancers still perform the Ramakien on stage, in masks and gold costumes.",
+   "emoji": "🎭",
+   "headline": "Masked Dancers",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Khon mask dance"
+  },
+  {
+   "narration": "So an Indian visitor can land in Bangkok and feel oddly at home before leaving the airport.",
+   "emoji": "🧳",
+   "headline": "Oddly Familiar",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bangkok airport arrivals"
+  },
+  {
+   "narration": "But Thailand also did something almost no neighbour managed, and it is the next fact.",
+   "emoji": "🗺️",
+   "headline": "What Others Could Not",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Southeast Asia map"
+  },
+  {
+   "narration": "It involves foreign ships, clever kings, and a country that would not be ruled.",
+   "emoji": "⚓",
+   "headline": "Would Not Be Ruled",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old sailing ships Siam"
+  },
+  {
+   "narration": "Fact three. Thailand is the one country in Southeast Asia that was never ruled by a European power.",
+   "emoji": "🛡️",
+   "headline": "Never Colonised",
+   "stat": "",
+   "sub": "in Southeast Asia",
+   "visual_query": "Thailand flag"
+  },
+  {
+   "narration": "Britain took land on one side, including Myanmar and Malaysia, and France took Laos and Cambodia on the other.",
+   "emoji": "🗺️",
+   "headline": "Squeezed Between Empires",
+   "stat": "",
+   "sub": "",
+   "visual_query": "colonial map Southeast Asia"
+  },
+  {
+   "narration": "Thailand, then called Siam, sat in the middle like a gap on the map.",
+   "emoji": "⬜",
+   "headline": "A Gap On The Map",
+   "stat": "",
+   "sub": "Siam",
+   "visual_query": "old map Siam"
+  },
+  {
+   "narration": "Its kings traded some land, stayed friendly with both sides, and kept the country independent.",
+   "emoji": "🤝",
+   "headline": "Friends With Both",
+   "stat": "",
+   "sub": "",
+   "visual_query": "King Chulalongkorn"
+  },
+  {
+   "narration": "The word Thai means free, so Thailand itself means land of the free.",
+   "emoji": "🕊️",
+   "headline": "Land Of The Free",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Thailand flag waving"
+  },
+  {
+   "narration": "More than a hundred years ago, the flag of Siam had a white elephant in the middle.",
+   "emoji": "🐘",
+   "headline": "The Elephant Flag",
+   "stat": "",
+   "sub": "old Siam",
+   "visual_query": "white elephant flag Siam"
+  },
+  {
+   "narration": "Siam is also where the term Siamese twins comes from, because Chang and Eng were born there.",
+   "emoji": "👬",
+   "headline": "Siamese Twins",
+   "stat": "",
+   "sub": "Chang and Eng",
+   "visual_query": "Chang and Eng Bunker"
+  },
+  {
+   "narration": "One kingdom gave the world a cat breed, a twin name, and a flag with an elephant.",
+   "emoji": "🐈",
+   "headline": "Siam's Gifts",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Siamese cat"
+  },
+  {
+   "narration": "But history is not the strange part anymore. Next, a market where a train drives through your shop.",
+   "emoji": "🚂",
+   "headline": "Train Through A Shop",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Maeklong railway market"
+  },
+  {
+   "narration": "Yes, through the shop, and the shopkeepers have only moments to move.",
+   "emoji": "⏱️",
+   "headline": "Moments To Move",
+   "stat": "",
+   "sub": "",
+   "visual_query": "train market Thailand"
+  },
+  {
+   "narration": "Fact four. At Maeklong, a real train runs straight through a fruit and vegetable market, several times a day.",
+   "emoji": "🚆",
+   "headline": "Train In The Market",
+   "stat": "",
+   "sub": "Maeklong",
+   "visual_query": "Maeklong train market"
+  },
+  {
+   "narration": "Vendors set up their stalls right on the railway tracks, with baskets of food inches from the rails.",
+   "emoji": "🥬",
+   "headline": "Stalls On The Tracks",
+   "stat": "",
+   "sub": "",
+   "visual_query": "market stalls railway tracks"
+  },
+  {
+   "narration": "When the horn sounds, they fold back their awnings and pull their goods away in moments.",
+   "emoji": "📯",
+   "headline": "Awnings Fold Back",
+   "stat": "",
+   "sub": "",
+   "visual_query": "awning folding train market"
+  },
+  {
+   "narration": "The train rolls through slowly, close enough to touch the crates on either side.",
+   "emoji": "🐢",
+   "headline": "Close Enough To Touch",
+   "stat": "",
+   "sub": "",
+   "visual_query": "train passing vegetable crates"
+  },
+  {
+   "narration": "Then it passes, the awnings go back up, and customers walk across the tracks as if nothing happened.",
+   "emoji": "🛒",
+   "headline": "Business As Usual",
+   "stat": "",
+   "sub": "",
+   "visual_query": "shoppers railway tracks market"
+  },
+  {
+   "narration": "If you like strange places like this, subscribe, because we have a lot more of them coming.",
+   "emoji": "🔔",
+   "headline": "More Strange Places",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map travel"
+  },
+  {
+   "narration": "Tourists stand on the tracks to film it, and locals just carry on selling chillies and fish.",
+   "emoji": "🌶️",
+   "headline": "Locals Keep Selling",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Thai market chillies fish"
+  },
+  {
+   "narration": "It is a working railway and a working market, and both have simply learned to share.",
+   "emoji": "🤝",
+   "headline": "Sharing The Track",
+   "stat": "",
+   "sub": "",
+   "visual_query": "railway market Samut Songkhram"
+  },
+  {
+   "narration": "Next up, Thailand's capital, and a name that does not fit on a signboard.",
+   "emoji": "🏙️",
+   "headline": "A Name Too Long",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bangkok city street sign"
+  },
+  {
+   "narration": "Locals do not even use it, and that is the clue.",
+   "emoji": "🔍",
+   "headline": "Nobody Says It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bangkok aerial"
+  },
+  {
+   "narration": "Fact five. Bangkok is not what Thai people call their capital, and its real name is enormous.",
+   "emoji": "🏙️",
+   "headline": "Not Called Bangkok",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bangkok skyline night"
+  },
+  {
+   "narration": "Thais say Krung Thep, which means city of angels, and that is the short version.",
+   "emoji": "😇",
+   "headline": "City Of Angels",
+   "stat": "",
+   "sub": "Krung Thep",
+   "visual_query": "Bangkok Grand Palace"
+  },
+  {
+   "narration": "The full ceremonial name is one of the longest place names in the world, full of Sanskrit and Pali words.",
+   "emoji": "📏",
+   "headline": "A Giant Name",
+   "stat": "",
+   "sub": "Sanskrit and Pali",
+   "visual_query": "Thai script sign"
+  },
+  {
+   "narration": "Thai children even learn a song that helps them recite it.",
+   "emoji": "🎶",
+   "headline": "A Song To Learn It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Thai school children singing"
+  },
+  {
+   "narration": "Foreigners kept saying Bangkok, so that name stuck on every map and airline ticket outside Thailand.",
+   "emoji": "🎫",
+   "headline": "Why Bangkok Stuck",
+   "stat": "",
+   "sub": "",
+   "visual_query": "airline ticket Bangkok"
+  },
+  {
+   "narration": "Big cities usually hide their wildlife, but Bangkok does not, because large monitor lizards walk around its parks.",
+   "emoji": "🦎",
+   "headline": "Lizards In The City",
+   "stat": "",
+   "sub": "",
+   "visual_query": "monitor lizard Bangkok park"
+  },
+  {
+   "narration": "In Lumphini Park, they sunbathe on the paths and swim in the ponds, right beside joggers.",
+   "emoji": "🏃",
+   "headline": "Lizards Beside Joggers",
+   "stat": "",
+   "sub": "Lumphini Park",
+   "visual_query": "Lumphini Park lizard"
+  },
+  {
+   "narration": "Office workers eat lunch on the grass while the lizards stroll past like they own the place.",
+   "emoji": "🥪",
+   "headline": "Lunch With Lizards",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lumphini Park pond"
+  },
+  {
+   "narration": "And if lizards are not strange enough, the next place hands out a feast to monkeys.",
+   "emoji": "🐒",
+   "headline": "A Feast For Monkeys",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lopburi monkeys"
+  },
+  {
+   "narration": "A whole town does it on purpose, once a year.",
+   "emoji": "🎉",
+   "headline": "On Purpose",
+   "stat": "",
+   "sub": "once a year",
+   "visual_query": "Lopburi monkey festival"
+  },
+  {
+   "narration": "Fact six. In Lopburi, people lay out a banquet every November for the town's wild monkeys.",
+   "emoji": "🍉",
+   "headline": "The Monkey Banquet",
+   "stat": "",
+   "sub": "every November",
+   "visual_query": "Lopburi monkey buffet"
+  },
+  {
+   "narration": "Tables of fruit, sweets and vegetables are stacked into towers, and the monkeys climb straight in.",
+   "emoji": "🍍",
+   "headline": "Towers Of Fruit",
+   "stat": "",
+   "sub": "",
+   "visual_query": "monkey fruit table festival"
+  },
+  {
+   "narration": "It is called the Monkey Buffet Festival, and locals hold it to say thank you to the monkeys.",
+   "emoji": "🙏",
+   "headline": "Monkey Buffet Festival",
+   "stat": "",
+   "sub": "",
+   "visual_query": "macaque eating fruit"
+  },
+  {
+   "narration": "The monkeys live around old temple ruins in the middle of town, which are among the city's top sights.",
+   "emoji": "🏛️",
+   "headline": "Monkeys In Temples",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Phra Prang Sam Yot"
+  },
+  {
+   "narration": "They snatch snacks and sit on parked scooters, and shops often put up nets and cages to protect their goods.",
+   "emoji": "🛵",
+   "headline": "Monkeys On Scooters",
+   "stat": "",
+   "sub": "",
+   "visual_query": "monkey on scooter"
+  },
+  {
+   "narration": "Visitors are told to keep bags closed, because a monkey will open anything it can reach.",
+   "emoji": "🎒",
+   "headline": "Keep Bags Closed",
+   "stat": "",
+   "sub": "",
+   "visual_query": "monkey grabbing bag"
+  },
+  {
+   "narration": "In this town, the animals are the residents, and humans are the guests.",
+   "emoji": "🐵",
+   "headline": "Guests In Their Town",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lopburi street monkeys"
+  },
+  {
+   "narration": "So far you have seen a calendar from the future, a borrowed epic, a train in a market, and monkeys at a buffet.",
+   "emoji": "📋",
+   "headline": "So Far",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Thailand collage"
+  },
+  {
+   "narration": "But the strangest one is a road rule. Thailand drives on the left, exactly like India, so you would feel at home at the wheel.",
+   "emoji": "🚗",
+   "headline": "Left Side, Like India",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Thailand traffic left side"
+  },
+  {
+   "narration": "That is why the last fact will confuse your brain, even if you drive every day.",
+   "emoji": "😵",
+   "headline": "Your Brain Will Glitch",
+   "stat": "",
+   "sub": "",
+   "visual_query": "driver steering wheel road"
+  },
+  {
+   "narration": "Fact seven. The Thai-Lao Friendship Bridge, where cars change sides of the road on the bridge itself.",
+   "emoji": "🌉",
+   "headline": "The Friendship Bridge",
+   "stat": "",
+   "sub": "Thailand to Laos",
+   "visual_query": "Thai-Lao Friendship Bridge"
+  },
+  {
+   "narration": "It crosses the Mekong river between Nong Khai in Thailand and Vientiane, the capital of Laos.",
+   "emoji": "🏞️",
+   "headline": "Nong Khai To Vientiane",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nong Khai Vientiane bridge"
+  },
+  {
+   "narration": "Thailand drives on the left, the same as India, but Laos drives on the right.",
+   "emoji": "↔️",
+   "headline": "Left Meets Right",
+   "stat": "",
+   "sub": "",
+   "visual_query": "road traffic left right sign"
+  },
+  {
+   "narration": "So somewhere on this one structure, traffic has to swap sides without anyone crashing.",
+   "emoji": "⚠️",
+   "headline": "Swap Without Crashing",
+   "stat": "",
+   "sub": "",
+   "visual_query": "highway crossover interchange"
+  },
+  {
+   "narration": "Road signs and markings guide each car from one side to the other, over the water.",
+   "emoji": "🚧",
+   "headline": "Signs Guide The Switch",
+   "stat": "",
+   "sub": "",
+   "visual_query": "road markings lane switch"
+  },
+  {
+   "narration": "Drivers start the bridge on the left and finish it on the right, with a river under them.",
+   "emoji": "🚙",
+   "headline": "Start Left, End Right",
+   "stat": "",
+   "sub": "",
+   "visual_query": "cars crossing Mekong bridge"
+  },
+  {
+   "narration": "The Mekong below is one of Asia's great rivers, running along or through Thailand, Laos, Cambodia and Vietnam.",
+   "emoji": "🌊",
+   "headline": "The Mighty Mekong",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mekong river"
+  },
+  {
+   "narration": "Your hands know the left side, so for a moment your brain has to learn the road again.",
+   "emoji": "🖐️",
+   "headline": "Relearn The Road",
+   "stat": "",
+   "sub": "",
+   "visual_query": "hands on steering wheel"
+  },
+  {
+   "narration": "Most borders change a flag or a language, but this one changes which side of the road keeps you safe.",
+   "emoji": "🚩",
+   "headline": "More Than A Flag",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Laos Thailand border checkpoint"
+  },
+  {
+   "narration": "That is seven facts: a year of 2569, a city named for Ayodhya, a country nobody ruled, and a train in a market.",
+   "emoji": "✅",
+   "headline": "Seven True Facts",
+   "stat": "7",
+   "sub": "",
+   "visual_query": "Thailand landmarks"
+  },
+  {
+   "narration": "Then a city of angels with lizards in its parks, monkeys at a buffet, and a bridge that flips the road.",
+   "emoji": "🌏",
+   "headline": "All Of It Is Real",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Thailand travel"
+  },
+  {
+   "narration": "So remember: your car really does swap sides of the road on a bridge between Thailand and Laos.",
+   "emoji": "🌉",
+   "headline": "Back To The Bridge",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Friendship Bridge Mekong traffic"
+  },
+  {
+   "narration": "Tomorrow: another country that looks normal on a map and is not.",
+   "emoji": "🗺️",
+   "headline": "Next: Another Country",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map globe"
+  }
+ ]
+}

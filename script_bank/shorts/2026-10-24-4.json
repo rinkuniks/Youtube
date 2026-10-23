@@ -1,0 +1,85 @@
+{
+ "category": "space",
+ "topic": "Shubhanshu Shukla Indian flag on ISS",
+ "hook": "Your Indian flag went to the space station in 2025.",
+ "title": "An Indian Flag Floated Inside the ISS",
+ "description": "In June 2025, Shubhanshu Shukla launched on the Axiom-4 mission and became the first Indian on the International Space Station. He carried the Indian flag with him. Part of the If You Were in Space series.\n\n#Shorts #ShubhanshuShukla #ISS",
+ "tags": [
+  "shubhanshu shukla",
+  "axiom 4",
+  "iss",
+  "india in space",
+  "indian flag",
+  "space facts",
+  "isro",
+  "if you were in space"
+ ],
+ "comment_prompt": "Proud moment? Yes or no",
+ "hook_banner": "INDIA ON THE ISS",
+ "scenes": [
+  {
+   "narration": "Your Indian flag went to the space station.",
+   "emoji": "🇮🇳",
+   "headline": "India's Flag In Space",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Indian flag space station"
+  },
+  {
+   "narration": "It travelled with Shubhanshu Shukla.",
+   "emoji": "👨‍🚀",
+   "headline": "Shubhanshu Shukla",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Shubhanshu Shukla astronaut"
+  },
+  {
+   "narration": "He launched on Axiom-4 in June 2025.",
+   "emoji": "🚀",
+   "headline": "Launched June 2025",
+   "stat": "",
+   "sub": "Axiom-4 mission",
+   "visual_query": "Axiom-4 launch Falcon 9"
+  },
+  {
+   "narration": "He became the first Indian on the station.",
+   "emoji": "🥇",
+   "headline": "First Indian On The ISS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Shukla International Space Station"
+  },
+  {
+   "narration": "Up there, the flag floats without gravity.",
+   "emoji": "🪂",
+   "headline": "A Floating Flag",
+   "stat": "",
+   "sub": "",
+   "visual_query": "flag floating astronaut microgravity"
+  },
+  {
+   "narration": "Earth spins below, as it passes over India.",
+   "emoji": "🌍",
+   "headline": "Orbiting Over India",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India from space night"
+  },
+  {
+   "narration": "Your flag has now seen Earth from orbit.",
+   "emoji": "🛰️",
+   "headline": "Seen From Orbit",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Earth orbit sunrise ISS"
+  },
+  {
+   "narration": "Tomorrow: light that shows the veins in your finger.",
+   "emoji": "➡️",
+   "headline": "Next: Try This Now",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone torch finger"
+  }
+ ]
+}

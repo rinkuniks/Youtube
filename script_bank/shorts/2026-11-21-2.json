@@ -1,0 +1,95 @@
+{
+ "category": "geography",
+ "topic": "Kanyakumari sunrise and sunset over sea",
+ "hook": "Your sunrise and sunset can both happen over the sea at this spot.",
+ "title": "India's Tip Where Both Sun Events Hit the Sea",
+ "description": "At Kanyakumari, the southern tip of India, the Bay of Bengal, the Arabian Sea and the Indian Ocean meet. On clear days you can watch the sun rise over the water and set over the water from the same shore. It is one of the most visited coasts in India.\n\n#Shorts #India #Kanyakumari",
+ "tags": [
+  "Kanyakumari",
+  "India",
+  "sunrise",
+  "sunset",
+  "Arabian Sea",
+  "Bay of Bengal",
+  "Indian Ocean",
+  "geography facts",
+  "places that shouldn't exist",
+  "Tamil Nadu"
+ ],
+ "comment_prompt": "Sunrise or sunset? Pick one",
+ "hook_banner": "INDIA'S SOUTHERN TIP",
+ "scenes": [
+  {
+   "narration": "Your sunrise and sunset can both happen over the sea here.",
+   "emoji": "🌅",
+   "headline": "SUNRISE AND SUNSET",
+   "stat": "",
+   "sub": "Places That Shouldn't Exist",
+   "visual_query": "Kanyakumari sunrise sea"
+  },
+  {
+   "narration": "This is Kanyakumari, the southern tip of India.",
+   "emoji": "🇮🇳",
+   "headline": "KANYAKUMARI",
+   "stat": "",
+   "sub": "Tamil Nadu",
+   "visual_query": "Kanyakumari coast aerial"
+  },
+  {
+   "narration": "Three bodies of water meet right here.",
+   "emoji": "🌊",
+   "headline": "THREE SEAS MEET",
+   "stat": "3",
+   "sub": "",
+   "visual_query": "Kanyakumari sangam sea"
+  },
+  {
+   "narration": "The Bay of Bengal sits on the east.",
+   "emoji": "➡️",
+   "headline": "BAY OF BENGAL",
+   "stat": "",
+   "sub": "East side",
+   "visual_query": "Kanyakumari sunrise Vivekananda Rock"
+  },
+  {
+   "narration": "The Arabian Sea sits on the west.",
+   "emoji": "⬅️",
+   "headline": "ARABIAN SEA",
+   "stat": "",
+   "sub": "West side",
+   "visual_query": "Kanyakumari sunset sea"
+  },
+  {
+   "narration": "The Indian Ocean opens up straight south.",
+   "emoji": "⬇️",
+   "headline": "INDIAN OCEAN",
+   "stat": "",
+   "sub": "South side",
+   "visual_query": "Indian Ocean horizon"
+  },
+  {
+   "narration": "On clear days, the sun rises out of the sea.",
+   "emoji": "☀️",
+   "headline": "RISES OUT OF SEA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "sunrise over ocean India"
+  },
+  {
+   "narration": "Then it sets into the sea. Same shore.",
+   "emoji": "🌇",
+   "headline": "SETS INTO THE SEA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kanyakumari sunset"
+  },
+  {
+   "narration": "Your sunrise and sunset, both over water.",
+   "emoji": "🔁",
+   "headline": "BOTH OVER WATER",
+   "stat": "",
+   "sub": "Tomorrow: brushing teeth in space",
+   "visual_query": "Kanyakumari tourists beach"
+  }
+ ]
+}

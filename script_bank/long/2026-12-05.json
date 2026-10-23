@@ -1,0 +1,720 @@
+{
+ "topic": "7 strange borders countdown, from the US-Canada cleared strip to India's Cooch Behar enclaves",
+ "hook": "Your map hides a border where Indian land sits inside Bangladeshi land, inside Indian land, inside Bangladesh.",
+ "title": "7 Real Borders That Look Fake (Last One Is Indian)",
+ "description": "Seven real borders that look like mistakes on the map, starting with the cleared six-metre strip along the US-Canada border and ending with India's stacked enclaves in Cooch Behar. You will see Point Roberts, Kaliningrad, Llivia, Lake Constance and the rented rocket city of Baikonur on the way. Every place here is real and every fact is checked.\n\n#borders #geography #mapfacts",
+ "tags": [
+  "strange borders",
+  "borders that make no sense",
+  "US Canada border",
+  "Cooch Behar enclaves",
+  "India Bangladesh enclaves",
+  "Dahala Khagrabari",
+  "Point Roberts",
+  "Kaliningrad",
+  "Llivia",
+  "Lake Constance border",
+  "Baikonur",
+  "geography facts",
+  "map facts",
+  "facts that sound fake"
+ ],
+ "comment_prompt": "Which border was the strangest?",
+ "hook_banner": "BORDERS THAT LOOK FAKE",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "7: The border with a gardener",
+   "scene": 6
+  },
+  {
+   "title": "6: The American tip in Canada",
+   "scene": 16
+  },
+  {
+   "title": "5: Russia without Russia",
+   "scene": 26
+  },
+  {
+   "title": "4: A Spanish town inside France",
+   "scene": 36
+  },
+  {
+   "title": "3: The lake with no border",
+   "scene": 46
+  },
+  {
+   "title": "2: The rented rocket city",
+   "scene": 56
+  },
+  {
+   "title": "1: India's stacked enclaves",
+   "scene": 66
+  },
+  {
+   "title": "The ending",
+   "scene": 78
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your map hides a border where Indian land sits inside Bangladeshi land, inside Indian land, inside Bangladesh.",
+   "emoji": "🗺️",
+   "headline": "Land Inside Land",
+   "stat": "",
+   "sub": "India and Bangladesh",
+   "visual_query": "Cooch Behar border map"
+  },
+  {
+   "narration": "That place was real until 2015, and by the end of this video, you will see exactly how it worked.",
+   "emoji": "📅",
+   "headline": "Real Until 2015",
+   "stat": "2015",
+   "sub": "",
+   "visual_query": "India Bangladesh border fence"
+  },
+  {
+   "narration": "Before that, six more borders that look like mistakes. Each one is stranger than the one before it.",
+   "emoji": "🔢",
+   "headline": "Seven Strange Borders",
+   "stat": "7",
+   "sub": "Each one stranger",
+   "visual_query": "world map borders"
+  },
+  {
+   "narration": "Some are cut into forests, some sit inside other countries, and one is rented out so rockets can fly.",
+   "emoji": "🚀",
+   "headline": "Forests, Pockets, Rockets",
+   "stat": "",
+   "sub": "",
+   "visual_query": "rocket launch pad"
+  },
+  {
+   "narration": "Every place here is real, and the facts are checked. If a line sounds fake, remember that borders are made by people.",
+   "emoji": "✅",
+   "headline": "All of It Is Real",
+   "stat": "",
+   "sub": "Facts checked",
+   "visual_query": "old political map"
+  },
+  {
+   "narration": "We start at number seven, with a border that somebody trims like a hedge.",
+   "emoji": "✂️",
+   "headline": "Number Seven",
+   "stat": "7",
+   "sub": "",
+   "visual_query": "forest cut path"
+  },
+  {
+   "narration": "Seven: a border so long that a whole team is paid to keep it visible.",
+   "emoji": "🌲",
+   "headline": "The Trimmed Border",
+   "stat": "7",
+   "sub": "US and Canada",
+   "visual_query": "US Canada border forest"
+  },
+  {
+   "narration": "Open a satellite map over the forests between the United States and Canada, and zoom in until the trees get sharp.",
+   "emoji": "🛰️",
+   "headline": "Zoom In on Forest",
+   "stat": "",
+   "sub": "",
+   "visual_query": "satellite view border forest"
+  },
+  {
+   "narration": "You will see a thin straight cut running through the woods, over hills, and even up mountain slopes.",
+   "emoji": "📏",
+   "headline": "A Straight Cut",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border vista mountains cleared"
+  },
+  {
+   "narration": "That strip is the border, and it is kept clear by the International Boundary Commission, run jointly by both countries.",
+   "emoji": "🤝",
+   "headline": "Run by Both Countries",
+   "stat": "",
+   "sub": "International Boundary Commission",
+   "visual_query": "International Boundary Commission"
+  },
+  {
+   "narration": "The cleared line is about six metres wide, wide enough that you can spot it from the air.",
+   "emoji": "↔️",
+   "headline": "Six Metres Wide",
+   "stat": "6 m",
+   "sub": "",
+   "visual_query": "aerial border cut trees"
+  },
+  {
+   "narration": "Along it stand markers, stone and metal posts, so nobody has to guess where one country stops and the next begins.",
+   "emoji": "🪨",
+   "headline": "Border Markers",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border monument obelisk"
+  },
+  {
+   "narration": "Trees keep growing, so if nobody cuts them, the line would slowly vanish into the forest.",
+   "emoji": "🌳",
+   "headline": "Trees Keep Growing",
+   "stat": "",
+   "sub": "",
+   "visual_query": "dense forest"
+  },
+  {
+   "narration": "So crews go back and clear it again. A border here is not a line you draw once, it is a chore.",
+   "emoji": "🪓",
+   "headline": "A Border Chore",
+   "stat": "",
+   "sub": "",
+   "visual_query": "forestry crew cutting trees"
+  },
+  {
+   "narration": "This is the longest border between two countries anywhere in the world, and it needs a gardener.",
+   "emoji": "🌍",
+   "headline": "World's Longest",
+   "stat": "",
+   "sub": "Between two countries",
+   "visual_query": "Canada United States border sign"
+  },
+  {
+   "narration": "A border you can see from the air is odd. But the next one cuts a piece of America away from America.",
+   "emoji": "👀",
+   "headline": "Next: A Cut-Off Tip",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Washington state map"
+  },
+  {
+   "narration": "Six: a piece of the United States that you can only reach by road through Canada.",
+   "emoji": "🚗",
+   "headline": "Six: Point Roberts",
+   "stat": "6",
+   "sub": "",
+   "visual_query": "Point Roberts Washington"
+  },
+  {
+   "narration": "It is called Point Roberts, a small tip of Washington state that hangs off the coast south of Vancouver.",
+   "emoji": "📍",
+   "headline": "Near Vancouver",
+   "stat": "",
+   "sub": "Washington state",
+   "visual_query": "Point Roberts coast"
+  },
+  {
+   "narration": "In 1846, a treaty drew the border along a straight line of latitude, the forty-ninth parallel.",
+   "emoji": "📜",
+   "headline": "The 49th Parallel",
+   "stat": "1846",
+   "sub": "",
+   "visual_query": "Oregon Treaty 1846 map"
+  },
+  {
+   "narration": "That straight line sliced across a peninsula, and the tip ended up American while everything above it stayed Canadian.",
+   "emoji": "🔪",
+   "headline": "A Sliced Peninsula",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Tsawwassen peninsula map"
+  },
+  {
+   "narration": "So to drive from Point Roberts to the rest of its own country, you must enter Canada first.",
+   "emoji": "🛃",
+   "headline": "Enter Canada First",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border crossing booth"
+  },
+  {
+   "narration": "Then you drive through Canadian roads, and cross again at another checkpoint to get back into the United States.",
+   "emoji": "🔁",
+   "headline": "Cross Twice",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Peace Arch border"
+  },
+  {
+   "narration": "Think of living where reaching the rest of your own state means two border crossings.",
+   "emoji": "🏠",
+   "headline": "Two Crossings Home",
+   "stat": "2",
+   "sub": "",
+   "visual_query": "highway border sign"
+  },
+  {
+   "narration": "Nobody planned this. A treaty wanted a neat straight line, and the people at the tip were an afterthought.",
+   "emoji": "🤷",
+   "headline": "An Afterthought",
+   "stat": "",
+   "sub": "",
+   "visual_query": "treaty signing painting"
+  },
+  {
+   "narration": "Maps love straight lines. Real life does not, and Point Roberts is what happens when the two clash.",
+   "emoji": "📐",
+   "headline": "Lines vs Life",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Point Roberts aerial"
+  },
+  {
+   "narration": "Next, a border that leaves a whole piece of Russia surrounded by European Union countries and the sea.",
+   "emoji": "🇷🇺",
+   "headline": "Next: Russia's Pocket",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baltic Sea coast"
+  },
+  {
+   "narration": "Five: a Russian region that does not touch the rest of Russia.",
+   "emoji": "🏝️",
+   "headline": "Five: Kaliningrad",
+   "stat": "5",
+   "sub": "",
+   "visual_query": "Kaliningrad"
+  },
+  {
+   "narration": "It is called Kaliningrad, on the Baltic Sea coast, with Poland on one side and Lithuania on the other.",
+   "emoji": "🗺️",
+   "headline": "Between Poland and Lithuania",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kaliningrad map Poland Lithuania"
+  },
+  {
+   "narration": "Between it and the main part of Russia lie other countries, so it sits like an island, only on land.",
+   "emoji": "🏝️",
+   "headline": "An Island on Land",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kaliningrad Baltic coast"
+  },
+  {
+   "narration": "Before 1945, this area was part of Germany, and its main city was called Konigsberg.",
+   "emoji": "🏰",
+   "headline": "It Was Konigsberg",
+   "stat": "1945",
+   "sub": "",
+   "visual_query": "Konigsberg old city"
+  },
+  {
+   "narration": "After the Second World War, it was handed to the Soviet Union, and the city was renamed Kaliningrad.",
+   "emoji": "☭",
+   "headline": "Handed to the USSR",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Soviet Union map"
+  },
+  {
+   "narration": "In 1991, the Soviet Union broke apart, and the countries between Kaliningrad and Russia became independent nations.",
+   "emoji": "💥",
+   "headline": "1991: Soviet Collapse",
+   "stat": "1991",
+   "sub": "",
+   "visual_query": "Soviet flag lowered Kremlin"
+  },
+  {
+   "narration": "Overnight, a Soviet region turned into a Russian pocket, with new borders around it that it never had before.",
+   "emoji": "🌙",
+   "headline": "Overnight Pocket",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lithuania Russia border"
+  },
+  {
+   "narration": "To travel from Kaliningrad to the rest of Russia by road or rail, you have to cross foreign territory.",
+   "emoji": "🚆",
+   "headline": "Cross Foreign Land",
+   "stat": "",
+   "sub": "",
+   "visual_query": "train border crossing Europe"
+  },
+  {
+   "narration": "It also holds important Russian naval ports on the Baltic, which is why this odd shape matters to the world.",
+   "emoji": "⚓",
+   "headline": "A Baltic Naval Base",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baltiysk naval port"
+  },
+  {
+   "narration": "That is a lot of history on a single map. But our next border hides around one small town in the Pyrenees.",
+   "emoji": "⛰️",
+   "headline": "Next: A Pyrenees Town",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pyrenees mountains village"
+  },
+  {
+   "narration": "Four: a Spanish town that sits completely inside France, with no Spanish land touching it.",
+   "emoji": "🇪🇸",
+   "headline": "Four: Llivia",
+   "stat": "4",
+   "sub": "",
+   "visual_query": "Llivia town"
+  },
+  {
+   "narration": "It is called Llivia, up in the Pyrenees mountains, and it is surrounded by French land on every side.",
+   "emoji": "🏔️",
+   "headline": "Spain in France",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Llivia Spain France map"
+  },
+  {
+   "narration": "The story goes back to a treaty in 1659, when Spain gave France a group of villages.",
+   "emoji": "📜",
+   "headline": "The 1659 Treaty",
+   "stat": "1659",
+   "sub": "",
+   "visual_query": "Treaty of the Pyrenees"
+  },
+  {
+   "narration": "Llivia was not a village, it was a town, so the treaty never handed it over.",
+   "emoji": "🏘️",
+   "headline": "Town, Not Village",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Llivia old town street"
+  },
+  {
+   "narration": "Because of that small word, the town stayed Spanish, while the land around it became French.",
+   "emoji": "✍️",
+   "headline": "One Word Mattered",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old treaty document"
+  },
+  {
+   "narration": "A short road links Llivia to Spain, and that road is treated as neutral ground.",
+   "emoji": "🛣️",
+   "headline": "The Neutral Road",
+   "stat": "",
+   "sub": "",
+   "visual_query": "mountain road Cerdanya"
+  },
+  {
+   "narration": "So when you drive to Llivia from Spain, French land lies on both sides of the road.",
+   "emoji": "🚗",
+   "headline": "France on Both Sides",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cerdanya valley road"
+  },
+  {
+   "narration": "Today both countries are in the European Union, so you can cross without any passport check.",
+   "emoji": "🇪🇺",
+   "headline": "No Passport Check",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Schengen border sign"
+  },
+  {
+   "narration": "If you like strange places and facts like these, subscribe, because there are many more coming.",
+   "emoji": "🔔",
+   "headline": "More Strange Maps",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world atlas map"
+  },
+  {
+   "narration": "Now, number three has no clear border at all, and it is a place you can swim in.",
+   "emoji": "🏊",
+   "headline": "Next: A Lake",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake Constance"
+  },
+  {
+   "narration": "Three: a lake with three countries around it, and no agreed border across the water.",
+   "emoji": "🌊",
+   "headline": "Three: Lake Constance",
+   "stat": "3",
+   "sub": "",
+   "visual_query": "Lake Constance Bodensee"
+  },
+  {
+   "narration": "It is Lake Constance, called the Bodensee in German, and Germany, Austria and Switzerland all touch its shores.",
+   "emoji": "🇨🇭",
+   "headline": "Three Countries",
+   "stat": "3",
+   "sub": "Germany, Austria, Switzerland",
+   "visual_query": "Bodensee shore Austria"
+  },
+  {
+   "narration": "On land, borders are easy: you can put a fence, a post or a stone. Water makes that hard.",
+   "emoji": "🧱",
+   "headline": "Water Is Hard",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border stone marker"
+  },
+  {
+   "narration": "Across the open water of the lake, the three countries have never agreed on an official dividing line.",
+   "emoji": "❓",
+   "headline": "No Agreed Line",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake Constance aerial"
+  },
+  {
+   "narration": "Different countries have argued for different ideas, such as splitting it by lines or treating the lake as shared.",
+   "emoji": "⚖️",
+   "headline": "Split or Shared?",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake Constance map"
+  },
+  {
+   "narration": "So if you look at a map, the lake often shows no border line at all in the middle.",
+   "emoji": "🗺️",
+   "headline": "A Blank Middle",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake Constance satellite"
+  },
+  {
+   "narration": "Meanwhile, ferries, fishing boats and tourists sail across it every day, mostly without anyone worrying about it.",
+   "emoji": "⛴️",
+   "headline": "Ferries Sail On",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake Constance ferry"
+  },
+  {
+   "narration": "Rules for fishing and boating are handled by agreements between neighbours, not by a line on the water.",
+   "emoji": "🎣",
+   "headline": "Rules by Agreement",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bodensee fishing boat"
+  },
+  {
+   "narration": "It is an odd lesson: some borders are so hard to draw that people simply carry on without one.",
+   "emoji": "🤔",
+   "headline": "No Line, No Problem",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake Constance harbour"
+  },
+  {
+   "narration": "But our next border is not missing. It is rented, and it is where space travel began.",
+   "emoji": "🚀",
+   "headline": "Next: A Rented City",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baikonur cosmodrome"
+  },
+  {
+   "narration": "Two: a city in Kazakhstan that is run by Russia, so it can launch rockets.",
+   "emoji": "🏙️",
+   "headline": "Two: Baikonur",
+   "stat": "2",
+   "sub": "",
+   "visual_query": "Baikonur Kazakhstan"
+  },
+  {
+   "narration": "It is Baikonur, in the deserts of Kazakhstan, and it is the home of the world's first space launches.",
+   "emoji": "🏜️",
+   "headline": "Desert Launch Site",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baikonur launch pad"
+  },
+  {
+   "narration": "In 1957, Sputnik, the first satellite ever sent into orbit, lifted off from here.",
+   "emoji": "🛰️",
+   "headline": "Sputnik, 1957",
+   "stat": "1957",
+   "sub": "",
+   "visual_query": "Sputnik satellite"
+  },
+  {
+   "narration": "In 1961, Yuri Gagarin became the first human in space, and he also started his flight at Baikonur.",
+   "emoji": "👨‍🚀",
+   "headline": "Gagarin, 1961",
+   "stat": "1961",
+   "sub": "",
+   "visual_query": "Yuri Gagarin"
+  },
+  {
+   "narration": "Today the land is not owned by Russia. Kazakhstan leases the cosmodrome and the city to Russia.",
+   "emoji": "📝",
+   "headline": "A Rented Spaceport",
+   "stat": "",
+   "sub": "Leased to Russia",
+   "visual_query": "Soyuz rocket rollout Baikonur"
+  },
+  {
+   "narration": "That lease runs until 2050, and Russia administers the city of Baikonur itself.",
+   "emoji": "⏳",
+   "headline": "Lease Until 2050",
+   "stat": "2050",
+   "sub": "",
+   "visual_query": "Baikonur city street"
+  },
+  {
+   "narration": "So you have a Russian-run city in the Kazakh desert, with its own rules, built around rocket launches.",
+   "emoji": "🚧",
+   "headline": "A City for Rockets",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baikonur Soyuz launch"
+  },
+  {
+   "narration": "Indian viewers have a link here too. In 1984, Rakesh Sharma flew to space from this very site.",
+   "emoji": "🇮🇳",
+   "headline": "An Indian Link",
+   "stat": "1984",
+   "sub": "Rakesh Sharma",
+   "visual_query": "Rakesh Sharma astronaut"
+  },
+  {
+   "narration": "He rode a Soviet rocket to the Salyut 7 station and became the first Indian in space.",
+   "emoji": "🧑‍🚀",
+   "headline": "First Indian in Space",
+   "stat": "",
+   "sub": "Salyut 7",
+   "visual_query": "Salyut 7 space station"
+  },
+  {
+   "narration": "Space begins on a rented plot of land. And our final border has the strangest ownership of all.",
+   "emoji": "🔑",
+   "headline": "Next: The Final One",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Bangladesh border village"
+  },
+  {
+   "narration": "One: India's strangest border, where land was stacked inside land, like a set of boxes.",
+   "emoji": "📦",
+   "headline": "One: Cooch Behar",
+   "stat": "1",
+   "sub": "",
+   "visual_query": "Cooch Behar West Bengal"
+  },
+  {
+   "narration": "Go to Cooch Behar in West Bengal, near the Bangladesh border, and look at the old map.",
+   "emoji": "🗺️",
+   "headline": "West Bengal's Border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cooch Behar enclaves map"
+  },
+  {
+   "narration": "Before 2015, the border there was a mess of small pockets of Indian land inside Bangladesh, and the reverse.",
+   "emoji": "🧩",
+   "headline": "A Border of Pockets",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Bangladesh enclaves"
+  },
+  {
+   "narration": "These pockets are called enclaves. There were one hundred and eleven Indian ones inside Bangladesh, and fifty-one Bangladeshi ones inside India.",
+   "emoji": "🔢",
+   "headline": "111 and 51",
+   "stat": "162",
+   "sub": "Enclaves in total",
+   "visual_query": "enclave village India Bangladesh"
+  },
+  {
+   "narration": "Stories say it began with old kings trading land centuries ago, though historians still debate the details.",
+   "emoji": "👑",
+   "headline": "Kings and Land Deals",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cooch Behar palace"
+  },
+  {
+   "narration": "When the countries were divided in 1947, those pockets stayed where they were, cut off by foreign soil.",
+   "emoji": "✂️",
+   "headline": "Stuck in 1947",
+   "stat": "1947",
+   "sub": "",
+   "visual_query": "Partition India 1947 map"
+  },
+  {
+   "narration": "People living inside them were stuck. To reach a school, a hospital or a market, they had to cross into another country.",
+   "emoji": "🏥",
+   "headline": "Cut Off From Services",
+   "stat": "",
+   "sub": "",
+   "visual_query": "village rice field Bengal"
+  },
+  {
+   "narration": "Then there is the strangest one of all, called Dahala Khagrabari, which sat at the very centre of the puzzle.",
+   "emoji": "🎯",
+   "headline": "Dahala Khagrabari",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dahala Khagrabari"
+  },
+  {
+   "narration": "It was Indian land, inside a Bangladeshi pocket, inside an Indian pocket, inside Bangladesh. That is four layers.",
+   "emoji": "🪆",
+   "headline": "Four Layers Deep",
+   "stat": "4",
+   "sub": "India, Bangladesh, India, Bangladesh",
+   "visual_query": "nested enclave map diagram"
+  },
+  {
+   "narration": "It is often described as the only place of its kind in the world.",
+   "emoji": "🌐",
+   "headline": "One of a Kind",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cooch Behar village"
+  },
+  {
+   "narration": "In 2015, India and Bangladesh finally swapped the pockets. At midnight on 31 July, the old enclaves ended.",
+   "emoji": "🕛",
+   "headline": "Midnight, 31 July 2015",
+   "stat": "2015",
+   "sub": "",
+   "visual_query": "India Bangladesh enclave exchange 2015"
+  },
+  {
+   "narration": "Residents could choose which country to belong to, and many finally got an address that made sense.",
+   "emoji": "🏡",
+   "headline": "People Chose a Country",
+   "stat": "",
+   "sub": "",
+   "visual_query": "enclave residents Indian flag"
+  },
+  {
+   "narration": "So that is the answer to the hook. Indian land could sit inside Bangladesh, inside India, inside Bangladesh.",
+   "emoji": "🔁",
+   "headline": "The Hook, Answered",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cooch Behar border map"
+  },
+  {
+   "narration": "From a six-metre cut in a forest to a nest of enclaves, borders are only lines people agreed on.",
+   "emoji": "✏️",
+   "headline": "Just Lines We Drew",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border line on map"
+  },
+  {
+   "narration": "And where people disagree, or forget, the map gets very strange indeed.",
+   "emoji": "🧭",
+   "headline": "Maps Get Strange",
+   "stat": "",
+   "sub": "",
+   "visual_query": "antique world map"
+  },
+  {
+   "narration": "Tomorrow: the roads where your phone cannot decide which country you are in.",
+   "emoji": "📱",
+   "headline": "Tomorrow: Phone Confused",
+   "stat": "",
+   "sub": "",
+   "visual_query": "smartphone map GPS"
+  }
+ ]
+}

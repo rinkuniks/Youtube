@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Io volcanoes",
+ "hook": "If you flew past Io, you'd see eruptions.",
+ "title": "Jupiter's Moon Is Covered in Erupting Volcanoes",
+ "description": "Io, a moon of Jupiter, is the most volcanically active body in the Solar System. Spacecraft have photographed its plumes blasting hundreds of kilometres above the surface. Part of the If You Were in Space series.\n\n#Shorts #Space #Jupiter",
+ "tags": [
+  "Io",
+  "Jupiter",
+  "volcano",
+  "space facts",
+  "Solar System",
+  "moons",
+  "astronomy",
+  "shorts"
+ ],
+ "comment_prompt": "Would you fly past Io? Yes or no",
+ "hook_banner": "A MOON ON FIRE",
+ "scenes": [
+  {
+   "narration": "If you flew past Io, you'd see eruptions.",
+   "emoji": "🌋",
+   "headline": "Io Is Erupting",
+   "stat": "",
+   "sub": "Moon of Jupiter",
+   "visual_query": "Io volcano plume"
+  },
+  {
+   "narration": "It's the most volcanic world in our Solar System.",
+   "emoji": "🪐",
+   "headline": "Most Volcanic World",
+   "stat": "",
+   "sub": "In our Solar System",
+   "visual_query": "Io Jupiter moon"
+  },
+  {
+   "narration": "Plumes shoot hundreds of kilometres above the surface.",
+   "emoji": "💨",
+   "headline": "Plumes Hundreds Of km High",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Io eruption plume Galileo"
+  },
+  {
+   "narration": "Spacecraft photographed them blasting straight into space.",
+   "emoji": "📸",
+   "headline": "Caught By Spacecraft",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Io spacecraft photo"
+  },
+  {
+   "narration": "The ground is lava lakes and yellow sulfur.",
+   "emoji": "🔥",
+   "headline": "Lava And Sulfur",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Io surface lava"
+  },
+  {
+   "narration": "Jupiter's gravity squeezes it, and that heat melts rock.",
+   "emoji": "🪨",
+   "headline": "Squeezed By Jupiter",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Jupiter and Io"
+  },
+  {
+   "narration": "So Io keeps erupting.",
+   "emoji": "🌋",
+   "headline": "Still Erupting",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Io volcano Loki"
+  },
+  {
+   "narration": "Fly past Io, and eruptions are what you see.",
+   "emoji": "🚀",
+   "headline": "Eruptions Everywhere",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Io limb plume"
+  },
+  {
+   "narration": "Tomorrow: a cliff taller than Everest.",
+   "emoji": "➡️",
+   "headline": "Tomorrow: A Giant Cliff",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Miranda moon Uranus"
+  }
+ ]
+}

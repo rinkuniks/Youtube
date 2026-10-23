@@ -1,0 +1,138 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-23",
+  "scripts": [
+    {
+      "path": "pipeline/shorts.py",
+      "role": "Core Orchestrator & CLI",
+      "responsibilities": [
+        "Script generation and banked script selection",
+        "Audio narration synthesis (edge-tts / piper)",
+        "Remotion render coordination & asset staging",
+        "YouTube Data API upload & scheduling",
+        "Nightly metrics tracking (reports/shorts_tracker.csv)",
+        "Safety & policy verification (zero nudity/sexual content)"
+      ],
+      "dependencies": [
+        "google-api-python-client",
+        "remotion",
+        "edge-tts",
+        "pillow",
+        "yaml",
+        "numpy"
+      ],
+      "inputs": [
+        "pipeline/config.yaml",
+        "script_bank/",
+        "secrets/youtube_token.json"
+      ],
+      "outputs": [
+        "jobs/*/job.json",
+        "jobs/*/short.mp4",
+        "reports/shorts_tracker.csv",
+        "logs/pipeline.log"
+      ],
+      "downstream_effects": [
+        "Publishes videos to YouTube",
+        "Schedules public release slots",
+        "Updates daily metrics"
+      ]
+    },
+    {
+      "path": "pipeline/bank.py",
+      "role": "Script Bank Pre-Writer",
+      "responsibilities": [
+        "Pre-generates topic queues and batches of scripts",
+        "Eliminates real-time Claude API dependency during daily runs",
+        "Validates script schema and content safety before saving"
+      ],
+      "dependencies": [
+        "pipeline/shorts.py",
+        "claude-cli"
+      ],
+      "inputs": [
+        "pipeline/prompts/bank_topics.md",
+        "pipeline/prompts/bank_shorts.md",
+        "pipeline/prompts/long_video.md"
+      ],
+      "outputs": [
+        "script_bank/plan.json",
+        "script_bank/shorts/*.json",
+        "script_bank/long/*.json"
+      ],
+      "downstream_effects": [
+        "Provides script buffer for up to 60 days of unattended automation"
+      ]
+    },
+    {
+      "path": "pipeline/dashboard.py",
+      "role": "Local Analytics Dashboard",
+      "responsibilities": [
+        "Compiles self-contained HTML performance dashboard",
+        "Visualizes views, retention, likes, and upload pipeline queue",
+        "Embeds local videos and status indicators"
+      ],
+      "dependencies": [
+        "pipeline/shorts.py"
+      ],
+      "inputs": [
+        "reports/shorts_tracker.csv",
+        "jobs/*/job.json",
+        "reports/channel_summary.json"
+      ],
+      "outputs": [
+        "Video-Dashboard.html"
+      ],
+      "downstream_effects": [
+        "User-facing local performance monitoring"
+      ]
+    },
+    {
+      "path": "pipeline/audit_channel.py",
+      "role": "Safety & Compliance Auditor",
+      "responsibilities": [
+        "Audits live YouTube videos via YouTube Data API",
+        "Audits local job JSONs, scripts, and visual queries",
+        "Audits downloaded stock images and videos for nudity, skin ratio, and policy violations"
+      ],
+      "dependencies": [
+        "pipeline/shorts.py",
+        "google-api-python-client",
+        "pillow",
+        "numpy"
+      ],
+      "inputs": [
+        "YouTube Data API",
+        "jobs/"
+      ],
+      "outputs": [
+        "Console audit report",
+        "Safety verification logs"
+      ],
+      "downstream_effects": [
+        "Guarantees zero-nudity and YouTube Community Guidelines compliance"
+      ]
+    },
+    {
+      "path": "pipeline/install_schedule.ps1",
+      "role": "Windows Scheduler Setup",
+      "responsibilities": [
+        "Registers scheduled task YoutubeShortsInc Daily in Windows Task Scheduler",
+        "Runs autopilot twice daily (18:45 and 21:00)"
+      ],
+      "dependencies": [
+        "powershell",
+        "schtasks"
+      ],
+      "inputs": [
+        "YouTube-Autopilot.bat"
+      ],
+      "outputs": [
+        "Windows Scheduled Task"
+      ],
+      "downstream_effects": [
+        "Executes unattended daily video generation and publishing"
+      ]
+    }
+  ]
+}

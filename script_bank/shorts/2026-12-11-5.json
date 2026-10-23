@@ -1,0 +1,102 @@
+{
+ "category": "technology",
+ "topic": "Slow-motion light flicker test",
+ "hook": "Your phone can show a light flickering.",
+ "title": "Your Phone Shows Your Bulb Flickering",
+ "description": "Lights run on alternating current, and many bulbs flicker faster than your eyes can notice. Slow-motion video at 240 fps can reveal it, and a ceiling fan can look strange too. Results vary by bulb and phone, so try it yourself.\n\nSeries: Try This Now.\n\n#Shorts #PhoneTricks #Tech",
+ "tags": [
+  "slow motion",
+  "240 fps",
+  "phone test",
+  "light flicker",
+  "ceiling fan",
+  "phone camera",
+  "tech facts",
+  "try this",
+  "shorts"
+ ],
+ "comment_prompt": "Did your bulb flicker? Yes or no",
+ "hook_banner": "TRY THIS NOW",
+ "scenes": [
+  {
+   "narration": "Your phone can show a light flickering.",
+   "emoji": "💡",
+   "headline": "TRY THIS NOW",
+   "stat": "",
+   "sub": "",
+   "visual_query": "light bulb flicker slow motion"
+  },
+  {
+   "narration": "Switch on a ceiling fan and a bulb.",
+   "emoji": "🌀",
+   "headline": "FAN AND BULB",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ceiling fan light bulb"
+  },
+  {
+   "narration": "Open slow-motion mode at 240 frames per second.",
+   "emoji": "📱",
+   "headline": "SLOW-MO 240 FPS",
+   "stat": "240",
+   "sub": "fps",
+   "visual_query": "phone slow motion setting"
+  },
+  {
+   "narration": "Point it at the bulb.",
+   "emoji": "🎥",
+   "headline": "FILM THE BULB",
+   "stat": "",
+   "sub": "",
+   "visual_query": "filming light bulb phone"
+  },
+  {
+   "narration": "You will see it pulse on screen.",
+   "emoji": "⚡",
+   "headline": "IT PULSES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "light bulb flickering camera"
+  },
+  {
+   "narration": "That is alternating current at work.",
+   "emoji": "🔌",
+   "headline": "AC POWER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "electric wall socket light"
+  },
+  {
+   "narration": "Now film the fan blades.",
+   "emoji": "🌀",
+   "headline": "NOW THE FAN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ceiling fan blades spinning"
+  },
+  {
+   "narration": "The blades can look slowed or frozen.",
+   "emoji": "❄️",
+   "headline": "BLADES FREEZE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ceiling fan slow motion"
+  },
+  {
+   "narration": "Your phone just showed light flickering.",
+   "emoji": "📱",
+   "headline": "YOU SAW IT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone camera ceiling light"
+  },
+  {
+   "narration": "Tomorrow: a road with a hole in it.",
+   "emoji": "👀",
+   "headline": "NEXT: A BROKEN ROAD",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Darien Gap jungle"
+  }
+ ]
+}

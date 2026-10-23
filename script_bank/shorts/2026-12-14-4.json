@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Aditya-L1 watching the Sun",
+ "hook": "Your Sun is being filmed right now.",
+ "title": "Your Sun Has an Indian Camera Crew",
+ "description": "India's Aditya-L1 reached its halo orbit at the Sun-Earth L1 point in January 2024. From about 1.5 million km away it keeps watching the Sun. Series: If You Were in Space.\n\n#Shorts #Space #ISRO",
+ "tags": [
+  "Aditya-L1",
+  "ISRO",
+  "sun",
+  "space facts",
+  "Lagrange point",
+  "India space",
+  "space shorts",
+  "did you know"
+ ],
+ "comment_prompt": "Proud of ISRO? Yes or no",
+ "hook_banner": "INDIA'S SUN CAMERA",
+ "scenes": [
+  {
+   "narration": "Your Sun is being filmed right now.",
+   "emoji": "☀️",
+   "headline": "SUN, LIVE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "sun solar flare"
+  },
+  {
+   "narration": "India's Aditya-L1 does it from space.",
+   "emoji": "🇮🇳",
+   "headline": "ADITYA-L1",
+   "stat": "",
+   "sub": "ISRO spacecraft",
+   "visual_query": "Aditya-L1 spacecraft"
+  },
+  {
+   "narration": "It parks about 1.5 million kilometres away.",
+   "emoji": "🛰️",
+   "headline": "PARKED IN SPACE",
+   "stat": "1.5 million km",
+   "sub": "",
+   "visual_query": "Aditya-L1 orbit"
+  },
+  {
+   "narration": "That spot is called Lagrange point one.",
+   "emoji": "📍",
+   "headline": "LAGRANGE POINT 1",
+   "stat": "",
+   "sub": "Between Earth and Sun",
+   "visual_query": "Lagrange point diagram"
+  },
+  {
+   "narration": "Gravity there helps it stay put.",
+   "emoji": "🌍",
+   "headline": "GRAVITY HELPS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Earth Sun space"
+  },
+  {
+   "narration": "It reached that orbit in January 2024.",
+   "emoji": "📅",
+   "headline": "JANUARY 2024",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ISRO launch Sriharikota"
+  },
+  {
+   "narration": "From there it sees the Sun nonstop.",
+   "emoji": "👀",
+   "headline": "NO NIGHT, NO ECLIPSE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "sun corona eclipse"
+  },
+  {
+   "narration": "So your Sun has an Indian camera crew.",
+   "emoji": "📷",
+   "headline": "SUN CAMERA CREW",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ISRO scientists control room"
+  },
+  {
+   "narration": "Tomorrow: a camera trick that bends fans.",
+   "emoji": "➡️",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "Bend a fan",
+   "visual_query": "ceiling fan"
+  }
+ ]
+}

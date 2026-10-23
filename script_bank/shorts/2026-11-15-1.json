@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Samoa skipped a day",
+ "hook": "Your calendar in Samoa once skipped a whole day.",
+ "title": "Samoa deleted 30 December 2011",
+ "description": "On 29 December 2011 Samoa went to bed on a Thursday and woke up on Saturday. The country moved across the International Date Line to line up with Australia and New Zealand. Friday 30 December never happened there.\n\nSeries: Places That Shouldn't Exist.",
+ "tags": [
+  "Samoa",
+  "International Date Line",
+  "geography facts",
+  "time zones",
+  "lost day",
+  "weird places",
+  "shorts",
+  "did you know"
+ ],
+ "comment_prompt": "Would you skip a day? Yes or no",
+ "hook_banner": "A DAY VANISHED",
+ "scenes": [
+  {
+   "narration": "Your calendar in Samoa once skipped a whole day.",
+   "emoji": "📅",
+   "headline": "A Day Deleted",
+   "stat": "30 DEC 2011",
+   "sub": "Never happened",
+   "visual_query": "Samoa beach"
+  },
+  {
+   "narration": "Thursday 29 December 2011 ended in Samoa.",
+   "emoji": "🌙",
+   "headline": "Thursday Ends",
+   "stat": "29 DEC",
+   "sub": "",
+   "visual_query": "Apia Samoa"
+  },
+  {
+   "narration": "Next came Saturday the thirty-first.",
+   "emoji": "⏭️",
+   "headline": "Straight To Saturday",
+   "stat": "31 DEC",
+   "sub": "",
+   "visual_query": "calendar December 2011"
+  },
+  {
+   "narration": "Friday simply never happened there.",
+   "emoji": "❌",
+   "headline": "No Friday",
+   "stat": "",
+   "sub": "",
+   "visual_query": "calendar crossed out"
+  },
+  {
+   "narration": "Samoa jumped across the International Date Line.",
+   "emoji": "🌐",
+   "headline": "Date Line Jump",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map date line"
+  },
+  {
+   "narration": "It moved west, closer to Australia and New Zealand.",
+   "emoji": "🧭",
+   "headline": "Closer To Australia",
+   "stat": "",
+   "sub": "Trade partners",
+   "visual_query": "Sydney Australia skyline"
+  },
+  {
+   "narration": "Nobody in Samoa had a 30 December.",
+   "emoji": "🏝️",
+   "headline": "No 30 December",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Samoa palm trees"
+  },
+  {
+   "narration": "Your calendar lost a whole day.",
+   "emoji": "😮",
+   "headline": "A Whole Day Lost",
+   "stat": "",
+   "sub": "",
+   "visual_query": "wall calendar"
+  },
+  {
+   "narration": "Tomorrow: the country that sees New Year first.",
+   "emoji": "🎆",
+   "headline": "Tomorrow: Kiribati",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kiribati island"
+  }
+ ]
+}

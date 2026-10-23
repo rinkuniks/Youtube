@@ -1,0 +1,94 @@
+# Shorts pipeline settings. Edit freely.
+
+channel:
+  niche: "jaw-dropping facts about space, technology and geography that sound fake but are true"
+  audience: "curious 13-35 year olds who love 'wait, what?' facts"
+  language: en
+
+ideas:
+  # Each new Short takes the next category in turn (space, technology, geography, space, ...).
+  # Claude picks the exact topic and avoids anything already in jobs/.
+  categories:
+    space:
+      - a planet, moon or star with a property that sounds impossible
+      - something astronauts experience that nobody expects
+      - a space mission or object with a surprising story
+    technology:
+      - a hidden phone feature most people never find
+      - sci-fi technology that already exists
+      - everyday object with surprising tech inside
+    geography:
+      - a country, border or city with a bizarre fact
+      - a natural place on Earth that looks unreal
+      - a map fact that breaks people's mental picture of the world
+  max_seconds: 30
+
+voice:
+  engine: edge              # edge = natural Microsoft neural voice (free, online); piper = offline fallback
+  edge_voice: en-US-AndrewMultilingualNeural
+  edge_rate: "+18%"
+  model: voices/en_US-ryan-high.onnx
+  length_scale: 0.92        # below 1.0 = faster speech
+  sentence_silence: 0.15
+
+render:
+  width: 1080
+  height: 1920
+  theme: flat-motion-graphics
+  music: assets/music/lofi_pad.wav   # any royalty-free track; empty for none
+  music_volume: 0.1
+
+growth:
+  # Shown with an animated Subscribe button in the last 1.6 seconds of every Short.
+  end_card: "Subscribe for tomorrow's crazy {category} fact"
+  # Small sticker that slides in once, just past the middle of every Short.
+  like_sticker: "LIKE if you didn't know this"
+  # Flashed over the last second so viewers rewatch the loop.
+  outro: "SUBSCRIBE FOR MORE"
+  # Added to every description.
+  description_line: "Subscribe for daily jaw-dropping geography, space and technology facts."
+
+upload:
+  # private | unlisted | public. Stays "private" until you approve the first Short.
+  privacy: private
+  category_id: "28"           # Science & Technology
+  made_for_kids: false
+  contains_synthetic_media: true
+  per_run: 5                 # Shorts made and uploaded per scheduled run; each gets its own publish slot
+  # Each Short in a batch goes public by itself at the next of these times (India time), in this order,
+  # so they don't compete with each other. Empty list = upload and set Public by hand.
+  publish_slots: ["22:00", "13:00", "18:00", "09:00", "16:00"]
+  per_run_overrides:          # one-off days: Shorts to have ready and upload that run (date: count)
+    "2026-10-14": 5
+    "2026-10-15": 0      # made early in the evening; the 21:00 run only uploads
+    "2026-10-16": 0
+
+scripts:
+  # true = only use pre-written scripts from script_bank/ (pipeline/bank.py); never call Claude, skip the daily strategy.
+  bank_only: true
+  start_date: "2026-10-18"     # first day of the pre-written schedule
+
+long:
+  # One ~7-minute 16:9 video a day, made by `prepare` (19:00) and uploaded first at 21:00.
+  per_day: 1
+  start_date: "2026-10-18"     # formats alternate from this day: 18th = first, 19th = second, 20th = first...
+  formats:
+    - "Strange borders: a countdown of real borders that make no sense, each stranger than the last, ending on India's strangest one (e.g. '7 Borders That Make No Sense')"
+    - "Why <one country or region> is stranger than you think: 5 to 7 surprising true facts about its geography, time, borders or daily life (e.g. 'Why India Is Stranger Than You Think')"
+  topics:                      # fixed topic for a date; other days Claude picks a fresh one in that day's format
+    "2026-10-18": "7 Borders That Make No Sense (India's Is the Craziest)"
+    "2026-10-19": "Why India Is Stranger Than You Think"
+  publish_time: "19:30"        # India time, the evening after upload; Shorts keep their own slots
+  render_timeout: 5400         # seconds
+
+schedule:
+  # Daily run time (24h, local) used when the Windows scheduled task is installed.
+  time: "18:30"
+
+content_safety:
+  # Strict compliance with YouTube Community Guidelines and Advertiser-Friendly Guidelines
+  prohibit_nudity: true              # Zero tolerance for nudity (full or partial, artistic, statues)
+  prohibit_sexual_content: true      # Zero tolerance for sexual themes, innuendo, or suggestive content
+  prohibit_vulgarity: true           # Zero tolerance for profanity or offensive terms
+  strict_guidelines_filter: true     # Active rejection filter for stock media and script generation
+

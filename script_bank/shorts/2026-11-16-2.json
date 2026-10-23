@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Cave of the Crystals, Naica",
+ "hook": "Your torch here lights crystal beams nearly as long as a bus.",
+ "title": "The Cave With Bus-Sized Crystal Beams",
+ "description": "The Cave of the Crystals in Naica, Mexico holds giant white gypsum beams, the biggest around eleven meters long. The cave is dangerously hot and humid, so people cannot stay long without protective gear. Series: Places That Shouldn't Exist.\n\n#Shorts #Mexico #Geography",
+ "tags": [
+  "cave of the crystals",
+  "naica",
+  "mexico",
+  "giant crystals",
+  "gypsum",
+  "geography facts",
+  "places that shouldn't exist",
+  "caves"
+ ],
+ "comment_prompt": "Would you go inside? Yes or no",
+ "hook_banner": "GIANT CRYSTALS EXIST",
+ "scenes": [
+  {
+   "narration": "Your torch here lights crystal beams nearly as long as a bus.",
+   "emoji": "🔦",
+   "headline": "BUS-SIZED CRYSTALS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Naica crystal cave"
+  },
+  {
+   "narration": "This is the Cave of the Crystals in Mexico.",
+   "emoji": "🇲🇽",
+   "headline": "NAICA, MEXICO",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Naica Mexico cave"
+  },
+  {
+   "narration": "The beams are solid white gypsum.",
+   "emoji": "💎",
+   "headline": "WHITE GYPSUM",
+   "stat": "",
+   "sub": "",
+   "visual_query": "giant gypsum crystals"
+  },
+  {
+   "narration": "The biggest are around eleven meters long.",
+   "emoji": "📏",
+   "headline": "ABOUT 11 METERS",
+   "stat": "11 m",
+   "sub": "Longest beams",
+   "visual_query": "giant crystal beam explorer"
+  },
+  {
+   "narration": "They grew slowly, deep underground.",
+   "emoji": "⛏️",
+   "headline": "DEEP UNDERGROUND",
+   "stat": "",
+   "sub": "",
+   "visual_query": "underground cave tunnel"
+  },
+  {
+   "narration": "But the cave is dangerously hot and humid.",
+   "emoji": "🥵",
+   "headline": "DANGEROUSLY HOT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "explorer cooling suit cave"
+  },
+  {
+   "narration": "People need protective gear to stay inside.",
+   "emoji": "🦺",
+   "headline": "GEAR REQUIRED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "cave explorer protective suit"
+  },
+  {
+   "narration": "Your torch lights a cave you cannot survive in.",
+   "emoji": "🔦",
+   "headline": "BEAUTIFUL, DEADLY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "crystal cave flashlight"
+  },
+  {
+   "narration": "Tomorrow: Street View filmed by sheep.",
+   "emoji": "🐑",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "Sheep with cameras",
+   "visual_query": "Faroe Islands sheep"
+  }
+ ]
+}

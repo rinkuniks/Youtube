@@ -1,0 +1,101 @@
+{
+ "category": "geography",
+ "topic": "Rainbow Mountain Vinicunca Peru",
+ "hook": "Your hike in Peru ends at a striped mountain.",
+ "title": "Your Peru Hike Ends at a Striped Mountain",
+ "description": "Vinicunca in Peru looks painted in red, yellow and turquoise bands. The colours come from real minerals in the rock layers. It is known as Rainbow Mountain. Part of the Places That Shouldn't Exist series.\n\n#Shorts #Peru #Geography",
+ "tags": [
+  "rainbow mountain",
+  "vinicunca",
+  "peru",
+  "geography facts",
+  "minerals",
+  "andes",
+  "places that shouldnt exist",
+  "travel facts"
+ ],
+ "comment_prompt": "Would you hike it? Yes or no",
+ "hook_banner": "NO FILTER USED",
+ "scenes": [
+  {
+   "narration": "Your hike in Peru ends at a striped mountain.",
+   "emoji": "🏔️",
+   "headline": "STRIPED MOUNTAIN",
+   "stat": "",
+   "sub": "Vinicunca, Peru",
+   "visual_query": "Vinicunca rainbow mountain"
+  },
+  {
+   "narration": "Red, yellow and turquoise bands run across it.",
+   "emoji": "🌈",
+   "headline": "RED, YELLOW, TURQUOISE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "rainbow mountain peru stripes"
+  },
+  {
+   "narration": "No paint. No filter. No tricks.",
+   "emoji": "🎨",
+   "headline": "NO PAINT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "peru mountain hikers"
+  },
+  {
+   "narration": "The colours come from different minerals in the rock.",
+   "emoji": "🪨",
+   "headline": "COLOURS ARE MINERALS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "colorful mineral rock layers"
+  },
+  {
+   "narration": "Layers of sediment were pushed up and tilted.",
+   "emoji": "⛰️",
+   "headline": "LAYERS PUSHED UP",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tilted rock layers mountain"
+  },
+  {
+   "narration": "Ice that once covered it melted away.",
+   "emoji": "🧊",
+   "headline": "ICE MELTED AWAY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "andes mountain snow melt"
+  },
+  {
+   "narration": "Then the colours showed up for hikers.",
+   "emoji": "🥾",
+   "headline": "HIKERS FOUND IT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "hikers andes trail"
+  },
+  {
+   "narration": "People call it Rainbow Mountain.",
+   "emoji": "🌈",
+   "headline": "RAINBOW MOUNTAIN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "rainbow mountain cusco"
+  },
+  {
+   "narration": "Your striped mountain in Peru is completely real.",
+   "emoji": "✅",
+   "headline": "COMPLETELY REAL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "vinicunca peru landscape"
+  },
+  {
+   "narration": "Next: a giant bullseye in the Sahara.",
+   "emoji": "🎯",
+   "headline": "NEXT: SAHARA BULLSEYE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Richat structure satellite"
+  }
+ ]
+}

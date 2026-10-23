@@ -1,0 +1,86 @@
+{
+ "category": "geography",
+ "topic": "Bay of Fundy tides",
+ "hook": "Your tide table here shows the sea rising about 16 metres.",
+ "title": "The Sea Here Rises About 16 Metres Twice a Day",
+ "description": "The Bay of Fundy in Canada has the biggest tides on Earth. The difference between low and high tide can reach about 16 metres. Boats sit on mud at low tide and float high above it hours later.\n\n#Shorts #Geography #Canada",
+ "tags": [
+  "Bay of Fundy",
+  "biggest tides",
+  "Canada",
+  "tides",
+  "geography facts",
+  "places that shouldn't exist",
+  "ocean",
+  "nature",
+  "weird places"
+ ],
+ "comment_prompt": "Would you walk the seabed? Yes or no",
+ "hook_banner": "BIGGEST TIDES ON EARTH",
+ "scenes": [
+  {
+   "narration": "Your tide table here shows the sea rising about 16 metres.",
+   "emoji": "🌊",
+   "headline": "16 METRE TIDE",
+   "stat": "~16 m",
+   "sub": "Bay of Fundy, Canada",
+   "visual_query": "Bay of Fundy low tide"
+  },
+  {
+   "narration": "That is the Bay of Fundy, in Canada.",
+   "emoji": "🇨🇦",
+   "headline": "BAY OF FUNDY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bay of Fundy aerial"
+  },
+  {
+   "narration": "At low tide, boats sit stuck on mud.",
+   "emoji": "⛵",
+   "headline": "BOATS ON MUD",
+   "stat": "",
+   "sub": "",
+   "visual_query": "boats stranded low tide Fundy"
+  },
+  {
+   "narration": "Hours later, those same boats float high above.",
+   "emoji": "⬆️",
+   "headline": "THEN THEY FLOAT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Fundy high tide harbour"
+  },
+  {
+   "narration": "People walk the sea floor, then run back.",
+   "emoji": "🏃",
+   "headline": "WALKING THE SEABED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hopewell Rocks low tide"
+  },
+  {
+   "narration": "These are the biggest tides on Earth.",
+   "emoji": "🌍",
+   "headline": "BIGGEST ON EARTH",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hopewell Rocks high tide"
+  },
+  {
+   "narration": "The sea comes in twice a day, every day.",
+   "emoji": "🔁",
+   "headline": "TWICE EVERY DAY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tide coming in bay"
+  },
+  {
+   "narration": "So your tide table here shows a 16 metre climb.",
+   "emoji": "📈",
+   "headline": "A 16 METRE CLIMB",
+   "stat": "",
+   "sub": "Tomorrow: sunrise and sunset over the sea",
+   "visual_query": "Bay of Fundy tide cliffs"
+  }
+ ]
+}

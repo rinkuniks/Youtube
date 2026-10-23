@@ -1,0 +1,72 @@
+{
+ "category": "geography",
+ "topic": "Barren Island volcano",
+ "hook": "Your boat in India's Andaman Sea passes a live volcano.",
+ "title": "India's Only Active Volcano Sits at Sea",
+ "description": "Barren Island in India's Andaman Sea is the only confirmed active volcano in South Asia. Boats can pass it and see smoke rising over black volcanic rock. It sits alone in the middle of the sea.\n\n#Shorts #Geography #India",
+ "tags": [
+  "Barren Island",
+  "Andaman Sea",
+  "active volcano",
+  "India facts",
+  "Andaman",
+  "geography facts",
+  "places that shouldn't exist",
+  "shorts"
+ ],
+ "comment_prompt": "Would you visit? Yes or no",
+ "hook_banner": "INDIA'S SECRET VOLCANO",
+ "scenes": [
+  {
+   "narration": "Your boat in India's Andaman Sea passes a live volcano.",
+   "emoji": "🌋",
+   "headline": "A LIVE VOLCANO",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Barren Island volcano"
+  },
+  {
+   "narration": "It is called Barren Island.",
+   "emoji": "🏝️",
+   "headline": "BARREN ISLAND",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Barren Island Andaman"
+  },
+  {
+   "narration": "It is the only confirmed active volcano in South Asia.",
+   "emoji": "🔥",
+   "headline": "ONLY ONE IN SOUTH ASIA",
+   "stat": "",
+   "sub": "confirmed active",
+   "visual_query": "active volcano island smoke"
+  },
+  {
+   "narration": "You can see smoke over black rock.",
+   "emoji": "💨",
+   "headline": "SMOKE OVER BLACK ROCK",
+   "stat": "",
+   "sub": "",
+   "visual_query": "volcano smoke black rock"
+  },
+  {
+   "narration": "And it sits alone in open sea.",
+   "emoji": "🌊",
+   "headline": "ALONE IN THE SEA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "volcanic island ocean"
+  },
+  {
+   "narration": "It belongs to India's Andaman and Nicobar Islands.",
+   "emoji": "🇮🇳",
+   "headline": "PART OF INDIA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Andaman Nicobar islands"
+  },
+  {
+   "narration": "A volcano hiding in plain sight. Tomorrow: a train crossing a waterfall."
+  }
+ ]
+}

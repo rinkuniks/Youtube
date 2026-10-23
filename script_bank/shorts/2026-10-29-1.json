@@ -1,0 +1,85 @@
+{
+ "category": "geography",
+ "topic": "Chimborazo farthest point from Earth's centre",
+ "hook": "Your climb up Chimborazo ends farther from Earth's centre than Everest.",
+ "title": "This Mountain Beats Everest In One Way",
+ "description": "Ecuador's Chimborazo is not the highest mountain above sea level, but its summit is the point on Earth's surface farthest from the planet's centre. Earth bulges at the equator, and Chimborazo sits right near it.\n\n#Shorts #Geography #Facts",
+ "tags": [
+  "chimborazo",
+  "ecuador",
+  "everest",
+  "earth bulge",
+  "geography facts",
+  "mountains",
+  "space facts",
+  "shorts"
+ ],
+ "comment_prompt": "Everest or Chimborazo, which would you climb? One word",
+ "hook_banner": "EVEREST LOSES HERE",
+ "scenes": [
+  {
+   "narration": "Your climb up Chimborazo ends farther out than Everest.",
+   "emoji": "🏔️",
+   "headline": "BEATS EVEREST",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chimborazo volcano Ecuador"
+  },
+  {
+   "narration": "Not higher above sea level, but farther from Earth's centre.",
+   "emoji": "🌍",
+   "headline": "FARTHEST FROM CENTRE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chimborazo summit snow"
+  },
+  {
+   "narration": "Everest still wins on height above the sea.",
+   "emoji": "🗻",
+   "headline": "EVEREST STILL TALLER",
+   "stat": "",
+   "sub": "above sea level",
+   "visual_query": "Mount Everest peak"
+  },
+  {
+   "narration": "But Earth is not a perfect ball.",
+   "emoji": "⚽",
+   "headline": "EARTH ISN'T ROUND",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Earth from space"
+  },
+  {
+   "narration": "It bulges around the equator.",
+   "emoji": "🌐",
+   "headline": "THE EQUATOR BULGES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "globe equator line"
+  },
+  {
+   "narration": "Chimborazo sits in Ecuador, close to that bulge.",
+   "emoji": "📍",
+   "headline": "ECUADOR, NEAR EQUATOR",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ecuador map equator"
+  },
+  {
+   "narration": "That lifts its summit farthest from Earth's centre.",
+   "emoji": "🚀",
+   "headline": "FARTHEST POINT ON EARTH",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chimborazo mountain clouds"
+  },
+  {
+   "narration": "So the real top of Earth isn't Everest.",
+   "emoji": "🔁",
+   "headline": "NOT EVEREST",
+   "stat": "",
+   "sub": "Tomorrow: two countries lower flags together",
+   "visual_query": "Chimborazo sunrise"
+  }
+ ]
+}

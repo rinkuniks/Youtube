@@ -1,0 +1,101 @@
+{
+ "category": "geography",
+ "topic": "Brasília planned capital shaped like an airplane",
+ "hook": "Your map of Brasília shows an airplane-shaped capital.",
+ "title": "A capital city built from scratch in 4 years",
+ "description": "Brasília was built from scratch, with construction starting in 1956 and the city opening as Brazil's capital in 1960. Its plan, designed by Lúcio Costa, looks like an airplane from above. Places That Shouldn't Exist, part of a series.\n\n#Shorts #Brasilia #Geography",
+ "tags": [
+  "brasilia",
+  "brazil capital",
+  "planned city",
+  "airplane shaped city",
+  "places that shouldn't exist",
+  "geography facts",
+  "map facts",
+  "shorts"
+ ],
+ "comment_prompt": "Plane or not? Yes or no",
+ "hook_banner": "CITY BUILT FROM ZERO",
+ "scenes": [
+  {
+   "narration": "Your map of Brasília shows an airplane-shaped capital.",
+   "emoji": "✈️",
+   "headline": "AIRPLANE-SHAPED CITY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Brasilia aerial airplane shape"
+  },
+  {
+   "narration": "Brazil built this entire capital from scratch.",
+   "emoji": "🏗️",
+   "headline": "BUILT FROM NOTHING",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Brasilia construction 1950s"
+  },
+  {
+   "narration": "Construction began in 1956.",
+   "emoji": "📅",
+   "headline": "STARTED 1956",
+   "stat": "1956",
+   "sub": "",
+   "visual_query": "Brasilia building 1957"
+  },
+  {
+   "narration": "It opened as the capital in 1960.",
+   "emoji": "🇧🇷",
+   "headline": "CAPITAL IN 1960",
+   "stat": "1960",
+   "sub": "",
+   "visual_query": "Brasilia inauguration 1960"
+  },
+  {
+   "narration": "Lúcio Costa designed the plan.",
+   "emoji": "📐",
+   "headline": "THE MASTER PLAN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lucio Costa Brasilia plan"
+  },
+  {
+   "narration": "From above, the layout looks like an airplane.",
+   "emoji": "🛩️",
+   "headline": "SEEN FROM ABOVE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Brasilia Plano Piloto aerial"
+  },
+  {
+   "narration": "Its main road forms the airplane's body.",
+   "emoji": "🛣️",
+   "headline": "THE FUSELAGE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Eixo Monumental Brasilia"
+  },
+  {
+   "narration": "Government buildings line that road.",
+   "emoji": "🏛️",
+   "headline": "GOVERNMENT ROW",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Brasilia National Congress"
+  },
+  {
+   "narration": "Your map shows a city drawn first.",
+   "emoji": "🗺️",
+   "headline": "DRAWN BEFORE BUILT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Brasilia map satellite"
+  },
+  {
+   "narration": "Tomorrow: an Italian town inside Switzerland.",
+   "emoji": "🇨🇭",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "Places That Shouldn't Exist",
+   "visual_query": "Campione d'Italia Lake Lugano"
+  }
+ ]
+}

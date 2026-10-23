@@ -1,0 +1,676 @@
+{
+ "topic": "Seven strange borders, from Friendship Park to India's Cooch Behar enclaves",
+ "hook": "Your map once had a field of Indian land inside Bangladeshi land inside Indian land inside Bangladesh, and it was completely real.",
+ "title": "7 Real Borders That Look Fake, Ending in India",
+ "description": "Seven real borders that look fake on a map, from a fence that runs into the Pacific at Friendship Park to a field inside a field inside a field in India. Every place here is real and you can look it up on your phone. Watch to the end for the strangest border of all.\n\n#borders #geography #facts",
+ "tags": [
+  "strange borders",
+  "weird borders",
+  "borders that make no sense",
+  "Friendship Park",
+  "Point Roberts",
+  "Busingen",
+  "Llivia",
+  "Lake Constance border",
+  "Lesotho",
+  "Cooch Behar enclaves",
+  "India Bangladesh enclaves",
+  "geography facts",
+  "map facts",
+  "places that shouldn't exist"
+ ],
+ "comment_prompt": "Which border was strangest?",
+ "hook_banner": "BORDERS THAT LOOK FAKE",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "7: Friendship Park",
+   "scene": 6
+  },
+  {
+   "title": "6: Point Roberts",
+   "scene": 17
+  },
+  {
+   "title": "5: Büsingen",
+   "scene": 27
+  },
+  {
+   "title": "4: Llívia",
+   "scene": 37
+  },
+  {
+   "title": "3: Lake Constance",
+   "scene": 48
+  },
+  {
+   "title": "2: Lesotho",
+   "scene": 58
+  },
+  {
+   "title": "1: Cooch Behar enclaves",
+   "scene": 67
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your map once had a field of Indian land inside Bangladeshi land inside Indian land inside Bangladesh, and it was completely real.",
+   "emoji": "🗺️",
+   "headline": "A Field Inside A Field",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cooch Behar border map"
+  },
+  {
+   "narration": "That is number one on today's list of seven borders that make no sense, and it sits right in India.",
+   "emoji": "🇮🇳",
+   "headline": "Number One Is Indian",
+   "stat": "7",
+   "sub": "borders",
+   "visual_query": "India Bangladesh border"
+  },
+  {
+   "narration": "But we start with a fence where families meet through mesh, and the border walks straight into the sea.",
+   "emoji": "🌊",
+   "headline": "A Fence Into The Sea",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border fence ocean"
+  },
+  {
+   "narration": "Each stop gets stranger than the last, and by the end you will see why the final border is the craziest.",
+   "emoji": "📈",
+   "headline": "Stranger Every Stop",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map globe"
+  },
+  {
+   "narration": "These are real places on real maps, so you can check every one of them on your phone while you watch.",
+   "emoji": "📱",
+   "headline": "Check Them Yourself",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone map app"
+  },
+  {
+   "narration": "We count down from seven, and seven is strange enough. Let's start with a hug through a fence.",
+   "emoji": "⏬",
+   "headline": "Counting Down From Seven",
+   "stat": "7",
+   "sub": "",
+   "visual_query": "border fence people"
+  },
+  {
+   "narration": "Seven: Friendship Park, where the United States meets Mexico beside the Pacific Ocean, near San Diego and Tijuana.",
+   "emoji": "🧱",
+   "headline": "Friendship Park",
+   "stat": "7",
+   "sub": "San Diego and Tijuana",
+   "visual_query": "Friendship Park border"
+  },
+  {
+   "narration": "Your hug at this fence is real, because families have stood on both sides and met through the mesh.",
+   "emoji": "🤗",
+   "headline": "Meeting Through Mesh",
+   "stat": "",
+   "sub": "",
+   "visual_query": "families border fence"
+  },
+  {
+   "narration": "The park was opened in 1971 by Pat Nixon, then the First Lady of the United States.",
+   "emoji": "🏞️",
+   "headline": "Opened In 1971",
+   "stat": "1971",
+   "sub": "",
+   "visual_query": "Pat Nixon 1971"
+  },
+  {
+   "narration": "She said she hoped the fence would not be there much longer, and it is still here today.",
+   "emoji": "⏳",
+   "headline": "The Fence Stayed",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border fence beach"
+  },
+  {
+   "narration": "Years ago people could touch hands through the bars. Later a fine mesh replaced them, and now it mostly allows fingertips.",
+   "emoji": "☝️",
+   "headline": "Only Fingertips",
+   "stat": "",
+   "sub": "",
+   "visual_query": "fingers through mesh"
+  },
+  {
+   "narration": "Families split by the border still come here, because it is one of the few places they can see each other.",
+   "emoji": "👨‍👩‍👧",
+   "headline": "Families Still Come",
+   "stat": "",
+   "sub": "",
+   "visual_query": "family reunion fence"
+  },
+  {
+   "narration": "Access on the American side has been cut back and reopened again over the years, so the rules keep changing.",
+   "emoji": "🔒",
+   "headline": "Rules Keep Changing",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border gate closed"
+  },
+  {
+   "narration": "Now look at the end of the map. The fence does not stop at the beach, it walks into the sea.",
+   "emoji": "🏖️",
+   "headline": "It Walks Into The Sea",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border fence Pacific"
+  },
+  {
+   "narration": "Metal posts stand in the waves, so even the ocean has a border line you can see from the sand.",
+   "emoji": "🌊",
+   "headline": "A Border In The Waves",
+   "stat": "",
+   "sub": "",
+   "visual_query": "fence waves beach"
+  },
+  {
+   "narration": "A border you can touch with one fingertip is odd, but it is the mildest one on this list.",
+   "emoji": "😮",
+   "headline": "The Mildest One",
+   "stat": "",
+   "sub": "",
+   "visual_query": "hand touching fence"
+  },
+  {
+   "narration": "Next, an American town that you can only reach by road if you drive through another country.",
+   "emoji": "🚗",
+   "headline": "Next: A Town Cut Off",
+   "stat": "",
+   "sub": "",
+   "visual_query": "road border crossing"
+  },
+  {
+   "narration": "Six: Point Roberts, Washington, an American town that hangs off the bottom of Canada.",
+   "emoji": "📍",
+   "headline": "Point Roberts",
+   "stat": "6",
+   "sub": "Washington, USA",
+   "visual_query": "Point Roberts Washington"
+  },
+  {
+   "narration": "The Canada-US border follows the forty-ninth parallel, and this little peninsula sits just south of that line.",
+   "emoji": "📏",
+   "headline": "South Of The Line",
+   "stat": "49°N",
+   "sub": "",
+   "visual_query": "49th parallel border"
+  },
+  {
+   "narration": "So it is America, but the only land road to it from the rest of the United States goes through Canada.",
+   "emoji": "🛣️",
+   "headline": "Only Road Is Canadian",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Point Roberts border crossing"
+  },
+  {
+   "narration": "Residents drive north into Canada, pass a border post, cross Canadian land, then pass another post to reach mainland America.",
+   "emoji": "🛂",
+   "headline": "Two Border Posts",
+   "stat": "2",
+   "sub": "",
+   "visual_query": "Canada US customs"
+  },
+  {
+   "narration": "That means two border checks to travel between two American places, and a boat or plane is the only way around.",
+   "emoji": "✈️",
+   "headline": "Boat Or Plane",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ferry small plane"
+  },
+  {
+   "narration": "When the border closed during the pandemic, the town was left in a very strange spot, and many people felt cut off.",
+   "emoji": "😷",
+   "headline": "Cut Off In 2020",
+   "stat": "",
+   "sub": "",
+   "visual_query": "closed border sign"
+  },
+  {
+   "narration": "Many Canadians own homes there, and students are bused through Canada to reach their schools in the United States.",
+   "emoji": "🚌",
+   "headline": "School Bus Through Canada",
+   "stat": "",
+   "sub": "",
+   "visual_query": "school bus road"
+  },
+  {
+   "narration": "All because a line on a map followed a parallel of latitude and ignored a peninsula hanging below it.",
+   "emoji": "🧭",
+   "headline": "A Ruler Decided",
+   "stat": "",
+   "sub": "",
+   "visual_query": "map ruler line"
+  },
+  {
+   "narration": "Remember this: lines drawn with a ruler on a map never care about the ground underneath.",
+   "emoji": "✏️",
+   "headline": "Rulers Ignore Land",
+   "stat": "",
+   "sub": "",
+   "visual_query": "drawing map line"
+  },
+  {
+   "narration": "Next, a German town where people spend Swiss money, and Switzerland is on almost every side.",
+   "emoji": "🇨🇭",
+   "headline": "Next: Swiss Money",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss francs banknotes"
+  },
+  {
+   "narration": "Five: Büsingen am Hochrhein, a German village that sits almost completely inside Switzerland.",
+   "emoji": "🏘️",
+   "headline": "Büsingen",
+   "stat": "5",
+   "sub": "German village",
+   "visual_query": "Büsingen am Hochrhein"
+  },
+  {
+   "narration": "Look at the map and you will see a tiny German island, surrounded by Swiss land, next to the city of Schaffhausen.",
+   "emoji": "🗺️",
+   "headline": "A German Island",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Büsingen map Switzerland"
+  },
+  {
+   "narration": "Its cars carry licence plates that begin with the letters BÜS, so you can spot a vehicle from this village on Swiss streets.",
+   "emoji": "🚘",
+   "headline": "Plates Start With BÜS",
+   "stat": "BÜS",
+   "sub": "",
+   "visual_query": "German licence plate"
+  },
+  {
+   "narration": "The village is part of Germany, but it sits inside the Swiss customs area, so shops there follow Swiss rules.",
+   "emoji": "🛃",
+   "headline": "Swiss Customs Area",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss customs border"
+  },
+  {
+   "narration": "Many people there use Swiss francs for daily shopping, even though they live in Germany and Germany uses the euro.",
+   "emoji": "💱",
+   "headline": "Francs In Germany",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss franc coins"
+  },
+  {
+   "narration": "A few steps along the road and you pass from Germany into Switzerland without a guard or a gate.",
+   "emoji": "🚶",
+   "headline": "No Guard, No Gate",
+   "stat": "",
+   "sub": "",
+   "visual_query": "open border road"
+  },
+  {
+   "narration": "Why does it exist? Old agreements and centuries of deals left this village German, and nobody ever changed it.",
+   "emoji": "📜",
+   "headline": "Old Deals Stuck",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old treaty document"
+  },
+  {
+   "narration": "Locals live with two countries in one routine: a German address, Swiss money, and a Swiss town almost everywhere you look.",
+   "emoji": "🏡",
+   "headline": "Two Countries, One Routine",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss village houses"
+  },
+  {
+   "narration": "If you thought that was odd, wait until you hear about a town that is Spanish but sits inside France.",
+   "emoji": "🇪🇸",
+   "headline": "A Spanish Town In France",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pyrenees village"
+  },
+  {
+   "narration": "That is next, and a special road keeps it connected to Spain.",
+   "emoji": "🛣️",
+   "headline": "A Special Road",
+   "stat": "",
+   "sub": "",
+   "visual_query": "mountain road Pyrenees"
+  },
+  {
+   "narration": "Four: Llívia, a Spanish town sitting inside France, with French land on every side.",
+   "emoji": "🏰",
+   "headline": "Llívia",
+   "stat": "4",
+   "sub": "Spain inside France",
+   "visual_query": "Llívia Spain"
+  },
+  {
+   "narration": "In 1659 Spain and France signed the Treaty of the Pyrenees, and Spain handed over a set of villages.",
+   "emoji": "📜",
+   "headline": "Treaty Of 1659",
+   "stat": "1659",
+   "sub": "",
+   "visual_query": "Treaty of the Pyrenees"
+  },
+  {
+   "narration": "But Llívia was counted as a town, not a village, so it stayed Spanish while the villages around it became French.",
+   "emoji": "🏙️",
+   "headline": "Town, Not Village",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Llívia town view"
+  },
+  {
+   "narration": "That tiny word in a treaty is the reason a Spanish town now sits in the middle of French land.",
+   "emoji": "✍️",
+   "headline": "One Word Decided It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "treaty signing pen"
+  },
+  {
+   "narration": "A narrow road links it to the rest of Spain, and that road is called the neutral road.",
+   "emoji": "🛤️",
+   "headline": "The Neutral Road",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Llívia neutral road"
+  },
+  {
+   "narration": "The road crosses French land, yet it is kept open so people can travel between the two Spanish places.",
+   "emoji": "🚗",
+   "headline": "Spain Through France",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cerdanya road France Spain"
+  },
+  {
+   "narration": "Llívia even has a pharmacy said to be among the oldest in Europe, which visitors can see today.",
+   "emoji": "💊",
+   "headline": "An Ancient Pharmacy",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old pharmacy museum"
+  },
+  {
+   "narration": "Think about that: a word in a treaty from the sixteen hundreds still decides which flag flies over a town today.",
+   "emoji": "🚩",
+   "headline": "A Treaty Still Rules",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Spanish flag town"
+  },
+  {
+   "narration": "If you like strange places like this, subscribe, because tomorrow's video will be just as strange.",
+   "emoji": "🔔",
+   "headline": "Subscribe For More",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map pins"
+  },
+  {
+   "narration": "Three is where the border goes missing completely, and it happens in the middle of a lake.",
+   "emoji": "🌫️",
+   "headline": "The Missing Border",
+   "stat": "3",
+   "sub": "",
+   "visual_query": "lake mountains Alps"
+  },
+  {
+   "narration": "Tourists swim and sail there every summer, yet three countries have never agreed where their line runs.",
+   "emoji": "⛵",
+   "headline": "Sailing Without A Line",
+   "stat": "",
+   "sub": "",
+   "visual_query": "sailboats Lake Constance"
+  },
+  {
+   "narration": "Three: Lake Constance, where Germany, Austria and Switzerland meet, and where the border is simply not agreed.",
+   "emoji": "🏞️",
+   "headline": "Lake Constance",
+   "stat": "3",
+   "sub": "Germany, Austria, Switzerland",
+   "visual_query": "Lake Constance"
+  },
+  {
+   "narration": "On land, borders have posts and fences. On this lake, there is no officially agreed line in the water.",
+   "emoji": "💧",
+   "headline": "No Line In The Water",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake Constance aerial"
+  },
+  {
+   "narration": "The three countries have different ideas about it, and no treaty has ever settled the matter for the whole lake.",
+   "emoji": "🤝",
+   "headline": "Never Agreed",
+   "stat": "",
+   "sub": "",
+   "visual_query": "diplomats meeting table"
+  },
+  {
+   "narration": "Experts talk about three ideas: a line down the middle, shared ownership of the whole lake, or each country owning its shore.",
+   "emoji": "📐",
+   "headline": "Three Ideas, No Answer",
+   "stat": "3",
+   "sub": "",
+   "visual_query": "lake map border"
+  },
+  {
+   "narration": "In practice, boats, ferries and fishing all work on local agreements, so daily life carries on.",
+   "emoji": "⛴️",
+   "headline": "Ferries Keep Running",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake Constance ferry"
+  },
+  {
+   "narration": "So you can sail from one country to another on this lake, and no map can tell you the exact moment you crossed.",
+   "emoji": "🧭",
+   "headline": "When Did You Cross?",
+   "stat": "",
+   "sub": "",
+   "visual_query": "boat on lake"
+  },
+  {
+   "narration": "A border that exists on land and disappears in the water is strange, but the next one is a whole country.",
+   "emoji": "🌍",
+   "headline": "Next: A Whole Country",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Africa map"
+  },
+  {
+   "narration": "A country that fits entirely inside another country, with no sea and no neighbour except one.",
+   "emoji": "🧩",
+   "headline": "A Country Inside One",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lesotho map"
+  },
+  {
+   "narration": "That is not a riddle. Open your map and you can find it in southern Africa.",
+   "emoji": "🔍",
+   "headline": "Find It On Your Map",
+   "stat": "",
+   "sub": "",
+   "visual_query": "southern Africa map"
+  },
+  {
+   "narration": "It is number two, and then we come back home to India for the strangest of all.",
+   "emoji": "🇮🇳",
+   "headline": "Then Back To India",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India map"
+  },
+  {
+   "narration": "Two: Lesotho, an entire country that is completely surrounded by South Africa.",
+   "emoji": "🏔️",
+   "headline": "Lesotho",
+   "stat": "2",
+   "sub": "Surrounded by South Africa",
+   "visual_query": "Lesotho mountains"
+  },
+  {
+   "narration": "Every border Lesotho has is with one neighbour, so to travel anywhere abroad you must pass through South Africa first.",
+   "emoji": "🛂",
+   "headline": "One Neighbour Only",
+   "stat": "1",
+   "sub": "",
+   "visual_query": "Lesotho border post"
+  },
+  {
+   "narration": "Most countries have several neighbours. Lesotho has exactly one, and that border wraps all the way around it.",
+   "emoji": "⭕",
+   "headline": "Wrapped All Around",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lesotho South Africa map"
+  },
+  {
+   "narration": "It is also a mountain kingdom, with a king, a flag, its own currency and its own passport stamps.",
+   "emoji": "👑",
+   "headline": "A Real Kingdom",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lesotho flag"
+  },
+  {
+   "narration": "The country is often called the Kingdom in the Sky, because of its high mountains.",
+   "emoji": "⛰️",
+   "headline": "Kingdom In The Sky",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lesotho highlands"
+  },
+  {
+   "narration": "Only a few countries in the world are fully surrounded like this, and the others are tiny European states.",
+   "emoji": "🌐",
+   "headline": "Very Few Like This",
+   "stat": "",
+   "sub": "",
+   "visual_query": "San Marino Vatican"
+  },
+  {
+   "narration": "So a whole country with its own king sits in the middle of another country's map, like a hole in a doughnut.",
+   "emoji": "🍩",
+   "headline": "A Hole In A Doughnut",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lesotho aerial view"
+  },
+  {
+   "narration": "That is strange, but those borders at least kept one shape. The last one had a shape inside a shape inside a shape.",
+   "emoji": "🔁",
+   "headline": "Shape Inside A Shape",
+   "stat": "",
+   "sub": "",
+   "visual_query": "nested map enclave"
+  },
+  {
+   "narration": "And it was in India, along the Bangladesh border, in a place called Cooch Behar.",
+   "emoji": "📍",
+   "headline": "Cooch Behar, India",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cooch Behar West Bengal"
+  },
+  {
+   "narration": "One: the enclaves of Cooch Behar, India's strangest border, where villages of one country sat inside villages of another.",
+   "emoji": "🥇",
+   "headline": "India's Strangest Border",
+   "stat": "1",
+   "sub": "Cooch Behar enclaves",
+   "visual_query": "India Bangladesh enclaves map"
+  },
+  {
+   "narration": "For decades, over a hundred Indian pieces of land lay inside Bangladesh, and dozens of Bangladeshi pieces lay inside India.",
+   "emoji": "🧩",
+   "headline": "Pockets Of Each Country",
+   "stat": "100+",
+   "sub": "Indian pockets in Bangladesh",
+   "visual_query": "enclave village India Bangladesh"
+  },
+  {
+   "narration": "People in these pockets were often cut off from schools, markets and hospitals run by their own country.",
+   "emoji": "🏥",
+   "headline": "Cut Off From Home",
+   "stat": "",
+   "sub": "",
+   "visual_query": "village rural Bengal"
+  },
+  {
+   "narration": "Then there was Dahala Khagrabari, a small farm plot, and its layers are why this one ends the list.",
+   "emoji": "🌾",
+   "headline": "Dahala Khagrabari",
+   "stat": "",
+   "sub": "",
+   "visual_query": "farmland Bangladesh border"
+  },
+  {
+   "narration": "It was Indian land inside a Bangladeshi plot, inside an Indian plot, inside Bangladesh. Four layers on one piece of ground.",
+   "emoji": "🧅",
+   "headline": "Four Layers Deep",
+   "stat": "4",
+   "sub": "layers",
+   "visual_query": "Dahala Khagrabari map"
+  },
+  {
+   "narration": "It was the world's only third-order enclave, and it was farmland that nobody lived on.",
+   "emoji": "🏆",
+   "headline": "The World's Only One",
+   "stat": "",
+   "sub": "",
+   "visual_query": "empty farm field"
+  },
+  {
+   "narration": "In 2015 India and Bangladesh finally swapped these pockets, and the Dahala plot passed to Bangladesh.",
+   "emoji": "🤝",
+   "headline": "The 2015 Swap",
+   "stat": "2015",
+   "sub": "",
+   "visual_query": "India Bangladesh land boundary agreement"
+  },
+  {
+   "narration": "So the strangest border on this list is one you can no longer see on today's map, because it was finally fixed.",
+   "emoji": "🗺️",
+   "headline": "Fixed, And Gone",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Bangladesh border fence"
+  },
+  {
+   "narration": "So we end where we began: a field inside a field inside a field, plus a fence running into the sea.",
+   "emoji": "🔄",
+   "headline": "Back To The Start",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Friendship Park fence ocean"
+  },
+  {
+   "narration": "Next video: more places that look fake on a map, but are real. See you there.",
+   "emoji": "➡️",
+   "headline": "Next: More Fake-Looking Places",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map pins"
+  }
+ ]
+}

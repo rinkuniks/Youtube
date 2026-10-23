@@ -1,0 +1,85 @@
+{
+ "category": "geography",
+ "topic": "Venice has no cars",
+ "hook": "Your whole city trip here happens with zero cars.",
+ "title": "Your city trip has zero cars",
+ "description": "Venice's historic centre has no roads for cars. Canals work as the streets, and people travel by boat or on foot. Buses, taxis and ambulances are all boats.\n\n#Shorts #Venice #Geography",
+ "tags": [
+  "venice",
+  "italy",
+  "no cars city",
+  "canals",
+  "geography facts",
+  "travel facts",
+  "places that shouldn't exist",
+  "shorts"
+ ],
+ "comment_prompt": "Would you live in Venice? Yes or no",
+ "hook_banner": "A CITY WITH NO CARS",
+ "scenes": [
+  {
+   "narration": "Your whole city trip here happens with zero cars.",
+   "emoji": "🚫",
+   "headline": "Zero Cars",
+   "stat": "0",
+   "sub": "",
+   "visual_query": "Venice Grand Canal"
+  },
+  {
+   "narration": "Venice's historic centre has no roads.",
+   "emoji": "🏛️",
+   "headline": "No Roads",
+   "stat": "",
+   "sub": "Historic Venice",
+   "visual_query": "Venice narrow street"
+  },
+  {
+   "narration": "Canals are the streets instead.",
+   "emoji": "🛶",
+   "headline": "Canals Are Streets",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Venice canal gondola"
+  },
+  {
+   "narration": "Buses, taxis and ambulances are all boats.",
+   "emoji": "🚑",
+   "headline": "Boat Ambulance",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Venice water bus vaporetto"
+  },
+  {
+   "narration": "Cars must stop at Piazzale Roma.",
+   "emoji": "🅿️",
+   "headline": "Cars Stop Here",
+   "stat": "",
+   "sub": "Piazzale Roma",
+   "visual_query": "Piazzale Roma Venice"
+  },
+  {
+   "narration": "After that, you walk or float.",
+   "emoji": "🚶",
+   "headline": "Walk Or Float",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Venice bridge pedestrians"
+  },
+  {
+   "narration": "Venice: where every road is water.",
+   "emoji": "🌊",
+   "headline": "Roads Made Of Water",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Venice aerial canals"
+  },
+  {
+   "narration": "Next: trash left on the Moon.",
+   "emoji": "➡️",
+   "headline": "Up Next",
+   "stat": "",
+   "sub": "Trash on the Moon",
+   "visual_query": "Apollo astronaut Moon surface"
+  }
+ ]
+}

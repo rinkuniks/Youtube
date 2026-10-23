@@ -1,0 +1,92 @@
+{
+ "category": "geography",
+ "topic": "Lesotho enclave in South Africa",
+ "hook": "Your map shows a whole country hiding inside another one.",
+ "title": "A Country Fully Locked Inside Another",
+ "description": "Lesotho is an independent country completely surrounded by South Africa. Its border circles it on every side, so there is no way in or out without crossing South Africa. Only a few countries in the world are enclaves like this. Part of Places That Shouldn't Exist.\n\n#Shorts #Lesotho #Geography",
+ "tags": [
+  "lesotho",
+  "south africa",
+  "enclave",
+  "country inside country",
+  "geography facts",
+  "world map",
+  "places that shouldnt exist"
+ ],
+ "comment_prompt": "Would you visit? Yes or no",
+ "hook_banner": "COUNTRY INSIDE COUNTRY",
+ "scenes": [
+  {
+   "narration": "Your map shows a country inside another country.",
+   "emoji": "🗺️",
+   "headline": "Country Inside Country",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lesotho South Africa map"
+  },
+  {
+   "narration": "This is Lesotho, in southern Africa.",
+   "emoji": "🇱🇸",
+   "headline": "Lesotho",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lesotho flag mountains"
+  },
+  {
+   "narration": "South Africa surrounds it on every side.",
+   "emoji": "⭕",
+   "headline": "Surrounded",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lesotho border map"
+  },
+  {
+   "narration": "The border circles it completely.",
+   "emoji": "🔄",
+   "headline": "Border Circles It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lesotho satellite view"
+  },
+  {
+   "narration": "Every road out leads into South Africa.",
+   "emoji": "🛣️",
+   "headline": "Every Road Exits",
+   "stat": "",
+   "sub": "Into South Africa",
+   "visual_query": "Lesotho road mountains"
+  },
+  {
+   "narration": "It is still its own independent country.",
+   "emoji": "🏳️",
+   "headline": "Own Country",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Maseru Lesotho city"
+  },
+  {
+   "narration": "Countries like this are called enclaves.",
+   "emoji": "📖",
+   "headline": "Called An Enclave",
+   "stat": "",
+   "sub": "",
+   "visual_query": "enclave country world map"
+  },
+  {
+   "narration": "So Lesotho lives inside South Africa's border.",
+   "emoji": "🗺️",
+   "headline": "Inside The Border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lesotho Drakensberg"
+  },
+  {
+   "narration": "Tomorrow: a place where your GPS gets confused.",
+   "emoji": "➡️",
+   "headline": "Next: Confused GPS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "GPS map phone navigation"
+  }
+ ]
+}

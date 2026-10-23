@@ -1,0 +1,711 @@
+{
+ "topic": "Britain's land on Cyprus and five more strange borders, ending on India's enclave swap",
+ "hook": "Your British holiday could be on Cyprus, and the map says that land still belongs to the UK.",
+ "title": "Britain Owns Land in Cyprus (+5 More Strange Borders)",
+ "description": "Britain still owns two pieces of Cyprus, an island in the European Union. This countdown of six strange borders starts with a road that stops for planes and ends with the India-Bangladesh enclaves, where one field sat inside land inside land inside land. Every place is real and you can find each one on a map.",
+ "tags": [
+  "strange borders",
+  "borders that make no sense",
+  "Cyprus British bases",
+  "Akrotiri and Dhekelia",
+  "Gibraltar runway",
+  "Point Roberts",
+  "Busingen",
+  "Jungholz",
+  "Cooch Behar enclaves",
+  "India Bangladesh enclaves",
+  "geography facts",
+  "weird maps",
+  "facts that sound fake"
+ ],
+ "comment_prompt": "Which border was strangest?",
+ "hook_banner": "BRITAIN OWNS LAND IN CYPRUS",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "6. The road that stops for planes",
+   "scene": 8
+  },
+  {
+   "title": "5. The US town behind Canada",
+   "scene": 21
+  },
+  {
+   "title": "4. The German town in Switzerland",
+   "scene": 32
+  },
+  {
+   "title": "3. The village joined by one point",
+   "scene": 43
+  },
+  {
+   "title": "2. Britain's land on Cyprus",
+   "scene": 52
+  },
+  {
+   "title": "1. India's land inside land",
+   "scene": 66
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your British holiday could be on Cyprus, and the map says that land still belongs to the UK.",
+   "emoji": "🏝️",
+   "headline": "Britain In Cyprus",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cyprus beach"
+  },
+  {
+   "narration": "Britain owns two pieces of an island that is itself part of the European Union.",
+   "emoji": "🇬🇧",
+   "headline": "UK Land, EU Island",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Akrotiri Cyprus"
+  },
+  {
+   "narration": "That is only number two on today's list of borders that make no sense.",
+   "emoji": "🗺️",
+   "headline": "Borders That Make No Sense",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map borders"
+  },
+  {
+   "narration": "Number one is in India, where one tiny patch of land sat inside three other patches of land.",
+   "emoji": "🇮🇳",
+   "headline": "India's Strangest",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cooch Behar fields"
+  },
+  {
+   "narration": "Six borders, each stranger than the last. Stay to the end and you will see how a map can tie itself in knots.",
+   "emoji": "🧵",
+   "headline": "Each One Stranger",
+   "stat": "6",
+   "sub": "borders",
+   "visual_query": "old map borders"
+  },
+  {
+   "narration": "And the fun part is that every one of these is real, with a place you can find on a map.",
+   "emoji": "📍",
+   "headline": "All Of It Is Real",
+   "stat": "",
+   "sub": "",
+   "visual_query": "map pin"
+  },
+  {
+   "narration": "Here is how it works: I count down from six, and the strangest border comes last.",
+   "emoji": "⏳",
+   "headline": "Countdown From Six",
+   "stat": "",
+   "sub": "",
+   "visual_query": "countdown clock"
+  },
+  {
+   "narration": "We start with a road where cars have to stop for aeroplanes.",
+   "emoji": "✈️",
+   "headline": "Cars Stop For Planes",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar runway road"
+  },
+  {
+   "narration": "Number six: a road that closes whenever a plane lands.",
+   "emoji": "6️⃣",
+   "headline": "Number Six",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar airport"
+  },
+  {
+   "narration": "Gibraltar is a small British territory at the southern tip of Spain, joined to Spanish land by one border.",
+   "emoji": "🇬🇧",
+   "headline": "Gibraltar",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar rock"
+  },
+  {
+   "narration": "Right beside that border, the airport runway cuts straight across the main road.",
+   "emoji": "🛫",
+   "headline": "Runway Across A Road",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar runway"
+  },
+  {
+   "narration": "The road is called Winston Churchill Avenue, and it carries everyday traffic like any other town road.",
+   "emoji": "🚗",
+   "headline": "Winston Churchill Avenue",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar traffic"
+  },
+  {
+   "narration": "When a plane is about to land or take off, barriers come down and everybody has to wait.",
+   "emoji": "🚧",
+   "headline": "Barriers Come Down",
+   "stat": "",
+   "sub": "",
+   "visual_query": "road barrier airport"
+  },
+  {
+   "narration": "Cars, scooters and people on foot all stop while the aircraft rolls across the road in front of them.",
+   "emoji": "🛵",
+   "headline": "Everyone Waits",
+   "stat": "",
+   "sub": "",
+   "visual_query": "plane crossing road"
+  },
+  {
+   "narration": "Then the barriers lift and the traffic carries on, as if nothing happened.",
+   "emoji": "⬆️",
+   "headline": "Then Life Carries On",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar street"
+  },
+  {
+   "narration": "So if you walk in from Spain, you may cross a runway before you even reach the shops.",
+   "emoji": "🚶",
+   "headline": "Walk Over A Runway",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar border crossing"
+  },
+  {
+   "narration": "The airport sits squeezed between the sea and the rock, so there was little room to build around the road.",
+   "emoji": "🌊",
+   "headline": "No Room To Spare",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar airport sea"
+  },
+  {
+   "narration": "It is one of the very few places in the world where a main road crosses an active runway.",
+   "emoji": "🛣️",
+   "headline": "A Very Rare Crossing",
+   "stat": "",
+   "sub": "",
+   "visual_query": "runway road crossing"
+  },
+  {
+   "narration": "The rock behind it is tiny, yet Britain has held it for more than three hundred years.",
+   "emoji": "⛰️",
+   "headline": "Tiny Rock, Big Claim",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rock of Gibraltar"
+  },
+  {
+   "narration": "Spain still claims it, so this small border is never just a road.",
+   "emoji": "🇪🇸",
+   "headline": "Spain Still Claims It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Spain Gibraltar border"
+  },
+  {
+   "narration": "But the next place has a bigger problem: you cannot drive to it from its own country.",
+   "emoji": "❓",
+   "headline": "Next: Cut Off",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Point Roberts Washington"
+  },
+  {
+   "narration": "Number five: an American town you can only reach by driving through Canada.",
+   "emoji": "5️⃣",
+   "headline": "Number Five",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Point Roberts"
+  },
+  {
+   "narration": "Point Roberts is part of Washington state, yet it hangs off the bottom of a Canadian peninsula.",
+   "emoji": "📍",
+   "headline": "Point Roberts",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Point Roberts beach"
+  },
+  {
+   "narration": "The border follows a straight line on the map, the forty-ninth parallel, and the town ended up on the wrong side of it.",
+   "emoji": "📏",
+   "headline": "A Straight Line",
+   "stat": "",
+   "sub": "",
+   "visual_query": "49th parallel border"
+  },
+  {
+   "narration": "The Canadian part of that peninsula is a normal suburb, and Point Roberts is just the American tip at the end.",
+   "emoji": "🏘️",
+   "headline": "The American Tip",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Tsawwassen peninsula"
+  },
+  {
+   "narration": "So if you live there and want to drive to the rest of America, you must go through Canada first.",
+   "emoji": "🚙",
+   "headline": "Drive Through Canada",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Canada US border road"
+  },
+  {
+   "narration": "That means two border checks just to drive home inside your own country.",
+   "emoji": "🛂",
+   "headline": "Two Border Checks",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border checkpoint"
+  },
+  {
+   "narration": "Minnesota has a similar place called the Northwest Angle, reachable by land only through Canada.",
+   "emoji": "🌲",
+   "headline": "Northwest Angle",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake of the Woods"
+  },
+  {
+   "narration": "Both exist because old treaties were drawn with straight lines on old maps, and nobody checked the real land.",
+   "emoji": "📜",
+   "headline": "Old Maps, Real People",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old treaty map"
+  },
+  {
+   "narration": "On a map these pieces look like mistakes. In real life, people go to school and buy groceries there.",
+   "emoji": "🏠",
+   "headline": "People Live Here",
+   "stat": "",
+   "sub": "",
+   "visual_query": "small town street"
+  },
+  {
+   "narration": "Their shops, post and school buses all depend on crossing a border that most of us never think about.",
+   "emoji": "🚌",
+   "headline": "Daily Life, Two Countries",
+   "stat": "",
+   "sub": "",
+   "visual_query": "school bus border"
+  },
+  {
+   "narration": "The next town does something even odder with money.",
+   "emoji": "💶",
+   "headline": "Next: Two Currencies",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Busingen Switzerland"
+  },
+  {
+   "narration": "Number four: a German town completely surrounded by Switzerland.",
+   "emoji": "4️⃣",
+   "headline": "Number Four",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Busingen am Hochrhein"
+  },
+  {
+   "narration": "Büsingen sits on the Rhine, and every road out of it leads into Swiss land.",
+   "emoji": "🏘️",
+   "headline": "Büsingen",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rhine river village"
+  },
+  {
+   "narration": "It has been part of Germany for centuries, even though Switzerland surrounds it on all sides.",
+   "emoji": "🇩🇪",
+   "headline": "German, Surrounded",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Germany Switzerland border"
+  },
+  {
+   "narration": "It is German, yet its shops and people also use Swiss francs in daily life.",
+   "emoji": "💰",
+   "headline": "Euros And Francs",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss franc coins"
+  },
+  {
+   "narration": "Its cars carry special number plates with the letters BÜS, so everyone knows where they come from.",
+   "emoji": "🔤",
+   "headline": "BÜS Number Plates",
+   "stat": "",
+   "sub": "",
+   "visual_query": "German licence plate"
+  },
+  {
+   "narration": "A German town, Swiss money, and a border that does not follow any hill or river.",
+   "emoji": "🧭",
+   "headline": "A Border Of Its Own",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss German border"
+  },
+  {
+   "narration": "It dates back to old territorial deals, and it stayed because nobody ever wanted to change it.",
+   "emoji": "📖",
+   "headline": "Left Over From History",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old european map"
+  },
+  {
+   "narration": "So the map shows a small dot of Germany floating inside Swiss land.",
+   "emoji": "🟢",
+   "headline": "Germany Inside Switzerland",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Switzerland map"
+  },
+  {
+   "narration": "If you enjoy strange places like this, this is a good moment to subscribe, because tomorrow brings more of them.",
+   "emoji": "🔔",
+   "headline": "Subscribe For More",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map globe"
+  },
+  {
+   "narration": "It is also a nice reminder that a country border is a human decision, not a natural one.",
+   "emoji": "✍️",
+   "headline": "Borders Are Human Choices",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border sign"
+  },
+  {
+   "narration": "Now a village that connects to its own country at one single point.",
+   "emoji": "📌",
+   "headline": "Next: A Single Point",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Jungholz Austria"
+  },
+  {
+   "narration": "Number three: an Austrian village that touches the rest of Austria at a single point.",
+   "emoji": "3️⃣",
+   "headline": "Number Three",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Jungholz"
+  },
+  {
+   "narration": "Jungholz sits high in the Alps, and Germany lies around it on almost every side.",
+   "emoji": "🏔️",
+   "headline": "Jungholz",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Alps village Austria"
+  },
+  {
+   "narration": "Its border with the rest of Austria is not a line at all. It is one point on a mountain.",
+   "emoji": "⛰️",
+   "headline": "One Point",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sorgschrofen mountain"
+  },
+  {
+   "narration": "In everyday life, that means villagers drive through Germany to reach most places in Austria.",
+   "emoji": "🚗",
+   "headline": "Drive Through Germany",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Alps mountain road"
+  },
+  {
+   "narration": "Imagine telling a friend you live in Austria, then driving through Germany to get home.",
+   "emoji": "🏡",
+   "headline": "Austria Via Germany",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Austria Germany road"
+  },
+  {
+   "narration": "A single dot on a map is all that keeps the village legally Austrian.",
+   "emoji": "🔴",
+   "headline": "A Dot Keeps It Austrian",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Austria Germany border"
+  },
+  {
+   "narration": "It also shows that a border can be one point, one line, or an entire river.",
+   "emoji": "📐",
+   "headline": "Point, Line Or River",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border marker stone"
+  },
+  {
+   "narration": "Austria and Germany get along perfectly, so nobody minds. But few borders are held together this thinly.",
+   "emoji": "🤝",
+   "headline": "Held By A Thread",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Austria flag"
+  },
+  {
+   "narration": "Next, the one from the start: British land on an EU island.",
+   "emoji": "🇨🇾",
+   "headline": "Next: Cyprus",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cyprus island"
+  },
+  {
+   "narration": "Number two: land on Cyprus that belongs to the United Kingdom.",
+   "emoji": "2️⃣",
+   "headline": "Number Two",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cyprus map"
+  },
+  {
+   "narration": "Cyprus became independent from Britain in 1960, but Britain kept two areas for its military.",
+   "emoji": "📅",
+   "headline": "Independent In 1960",
+   "stat": "1960",
+   "sub": "",
+   "visual_query": "Cyprus independence"
+  },
+  {
+   "narration": "They are called Akrotiri and Dhekelia, and together they are the British Sovereign Base Areas.",
+   "emoji": "🇬🇧",
+   "headline": "Akrotiri And Dhekelia",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Akrotiri RAF base"
+  },
+  {
+   "narration": "Sovereign means they are not rented. Legally, that land is British territory.",
+   "emoji": "📜",
+   "headline": "British Territory",
+   "stat": "",
+   "sub": "",
+   "visual_query": "British flag Cyprus"
+  },
+  {
+   "narration": "Together they cover less than three percent of the island, but they appear as British land on the map.",
+   "emoji": "🗺️",
+   "headline": "Less Than 3 Percent",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cyprus map bases"
+  },
+  {
+   "narration": "Britain also kept them because of their position, close to the Middle East and the eastern Mediterranean.",
+   "emoji": "🧭",
+   "headline": "A Useful Location",
+   "stat": "",
+   "sub": "",
+   "visual_query": "eastern Mediterranean map"
+  },
+  {
+   "narration": "RAF Akrotiri is a working air base on the southern coast of the island.",
+   "emoji": "🛩️",
+   "headline": "RAF Akrotiri",
+   "stat": "",
+   "sub": "",
+   "visual_query": "RAF Akrotiri"
+  },
+  {
+   "narration": "Cyprus joined the European Union in 2004, so the EU has an island with Britain still sitting on it.",
+   "emoji": "🇪🇺",
+   "headline": "EU Island, UK Land",
+   "stat": "2004",
+   "sub": "",
+   "visual_query": "EU flag Cyprus"
+  },
+  {
+   "narration": "Cypriot villages and farms sit inside these areas, and people live ordinary lives there.",
+   "emoji": "🌾",
+   "headline": "Villages Inside",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cyprus village"
+  },
+  {
+   "narration": "The areas are run by a military administrator rather than a normal government.",
+   "emoji": "🎖️",
+   "headline": "Run By The Military",
+   "stat": "",
+   "sub": "",
+   "visual_query": "British soldiers Cyprus"
+  },
+  {
+   "narration": "And the island has another border: a line that has split it in two since 1974.",
+   "emoji": "🧱",
+   "headline": "The Island Is Split",
+   "stat": "1974",
+   "sub": "",
+   "visual_query": "Nicosia buffer zone"
+  },
+  {
+   "narration": "That line cuts through the capital, Nicosia, so one city has people on both sides of a closed street.",
+   "emoji": "🏙️",
+   "headline": "A Divided Capital",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nicosia old city"
+  },
+  {
+   "narration": "So a single island carries a British border, a European border, and a divided capital.",
+   "emoji": "🧩",
+   "headline": "Three Borders, One Island",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cyprus coast"
+  },
+  {
+   "narration": "And yet number one is still stranger, and it is right here in India.",
+   "emoji": "🇮🇳",
+   "headline": "Next: India",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Bangladesh border"
+  },
+  {
+   "narration": "Number one: a border so tangled that India and Bangladesh had to swap whole villages.",
+   "emoji": "1️⃣",
+   "headline": "Number One",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Bangladesh border"
+  },
+  {
+   "narration": "In West Bengal, near the old kingdom of Cooch Behar, little islands of one country sat inside the other.",
+   "emoji": "🗺️",
+   "headline": "Cooch Behar",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cooch Behar palace"
+  },
+  {
+   "narration": "Cooch Behar was once a princely state, and it joined India in 1949, two years after independence.",
+   "emoji": "👑",
+   "headline": "Joined India In 1949",
+   "stat": "1949",
+   "sub": "",
+   "visual_query": "Cooch Behar palace"
+  },
+  {
+   "narration": "These pockets are called enclaves, and for decades there were over a hundred and fifty of them.",
+   "emoji": "🧩",
+   "headline": "Enclaves Everywhere",
+   "stat": "150+",
+   "sub": "enclaves",
+   "visual_query": "rice fields Bengal"
+  },
+  {
+   "narration": "People in a Bangladeshi pocket were surrounded by India, and people in an Indian pocket by Bangladesh.",
+   "emoji": "🌀",
+   "headline": "Surrounded By The Other",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bengal village"
+  },
+  {
+   "narration": "Some were so small that they were only a few paddy fields or a single house.",
+   "emoji": "🌾",
+   "headline": "Tiny Pockets Of Land",
+   "stat": "",
+   "sub": "",
+   "visual_query": "paddy field house"
+  },
+  {
+   "narration": "Walking to the market meant leaving your country, and often your schools, roads and power with it.",
+   "emoji": "🏫",
+   "headline": "Cut Off From Services",
+   "stat": "",
+   "sub": "",
+   "visual_query": "village road India"
+  },
+  {
+   "narration": "Many people there had little access to school or electricity, because neither government could easily reach them.",
+   "emoji": "💡",
+   "headline": "No Easy Access",
+   "stat": "",
+   "sub": "",
+   "visual_query": "village India lantern"
+  },
+  {
+   "narration": "Then there was Dahala Khagrabari, a patch of India inside Bangladesh inside India inside Bangladesh.",
+   "emoji": "🪆",
+   "headline": "Land Inside Land",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Bangladesh map"
+  },
+  {
+   "narration": "That is three layers of land wrapped around one small Indian field. It was the only place like it in the world.",
+   "emoji": "3️⃣",
+   "headline": "Three Layers",
+   "stat": "3",
+   "sub": "layers",
+   "visual_query": "farm field Bangladesh"
+  },
+  {
+   "narration": "Everyone knew it was absurd, and for decades neither side could agree on a fix.",
+   "emoji": "😮",
+   "headline": "Nobody Could Fix It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old border map"
+  },
+  {
+   "narration": "Finally, in 2015, India and Bangladesh agreed to swap them. Around a hundred and sixty enclaves changed sides.",
+   "emoji": "🤝",
+   "headline": "The 2015 Swap",
+   "stat": "2015",
+   "sub": "",
+   "visual_query": "India Bangladesh flags"
+  },
+  {
+   "narration": "At midnight on thirty-first July 2015, the pockets were handed over, and residents got to choose their country.",
+   "emoji": "🕛",
+   "headline": "Midnight Handover",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Indian village night"
+  },
+  {
+   "narration": "The old knot is gone, but the story shows how a line on paper can trap real people.",
+   "emoji": "🎬",
+   "headline": "A Knot Undone",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bangladesh border fence"
+  },
+  {
+   "narration": "So Britain owns land in Cyprus, but India once had land inside land inside land.",
+   "emoji": "🔁",
+   "headline": "Land Inside Land",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India map"
+  },
+  {
+   "narration": "Tomorrow: more places on the map that should not exist, but do.",
+   "emoji": "➡️",
+   "headline": "Tomorrow",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map globe"
+  }
+ ]
+}

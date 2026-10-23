@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Angel Falls mist",
+ "hook": "Your Angel Falls photo shows water turning into mist.",
+ "title": "The tallest waterfall turns to mist midair",
+ "description": "Angel Falls in Venezuela is the world's tallest waterfall, with a drop of 979 metres. That is taller than the Burj Khalifa. Much of the water turns to mist before it reaches the ground.",
+ "tags": [
+  "angel falls",
+  "venezuela",
+  "tallest waterfall",
+  "waterfall",
+  "geography facts",
+  "world records",
+  "places that shouldnt exist",
+  "nature"
+ ],
+ "comment_prompt": "Would you visit? Yes or no",
+ "hook_banner": "WATER THAT VANISHES",
+ "scenes": [
+  {
+   "narration": "Your Angel Falls photo shows water turning to mist.",
+   "emoji": "🌫️",
+   "headline": "Water Into Mist",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Angel Falls mist"
+  },
+  {
+   "narration": "This is Venezuela's Angel Falls.",
+   "emoji": "📍",
+   "headline": "Angel Falls",
+   "stat": "",
+   "sub": "Venezuela",
+   "visual_query": "Angel Falls Venezuela"
+  },
+  {
+   "narration": "It is the world's tallest waterfall.",
+   "emoji": "🏆",
+   "headline": "World's Tallest",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tallest waterfall cliff"
+  },
+  {
+   "narration": "The water drops 979 metres.",
+   "emoji": "⬇️",
+   "headline": "979 Metre Drop",
+   "stat": "979 m",
+   "sub": "",
+   "visual_query": "Angel Falls aerial"
+  },
+  {
+   "narration": "That is taller than the Burj Khalifa.",
+   "emoji": "🏙️",
+   "headline": "Taller Than Burj Khalifa",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Burj Khalifa Dubai"
+  },
+  {
+   "narration": "Much of it turns to mist before landing.",
+   "emoji": "🌫️",
+   "headline": "Becomes Mist",
+   "stat": "",
+   "sub": "",
+   "visual_query": "waterfall spray mist"
+  },
+  {
+   "narration": "The falls fade away in midair.",
+   "emoji": "☁️",
+   "headline": "Fading In Midair",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Angel Falls cloud"
+  },
+  {
+   "narration": "So your photo shows water turning to mist.",
+   "emoji": "📸",
+   "headline": "Water To Mist",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Angel Falls tourists"
+  },
+  {
+   "narration": "Tomorrow: socks that saved three astronauts.",
+   "emoji": "➡️",
+   "headline": "Up Next",
+   "stat": "",
+   "sub": "Apollo 13",
+   "visual_query": "Apollo 13 spacecraft"
+  }
+ ]
+}

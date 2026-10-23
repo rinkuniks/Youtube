@@ -1,0 +1,664 @@
+{
+ "topic": "Why Hong Kong Is Stranger Than You Think (Chung Ying Street, Sha Tau Kok)",
+ "hook": "Your lane in Sha Tau Kok, Hong Kong, has a street where one footstep takes you into mainland China.",
+ "title": "Why Hong Kong Is Stranger Than You Think",
+ "description": "Hong Kong has a street split by a border, an escalator that changes direction, and a walled city that no longer exists. This video explains six true facts about Hong Kong, from Chung Ying Street in Sha Tau Kok to the 1898 lease behind it. Watch to the end to see why the border stones are still in the road.\n\n#HongKong #Geography #StrangeFacts",
+ "tags": [
+  "Hong Kong",
+  "Chung Ying Street",
+  "Sha Tau Kok",
+  "Hong Kong border",
+  "strange borders",
+  "geography facts",
+  "one country two systems",
+  "Kowloon Walled City",
+  "Mid-Levels escalator",
+  "Chungking Mansions",
+  "facts that sound fake",
+  "weird places",
+  "Hong Kong history",
+  "Hong Kong China border"
+ ],
+ "comment_prompt": "Which fact surprised you most: 1, 2, 3, 4, 5 or 6?",
+ "hook_banner": "A STREET SPLIT BY A BORDER",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "A border inside one country",
+   "scene": 6
+  },
+  {
+   "title": "One country, two systems",
+   "scene": 14
+  },
+  {
+   "title": "Daily life, Hong Kong style",
+   "scene": 23
+  },
+  {
+   "title": "The walled city that vanished",
+   "scene": 35
+  },
+  {
+   "title": "Hong Kong's Indian connection",
+   "scene": 46
+  },
+  {
+   "title": "The rental deal behind the street",
+   "scene": 55
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your lane in Sha Tau Kok, Hong Kong, has a street where one footstep takes you into mainland China.",
+   "emoji": "🚧",
+   "headline": "One Street, Two Sides",
+   "stat": "",
+   "sub": "Chung Ying Street",
+   "visual_query": "Chung Ying Street Sha Tau Kok"
+  },
+  {
+   "narration": "Stone markers stand in the middle of the road, with Hong Kong on one side and mainland China on the other.",
+   "emoji": "🪨",
+   "headline": "Stones In The Road",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hong Kong border marker stone"
+  },
+  {
+   "narration": "By the end, you will see exactly why that street exists, and it is not even the strangest part.",
+   "emoji": "👀",
+   "headline": "Wait For The Reason",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sha Tau Kok street"
+  },
+  {
+   "narration": "Here are six facts about Hong Kong that sound fake but are true, and each one is stranger than the last.",
+   "emoji": "6️⃣",
+   "headline": "Six True Facts",
+   "stat": "6",
+   "sub": "",
+   "visual_query": "Hong Kong skyline"
+  },
+  {
+   "narration": "The final one explains the street, and it starts with a rental deal signed more than a hundred years ago.",
+   "emoji": "📜",
+   "headline": "A Rental Deal",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old treaty document"
+  },
+  {
+   "narration": "But first, let us start with a border that sits inside a single country, and why you still need papers.",
+   "emoji": "🛂",
+   "headline": "Start At The Border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hong Kong Shenzhen border"
+  },
+  {
+   "narration": "Fact one: Hong Kong is part of China, yet travellers still go through border control between the two.",
+   "emoji": "🛃",
+   "headline": "A Border Inside China",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lo Wu border control"
+  },
+  {
+   "narration": "Officers check your travel documents on the way in and on the way out, just like at an airport.",
+   "emoji": "📄",
+   "headline": "Papers Please",
+   "stat": "",
+   "sub": "",
+   "visual_query": "immigration checkpoint passport"
+  },
+  {
+   "narration": "Hong Kong runs its own immigration system, and even mainland Chinese citizens need a special permit to visit.",
+   "emoji": "🪪",
+   "headline": "Own Immigration",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hong Kong immigration counter"
+  },
+  {
+   "narration": "Along that border runs a strip of land called the Frontier Closed Area, which was set up in 1951.",
+   "emoji": "🚫",
+   "headline": "Frontier Closed Area",
+   "stat": "1951",
+   "sub": "",
+   "visual_query": "Frontier Closed Area Hong Kong"
+  },
+  {
+   "narration": "For decades, you needed a permit to enter large parts of it, and Sha Tau Kok sat inside it.",
+   "emoji": "🔒",
+   "headline": "Permit Needed",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sha Tau Kok town"
+  },
+  {
+   "narration": "Chung Ying Street was in that closed zone too, so visitors needed permission just to walk its length.",
+   "emoji": "🚶",
+   "headline": "Closed To Visitors",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chung Ying Street shops"
+  },
+  {
+   "narration": "The name Chung Ying means China and Britain. It is literally the China-Britain Street.",
+   "emoji": "🇨🇳",
+   "headline": "China-Britain Street",
+   "stat": "",
+   "sub": "中英街",
+   "visual_query": "Chung Ying Street sign"
+  },
+  {
+   "narration": "Keep that name in mind, because it is the biggest clue to the surprise at the end.",
+   "emoji": "🔑",
+   "headline": "Remember The Name",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chung Ying Street boundary"
+  },
+  {
+   "narration": "Fact two: the money in your pocket changes the moment you cross, even though it is the same country.",
+   "emoji": "💱",
+   "headline": "Two Kinds Of Money",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hong Kong dollar banknotes"
+  },
+  {
+   "narration": "Hong Kong has its own currency, the Hong Kong dollar, printed on its own banknotes.",
+   "emoji": "💵",
+   "headline": "Hong Kong Dollar",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hong Kong dollar notes"
+  },
+  {
+   "narration": "The mainland uses the yuan, so two different kinds of money circulate in one country.",
+   "emoji": "🪙",
+   "headline": "Yuan Next Door",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chinese yuan banknotes"
+  },
+  {
+   "narration": "Hong Kong also issues its own passport, which is separate from the mainland Chinese passport.",
+   "emoji": "📘",
+   "headline": "Its Own Passport",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hong Kong SAR passport"
+  },
+  {
+   "narration": "It has its own courts and its own laws on many matters, under a plan called one country, two systems.",
+   "emoji": "⚖️",
+   "headline": "One Country, Two Systems",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hong Kong Court of Final Appeal"
+  },
+  {
+   "narration": "That promise is written in Hong Kong's Basic Law, which says the system stays for fifty years after 1997.",
+   "emoji": "📕",
+   "headline": "Fifty Year Promise",
+   "stat": "50",
+   "sub": "years after 1997",
+   "visual_query": "Hong Kong 1997 handover"
+  },
+  {
+   "narration": "Fifty years after 1997 is 2047, so that is a date people there keep in mind.",
+   "emoji": "📅",
+   "headline": "The Year 2047",
+   "stat": "2047",
+   "sub": "",
+   "visual_query": "calendar year 2047"
+  },
+  {
+   "narration": "And the street from the start is the exact place on the ground where those two systems meet.",
+   "emoji": "📍",
+   "headline": "Where They Meet",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chung Ying Street border"
+  },
+  {
+   "narration": "Hold on to that. Next, we leave politics and look at daily life, which is just as odd.",
+   "emoji": "➡️",
+   "headline": "Daily Life Next",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hong Kong street crowd"
+  },
+  {
+   "narration": "Fact three: a free outdoor escalator in Hong Kong changes direction depending on the time of day.",
+   "emoji": "🛗",
+   "headline": "The Flipping Escalator",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mid-Levels escalator Hong Kong"
+  },
+  {
+   "narration": "It is the Central to Mid-Levels escalator on Hong Kong Island, and the whole system is about 800 metres long.",
+   "emoji": "📏",
+   "headline": "About 800 Metres",
+   "stat": "800 m",
+   "sub": "",
+   "visual_query": "Central Mid-Levels escalator"
+  },
+  {
+   "narration": "In the morning rush it runs downhill, so people living on the slope can ride down to work.",
+   "emoji": "⬇️",
+   "headline": "Downhill In The Morning",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hong Kong escalator morning"
+  },
+  {
+   "narration": "Later in the day it flips and carries people uphill towards their homes.",
+   "emoji": "⬆️",
+   "headline": "Uphill Later",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hong Kong escalator evening"
+  },
+  {
+   "narration": "It is often described as the longest covered outdoor escalator system in the world.",
+   "emoji": "🏆",
+   "headline": "A World Record Claim",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hong Kong covered escalator"
+  },
+  {
+   "narration": "Now look at the taxis. In Hong Kong, the colour of the taxi tells you where it works.",
+   "emoji": "🚕",
+   "headline": "Colour-Coded Taxis",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hong Kong red taxi"
+  },
+  {
+   "narration": "Red taxis cover the main urban areas, green taxis serve the New Territories, and blue taxis serve Lantau Island.",
+   "emoji": "🟥",
+   "headline": "Red, Green, Blue",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hong Kong taxi colours"
+  },
+  {
+   "narration": "So the paint on the car works like a map you can hail.",
+   "emoji": "🗺️",
+   "headline": "A Map On Wheels",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hong Kong green taxi"
+  },
+  {
+   "narration": "Now the clock. Hong Kong runs two and a half hours ahead of India, so noon in Delhi is 2:30 there.",
+   "emoji": "🕐",
+   "headline": "2.5 Hours Ahead",
+   "stat": "+2:30",
+   "sub": "vs India",
+   "visual_query": "world clock India Hong Kong"
+  },
+  {
+   "narration": "And Hong Kong shares its time with Beijing, so crossing at Sha Tau Kok does not change the hour at all.",
+   "emoji": "⏰",
+   "headline": "Same Time As Beijing",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Beijing clock tower"
+  },
+  {
+   "narration": "So the street splits the laws, the money and the paperwork, but not the time.",
+   "emoji": "✂️",
+   "headline": "Not The Time",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chung Ying Street people"
+  },
+  {
+   "narration": "The next place was so crowded that it became a legend, and today it no longer exists.",
+   "emoji": "🏚️",
+   "headline": "A Place That Vanished",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kowloon Walled City"
+  },
+  {
+   "narration": "Fact four: Hong Kong once had a walled neighbourhood where the government hardly governed.",
+   "emoji": "🧱",
+   "headline": "The Walled City",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kowloon Walled City aerial"
+  },
+  {
+   "narration": "It was Kowloon Walled City, a small old fort that grew into one of the most crowded places ever built.",
+   "emoji": "🏙️",
+   "headline": "Kowloon Walled City",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kowloon Walled City buildings"
+  },
+  {
+   "narration": "The 1898 deal let Chinese officials stay inside the fort, but within a year Britain pushed them out.",
+   "emoji": "📜",
+   "headline": "Pushed Out In 1899",
+   "stat": "1898",
+   "sub": "",
+   "visual_query": "Kowloon Walled City history"
+  },
+  {
+   "narration": "After that, its legal status stayed murky for decades, and nobody fully took charge of what happened inside.",
+   "emoji": "❓",
+   "headline": "Nobody In Charge",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kowloon Walled City alley"
+  },
+  {
+   "narration": "People kept building upward without a plan until the fort was packed with thousands of homes, shops and workshops.",
+   "emoji": "🏗️",
+   "headline": "Built Without A Plan",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kowloon Walled City interior"
+  },
+  {
+   "narration": "The alleys were so narrow and shaded that residents relied on electric lights even during the day.",
+   "emoji": "💡",
+   "headline": "Lights At Noon",
+   "stat": "",
+   "sub": "",
+   "visual_query": "narrow alley Hong Kong"
+  },
+  {
+   "narration": "Hong Kong tore it down in 1993 and 1994, and the people who lived there were moved out.",
+   "emoji": "🏗️",
+   "headline": "Torn Down",
+   "stat": "1993",
+   "sub": "",
+   "visual_query": "Kowloon Walled City demolition"
+  },
+  {
+   "narration": "Today a quiet garden called Kowloon Walled City Park sits on that very spot.",
+   "emoji": "🌳",
+   "headline": "Now A Quiet Park",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kowloon Walled City Park"
+  },
+  {
+   "narration": "The fort's old government building still stands inside the park, so you can walk where it all happened.",
+   "emoji": "🏛️",
+   "headline": "Old Building Remains",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kowloon Walled City Park yamen"
+  },
+  {
+   "narration": "If you enjoy strange places and facts that sound fake but are true, subscribe, because more like this are coming.",
+   "emoji": "🔔",
+   "headline": "Subscribe For More",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map globe"
+  },
+  {
+   "narration": "Now for something Indian viewers will recognise, right in the middle of a glass-and-steel skyline.",
+   "emoji": "🇮🇳",
+   "headline": "An Indian Link",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hong Kong Nathan Road"
+  },
+  {
+   "narration": "Fact five: Hong Kong has a South Asian side that most postcards never show.",
+   "emoji": "🌏",
+   "headline": "South Asian Hong Kong",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Tsim Sha Tsui street"
+  },
+  {
+   "narration": "In Tsim Sha Tsui stands Chungking Mansions, a huge building packed with shops, guesthouses and curry restaurants.",
+   "emoji": "🏢",
+   "headline": "Chungking Mansions",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chungking Mansions Hong Kong"
+  },
+  {
+   "narration": "Inside you can find Indian food, phone shops and traders who have come from many countries.",
+   "emoji": "🍛",
+   "headline": "Curry Under One Roof",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chungking Mansions restaurant"
+  },
+  {
+   "narration": "It sits right on one of the busiest shopping streets in the city, which makes the contrast sharper.",
+   "emoji": "🛍️",
+   "headline": "Busy Shopping Street",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nathan Road Hong Kong"
+  },
+  {
+   "narration": "Across the harbour in Wan Chai, there is a gurdwara called the Khalsa Diwan Sikh Temple, over a century old.",
+   "emoji": "🙏",
+   "headline": "A Gurdwara In Wan Chai",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Khalsa Diwan Sikh Temple Hong Kong"
+  },
+  {
+   "narration": "Many Sikhs first came to Hong Kong during British rule, working in the police and as guards.",
+   "emoji": "💂",
+   "headline": "Came Under British Rule",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sikh police Hong Kong history"
+  },
+  {
+   "narration": "So the same city that hosts a split street also hosts langar, samosas and Hindi conversations on the pavement.",
+   "emoji": "🥟",
+   "headline": "Samosas And Skyscrapers",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Indian food Hong Kong"
+  },
+  {
+   "narration": "That mixture comes from the same history as the street: Britain, China and trade, all colliding in one place.",
+   "emoji": "⚓",
+   "headline": "One Shared History",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Victoria Harbour old ships"
+  },
+  {
+   "narration": "Which brings us to the final fact, the one that explains Chung Ying Street, and it is the strangest of all.",
+   "emoji": "🔥",
+   "headline": "The Strangest One",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chung Ying Street boundary stone"
+  },
+  {
+   "narration": "Fact six: a street was split because of a rental agreement, and that agreement ended long ago.",
+   "emoji": "🏠",
+   "headline": "A Rental Agreement",
+   "stat": "",
+   "sub": "",
+   "visual_query": "lease agreement old document"
+  },
+  {
+   "narration": "In 1842, after the First Opium War, China gave Hong Kong Island to Britain under the Treaty of Nanking.",
+   "emoji": "🏝️",
+   "headline": "1842: The Island",
+   "stat": "1842",
+   "sub": "",
+   "visual_query": "Treaty of Nanking signing"
+  },
+  {
+   "narration": "In 1860, Britain also took the Kowloon peninsula, the area just across the water from the island.",
+   "emoji": "🗺️",
+   "headline": "1860: Kowloon",
+   "stat": "1860",
+   "sub": "",
+   "visual_query": "Kowloon peninsula old map"
+  },
+  {
+   "narration": "Then in 1898, Britain signed a lease for a much larger area north of Kowloon, called the New Territories.",
+   "emoji": "✍️",
+   "headline": "1898: New Territories",
+   "stat": "1898",
+   "sub": "",
+   "visual_query": "New Territories Hong Kong map"
+  },
+  {
+   "narration": "The lease ran for 99 years, which means it was due to end in 1997.",
+   "emoji": "⏳",
+   "headline": "A 99 Year Lease",
+   "stat": "99",
+   "sub": "years",
+   "visual_query": "Hong Kong 1997 handover ceremony"
+  },
+  {
+   "narration": "Sha Tau Kok sits at the northern edge of that leased land, right where it met the rest of China.",
+   "emoji": "📍",
+   "headline": "The Northern Edge",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sha Tau Kok map"
+  },
+  {
+   "narration": "At the village there, the dividing line ran straight down a narrow street, with houses on both sides.",
+   "emoji": "🏘️",
+   "headline": "A Line Down The Street",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sha Tau Kok village street"
+  },
+  {
+   "narration": "So stone markers were placed in the middle of the road, and they have stood there since the 1890s.",
+   "emoji": "🪨",
+   "headline": "Markers Since The 1890s",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chung Ying Street boundary stones"
+  },
+  {
+   "narration": "On one side was British Hong Kong. On the other side, the Chinese mainland.",
+   "emoji": "↔️",
+   "headline": "Britain Or China",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chung Ying Street border line"
+  },
+  {
+   "narration": "People living on that street could step from one rule book to another by crossing the road.",
+   "emoji": "🚸",
+   "headline": "Cross The Road",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chung Ying Street pedestrians"
+  },
+  {
+   "narration": "Then came 1997, and here is the twist: Britain gave back not just the leased land, but all of Hong Kong.",
+   "emoji": "🎆",
+   "headline": "1997: Everything Returned",
+   "stat": "1997",
+   "sub": "",
+   "visual_query": "Hong Kong handover 1997 fireworks"
+  },
+  {
+   "narration": "That includes the island and Kowloon, which Britain had taken in the earlier treaties, not through a lease.",
+   "emoji": "🏙️",
+   "headline": "Even The Island",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hong Kong Island Victoria Peak"
+  },
+  {
+   "narration": "So the lease ended, the colony ended, and you would expect the dividing line on the street to vanish.",
+   "emoji": "🤔",
+   "headline": "Should Have Vanished",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chung Ying Street museum"
+  },
+  {
+   "narration": "It did not. Hong Kong stayed a separate system, so the same stones in the road still mark a boundary.",
+   "emoji": "✅",
+   "headline": "The Line Stayed",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chung Ying Street stone marker"
+  },
+  {
+   "narration": "That is why Chung Ying Street, the China-Britain Street, is still split between two systems today.",
+   "emoji": "🛣️",
+   "headline": "Still Split Today",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chung Ying Street Sha Tau Kok"
+  },
+  {
+   "narration": "A line that began as the edge of a rental deal now separates two sets of rules, a few steps apart.",
+   "emoji": "👣",
+   "headline": "A Few Steps Apart",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hong Kong border stone road"
+  },
+  {
+   "narration": "For years you needed a permit to enter, because the whole area was a closed zone.",
+   "emoji": "🔒",
+   "headline": "A Closed Zone",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sha Tau Kok closed area checkpoint"
+  },
+  {
+   "narration": "So that is the answer: a street, a rental agreement from 1898, and a line that outlived its lease.",
+   "emoji": "💡",
+   "headline": "The Answer",
+   "stat": "1898",
+   "sub": "",
+   "visual_query": "Chung Ying Street Hong Kong"
+  },
+  {
+   "narration": "To recap: a border inside one country, two kinds of money, an escalator that flips, and a vanished walled city.",
+   "emoji": "📝",
+   "headline": "Quick Recap",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hong Kong Mid-Levels escalator"
+  },
+  {
+   "narration": "Add a gurdwara beside skyscrapers, and a street where one footstep takes you from Hong Kong into mainland China.",
+   "emoji": "🌆",
+   "headline": "One Footstep",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chung Ying Street border markers"
+  },
+  {
+   "narration": "Tomorrow, we visit a country that sits completely inside another country, and look at how that works.",
+   "emoji": "➡️",
+   "headline": "Tomorrow: Inside Another",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lesotho mountains"
+  }
+ ]
+}

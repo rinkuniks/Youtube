@@ -1,0 +1,85 @@
+{
+ "category": "geography",
+ "topic": "Zhangjiajie Avatar mountains",
+ "hook": "Your view here looks like Avatar's floating mountains.",
+ "title": "These Avatar Mountains Are Real",
+ "description": "These sandstone pillars are in Zhangjiajie, China, and they inspired the floating mountains in the film Avatar. One pillar was even renamed Avatar Hallelujah Mountain. Nothing floats, but the clouds make it look like it does.\n\n#Shorts #China #PlacesThatShouldntExist",
+ "tags": [
+  "zhangjiajie",
+  "avatar mountains",
+  "china",
+  "hallelujah mountain",
+  "travel",
+  "geography facts",
+  "places that shouldn't exist",
+  "shorts"
+ ],
+ "comment_prompt": "Would you visit? Yes or no",
+ "hook_banner": "THIS PLACE IS REAL",
+ "scenes": [
+  {
+   "narration": "Your view here looks like Avatar's floating mountains.",
+   "emoji": "🏔️",
+   "headline": "AVATAR MOUNTAINS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Zhangjiajie pillars clouds"
+  },
+  {
+   "narration": "These are real sandstone pillars in China.",
+   "emoji": "🇨🇳",
+   "headline": "REAL, IN CHINA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Zhangjiajie sandstone pillars"
+  },
+  {
+   "narration": "They're in Zhangjiajie, wrapped in cloud.",
+   "emoji": "☁️",
+   "headline": "WRAPPED IN CLOUD",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Zhangjiajie fog forest"
+  },
+  {
+   "narration": "Thousands of them rise straight up.",
+   "emoji": "⛰️",
+   "headline": "THOUSANDS OF PILLARS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Wulingyuan pillars aerial"
+  },
+  {
+   "narration": "Filmmakers used them as inspiration for Pandora.",
+   "emoji": "🎬",
+   "headline": "INSPIRED PANDORA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Avatar floating mountains"
+  },
+  {
+   "narration": "One pillar was renamed Avatar Hallelujah Mountain.",
+   "emoji": "🪧",
+   "headline": "RENAMED AFTER AVATAR",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Avatar Hallelujah Mountain"
+  },
+  {
+   "narration": "Nothing floats, the clouds just hide the base.",
+   "emoji": "🌫️",
+   "headline": "CLOUDS HIDE THE BASE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "mist mountain pillars"
+  },
+  {
+   "narration": "Your Avatar view is real, and it's in China.",
+   "emoji": "🏔️",
+   "headline": "IT'S REAL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Zhangjiajie national forest park"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "category": "space",
+ "topic": "Crying in space",
+ "hook": "If you cried in space, your tears would not fall.",
+ "title": "Your Tears Won't Fall In Space",
+ "description": "In microgravity there is nothing to pull tears down your face. They cling to the eye and gather into a wobbling liquid ball. Astronaut Chris Hadfield showed this on the International Space Station.\n\n#Shorts #Space #ISS",
+ "tags": [
+  "crying in space",
+  "astronaut",
+  "ISS",
+  "microgravity",
+  "Chris Hadfield",
+  "space facts",
+  "if you were in space",
+  "shorts"
+ ],
+ "comment_prompt": "Would you want to try it? Yes or no",
+ "hook_banner": "IF YOU WERE IN SPACE",
+ "scenes": [
+  {
+   "narration": "If you cried in space, tears would not fall.",
+   "emoji": "😢",
+   "headline": "Tears Don't Fall",
+   "stat": "",
+   "sub": "If You Were in Space",
+   "visual_query": "astronaut floating ISS"
+  },
+  {
+   "narration": "With no gravity pulling down, they cling to your eyes.",
+   "emoji": "👁️",
+   "headline": "Tears Cling On",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut face microgravity"
+  },
+  {
+   "narration": "They gather into a wobbling liquid ball.",
+   "emoji": "💧",
+   "headline": "A Ball Of Tears",
+   "stat": "",
+   "sub": "",
+   "visual_query": "water ball space station"
+  },
+  {
+   "narration": "The ball keeps growing as you keep crying.",
+   "emoji": "🔵",
+   "headline": "The Ball Grows",
+   "stat": "",
+   "sub": "",
+   "visual_query": "floating water bubble ISS"
+  },
+  {
+   "narration": "Astronaut Chris Hadfield showed this on the space station.",
+   "emoji": "🧑‍🚀",
+   "headline": "Shown On The ISS",
+   "stat": "",
+   "sub": "Chris Hadfield",
+   "visual_query": "Chris Hadfield ISS"
+  },
+  {
+   "narration": "The tears stay stuck until you wipe them off.",
+   "emoji": "🖐️",
+   "headline": "Stuck Until Wiped",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut wiping face"
+  },
+  {
+   "narration": "In space, crying never really falls.",
+   "emoji": "🚀",
+   "headline": "Tears Float",
+   "stat": "",
+   "sub": "",
+   "visual_query": "International Space Station"
+  },
+  {
+   "narration": "Next: your camera sees through black plastic.",
+   "emoji": "📱",
+   "headline": "Up Next",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone camera bulb"
+  }
+ ]
+}

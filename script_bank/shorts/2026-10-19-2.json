@@ -1,0 +1,94 @@
+{
+ "category": "geography",
+ "topic": "Kaliningrad exclave",
+ "hook": "Your map shows a piece of Russia between Poland and Lithuania.",
+ "title": "Russia's Territory Cut Off From Russia",
+ "description": "Kaliningrad is a Russian region with no land link to the rest of Russia. Poland and Lithuania sit on its borders, and the Baltic Sea is on the other side. Part of the Places That Shouldn't Exist series.\n\n#Shorts #Geography #PlacesThatShouldntExist",
+ "tags": [
+  "kaliningrad",
+  "geography facts",
+  "exclave",
+  "russia",
+  "poland",
+  "lithuania",
+  "map facts",
+  "places that shouldn't exist",
+  "shorts"
+ ],
+ "comment_prompt": "Would you visit Kaliningrad? Yes or no",
+ "hook_banner": "CHECK YOUR MAP",
+ "scenes": [
+  {
+   "narration": "Your map shows Russia between Poland and Lithuania.",
+   "emoji": "🗺️",
+   "headline": "RUSSIA, BETWEEN EUROPE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kaliningrad map"
+  },
+  {
+   "narration": "That piece is called Kaliningrad.",
+   "emoji": "📍",
+   "headline": "KALININGRAD",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kaliningrad city"
+  },
+  {
+   "narration": "It touches no other part of Russia.",
+   "emoji": "🧱",
+   "headline": "CUT OFF",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Russia exclave map"
+  },
+  {
+   "narration": "Poland is on one side, Lithuania on the other.",
+   "emoji": "🇵🇱",
+   "headline": "POLAND + LITHUANIA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Poland Lithuania border"
+  },
+  {
+   "narration": "The Baltic Sea closes the third side.",
+   "emoji": "🌊",
+   "headline": "THE BALTIC SEA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baltic Sea coast"
+  },
+  {
+   "narration": "By land, Russia must cross other countries to reach it.",
+   "emoji": "🇷🇺",
+   "headline": "CUT OFF BY LAND",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kaliningrad border map"
+  },
+  {
+   "narration": "Kaliningrad is still cut off today.",
+   "emoji": "✂️",
+   "headline": "STILL CUT OFF",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kaliningrad cathedral"
+  },
+  {
+   "narration": "So yes, Russia sits between Poland and Lithuania.",
+   "emoji": "🔁",
+   "headline": "REAL AND TRUE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kaliningrad map"
+  },
+  {
+   "narration": "Tomorrow: a Spanish town inside France.",
+   "emoji": "➡️",
+   "headline": "NEXT: SPAIN IN FRANCE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pyrenees village"
+  }
+ ]
+}

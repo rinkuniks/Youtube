@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Zinnia flowers bloomed on the ISS",
+ "hook": "Your zinnia flowers once bloomed in space.",
+ "title": "A Flower Bloomed on the Space Station",
+ "description": "In 2016, zinnia flowers bloomed on the ISS. They were grown in a plant chamber, and astronaut Scott Kelly shared the photos. The orange flower in the pictures is real.\n\n#Shorts #Space #ISS",
+ "tags": [
+  "zinnia",
+  "flower in space",
+  "Scott Kelly",
+  "ISS",
+  "space garden",
+  "NASA",
+  "space facts",
+  "plants in space"
+ ],
+ "comment_prompt": "Would you farm in space? Yes or no",
+ "hook_banner": "REAL SPACE FLOWER",
+ "scenes": [
+  {
+   "narration": "Your zinnia flowers once bloomed in space.",
+   "emoji": "🌼",
+   "headline": "FLOWER IN ORBIT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "zinnia flower ISS"
+  },
+  {
+   "narration": "This happened on the space station in 2016.",
+   "emoji": "🛰️",
+   "headline": "ISS, 2016",
+   "stat": "2016",
+   "sub": "",
+   "visual_query": "International Space Station"
+  },
+  {
+   "narration": "They grew inside a small plant chamber.",
+   "emoji": "🌱",
+   "headline": "PLANT CHAMBER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Veggie plant growth ISS"
+  },
+  {
+   "narration": "No soil from Earth, no normal gravity.",
+   "emoji": "🌍",
+   "headline": "NO GRAVITY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "plants growing in space"
+  },
+  {
+   "narration": "Astronaut Scott Kelly shared the photos.",
+   "emoji": "📸",
+   "headline": "SCOTT KELLY'S PHOTOS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Scott Kelly astronaut"
+  },
+  {
+   "narration": "That bright orange flower is real.",
+   "emoji": "🧡",
+   "headline": "ORANGE AND REAL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "orange zinnia"
+  },
+  {
+   "narration": "It bloomed hundreds of kilometres above Earth.",
+   "emoji": "🌌",
+   "headline": "ABOVE EARTH",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Earth from space station"
+  },
+  {
+   "narration": "So yes, your zinnia flowers bloomed in space.",
+   "emoji": "🌼",
+   "headline": "FLOWER IN ORBIT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "zinnia bloom"
+  },
+  {
+   "narration": "Tomorrow: another place that looks fake.",
+   "emoji": "🗺️",
+   "headline": "NEXT UP",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map globe"
+  }
+ ]
+}

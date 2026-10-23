@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Bolivia's two capitals",
+ "hook": "Your map of Bolivia shows two capitals.",
+ "title": "Bolivia Has Two Capitals",
+ "description": "Bolivia's constitutional capital is Sucre, and the courts sit there. La Paz is where the president and congress work. So both cities have a real claim to being the capital.\n\n#Shorts #Bolivia #Geography",
+ "tags": [
+  "Bolivia",
+  "Sucre",
+  "La Paz",
+  "two capitals",
+  "geography facts",
+  "South America",
+  "capital cities",
+  "shorts"
+ ],
+ "comment_prompt": "Sucre or La Paz? Pick one",
+ "hook_banner": "TWO CAPITALS, ONE COUNTRY",
+ "scenes": [
+  {
+   "narration": "Your map of Bolivia shows two capitals.",
+   "emoji": "🗺️",
+   "headline": "Two Capitals",
+   "stat": "2",
+   "sub": "",
+   "visual_query": "Bolivia map"
+  },
+  {
+   "narration": "Sucre is the constitutional capital.",
+   "emoji": "📜",
+   "headline": "Sucre",
+   "stat": "",
+   "sub": "Constitutional capital",
+   "visual_query": "Sucre Bolivia"
+  },
+  {
+   "narration": "The country's highest court sits there.",
+   "emoji": "⚖️",
+   "headline": "Courts In Sucre",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sucre white buildings"
+  },
+  {
+   "narration": "But La Paz is where the government sits.",
+   "emoji": "🏛️",
+   "headline": "La Paz",
+   "stat": "",
+   "sub": "Seat of government",
+   "visual_query": "La Paz Bolivia"
+  },
+  {
+   "narration": "The president and congress work in La Paz.",
+   "emoji": "🏢",
+   "headline": "Government In La Paz",
+   "stat": "",
+   "sub": "",
+   "visual_query": "La Paz city skyline"
+  },
+  {
+   "narration": "Many people simply call La Paz the capital.",
+   "emoji": "🌆",
+   "headline": "Which Is The Capital?",
+   "stat": "",
+   "sub": "",
+   "visual_query": "La Paz cable car"
+  },
+  {
+   "narration": "Both claims are real and both are official.",
+   "emoji": "✅",
+   "headline": "Both Are Real",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bolivia flag"
+  },
+  {
+   "narration": "So yes, Bolivia has two capitals.",
+   "emoji": "🇧🇴",
+   "headline": "Two Capitals",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bolivia landscape"
+  },
+  {
+   "narration": "Next: what happens if you cry in space.",
+   "emoji": "🚀",
+   "headline": "Up Next",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut space station"
+  }
+ ]
+}

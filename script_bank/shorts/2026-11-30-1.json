@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Mumbai seven islands",
+ "hook": "Your map of Mumbai hides seven separate islands.",
+ "title": "Mumbai Was Seven Islands, Not One City",
+ "description": "Mumbai was once a group of seven separate islands. Land reclamation slowly joined them into the single city on the coast. Colaba, Mazagaon, Worli, Mahim and Parel are among the old island names. Part of the series Places That Shouldn't Exist.\n\n#Shorts #Mumbai #Geography",
+ "tags": [
+  "mumbai",
+  "seven islands of bombay",
+  "land reclamation",
+  "india geography",
+  "mumbai history",
+  "colaba",
+  "worli",
+  "places that shouldn't exist"
+ ],
+ "comment_prompt": "Which Mumbai area is yours? Name it",
+ "hook_banner": "MUMBAI ISN'T ONE LAND",
+ "scenes": [
+  {
+   "narration": "Your map of Mumbai hides seven separate islands.",
+   "emoji": "🏝️",
+   "headline": "SEVEN ISLANDS",
+   "stat": "7",
+   "sub": "",
+   "visual_query": "Mumbai aerial coastline"
+  },
+  {
+   "narration": "Long ago, they really were seven islands.",
+   "emoji": "🌊",
+   "headline": "ONCE SEPARATE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old Bombay map islands"
+  },
+  {
+   "narration": "Sea water flowed between them.",
+   "emoji": "💧",
+   "headline": "WATER BETWEEN THEM",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mumbai Mahim creek"
+  },
+  {
+   "narration": "Land reclamation slowly joined them together.",
+   "emoji": "🏗️",
+   "headline": "LAND RECLAMATION",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mumbai coastal construction"
+  },
+  {
+   "narration": "Today they form one single city.",
+   "emoji": "🏙️",
+   "headline": "ONE CITY NOW",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mumbai skyline Marine Drive"
+  },
+  {
+   "narration": "Colaba, Mahim and Parel were once islands.",
+   "emoji": "📍",
+   "headline": "COLABA, MAHIM, PAREL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Colaba Gateway of India"
+  },
+  {
+   "narration": "The city you know is stitched-together land.",
+   "emoji": "🧵",
+   "headline": "STITCHED TOGETHER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mumbai Worli sea link"
+  },
+  {
+   "narration": "Seven islands, one coastline.",
+   "emoji": "🌅",
+   "headline": "SEVEN BECAME ONE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mumbai sunset coast"
+  },
+  {
+   "narration": "Tomorrow: another map that lies to you.",
+   "emoji": "➡️",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "Another map twist",
+   "visual_query": "world map globe"
+  }
+ ]
+}

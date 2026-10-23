@@ -1,0 +1,85 @@
+{
+ "category": "space",
+ "topic": "Voyager Golden Record Indian content",
+ "hook": "Your Hindi, Tamil, Telugu and Bengali greetings are flying through space.",
+ "title": "Indian Languages Are Flying Through Space",
+ "description": "The Voyager Golden Record carries greetings in 55 languages, including Hindi, Tamil, Telugu and Bengali. It also holds Indian classical music by Kesarbai Kerkar. The Voyager probes launched in 1977 and carry it into interstellar space.\n\n#Shorts #Space #Voyager",
+ "tags": [
+  "voyager golden record",
+  "voyager",
+  "space facts",
+  "kesarbai kerkar",
+  "indian languages in space",
+  "hindi",
+  "tamil",
+  "shorts"
+ ],
+ "comment_prompt": "Which language would you record? One word",
+ "hook_banner": "INDIA IS IN SPACE",
+ "scenes": [
+  {
+   "narration": "Your Hindi, Tamil, Telugu and Bengali greetings are flying through space.",
+   "emoji": "🚀",
+   "headline": "INDIAN VOICES IN SPACE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Voyager Golden Record"
+  },
+  {
+   "narration": "It's the Voyager Golden Record.",
+   "emoji": "💿",
+   "headline": "THE GOLDEN RECORD",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Voyager spacecraft"
+  },
+  {
+   "narration": "Voyager launched in 1977.",
+   "emoji": "📅",
+   "headline": "LAUNCHED 1977",
+   "stat": "1977",
+   "sub": "",
+   "visual_query": "Voyager launch rocket"
+  },
+  {
+   "narration": "The record carries greetings in 55 languages.",
+   "emoji": "🗣️",
+   "headline": "55 LANGUAGES",
+   "stat": "55",
+   "sub": "greetings",
+   "visual_query": "Golden Record cover diagram"
+  },
+  {
+   "narration": "Several of them are Indian languages.",
+   "emoji": "🇮🇳",
+   "headline": "INDIAN LANGUAGES ABOARD",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India languages script"
+  },
+  {
+   "narration": "It also holds Indian classical music.",
+   "emoji": "🎼",
+   "headline": "INDIAN CLASSICAL MUSIC",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Indian classical singer"
+  },
+  {
+   "narration": "The singer is Kesarbai Kerkar.",
+   "emoji": "🎤",
+   "headline": "KESARBAI KERKAR",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kesarbai Kerkar"
+  },
+  {
+   "narration": "Your languages are still travelling through space.",
+   "emoji": "🔁",
+   "headline": "STILL TRAVELLING",
+   "stat": "",
+   "sub": "Tomorrow: a hidden game in Chrome",
+   "visual_query": "Voyager probe deep space"
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Tromsø midnight sun",
+ "hook": "Your clock says midnight, and the sun is up.",
+ "title": "Midnight on Your Clock, Sun in the Sky",
+ "description": "In Tromsø, Norway, the sun does not set for roughly two months in summer. The city sits north of the Arctic Circle, and Earth's tilt keeps it facing the sun. Midnight can look like noon.\n\n#Shorts #MidnightSun #Norway",
+ "tags": [
+  "tromso",
+  "midnight sun",
+  "norway",
+  "arctic circle",
+  "geography facts",
+  "places that shouldn't exist",
+  "shorts",
+  "sun never sets"
+ ],
+ "comment_prompt": "Could you sleep here? Yes or no",
+ "hook_banner": "SUN AT MIDNIGHT",
+ "scenes": [
+  {
+   "narration": "Your clock says midnight, and the sun is up.",
+   "emoji": "🕛",
+   "headline": "MIDNIGHT. SUN UP.",
+   "stat": "",
+   "sub": "",
+   "visual_query": "midnight sun Tromso"
+  },
+  {
+   "narration": "This is Tromsø, in Norway.",
+   "emoji": "🇳🇴",
+   "headline": "TROMSØ, NORWAY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Tromso Norway city"
+  },
+  {
+   "narration": "For roughly two months, it never sets.",
+   "emoji": "☀️",
+   "headline": "NO SUNSET",
+   "stat": "~2 months",
+   "sub": "In summer",
+   "visual_query": "sun over Arctic sea"
+  },
+  {
+   "narration": "No sunset, no dark sky, no night.",
+   "emoji": "🌅",
+   "headline": "NO NIGHT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "bright sky midnight Norway"
+  },
+  {
+   "narration": "Locals can hike in daylight at midnight.",
+   "emoji": "🥾",
+   "headline": "MIDNIGHT HIKE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "hikers midnight sun"
+  },
+  {
+   "narration": "Tromsø sits north of the Arctic Circle.",
+   "emoji": "🧭",
+   "headline": "ARCTIC CIRCLE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Arctic Circle sign"
+  },
+  {
+   "narration": "Earth's tilt keeps it facing the sun.",
+   "emoji": "🌍",
+   "headline": "EARTH'S TILT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Earth tilt sun diagram"
+  },
+  {
+   "narration": "Midnight on the clock, daylight in the sky.",
+   "emoji": "🕛",
+   "headline": "MIDNIGHT DAYLIGHT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "midnight sun harbor"
+  },
+  {
+   "narration": "Tomorrow: a waterfall that bleeds.",
+   "emoji": "🩸",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "A waterfall that bleeds",
+   "visual_query": "Blood Falls Antarctica"
+  }
+ ]
+}

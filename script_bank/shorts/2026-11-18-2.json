@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Chadar trek on the frozen Zanskar river",
+ "hook": "Your winter road in Ladakh is a frozen river.",
+ "title": "Your Winter Road Is a Frozen River",
+ "description": "In winter, the Zanskar river in Ladakh freezes over and becomes a walking path. Locals call walking on it the Chadar trek. Part of the Places That Shouldn't Exist series.\n\n#Shorts #Ladakh #Chadar",
+ "tags": [
+  "Ladakh",
+  "Chadar trek",
+  "Zanskar river",
+  "frozen river",
+  "India facts",
+  "geography facts",
+  "places that shouldn't exist",
+  "travel India"
+ ],
+ "comment_prompt": "Would you walk on it? Yes or no",
+ "hook_banner": "A RIVER YOU WALK ON",
+ "scenes": [
+  {
+   "narration": "Your winter road in Ladakh is a frozen river.",
+   "emoji": "🧊",
+   "headline": "A Road Of Ice",
+   "stat": "",
+   "sub": "Ladakh, India",
+   "visual_query": "Chadar trek frozen Zanskar"
+  },
+  {
+   "narration": "The Zanskar river freezes into a white path.",
+   "emoji": "❄️",
+   "headline": "River Turns White",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Zanskar river frozen"
+  },
+  {
+   "narration": "Locals walk on it and call it Chadar.",
+   "emoji": "🥾",
+   "headline": "It's Called Chadar",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chadar trek walkers ice"
+  },
+  {
+   "narration": "Chadar means blanket, a blanket of ice.",
+   "emoji": "🛏️",
+   "headline": "A Blanket Of Ice",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ladakh ice sheet river"
+  },
+  {
+   "narration": "For villagers, this ice was the winter road.",
+   "emoji": "🏔️",
+   "headline": "The Winter Road",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Zanskar valley winter"
+  },
+  {
+   "narration": "Today trekkers walk it too.",
+   "emoji": "🎒",
+   "headline": "Now Trekkers Come",
+   "stat": "",
+   "sub": "",
+   "visual_query": "trekkers frozen river Ladakh"
+  },
+  {
+   "narration": "Every step is on a river, frozen over.",
+   "emoji": "🌊",
+   "headline": "Steps On A River",
+   "stat": "",
+   "sub": "",
+   "visual_query": "walking on frozen river"
+  },
+  {
+   "narration": "Your winter road in Ladakh is a frozen river.",
+   "emoji": "🧊",
+   "headline": "A Road Of Ice",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chadar trek Ladakh"
+  },
+  {
+   "narration": "Next: a staircase thirteen storeys deep.",
+   "emoji": "➡️",
+   "headline": "Next: Stepwell",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chand Baori stepwell"
+  }
+ ]
+}

@@ -1,0 +1,101 @@
+{
+ "category": "technology",
+ "topic": "QR code error correction scribble test",
+ "hook": "Your phone can scan a scribbled-on QR code.",
+ "title": "Scribble on a QR Code. It Still Scans.",
+ "description": "QR codes carry spare repair data, so a phone can often read one that is partly covered or scribbled on. The strongest error-correction setting repairs up to about 30 percent damage, so use a code made with high error correction. Try it with a marker and your phone camera.\n\n#Shorts #Tech #QRCode",
+ "tags": [
+  "qr code",
+  "qr code trick",
+  "phone tricks",
+  "error correction",
+  "tech facts",
+  "android",
+  "iphone",
+  "shorts"
+ ],
+ "comment_prompt": "Did it still scan? Yes or no",
+ "hook_banner": "TRY THIS NOW",
+ "scenes": [
+  {
+   "narration": "Your phone can scan a scribbled-on QR code.",
+   "emoji": "📱",
+   "headline": "Scribbled QR Still Scans",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone scanning QR code"
+  },
+  {
+   "narration": "Grab a marker and draw across one.",
+   "emoji": "🖊️",
+   "headline": "Draw On It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "marker drawing on QR code"
+  },
+  {
+   "narration": "Now point your camera at it.",
+   "emoji": "📷",
+   "headline": "Point Your Camera",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone camera QR code"
+  },
+  {
+   "narration": "It can still open, scribble and all.",
+   "emoji": "✅",
+   "headline": "It Still Opens",
+   "stat": "",
+   "sub": "",
+   "visual_query": "smartphone QR scan success"
+  },
+  {
+   "narration": "QR codes carry spare repair data.",
+   "emoji": "🧩",
+   "headline": "Spare Repair Data",
+   "stat": "",
+   "sub": "",
+   "visual_query": "QR code close up"
+  },
+  {
+   "narration": "Like a sentence with missing letters.",
+   "emoji": "✍️",
+   "headline": "Missing Letters, Still Readable",
+   "stat": "",
+   "sub": "",
+   "visual_query": "handwritten sentence missing letters"
+  },
+  {
+   "narration": "The strongest setting repairs up to thirty percent.",
+   "emoji": "🔧",
+   "headline": "Repairs Up To 30%",
+   "stat": "30%",
+   "sub": "highest setting",
+   "visual_query": "damaged QR code"
+  },
+  {
+   "narration": "Try it on a high-repair code.",
+   "emoji": "🧪",
+   "headline": "Use A High-Repair Code",
+   "stat": "",
+   "sub": "",
+   "visual_query": "QR code generator screen"
+  },
+  {
+   "narration": "Scribbled, and your phone still reads it.",
+   "emoji": "📱",
+   "headline": "Still Reads It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone scanning QR code"
+  },
+  {
+   "narration": "Tomorrow: a road that crosses the sea.",
+   "emoji": "➡️",
+   "headline": "Tomorrow: Road Over Sea",
+   "stat": "",
+   "sub": "",
+   "visual_query": "King Fahd Causeway aerial"
+  }
+ ]
+}

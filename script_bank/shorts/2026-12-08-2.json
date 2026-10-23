@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Nazca Lines",
+ "hook": "Your flight over Peru would show a giant monkey.",
+ "title": "A Giant Monkey Is Drawn Into Peru's Desert",
+ "description": "The Nazca Lines in Peru include a monkey, a hummingbird and a spider drawn into the desert floor. They are around 2,000 years old and are best seen from the air. Part of the Places That Shouldn't Exist series.\n\n#Shorts #Nazca #Peru",
+ "tags": [
+  "Nazca Lines",
+  "Peru",
+  "geoglyphs",
+  "monkey",
+  "hummingbird",
+  "spider",
+  "geography facts",
+  "shorts"
+ ],
+ "comment_prompt": "Monkey or spider? Pick one",
+ "hook_banner": "DRAWN IN THE DESERT",
+ "scenes": [
+  {
+   "narration": "Your flight over Peru would show a giant monkey.",
+   "emoji": "🐒",
+   "headline": "A Giant Monkey",
+   "stat": "",
+   "sub": "Nazca desert, Peru",
+   "visual_query": "Nazca monkey aerial"
+  },
+  {
+   "narration": "It is drawn into the desert floor.",
+   "emoji": "🏜️",
+   "headline": "Drawn In The Ground",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nazca desert Peru"
+  },
+  {
+   "narration": "Nearby: a hummingbird and a spider.",
+   "emoji": "🐦",
+   "headline": "Hummingbird And Spider",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nazca hummingbird aerial"
+  },
+  {
+   "narration": "These Nazca lines are around 2,000 years old.",
+   "emoji": "⏳",
+   "headline": "Around 2,000 Years Old",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nazca spider geoglyph"
+  },
+  {
+   "narration": "From the ground, they look like faint lines.",
+   "emoji": "👣",
+   "headline": "Faint Lines From Ground",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nazca lines ground level"
+  },
+  {
+   "narration": "The shapes are best seen from the air.",
+   "emoji": "✈️",
+   "headline": "Best Seen From Air",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nazca plane flight"
+  },
+  {
+   "narration": "Experts still debate why they were made.",
+   "emoji": "🤔",
+   "headline": "Still Debated",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nazca lines aerial view"
+  },
+  {
+   "narration": "Your window seat gets the best view.",
+   "emoji": "🪟",
+   "headline": "Window Seat View",
+   "stat": "",
+   "sub": "",
+   "visual_query": "airplane window desert"
+  },
+  {
+   "narration": "Tomorrow: a whole town painted blue.",
+   "emoji": "➡️",
+   "headline": "Tomorrow: A Blue Town",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chefchaouen blue street"
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Space shuttle on a Boeing 747",
+ "hook": "Your spaceship used to ride piggyback on a jet.",
+ "title": "Your Spaceship Rode Piggyback On A Jumbo Jet",
+ "description": "NASA really carried the space shuttle orbiter on top of a modified Boeing 747 called the Shuttle Carrier Aircraft. It flew shuttles across the US, and one still sits on top of its jet in Houston. Series: Wait, What? Space.\n\n#Shorts #Space #NASA",
+ "tags": [
+  "space shuttle",
+  "boeing 747",
+  "nasa",
+  "shuttle carrier aircraft",
+  "space facts",
+  "amazing facts",
+  "shorts",
+  "did you know"
+ ],
+ "comment_prompt": "Would you fly under a shuttle? Yes or no",
+ "hook_banner": "A JET CARRIED THIS",
+ "scenes": [
+  {
+   "narration": "Your spaceship used to ride piggyback on a jet.",
+   "emoji": "🚀",
+   "headline": "SHUTTLE ON A JET",
+   "stat": "",
+   "sub": "",
+   "visual_query": "space shuttle on 747"
+  },
+  {
+   "narration": "NASA bolted the orbiter onto a modified Boeing 747.",
+   "emoji": "✈️",
+   "headline": "BOLTED ON TOP",
+   "stat": "",
+   "sub": "",
+   "visual_query": "shuttle carrier aircraft"
+  },
+  {
+   "narration": "It flew across America like that.",
+   "emoji": "🇺🇸",
+   "headline": "ACROSS AMERICA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "747 shuttle flying"
+  },
+  {
+   "narration": "Shuttles often landed in California, far from Florida.",
+   "emoji": "🌤️",
+   "headline": "WRONG COAST",
+   "stat": "",
+   "sub": "",
+   "visual_query": "shuttle landing Edwards"
+  },
+  {
+   "narration": "The jet carried them back to Florida.",
+   "emoji": "🔁",
+   "headline": "RIDE HOME",
+   "stat": "",
+   "sub": "",
+   "visual_query": "shuttle carrier Kennedy"
+  },
+  {
+   "narration": "Its real name: Shuttle Carrier Aircraft.",
+   "emoji": "🏷️",
+   "headline": "REAL JET NAME",
+   "stat": "",
+   "sub": "Shuttle Carrier Aircraft",
+   "visual_query": "shuttle carrier aircraft takeoff"
+  },
+  {
+   "narration": "Today one sits in Houston, shuttle still on top.",
+   "emoji": "📍",
+   "headline": "SEE IT IN HOUSTON",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Independence shuttle Houston"
+  },
+  {
+   "narration": "Yes, a spaceship really rode piggyback on a jet.",
+   "emoji": "🤯",
+   "headline": "TOTALLY REAL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "orbiter on jumbo jet"
+  },
+  {
+   "narration": "Tomorrow: a liquid that grows spikes.",
+   "emoji": "➡️",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "A liquid with spikes",
+   "visual_query": "ferrofluid spikes"
+  }
+ ]
+}

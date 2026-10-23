@@ -1,0 +1,94 @@
+{
+ "category": "geography",
+ "topic": "Mauna Kea taller than Everest base to peak",
+ "hook": "If you measure from the base, Everest loses.",
+ "title": "The Mountain Taller Than Everest",
+ "description": "Measured from its base on the seafloor, Hawaii's Mauna Kea is about 10,200 metres tall, taller than Everest. Only about 4,200 metres of it rises above sea level, so most of the mountain is underwater. Part of the series Places That Shouldn't Exist.\n\n#Shorts #MaunaKea #Geography",
+ "tags": [
+  "mauna kea",
+  "hawaii",
+  "mount everest",
+  "tallest mountain",
+  "geography facts",
+  "volcano",
+  "ocean facts",
+  "places that shouldn't exist",
+  "earth facts"
+ ],
+ "comment_prompt": "Everest or Mauna Kea? Pick one",
+ "hook_banner": "EVEREST LOSES HERE",
+ "scenes": [
+  {
+   "narration": "If you measure from the base, Everest loses.",
+   "emoji": "🏔️",
+   "headline": "Everest Loses",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mount Everest peak"
+  },
+  {
+   "narration": "The winner is Mauna Kea in Hawaii.",
+   "emoji": "🌋",
+   "headline": "Mauna Kea Wins",
+   "stat": "",
+   "sub": "Hawaii",
+   "visual_query": "Mauna Kea Hawaii volcano"
+  },
+  {
+   "narration": "It is about 10,200 metres tall.",
+   "emoji": "📏",
+   "headline": "Base To Peak",
+   "stat": "10,200 m",
+   "sub": "approx.",
+   "visual_query": "Mauna Kea summit observatories"
+  },
+  {
+   "narration": "Everest stands about 8,850 metres above sea level.",
+   "emoji": "🧗",
+   "headline": "Everest",
+   "stat": "8,850 m",
+   "sub": "above sea level",
+   "visual_query": "Mount Everest Himalaya"
+  },
+  {
+   "narration": "But Mauna Kea's base is on the seafloor.",
+   "emoji": "🌊",
+   "headline": "Base On Seafloor",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pacific Ocean seafloor volcano"
+  },
+  {
+   "narration": "Most of it is hidden underwater.",
+   "emoji": "🤿",
+   "headline": "Mostly Underwater",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hawaii island ocean aerial"
+  },
+  {
+   "narration": "Only about 4,200 metres sticks out.",
+   "emoji": "☁️",
+   "headline": "Above The Waves",
+   "stat": "4,200 m",
+   "sub": "approx.",
+   "visual_query": "Mauna Kea above clouds"
+  },
+  {
+   "narration": "So measure from the base, and Everest loses.",
+   "emoji": "🏆",
+   "headline": "Everest Loses",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mauna Kea snow summit"
+  },
+  {
+   "narration": "Follow for the next place that sounds fake.",
+   "emoji": "➡️",
+   "headline": "Follow For More",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Earth from space"
+  }
+ ]
+}

@@ -1,0 +1,101 @@
+{
+ "category": "geography",
+ "topic": "Vaadhoo glowing beach Maldives",
+ "hook": "Your Maldives beach can glow blue at night.",
+ "title": "This Maldives Beach Glows Blue at Night",
+ "description": "On Vaadhoo island in the Maldives, waves can light up electric blue at night. The glow comes from tiny bioluminescent plankton that flash when the water moves. It does not happen every night. Part of the Places That Shouldn't Exist series.\n\n#Shorts #Maldives #Bioluminescence",
+ "tags": [
+  "vaadhoo island",
+  "maldives",
+  "glowing beach",
+  "bioluminescence",
+  "plankton",
+  "sea of stars",
+  "geography facts",
+  "places that shouldnt exist"
+ ],
+ "comment_prompt": "Would you swim here? Yes or no",
+ "hook_banner": "THE SEA GLOWS",
+ "scenes": [
+  {
+   "narration": "Your Maldives beach can glow blue at night.",
+   "emoji": "🌊",
+   "headline": "BEACH GLOWS BLUE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Vaadhoo island glowing beach"
+  },
+  {
+   "narration": "Vaadhoo island is where it happens.",
+   "emoji": "🏝️",
+   "headline": "VAADHOO ISLAND",
+   "stat": "",
+   "sub": "Maldives",
+   "visual_query": "Maldives island beach"
+  },
+  {
+   "narration": "Step in, and the water sparkles.",
+   "emoji": "✨",
+   "headline": "WATER SPARKLES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "bioluminescent water footsteps"
+  },
+  {
+   "narration": "Waves crash and light up electric blue.",
+   "emoji": "💙",
+   "headline": "WAVES LIGHT UP",
+   "stat": "",
+   "sub": "",
+   "visual_query": "glowing blue waves night"
+  },
+  {
+   "narration": "It is not a light show.",
+   "emoji": "💡",
+   "headline": "NOT A LIGHT SHOW",
+   "stat": "",
+   "sub": "",
+   "visual_query": "night beach waves"
+  },
+  {
+   "narration": "Tiny glowing plankton make the light.",
+   "emoji": "🦠",
+   "headline": "GLOWING PLANKTON",
+   "stat": "",
+   "sub": "",
+   "visual_query": "bioluminescent plankton"
+  },
+  {
+   "narration": "They flash when the water moves.",
+   "emoji": "⚡",
+   "headline": "FLASH WHEN DISTURBED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "bioluminescence wave breaking"
+  },
+  {
+   "narration": "It does not happen every night.",
+   "emoji": "🌙",
+   "headline": "NOT EVERY NIGHT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "maldives beach night sky"
+  },
+  {
+   "narration": "Still, your Maldives beach can glow blue.",
+   "emoji": "🌌",
+   "headline": "SEA OF STARS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "sea of stars maldives"
+  },
+  {
+   "narration": "Next: water flooding an astronaut's helmet.",
+   "emoji": "👨‍🚀",
+   "headline": "NEXT: HELMET FLOOD",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut spacewalk helmet"
+  }
+ ]
+}

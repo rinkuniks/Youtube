@@ -1,0 +1,85 @@
+{
+ "category": "geography",
+ "topic": "Everest summit on the Nepal-China border",
+ "hook": "Your Everest summit photo is also a border photo.",
+ "title": "Your Everest Summit Photo Is a Border Photo",
+ "description": "The border between Nepal and China runs across the top of Mount Everest. Stand on the summit and you are on the line between two countries. Everest is 8,849 metres tall. Series: Places That Shouldn't Exist.\n\n#Shorts #Everest #Geography",
+ "tags": [
+  "Mount Everest",
+  "Everest summit",
+  "Nepal China border",
+  "Tibet",
+  "geography facts",
+  "Places That Shouldn't Exist",
+  "Himalayas",
+  "shorts"
+ ],
+ "comment_prompt": "Would you climb it? Yes or no",
+ "hook_banner": "TWO COUNTRIES, ONE PEAK",
+ "scenes": [
+  {
+   "narration": "Your Everest summit photo is also a border photo.",
+   "emoji": "🏔️",
+   "headline": "A Border Photo",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Everest summit climbers"
+  },
+  {
+   "narration": "The Nepal and China border runs across the top.",
+   "emoji": "🗺️",
+   "headline": "Border Across The Top",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mount Everest peak"
+  },
+  {
+   "narration": "One side is Nepal, the other is Tibet, China.",
+   "emoji": "🇳🇵",
+   "headline": "Nepal Meets China",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nepal China border mountains"
+  },
+  {
+   "narration": "Everest stands 8,849 metres tall.",
+   "emoji": "📏",
+   "headline": "Top Of The World",
+   "stat": "8,849 m",
+   "sub": "",
+   "visual_query": "Everest from above"
+  },
+  {
+   "narration": "Climbers can stand in two countries at once.",
+   "emoji": "🧗",
+   "headline": "Two Countries At Once",
+   "stat": "",
+   "sub": "",
+   "visual_query": "summit climber flag"
+  },
+  {
+   "narration": "Many climbers start from the Nepal side.",
+   "emoji": "⛺",
+   "headline": "Nepal Side Start",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Everest base camp"
+  },
+  {
+   "narration": "Your summit photo is a border photo too.",
+   "emoji": "📸",
+   "headline": "Summit Equals Border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Everest summit photo"
+  },
+  {
+   "narration": "Tomorrow: another place that shouldn't exist.",
+   "emoji": "🌏",
+   "headline": "Tomorrow: Another Place",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map border"
+  }
+ ]
+}

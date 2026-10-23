@@ -1,0 +1,85 @@
+{
+ "category": "space",
+ "topic": "Apollo trash on the Moon",
+ "hook": "Your trash is sitting on the Moon right now.",
+ "title": "96 bags of human waste are on the Moon",
+ "description": "Apollo crews left about 96 bags of human waste on the Moon, along with boots, tools and cameras. They dumped unneeded weight so they could bring Moon rocks home. With no weather there, much of it just sits.\n\n#Shorts #Moon #Space",
+ "tags": [
+  "moon",
+  "apollo",
+  "space facts",
+  "moon trash",
+  "nasa",
+  "astronauts",
+  "if you were in space",
+  "shorts"
+ ],
+ "comment_prompt": "Should we clean the Moon? Yes or no",
+ "hook_banner": "TRASH ON THE MOON",
+ "scenes": [
+  {
+   "narration": "Your trash is sitting on the Moon right now.",
+   "emoji": "🌕",
+   "headline": "Trash On The Moon",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Apollo astronaut Moon surface"
+  },
+  {
+   "narration": "Apollo crews left about 96 bags of human waste.",
+   "emoji": "🛍️",
+   "headline": "About 96 Bags",
+   "stat": "96",
+   "sub": "Of human waste",
+   "visual_query": "Apollo lunar module Moon"
+  },
+  {
+   "narration": "Yes, bags of poop, just lying there.",
+   "emoji": "💩",
+   "headline": "Yes, Really",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Moon surface footprints"
+  },
+  {
+   "narration": "They also left boots, tools and cameras.",
+   "emoji": "🥾",
+   "headline": "Boots And Cameras",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Apollo boot print Moon"
+  },
+  {
+   "narration": "They dumped weight to bring Moon rocks home.",
+   "emoji": "🪨",
+   "headline": "Rocks Over Rubbish",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Apollo Moon rock sample"
+  },
+  {
+   "narration": "No rain will ever wash it away.",
+   "emoji": "🌧️",
+   "headline": "No Rain. No Wind.",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Moon surface landscape"
+  },
+  {
+   "narration": "So yes, your trash is on the Moon too.",
+   "emoji": "🌕",
+   "headline": "Moon Litter",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Apollo 11 Moon landing site"
+  },
+  {
+   "narration": "Next: a tree that visited the Moon.",
+   "emoji": "➡️",
+   "headline": "Up Next",
+   "stat": "",
+   "sub": "Moon trees",
+   "visual_query": "tree seeds sapling"
+  }
+ ]
+}

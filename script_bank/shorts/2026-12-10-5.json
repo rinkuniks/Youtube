@@ -1,0 +1,102 @@
+{
+ "category": "technology",
+ "topic": "Slow-motion camera shows bulb flicker",
+ "hook": "Your room lights are flickering right now.",
+ "title": "Your Room Lights Are Flickering Right Now",
+ "description": "Many bulbs pulse with the mains power, and India's supply runs at 50 hertz. Your eyes blur it into steady light, but a phone in slow motion catches the dark bands rolling across the screen. Results vary by bulb and phone. Part of the Try This Now series.\n\n#Shorts #TryThisNow #PhoneTricks",
+ "tags": [
+  "slow motion",
+  "led flicker",
+  "phone trick",
+  "try this now",
+  "tech facts",
+  "light bulb",
+  "camera test",
+  "shorts",
+  "wait what facts"
+ ],
+ "comment_prompt": "Did your bulb flicker? Yes or no",
+ "hook_banner": "TRY THIS NOW",
+ "scenes": [
+  {
+   "narration": "Your room lights are flickering right now.",
+   "emoji": "💡",
+   "headline": "Your Lights Flicker",
+   "stat": "",
+   "sub": "",
+   "visual_query": "LED light bulb"
+  },
+  {
+   "narration": "Your eyes just can't catch it.",
+   "emoji": "👁️",
+   "headline": "Eyes Can't Catch It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "human eye closeup"
+  },
+  {
+   "narration": "Open slow motion on your phone.",
+   "emoji": "📱",
+   "headline": "Open Slow Motion",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone slow motion camera"
+  },
+  {
+   "narration": "Film a bulb and watch the bands.",
+   "emoji": "🎥",
+   "headline": "Film The Bulb",
+   "stat": "",
+   "sub": "",
+   "visual_query": "filming light bulb phone"
+  },
+  {
+   "narration": "Dark stripes roll across the screen.",
+   "emoji": "〰️",
+   "headline": "Stripes Roll By",
+   "stat": "",
+   "sub": "",
+   "visual_query": "light flicker banding camera"
+  },
+  {
+   "narration": "India's power runs at fifty hertz.",
+   "emoji": "🇮🇳",
+   "headline": "50 Hertz Power",
+   "stat": "50 Hz",
+   "sub": "India's mains",
+   "visual_query": "electric power lines India"
+  },
+  {
+   "narration": "Many bulbs pulse a hundred times a second.",
+   "emoji": "⚡",
+   "headline": "Pulsing Each Second",
+   "stat": "",
+   "sub": "Many bulbs",
+   "visual_query": "ceiling light bulb"
+  },
+  {
+   "narration": "Your eyes blur it into steady light.",
+   "emoji": "✨",
+   "headline": "Blurred To Steady",
+   "stat": "",
+   "sub": "",
+   "visual_query": "lit room lamp"
+  },
+  {
+   "narration": "Your room lights are flickering right now.",
+   "emoji": "🔁",
+   "headline": "Still Flickering",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tube light room"
+  },
+  {
+   "narration": "Tomorrow: another fact that sounds fake.",
+   "emoji": "🤯",
+   "headline": "Tomorrow",
+   "stat": "",
+   "sub": "Another true fact",
+   "visual_query": "surprised person phone"
+  }
+ ]
+}

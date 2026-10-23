@@ -1,0 +1,85 @@
+{
+ "category": "technology",
+ "topic": "Hum to search",
+ "hook": "Your humming can name a song you forgot.",
+ "title": "Your Humming Can Name Any Song",
+ "description": "The Google app can identify a song from your humming alone. Hum for 10 to 15 seconds and it lists the matching tracks on screen. Try it on the tune stuck in your head.\n\n#Shorts #Tech #PhoneTricks",
+ "tags": [
+  "hum to search",
+  "google app",
+  "phone tricks",
+  "find a song",
+  "tech facts",
+  "android",
+  "iphone",
+  "shorts"
+ ],
+ "comment_prompt": "Which song will you hum first? Name it",
+ "hook_banner": "TRY THIS NOW",
+ "scenes": [
+  {
+   "narration": "Your humming can name a song you forgot.",
+   "emoji": "🎵",
+   "headline": "HUM, GET THE SONG",
+   "stat": "",
+   "sub": "",
+   "visual_query": "woman humming phone"
+  },
+  {
+   "narration": "Open the Google app on your phone.",
+   "emoji": "📱",
+   "headline": "OPEN GOOGLE APP",
+   "stat": "",
+   "sub": "",
+   "visual_query": "google app phone screen"
+  },
+  {
+   "narration": "Tap the mic, then tap search a song.",
+   "emoji": "🎤",
+   "headline": "TAP SEARCH A SONG",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone microphone icon"
+  },
+  {
+   "narration": "Now hum the tune for ten to fifteen seconds.",
+   "emoji": "🎶",
+   "headline": "HUM 10-15 SECONDS",
+   "stat": "10-15s",
+   "sub": "no lyrics needed",
+   "visual_query": "person humming headphones"
+  },
+  {
+   "narration": "No lyrics, no singing, just the melody.",
+   "emoji": "🙂",
+   "headline": "JUST THE MELODY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "music notes melody"
+  },
+  {
+   "narration": "A list of matching songs appears on screen.",
+   "emoji": "📋",
+   "headline": "MATCHES APPEAR",
+   "stat": "",
+   "sub": "",
+   "visual_query": "smartphone music search results"
+  },
+  {
+   "narration": "That tune stuck in your head now has a name.",
+   "emoji": "🤯",
+   "headline": "SONG FOUND",
+   "stat": "",
+   "sub": "",
+   "visual_query": "person listening music smartphone"
+  },
+  {
+   "narration": "So go hum something right now.",
+   "emoji": "🔁",
+   "headline": "HUM IT NOW",
+   "stat": "",
+   "sub": "Tomorrow: the mountain taller than Everest",
+   "visual_query": "girl singing phone"
+  }
+ ]
+}

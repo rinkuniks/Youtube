@@ -1,0 +1,92 @@
+{
+ "category": "geography",
+ "topic": "Sheep View 360, Faroe Islands",
+ "hook": "Your Street View here was filmed by sheep.",
+ "title": "Sheep Filmed Street View of Faroe Islands",
+ "description": "The Faroe Islands lacked Google Street View coverage, so locals strapped solar-powered 360 cameras onto sheep and made Sheep View 360. It really happened. Series: Places That Shouldn't Exist.\n\n#Shorts #FaroeIslands #Geography",
+ "tags": [
+  "sheep view 360",
+  "faroe islands",
+  "google street view",
+  "geography facts",
+  "weird places",
+  "sheep with cameras",
+  "places that shouldn't exist"
+ ],
+ "comment_prompt": "Would you trust a sheep? Yes or no",
+ "hook_banner": "SHEEP WITH CAMERAS",
+ "scenes": [
+  {
+   "narration": "Your Street View here was filmed by sheep.",
+   "emoji": "🐑",
+   "headline": "FILMED BY SHEEP",
+   "stat": "",
+   "sub": "",
+   "visual_query": "sheep wearing 360 camera"
+  },
+  {
+   "narration": "This is the Faroe Islands.",
+   "emoji": "🏝️",
+   "headline": "FAROE ISLANDS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Faroe Islands landscape"
+  },
+  {
+   "narration": "Locals strapped 360 cameras onto sheep.",
+   "emoji": "📷",
+   "headline": "CAMERAS ON SHEEP",
+   "stat": "",
+   "sub": "",
+   "visual_query": "sheep camera Faroe"
+  },
+  {
+   "narration": "Each camera had a solar panel on top.",
+   "emoji": "☀️",
+   "headline": "SOLAR POWERED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "sheep solar panel camera"
+  },
+  {
+   "narration": "The islands lacked Street View coverage.",
+   "emoji": "🗺️",
+   "headline": "NO COVERAGE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Google Street View map"
+  },
+  {
+   "narration": "So they made Sheep View 360 themselves.",
+   "emoji": "🐏",
+   "headline": "SHEEP VIEW 360",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Faroe Islands sheep road"
+  },
+  {
+   "narration": "Google later added its own coverage too.",
+   "emoji": "🚗",
+   "headline": "GOOGLE FOLLOWED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Google Street View car"
+  },
+  {
+   "narration": "Sheep really mapped these islands first.",
+   "emoji": "🐑",
+   "headline": "IT'S REAL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Faroe Islands green hills sheep"
+  },
+  {
+   "narration": "Tomorrow: water spraying into space from Saturn's moon.",
+   "emoji": "🪐",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "Geysers in space",
+   "visual_query": "Enceladus plumes Cassini"
+  }
+ ]
+}

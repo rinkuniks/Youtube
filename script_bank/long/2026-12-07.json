@@ -1,0 +1,629 @@
+{
+ "topic": "7 strange real borders, ending with India's enclave swap, with the Korean DMZ wildlife haven at number two",
+ "hook": "Your home address could once have been India, inside Bangladesh, inside India, inside Bangladesh.",
+ "title": "7 Real Borders Stranger Than Fiction",
+ "description": "Seven real borders that make no sense, from an American town you can only reach through Canada to a Korean war zone that became a wildlife haven. The last one is in India, where a single field once sat four layers deep inside two countries. Watch to the end to see how it was finally fixed.\n\n#borders #geography #india",
+ "tags": [
+  "strange borders",
+  "weird borders",
+  "borders that make no sense",
+  "enclaves explained",
+  "India Bangladesh enclaves",
+  "Dahala Khagrabari",
+  "Korean DMZ wildlife",
+  "Point Roberts",
+  "Llivia",
+  "Gibraltar runway",
+  "Kaliningrad",
+  "Busingen",
+  "geography facts",
+  "map facts",
+  "facts that sound fake"
+ ],
+ "comment_prompt": "Which border was the strangest?",
+ "hook_banner": "BORDERS THAT BREAK MAPS",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "7. Point Roberts",
+   "scene": 6
+  },
+  {
+   "title": "6. Llivia",
+   "scene": 14
+  },
+  {
+   "title": "5. Gibraltar's runway",
+   "scene": 21
+  },
+  {
+   "title": "4. Kaliningrad",
+   "scene": 28
+  },
+  {
+   "title": "3. Büsingen",
+   "scene": 36
+  },
+  {
+   "title": "2. The Korean DMZ",
+   "scene": 45
+  },
+  {
+   "title": "1. India's enclaves",
+   "scene": 55
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your home address could once have been India, inside Bangladesh, inside India, inside Bangladesh.",
+   "emoji": "🗺️",
+   "headline": "Four Layers Deep",
+   "stat": "",
+   "sub": "A real address",
+   "visual_query": "India Bangladesh border map"
+  },
+  {
+   "narration": "That place is number one on today's list of seven borders that make no sense.",
+   "emoji": "1️⃣",
+   "headline": "Number One Is Real",
+   "stat": "7",
+   "sub": "Borders that make no sense",
+   "visual_query": "world map borders"
+  },
+  {
+   "narration": "Before it, you will see an American town you can only reach through Canada, and a runway that stops traffic.",
+   "emoji": "✈️",
+   "headline": "A Runway For Traffic",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar airport runway road"
+  },
+  {
+   "narration": "You will also see a war zone that became a wildlife haven. The last border is in India.",
+   "emoji": "🕊️",
+   "headline": "War Zone, Wildlife",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Korean DMZ fence"
+  },
+  {
+   "narration": "Quick promise: by the end, you will see why India wins this list by a mile.",
+   "emoji": "🇮🇳",
+   "headline": "India Wins",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India map"
+  },
+  {
+   "narration": "Every one of these is real, and each is stranger than the one before. Let's start.",
+   "emoji": "▶️",
+   "headline": "Let's Count Down",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old world map"
+  },
+  {
+   "narration": "Number seven. Your drive home can cross two international borders, and you never leave your own country.",
+   "emoji": "🚗",
+   "headline": "Number Seven",
+   "stat": "7",
+   "sub": "Point Roberts",
+   "visual_query": "Point Roberts Washington"
+  },
+  {
+   "narration": "Point Roberts is a small piece of Washington state in the USA, hanging off the bottom of Canada's British Columbia.",
+   "emoji": "🇺🇸",
+   "headline": "American Town",
+   "stat": "",
+   "sub": "Attached to Canada",
+   "visual_query": "Point Roberts peninsula aerial"
+  },
+  {
+   "narration": "The border follows the 49th parallel, and this tip of land fell just south of it. So it belongs to America.",
+   "emoji": "📏",
+   "headline": "The 49th Parallel",
+   "stat": "49°",
+   "sub": "",
+   "visual_query": "49th parallel border sign"
+  },
+  {
+   "narration": "But no road inside America reaches it. To get there by land, you must drive into Canada, then back out again.",
+   "emoji": "🛣️",
+   "headline": "Through Canada",
+   "stat": "",
+   "sub": "",
+   "visual_query": "US Canada border crossing"
+  },
+  {
+   "narration": "That means a passport check going in, and another one coming out, just to reach a town that is American.",
+   "emoji": "🛂",
+   "headline": "Two Checks",
+   "stat": "2",
+   "sub": "",
+   "visual_query": "border control passport"
+  },
+  {
+   "narration": "The reason is a straight line drawn on a map long ago, with no thought for the land underneath it.",
+   "emoji": "✏️",
+   "headline": "A Pen Line",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old boundary map"
+  },
+  {
+   "narration": "For the people who live there, it is just how the road works.",
+   "emoji": "🏘️",
+   "headline": "Normal Life",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Point Roberts street"
+  },
+  {
+   "narration": "A pen stroke left an American town stuck on a Canadian peninsula. Easy so far. Number six is weirder.",
+   "emoji": "➡️",
+   "headline": "It Gets Weirder",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pyrenees mountains village"
+  },
+  {
+   "narration": "Number six. There is a Spanish town sitting fully inside France, and it has been that way for centuries.",
+   "emoji": "6️⃣",
+   "headline": "Number Six",
+   "stat": "6",
+   "sub": "Llivia",
+   "visual_query": "Llivia Spain town"
+  },
+  {
+   "narration": "It is called Llivia, in the Pyrenees mountains, and French land surrounds it on every side.",
+   "emoji": "⛰️",
+   "headline": "Spain Inside France",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Llivia Pyrenees aerial"
+  },
+  {
+   "narration": "In 1659 a treaty gave France a set of villages. But Llivia was officially a town, not a village, so it stayed Spanish.",
+   "emoji": "📜",
+   "headline": "Town Not Village",
+   "stat": "1659",
+   "sub": "",
+   "visual_query": "Treaty of the Pyrenees"
+  },
+  {
+   "narration": "One legal word, and a town stayed trapped inside another country. That tiny technical detail is the whole reason.",
+   "emoji": "⚖️",
+   "headline": "One Legal Word",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old treaty document"
+  },
+  {
+   "narration": "A short road links it to Spain, and that road is treated as a special corridor.",
+   "emoji": "🛣️",
+   "headline": "The Special Road",
+   "stat": "",
+   "sub": "",
+   "visual_query": "mountain road Pyrenees"
+  },
+  {
+   "narration": "You can walk its streets, and a museum in the town tells the story of its strange position.",
+   "emoji": "🏛️",
+   "headline": "A Museum Of It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Llivia museum"
+  },
+  {
+   "narration": "Spanish streets, Spanish shops, and French fields on every side. Now let's go where a border meets an airport runway.",
+   "emoji": "🛬",
+   "headline": "Next: A Runway",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar rock aerial"
+  },
+  {
+   "narration": "Number five. Imagine walking out of a country on foot, and a plane landing right in front of you.",
+   "emoji": "5️⃣",
+   "headline": "Number Five",
+   "stat": "5",
+   "sub": "Gibraltar",
+   "visual_query": "Gibraltar airport"
+  },
+  {
+   "narration": "That is Gibraltar, a British territory on Spain's southern tip. The road into town crosses the airport runway itself.",
+   "emoji": "🇬🇮",
+   "headline": "Road Crosses Runway",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar runway road crossing"
+  },
+  {
+   "narration": "When a plane lands or takes off, barriers come down, and cars, bikes and people simply wait. A red light for airplanes.",
+   "emoji": "🚦",
+   "headline": "Red Light For Planes",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar runway barrier"
+  },
+  {
+   "narration": "Then the barrier goes up, and everyone walks across the same strip of tarmac where a jet touched down minutes ago.",
+   "emoji": "🚶",
+   "headline": "Walk The Tarmac",
+   "stat": "",
+   "sub": "",
+   "visual_query": "pedestrians crossing runway"
+  },
+  {
+   "narration": "Spain disputes who owns the land under that runway, so the whole crossing sits on an argument over the border.",
+   "emoji": "🇪🇸",
+   "headline": "Who Owns It?",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar Spain border"
+  },
+  {
+   "narration": "You also pass border officers on the way in and out, so you cross a country line and an airfield together.",
+   "emoji": "🛂",
+   "headline": "Border Plus Airfield",
+   "stat": "",
+   "sub": "",
+   "visual_query": "La Linea Gibraltar border"
+  },
+  {
+   "narration": "A border, a runway and a traffic light in one spot. Next, a region cut off from its own country.",
+   "emoji": "🧭",
+   "headline": "Cut Off Next",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baltic Sea coast"
+  },
+  {
+   "narration": "Number four. There is a part of Russia that you cannot reach from Russia without leaving Russia.",
+   "emoji": "4️⃣",
+   "headline": "Number Four",
+   "stat": "4",
+   "sub": "Kaliningrad",
+   "visual_query": "Kaliningrad city"
+  },
+  {
+   "narration": "It is called Kaliningrad, on the Baltic Sea, squeezed between Poland and Lithuania. The rest of Russia is far away.",
+   "emoji": "🗺️",
+   "headline": "Russia, Detached",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kaliningrad map Poland Lithuania"
+  },
+  {
+   "narration": "Before 1945 it was the German city of Königsberg. After the Second World War, the Soviet Union took it over.",
+   "emoji": "🏰",
+   "headline": "Once Königsberg",
+   "stat": "1945",
+   "sub": "",
+   "visual_query": "Königsberg Kaliningrad cathedral"
+  },
+  {
+   "narration": "Then the Soviet Union broke up, and Lithuania and others became independent countries. That left Kaliningrad cut off from the mainland.",
+   "emoji": "💥",
+   "headline": "Then It Split",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Soviet Union map"
+  },
+  {
+   "narration": "Now trains from mainland Russia must pass through Lithuania, and travellers need special transit documents.",
+   "emoji": "🚆",
+   "headline": "Special Transit Papers",
+   "stat": "",
+   "sub": "",
+   "visual_query": "train Lithuania border"
+  },
+  {
+   "narration": "Imagine a state of India you could only visit by passing through another country. That is Kaliningrad's situation for Russia.",
+   "emoji": "🇮🇳",
+   "headline": "Like Cut-Off India",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baltic Sea port"
+  },
+  {
+   "narration": "And this is not a village. It is a whole region with a major seaport on the Baltic coast.",
+   "emoji": "⚓",
+   "headline": "A Whole Region",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kaliningrad port"
+  },
+  {
+   "narration": "Cut off by land and joined only by paperwork. Number three uses two currencies on the same street.",
+   "emoji": "💶",
+   "headline": "Two Currencies",
+   "stat": "",
+   "sub": "",
+   "visual_query": "euro and Swiss franc"
+  },
+  {
+   "narration": "Number three. There is a German town where shops take Swiss francs, and cars carry a special number plate.",
+   "emoji": "3️⃣",
+   "headline": "Number Three",
+   "stat": "3",
+   "sub": "Büsingen",
+   "visual_query": "Büsingen am Hochrhein"
+  },
+  {
+   "narration": "It is called Büsingen, and Switzerland surrounds it completely. You cannot reach it from Germany without crossing Swiss land.",
+   "emoji": "🇩🇪",
+   "headline": "Germany Inside Swiss",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Büsingen aerial Rhine"
+  },
+  {
+   "narration": "It is German, but it sits inside the Swiss customs area, so Swiss francs and euros are both part of daily life.",
+   "emoji": "🇨🇭",
+   "headline": "Francs And Euros",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss francs banknotes"
+  },
+  {
+   "narration": "Think of paying for chai in euros in one shop, and in francs in the next.",
+   "emoji": "☕",
+   "headline": "Chai In Francs",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss franc coins"
+  },
+  {
+   "narration": "Its cars even carry their own letters, BÜS, so a number plate alone tells you it is this one odd little town.",
+   "emoji": "🚘",
+   "headline": "Plate: BÜS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "German car number plate"
+  },
+  {
+   "narration": "Residents can vote in German elections, yet their daily life is wired to Switzerland.",
+   "emoji": "🗳️",
+   "headline": "German Vote, Swiss Life",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Büsingen town hall"
+  },
+  {
+   "narration": "German citizens in a place that works a lot like Switzerland. A border that is real, but easy to forget.",
+   "emoji": "🏡",
+   "headline": "Easy To Forget",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Büsingen Swiss border sign"
+  },
+  {
+   "narration": "If you enjoy strange places like these, subscribe, because the last two are the ones people send to their friends.",
+   "emoji": "🔔",
+   "headline": "Subscribe For More",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map pins"
+  },
+  {
+   "narration": "And number two is not a village or a town. It is a strip of land where a war is still on paper.",
+   "emoji": "⚠️",
+   "headline": "A War On Paper",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Korean peninsula map"
+  },
+  {
+   "narration": "Number two. A war zone that turned into one of the best wildlife havens you can see on a satellite map.",
+   "emoji": "2️⃣",
+   "headline": "Number Two",
+   "stat": "2",
+   "sub": "The Korean DMZ",
+   "visual_query": "Korean DMZ aerial"
+  },
+  {
+   "narration": "It is the Korean DMZ, the demilitarised zone between North Korea and South Korea. It is about four kilometres wide.",
+   "emoji": "📏",
+   "headline": "4 km Wide",
+   "stat": "4 km",
+   "sub": "Between two Koreas",
+   "visual_query": "Korean demilitarized zone"
+  },
+  {
+   "narration": "It was drawn in 1953, when the Korean War ended with a ceasefire. A full peace treaty never followed.",
+   "emoji": "📄",
+   "headline": "Ceasefire, Not Peace",
+   "stat": "1953",
+   "sub": "",
+   "visual_query": "Korean Armistice Panmunjom"
+  },
+  {
+   "narration": "Both sides keep soldiers close, and parts of the ground are mined. So for decades almost nobody has lived or farmed here.",
+   "emoji": "🪖",
+   "headline": "Nobody Lives Here",
+   "stat": "",
+   "sub": "",
+   "visual_query": "DMZ soldiers watchtower"
+  },
+  {
+   "narration": "And that is the twist. With people gone, nature moved in. The most guarded strip of land became a quiet green corridor.",
+   "emoji": "🌿",
+   "headline": "Nature Moved In",
+   "stat": "",
+   "sub": "",
+   "visual_query": "DMZ green wetland"
+  },
+  {
+   "narration": "Rare birds live there, including cranes, the tall white birds that Koreans see as a symbol of long life.",
+   "emoji": "🦢",
+   "headline": "Cranes In A War Zone",
+   "stat": "",
+   "sub": "",
+   "visual_query": "cranes DMZ Korea"
+  },
+  {
+   "narration": "Look at it on a satellite image and you can see a green belt cutting across the peninsula between two countries at odds.",
+   "emoji": "🛰️",
+   "headline": "A Green Belt",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Korea satellite DMZ"
+  },
+  {
+   "narration": "Barbed wire and watchtowers on both sides, and in the middle, birds that do not know there is a border.",
+   "emoji": "🐦",
+   "headline": "Birds Ignore Borders",
+   "stat": "",
+   "sub": "",
+   "visual_query": "birds barbed wire fence"
+  },
+  {
+   "narration": "Many conservationists now call it an accidental nature reserve, and hope it is protected for good.",
+   "emoji": "🌱",
+   "headline": "Accidental Reserve",
+   "stat": "",
+   "sub": "",
+   "visual_query": "DMZ nature reserve"
+  },
+  {
+   "narration": "One of the most tense borders on Earth is also a nature reserve by accident. Now, number one, in India.",
+   "emoji": "🇮🇳",
+   "headline": "Now: India",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India border fence"
+  },
+  {
+   "narration": "Number one. This is the border from the start of the video, and it is the strangest border story on the list.",
+   "emoji": "1️⃣",
+   "headline": "Number One",
+   "stat": "1",
+   "sub": "India and Bangladesh",
+   "visual_query": "India Bangladesh border"
+  },
+  {
+   "narration": "Along the India and Bangladesh border, there were small islands of land belonging to the other country.",
+   "emoji": "🏝️",
+   "headline": "Islands Of Land",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cooch Behar enclave map"
+  },
+  {
+   "narration": "The area is Cooch Behar, in the north of West Bengal, not far from Assam and Bhutan.",
+   "emoji": "📍",
+   "headline": "Cooch Behar",
+   "stat": "",
+   "sub": "North West Bengal",
+   "visual_query": "Cooch Behar West Bengal"
+  },
+  {
+   "narration": "Indian villages stood inside Bangladesh, and Bangladeshi villages stood inside India. These pockets are called enclaves.",
+   "emoji": "🏘️",
+   "headline": "Enclaves",
+   "stat": "",
+   "sub": "",
+   "visual_query": "enclave map India Bangladesh"
+  },
+  {
+   "narration": "Residents were cut off from their own country, and many struggled to get basic services like roads, schools and electricity.",
+   "emoji": "💡",
+   "headline": "Cut Off",
+   "stat": "",
+   "sub": "",
+   "visual_query": "village paddy field Bengal"
+  },
+  {
+   "narration": "One patch, Dahala Khagrabari, was Indian land inside Bangladeshi land, inside Indian land, inside Bangladesh.",
+   "emoji": "🧩",
+   "headline": "Dahala Khagrabari",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dahala Khagrabari enclave"
+  },
+  {
+   "narration": "Four layers of borders in one small field. It was known as the world's only enclave of that kind.",
+   "emoji": "4️⃣",
+   "headline": "Four Layers",
+   "stat": "4",
+   "sub": "One small field",
+   "visual_query": "nested enclave diagram"
+  },
+  {
+   "narration": "People lived in these pockets for decades, holding the citizenship of a country they could barely reach.",
+   "emoji": "🧍",
+   "headline": "Decades In Limbo",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bengal villagers border"
+  },
+  {
+   "narration": "Finally, on the night of 31 July 2015, India and Bangladesh began swapping the enclaves. By midnight, 1 August, it was official.",
+   "emoji": "🕛",
+   "headline": "Midnight Swap",
+   "stat": "2015",
+   "sub": "1 August",
+   "visual_query": "India Bangladesh enclave exchange"
+  },
+  {
+   "narration": "India handed over 111 enclaves to Bangladesh, and received 51 in return. Residents could choose which country to live in.",
+   "emoji": "🔁",
+   "headline": "111 And 51",
+   "stat": "111 / 51",
+   "sub": "Enclaves swapped",
+   "visual_query": "Bangladesh India flags"
+  },
+  {
+   "narration": "After decades in limbo, thousands of people finally got a country with an address, roads and a government.",
+   "emoji": "🏠",
+   "headline": "A Real Address",
+   "stat": "",
+   "sub": "",
+   "visual_query": "villagers celebrate flag"
+  },
+  {
+   "narration": "So the address from the start of this video was real. A map once had India inside Bangladesh inside India inside Bangladesh.",
+   "emoji": "🗺️",
+   "headline": "The Address Was Real",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Bangladesh border map"
+  },
+  {
+   "narration": "These leftovers came from old land deals between local rulers, which were never tidied up when later borders were drawn.",
+   "emoji": "👑",
+   "headline": "Old Royal Deals",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cooch Behar palace"
+  },
+  {
+   "narration": "It took until 2015 to fix them, and it is remembered as a rare, peaceful border swap.",
+   "emoji": "🤝",
+   "headline": "A Peaceful Swap",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Bangladesh border handshake"
+  },
+  {
+   "narration": "So yes, your address really could have been India inside Bangladesh inside India inside Bangladesh.",
+   "emoji": "🔄",
+   "headline": "Back To The Start",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Bangladesh border map"
+  },
+  {
+   "narration": "Next video: more places where the map and the ground disagree.",
+   "emoji": "➡️",
+   "headline": "Next Video",
+   "stat": "",
+   "sub": "Where maps and ground disagree",
+   "visual_query": "world map globe"
+  }
+ ]
+}

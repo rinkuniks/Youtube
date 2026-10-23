@@ -1,0 +1,93 @@
+{
+ "category": "technology",
+ "topic": "airplane window bleed hole",
+ "hook": "Your plane window has a tiny hole, and it is there on purpose.",
+ "title": "That Tiny Hole In Your Plane Window",
+ "description": "The small hole near the bottom of an airplane window is called a bleed hole. Windows are made of several panes, and the hole balances pressure between them. It lets the outer pane carry the pressure load, and it helps stop fogging.\n\n#Shorts #Technology #Aviation",
+ "tags": [
+  "airplane window",
+  "bleed hole",
+  "plane facts",
+  "aviation",
+  "tech facts",
+  "how it works",
+  "flight",
+  "shorts"
+ ],
+ "comment_prompt": "Ever spotted it? Yes or no",
+ "hook_banner": "LOOK AT YOUR WINDOW",
+ "scenes": [
+  {
+   "narration": "Your plane window has a tiny hole.",
+   "emoji": "✈️",
+   "headline": "A TINY HOLE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "airplane window bleed hole"
+  },
+  {
+   "narration": "It sits near the bottom.",
+   "emoji": "👀",
+   "headline": "NEAR THE BOTTOM",
+   "stat": "",
+   "sub": "",
+   "visual_query": "airplane window closeup"
+  },
+  {
+   "narration": "And it is there on purpose.",
+   "emoji": "✅",
+   "headline": "IT'S ON PURPOSE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "aircraft cabin window"
+  },
+  {
+   "narration": "The window is made of several panes.",
+   "emoji": "🪟",
+   "headline": "SEVERAL PANES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "airplane window panes"
+  },
+  {
+   "narration": "That hole is called a bleed hole.",
+   "emoji": "🕳️",
+   "headline": "THE BLEED HOLE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "airplane window small hole"
+  },
+  {
+   "narration": "It balances pressure between the panes.",
+   "emoji": "⚖️",
+   "headline": "BALANCES PRESSURE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "airplane cabin pressure"
+  },
+  {
+   "narration": "So the outer pane takes the load.",
+   "emoji": "💪",
+   "headline": "OUTER PANE TAKES IT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "airplane window from outside"
+  },
+  {
+   "narration": "It also helps stop the glass fogging.",
+   "emoji": "🌫️",
+   "headline": "LESS FOGGING",
+   "stat": "",
+   "sub": "",
+   "visual_query": "foggy airplane window"
+  },
+  {
+   "narration": "A tiny hole, put there on purpose.",
+   "emoji": "🔍",
+   "headline": "SMALL HOLE, BIG JOB",
+   "stat": "",
+   "sub": "Next time, check your window",
+   "visual_query": "airplane window sky view"
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "category": "geography",
+ "topic": "Pamukkale travertine terraces",
+ "hook": "Your feet walk through warm blue pools on white stone.",
+ "title": "Your Feet On White Stone Pools In Turkey",
+ "description": "Pamukkale in Turkey is famous for white terraces filled with warm blue water. They are made of travertine, a stone left behind by mineral-rich spring water over a very long time. The name means cotton castle in Turkish.\n\n#Shorts #Pamukkale #PlacesThatShouldntExist",
+ "tags": [
+  "pamukkale",
+  "turkey",
+  "travertine",
+  "terraces",
+  "hot springs",
+  "cotton castle",
+  "geography facts",
+  "places that shouldnt exist",
+  "unesco"
+ ],
+ "comment_prompt": "Would you visit? Yes or no",
+ "hook_banner": "THIS PLACE IS REAL",
+ "scenes": [
+  {
+   "narration": "Your feet walk through warm blue pools.",
+   "emoji": "💙",
+   "headline": "Warm Blue Pools",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pamukkale pools tourists"
+  },
+  {
+   "narration": "This is Pamukkale in Turkey.",
+   "emoji": "📍",
+   "headline": "Pamukkale, Turkey",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pamukkale Turkey"
+  },
+  {
+   "narration": "Those white terraces look like snow.",
+   "emoji": "❄️",
+   "headline": "Looks Like Snow",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pamukkale white terraces"
+  },
+  {
+   "narration": "But they are solid stone.",
+   "emoji": "🪨",
+   "headline": "Actually Stone",
+   "stat": "",
+   "sub": "",
+   "visual_query": "travertine rock"
+  },
+  {
+   "narration": "It is travertine, left behind by spring water.",
+   "emoji": "♨️",
+   "headline": "Travertine",
+   "stat": "",
+   "sub": "left by spring water",
+   "visual_query": "Pamukkale hot spring water"
+  },
+  {
+   "narration": "Minerals in the water harden layer by layer.",
+   "emoji": "🧱",
+   "headline": "Layer By Layer",
+   "stat": "",
+   "sub": "",
+   "visual_query": "travertine terrace closeup"
+  },
+  {
+   "narration": "Over time, it built whole hillsides.",
+   "emoji": "⛰️",
+   "headline": "Built A Hillside",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pamukkale hillside aerial"
+  },
+  {
+   "narration": "The Turkish name means cotton castle.",
+   "emoji": "🏰",
+   "headline": "Cotton Castle",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pamukkale sunset"
+  },
+  {
+   "narration": "So your feet walk on stone made by water.",
+   "emoji": "🦶",
+   "headline": "Stone Made By Water",
+   "stat": "",
+   "sub": "",
+   "visual_query": "barefoot Pamukkale pool"
+  }
+ ]
+}

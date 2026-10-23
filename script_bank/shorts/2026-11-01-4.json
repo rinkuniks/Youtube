@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Apollo 11 flag knocked over by exhaust",
+ "hook": "Your flag on the Moon fell over when you left.",
+ "title": "Your Moon Flag Fell Over When You Left",
+ "description": "Buzz Aldrin said the lander's exhaust knocked the Apollo 11 flag over as they lifted off. It is one of the odd little details of leaving the Moon. Part of the If You Were in Space series.\n\n#Shorts #Apollo11 #Moon",
+ "tags": [
+  "apollo 11",
+  "moon flag",
+  "buzz aldrin",
+  "moon landing",
+  "space facts",
+  "if you were in space",
+  "nasa",
+  "did you know"
+ ],
+ "comment_prompt": "Would you plant a flag on the Moon? Yes or no",
+ "hook_banner": "IT DID NOT SURVIVE",
+ "scenes": [
+  {
+   "narration": "Your Moon flag fell over when you left.",
+   "emoji": "🚩",
+   "headline": "THE FLAG FELL",
+   "stat": "",
+   "sub": "Apollo 11",
+   "visual_query": "Apollo 11 flag Aldrin"
+  },
+  {
+   "narration": "Apollo 11 planted a flag on the Moon.",
+   "emoji": "🇺🇸",
+   "headline": "FLAG PLANTED",
+   "stat": "1969",
+   "sub": "",
+   "visual_query": "Aldrin salutes flag Moon"
+  },
+  {
+   "narration": "Then the lander engine fired to leave.",
+   "emoji": "🚀",
+   "headline": "LIFTOFF",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Apollo lunar module ascent"
+  },
+  {
+   "narration": "Buzz Aldrin said the exhaust knocked it over.",
+   "emoji": "💨",
+   "headline": "EXHAUST TOPPLED IT",
+   "stat": "",
+   "sub": "Buzz Aldrin",
+   "visual_query": "Buzz Aldrin portrait"
+  },
+  {
+   "narration": "He watched it topple as they lifted off.",
+   "emoji": "👀",
+   "headline": "HE SAW IT FALL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Apollo 11 lunar module Moon"
+  },
+  {
+   "narration": "The flag stood close to the lander.",
+   "emoji": "📏",
+   "headline": "TOO CLOSE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Apollo 11 Eagle flag"
+  },
+  {
+   "narration": "Later crews planted their flags farther away.",
+   "emoji": "🧑‍🚀",
+   "headline": "LATER FLAGS: FARTHER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Apollo 17 flag Moon"
+  },
+  {
+   "narration": "Your Moon flag fell over when you left.",
+   "emoji": "🌕",
+   "headline": "FLAG DOWN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Moon lunar surface"
+  },
+  {
+   "narration": "Tomorrow: a black bar on your screen.",
+   "emoji": "📱",
+   "headline": "NEXT: BLACK BAR",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone filming laptop screen"
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Meghalaya living root bridges",
+ "hook": "Your walk in Meghalaya crosses a bridge that is alive.",
+ "title": "Your Bridge in Meghalaya Is a Living Tree",
+ "description": "In Meghalaya, villagers grow bridges from the roots of rubber fig trees. They guide the roots across rivers over decades, and some of these bridges are centuries old. Part of the Places That Shouldn't Exist series.\n\n#Shorts #Meghalaya #LivingRootBridge",
+ "tags": [
+  "meghalaya",
+  "living root bridge",
+  "india facts",
+  "rubber fig tree",
+  "northeast india",
+  "places that shouldn't exist",
+  "amazing facts",
+  "geography"
+ ],
+ "comment_prompt": "Would you walk across it? Yes or no",
+ "hook_banner": "THIS BRIDGE IS ALIVE",
+ "scenes": [
+  {
+   "narration": "Your walk in Meghalaya crosses a bridge that is alive.",
+   "emoji": "🌳",
+   "headline": "A Bridge That's Alive",
+   "stat": "",
+   "sub": "Meghalaya, India",
+   "visual_query": "living root bridge Meghalaya"
+  },
+  {
+   "narration": "Nobody built it from steel or wood.",
+   "emoji": "🚫",
+   "headline": "No Steel. No Wood.",
+   "stat": "",
+   "sub": "",
+   "visual_query": "root bridge jungle river"
+  },
+  {
+   "narration": "Villagers grew it from rubber fig roots.",
+   "emoji": "🌱",
+   "headline": "Grown From Roots",
+   "stat": "",
+   "sub": "Rubber fig tree",
+   "visual_query": "rubber fig tree roots"
+  },
+  {
+   "narration": "They guide the roots across the river.",
+   "emoji": "🏞️",
+   "headline": "Roots Guided Across",
+   "stat": "",
+   "sub": "",
+   "visual_query": "roots across stream Meghalaya"
+  },
+  {
+   "narration": "It takes decades before a bridge is ready.",
+   "emoji": "⏳",
+   "headline": "Decades To Grow",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Khasi villager root bridge"
+  },
+  {
+   "narration": "Some of these bridges are centuries old.",
+   "emoji": "🏛️",
+   "headline": "Centuries Old",
+   "stat": "",
+   "sub": "Still in use",
+   "visual_query": "double decker root bridge Nongriat"
+  },
+  {
+   "narration": "The roots keep thickening, so it keeps strengthening.",
+   "emoji": "💪",
+   "headline": "It Gets Stronger",
+   "stat": "",
+   "sub": "",
+   "visual_query": "thick roots bridge close up"
+  },
+  {
+   "narration": "The bridge under your feet is still growing.",
+   "emoji": "👣",
+   "headline": "Still Growing",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tourists walking root bridge"
+  },
+  {
+   "narration": "Tomorrow: a lake that turned pink.",
+   "emoji": "➡️",
+   "headline": "Next: A Pink Lake",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lonar lake aerial"
+  }
+ ]
+}

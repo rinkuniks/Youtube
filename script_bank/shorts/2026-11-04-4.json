@@ -1,0 +1,86 @@
+{
+ "category": "space",
+ "topic": "Apollo 17 lunar dust on suits",
+ "hook": "Your white spacesuit would come back from the Moon filthy and dark.",
+ "title": "Moon Dust Turned Apollo 17 Suits Dark",
+ "description": "Apollo 17's Gene Cernan and Harrison Schmitt came back with suits coated in lunar dust. The dust was sticky and clung to suits and tools. It was one of the real headaches of walking on the Moon.\n\n#Shorts #Space #Apollo",
+ "tags": [
+  "Apollo 17",
+  "Gene Cernan",
+  "moon dust",
+  "lunar dust",
+  "spacesuit",
+  "space facts",
+  "NASA",
+  "if you were in space",
+  "shorts"
+ ],
+ "comment_prompt": "Would you walk on the Moon? Yes or no",
+ "hook_banner": "WHITE SUIT, DARK DUST",
+ "scenes": [
+  {
+   "narration": "Your white spacesuit would come back dark and filthy.",
+   "emoji": "👨‍🚀",
+   "headline": "WHITE SUIT TURNS DARK",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Apollo 17 Cernan dusty suit"
+  },
+  {
+   "narration": "That's what happened to Apollo 17's Gene Cernan.",
+   "emoji": "🌑",
+   "headline": "APOLLO 17, GENE CERNAN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gene Cernan Apollo 17"
+  },
+  {
+   "narration": "Moon dust is sharp and sticky.",
+   "emoji": "🧂",
+   "headline": "STICKY MOON DUST",
+   "stat": "",
+   "sub": "",
+   "visual_query": "moon dust close up"
+  },
+  {
+   "narration": "It clung to the suits and the tools.",
+   "emoji": "🛠️",
+   "headline": "IT CLUNG TO EVERYTHING",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Apollo lunar rover dust"
+  },
+  {
+   "narration": "Brushing it off barely worked.",
+   "emoji": "🧹",
+   "headline": "BRUSHING DIDN'T WORK",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut brushing dust suit"
+  },
+  {
+   "narration": "Dust even came back inside the spacecraft.",
+   "emoji": "🚀",
+   "headline": "DUST CAME INSIDE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Apollo lunar module interior"
+  },
+  {
+   "narration": "Walking on the Moon was a messy job.",
+   "emoji": "🌕",
+   "headline": "MESSY MOON WALK",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut footprint moon"
+  },
+  {
+   "narration": "A white suit, ruined by dust. Tomorrow: your newspaper photo is secretly dots.",
+   "emoji": "📰",
+   "headline": "TOMORROW: SECRET DOTS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "newspaper print close up"
+  }
+ ]
+}

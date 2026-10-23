@@ -1,0 +1,695 @@
+{
+ "topic": "Brunei split in two and six more cut-off lands, ending with India's Tin Bigha Corridor",
+ "hook": "Your old drive across Brunei meant crossing Malaysia twice, with passport stamps, just to reach your own country.",
+ "title": "7 Maps That Look Fake But Are Real",
+ "description": "Brunei is cut in two by Malaysia, The Gambia is a ribbon inside Senegal, and Bangladeshi villages sit inside India behind a gate. This countdown shows seven real, odd-shaped places on simple animated maps, ending with India's Tin Bigha Corridor. Every fact is true, and the strangest one is on India's own border.\n\n#geography #borders #facts",
+ "tags": [
+  "Brunei Limbang",
+  "Tin Bigha Corridor",
+  "Dahagram Angarpota",
+  "strangest borders",
+  "enclave and exclave",
+  "The Gambia shape",
+  "Nakhchivan",
+  "Cabinda Angola",
+  "Oecusse East Timor",
+  "India Bangladesh border",
+  "weird maps",
+  "geography facts",
+  "facts that sound fake"
+ ],
+ "comment_prompt": "Which of the seven would you visit first?",
+ "hook_banner": "SEVEN MAPS, ALL REAL",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "7: Brunei split in two",
+   "scene": 5
+  },
+  {
+   "title": "6: The Gambia ribbon",
+   "scene": 16
+  },
+  {
+   "title": "5: Nakhchivan",
+   "scene": 26
+  },
+  {
+   "title": "4: Cabinda, Angola",
+   "scene": 34
+  },
+  {
+   "title": "3: Oecusse, East Timor",
+   "scene": 44
+  },
+  {
+   "title": "2: Dahagram and Angarpota",
+   "scene": 54
+  },
+  {
+   "title": "1: The Tin Bigha Corridor",
+   "scene": 64
+  },
+  {
+   "title": "The loop back",
+   "scene": 75
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your old drive across Brunei meant crossing Malaysia twice, with passport stamps, just to reach your own country.",
+   "emoji": "🛂",
+   "headline": "Two Stamps, One Country",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Brunei Malaysia border checkpoint"
+  },
+  {
+   "narration": "Today, seven places where a country is cut off from its own land. Every single one is real.",
+   "emoji": "🗺️",
+   "headline": "Seven Real Maps",
+   "stat": "7",
+   "sub": "",
+   "visual_query": "world map borders"
+  },
+  {
+   "narration": "By the end, you will see a small strip of India with a gate, built for another country's citizens.",
+   "emoji": "🚪",
+   "headline": "A Gate In India",
+   "stat": "",
+   "sub": "Built for another country",
+   "visual_query": "India Bangladesh border gate"
+  },
+  {
+   "narration": "Each stop comes with a simple map, so you can see the odd shape yourself.",
+   "emoji": "📍",
+   "headline": "See The Shape",
+   "stat": "",
+   "sub": "",
+   "visual_query": "map highlighted country"
+  },
+  {
+   "narration": "So we start at number seven, and count down to the strangest border in all of India.",
+   "emoji": "⏬",
+   "headline": "The Countdown",
+   "stat": "",
+   "sub": "7 to 1",
+   "visual_query": "countdown map India"
+  },
+  {
+   "narration": "Number seven. Brunei, a small oil-rich country on the island of Borneo, is cut into two separate pieces.",
+   "emoji": "🇧🇳",
+   "headline": "Brunei Split In Two",
+   "stat": "7",
+   "sub": "",
+   "visual_query": "Brunei map Borneo"
+  },
+  {
+   "narration": "Look at the map. The big western part holds the capital, Bandar Seri Begawan, and a smaller eastern part called Temburong floats alone.",
+   "emoji": "🧩",
+   "headline": "Two Separate Pieces",
+   "stat": "",
+   "sub": "Temburong floats alone",
+   "visual_query": "Bandar Seri Begawan skyline"
+  },
+  {
+   "narration": "Between them sits Limbang, a district of Malaysia's state of Sarawak. It cuts Brunei neatly in two.",
+   "emoji": "✂️",
+   "headline": "Limbang Cuts Through",
+   "stat": "",
+   "sub": "Part of Sarawak, Malaysia",
+   "visual_query": "Limbang Sarawak river"
+  },
+  {
+   "narration": "Sarawak's ruler annexed Limbang in 1890, so this split on the map is more than a century old.",
+   "emoji": "📜",
+   "headline": "Split Since 1890",
+   "stat": "1890",
+   "sub": "",
+   "visual_query": "old map Borneo"
+  },
+  {
+   "narration": "Brunei also claimed Limbang for a long time, though in 2009 the two countries settled the matter.",
+   "emoji": "🤝",
+   "headline": "The Claim Ends",
+   "stat": "2009",
+   "sub": "",
+   "visual_query": "Brunei Malaysia leaders"
+  },
+  {
+   "narration": "Temburong is mostly green rainforest, with a national park inside it, far from the busy capital.",
+   "emoji": "🌳",
+   "headline": "Rainforest Half",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Temburong rainforest canopy"
+  },
+  {
+   "narration": "For years, driving between the two halves meant leaving Brunei, entering Malaysia, then crossing back into Brunei.",
+   "emoji": "🚗",
+   "headline": "Leave Your Country",
+   "stat": "",
+   "sub": "To drive inside it",
+   "visual_query": "car border crossing road"
+  },
+  {
+   "narration": "Then you did it all again on the way home. Four immigration checkpoints on that road, with passport stamps.",
+   "emoji": "🛂",
+   "headline": "Four Checkpoints",
+   "stat": "4",
+   "sub": "Passport stamps",
+   "visual_query": "passport stamp immigration"
+  },
+  {
+   "narration": "In 2020, Brunei opened a bridge about thirty kilometres long, the longest in Southeast Asia, to skip Malaysia completely.",
+   "emoji": "🌉",
+   "headline": "The Giant Bridge",
+   "stat": "30 km",
+   "sub": "Opened 2020",
+   "visual_query": "Temburong Bridge Brunei"
+  },
+  {
+   "narration": "Brunei is rich from oil and gas, which is why it can afford the kind of bridge most countries only dream about.",
+   "emoji": "🛢️",
+   "headline": "Oil Pays For It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Brunei oil gas platform"
+  },
+  {
+   "narration": "So the bridge exists because of the split. A country built a giant bridge just to avoid crossing a neighbour.",
+   "emoji": "🔗",
+   "headline": "A Bridge To Avoid Malaysia",
+   "stat": "",
+   "sub": "",
+   "visual_query": "long sea bridge aerial"
+  },
+  {
+   "narration": "Number six. Picture a country shaped like a finger poked deep into another country. That is The Gambia.",
+   "emoji": "🇬🇲",
+   "headline": "The Gambia",
+   "stat": "6",
+   "sub": "A finger of land",
+   "visual_query": "Gambia map Africa"
+  },
+  {
+   "narration": "It is a thin strip of land, only about twenty-five to fifty kilometres wide, running along a river.",
+   "emoji": "📏",
+   "headline": "A Thin Ribbon",
+   "stat": "25-50 km",
+   "sub": "Wide",
+   "visual_query": "Gambia River aerial"
+  },
+  {
+   "narration": "Senegal surrounds it on every side except the sea. Walk out from the river in any direction, and you reach Senegal.",
+   "emoji": "🧭",
+   "headline": "Senegal On All Sides",
+   "stat": "",
+   "sub": "Except the sea",
+   "visual_query": "Senegal Gambia border"
+  },
+  {
+   "narration": "Its capital, Banjul, sits where the Gambia River meets the Atlantic Ocean, at the very edge of the strip.",
+   "emoji": "🌊",
+   "headline": "Banjul, At The Coast",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Banjul Gambia coast"
+  },
+  {
+   "narration": "Take the ferry across the river at Banjul and you are still in The Gambia, with Senegal close on both sides.",
+   "emoji": "⛴️",
+   "headline": "Cross The River",
+   "stat": "",
+   "sub": "Still The Gambia",
+   "visual_query": "Banjul ferry river"
+  },
+  {
+   "narration": "The country follows the river for hundreds of kilometres inland, and nowhere is it very wide.",
+   "emoji": "➡️",
+   "headline": "Hundreds Of Kilometres Long",
+   "stat": "",
+   "sub": "",
+   "visual_query": "river Africa aerial green"
+  },
+  {
+   "narration": "It is the smallest country on mainland Africa, yet it has its own flag, its own money and its own government.",
+   "emoji": "🏳️",
+   "headline": "Smallest On Mainland",
+   "stat": "",
+   "sub": "Africa",
+   "visual_query": "Gambia flag"
+  },
+  {
+   "narration": "The shape comes from colonial history, when Britain held the river and France held the land all around it.",
+   "emoji": "📜",
+   "headline": "Britain And France",
+   "stat": "",
+   "sub": "",
+   "visual_query": "colonial Africa map"
+  },
+  {
+   "narration": "So the border follows a river, not people, and the result is a country that looks like a ribbon.",
+   "emoji": "🎀",
+   "headline": "A Border By River",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gambia River boats"
+  },
+  {
+   "narration": "Next, a piece of land that touches three countries, but not the one it belongs to.",
+   "emoji": "❓",
+   "headline": "Up Next",
+   "stat": "3",
+   "sub": "Three neighbours",
+   "visual_query": "Caucasus map"
+  },
+  {
+   "narration": "Number five. Nakhchivan belongs to Azerbaijan, but you cannot drive there from the rest of Azerbaijan.",
+   "emoji": "🇦🇿",
+   "headline": "Nakhchivan",
+   "stat": "5",
+   "sub": "",
+   "visual_query": "Nakhchivan city Azerbaijan"
+  },
+  {
+   "narration": "Armenia sits right in the way. That makes Nakhchivan an exclave: a piece of a country sitting alone.",
+   "emoji": "🏝️",
+   "headline": "An Exclave",
+   "stat": "",
+   "sub": "A country piece, alone",
+   "visual_query": "Armenia Azerbaijan map"
+  },
+  {
+   "narration": "It touches Armenia, Iran and Turkey, but not a single kilometre of the rest of Azerbaijan.",
+   "emoji": "🗺️",
+   "headline": "Three Neighbours",
+   "stat": "3",
+   "sub": "Armenia, Iran, Turkey",
+   "visual_query": "Nakhchivan mountains border"
+  },
+  {
+   "narration": "On the map, it looks like a puzzle piece that fell off the main picture and landed somewhere else.",
+   "emoji": "🧩",
+   "headline": "A Fallen Puzzle Piece",
+   "stat": "",
+   "sub": "",
+   "visual_query": "jigsaw puzzle piece map"
+  },
+  {
+   "narration": "The lines come from the early Soviet years, when borders were drawn inside one big country.",
+   "emoji": "✏️",
+   "headline": "Soviet Lines",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Soviet Union map"
+  },
+  {
+   "narration": "When the Soviet Union broke up in 1991, those inside lines became real international borders, and Nakhchivan was stuck.",
+   "emoji": "💥",
+   "headline": "Lines Become Borders",
+   "stat": "1991",
+   "sub": "",
+   "visual_query": "Soviet flag lowered 1991"
+  },
+  {
+   "narration": "It has its own parliament inside Azerbaijan. But travellers have often had to fly, or take a detour through Iran.",
+   "emoji": "✈️",
+   "headline": "Fly Or Detour",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nakhchivan airport"
+  },
+  {
+   "narration": "Next is in Africa: an oil-rich region cut off from its own country by a thin strip of land.",
+   "emoji": "🛢️",
+   "headline": "Next: Oil And A Strip",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Angola coast oil"
+  },
+  {
+   "narration": "Number four. Cabinda is part of Angola, but a strip of DR Congo separates it from the rest of Angola.",
+   "emoji": "🇦🇴",
+   "headline": "Cabinda, Angola",
+   "stat": "4",
+   "sub": "",
+   "visual_query": "Cabinda Angola map"
+  },
+  {
+   "narration": "That strip runs along the mouth of the Congo River, and it gives DR Congo a small bit of Atlantic coast.",
+   "emoji": "🌊",
+   "headline": "Congo's Tiny Coast",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Congo River mouth Atlantic"
+  },
+  {
+   "narration": "So Angola is split on the map, with Cabinda in the north and the main country far below.",
+   "emoji": "✂️",
+   "headline": "Angola In Two",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Angola Congo map"
+  },
+  {
+   "narration": "Cabinda is rich in oil, and a big share of Angola's oil has come from the waters off its coast.",
+   "emoji": "🛢️",
+   "headline": "Oil Off The Coast",
+   "stat": "",
+   "sub": "",
+   "visual_query": "offshore oil platform"
+  },
+  {
+   "narration": "Its status comes from a colonial past, when Portugal ruled Cabinda as a separate territory from the rest of Angola.",
+   "emoji": "📜",
+   "headline": "A Separate Territory",
+   "stat": "",
+   "sub": "Under Portugal",
+   "visual_query": "Portuguese colonial Angola"
+  },
+  {
+   "narration": "Cabinda also has a separatist movement that has existed for decades, so its odd shape matches a political struggle.",
+   "emoji": "⚖️",
+   "headline": "A Long Struggle",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cabinda city street"
+  },
+  {
+   "narration": "To go by road from Cabinda to the rest of Angola, you must pass through DR Congo and cross borders.",
+   "emoji": "🚧",
+   "headline": "Road Through Congo",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Africa road border post"
+  },
+  {
+   "narration": "So you leave Angola, enter another country, and come back, just to travel inside your own.",
+   "emoji": "🔁",
+   "headline": "Leave To Stay Home",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Angola Congo border crossing"
+  },
+  {
+   "narration": "If you enjoy strange places and facts that sound fake but are true, do subscribe. There is more on the way.",
+   "emoji": "🔔",
+   "headline": "Enjoying This?",
+   "stat": "",
+   "sub": "Subscribe for more",
+   "visual_query": "world map globe"
+  },
+  {
+   "narration": "We are past halfway, and the next three get stranger. One of them is on India's own border.",
+   "emoji": "🇮🇳",
+   "headline": "India Is Next",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India map border"
+  },
+  {
+   "narration": "Number three. On the island of Timor, Oecusse belongs to East Timor, but sits inside Indonesian West Timor.",
+   "emoji": "🇹🇱",
+   "headline": "Oecusse",
+   "stat": "3",
+   "sub": "East Timor's pocket",
+   "visual_query": "Oecusse East Timor map"
+  },
+  {
+   "narration": "East Timor, also called Timor-Leste, is a small country that holds the eastern half of the island.",
+   "emoji": "🏝️",
+   "headline": "Half An Island",
+   "stat": "",
+   "sub": "Timor-Leste",
+   "visual_query": "Timor island map"
+  },
+  {
+   "narration": "Oecusse is a pocket on the northern coast, with Indonesia on its land sides and sea on the other.",
+   "emoji": "🧭",
+   "headline": "A Coastal Pocket",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Oecusse coastline"
+  },
+  {
+   "narration": "To reach it from the East Timor capital, Dili, you either cross Indonesia, or take a boat or a plane.",
+   "emoji": "⛴️",
+   "headline": "Cross, Sail Or Fly",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dili harbour ferry"
+  },
+  {
+   "narration": "On the ground, a gate and guards mark where East Timor ends and Indonesia begins.",
+   "emoji": "🚧",
+   "headline": "A Gate On Timor",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Timor border gate guards"
+  },
+  {
+   "narration": "Portugal landed here centuries ago, and Lifau, in Oecusse, became the first Portuguese capital on the island of Timor.",
+   "emoji": "⛵",
+   "headline": "Portugal Landed Here",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lifau Oecusse monument"
+  },
+  {
+   "narration": "So this pocket is a leftover of old colonial claims, still sitting on today's map.",
+   "emoji": "🕰️",
+   "headline": "A Colonial Leftover",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old Portuguese map Timor"
+  },
+  {
+   "narration": "Imagine a small piece of Goa sitting inside Tamil Nadu, but still belonging to Goa. That is the idea.",
+   "emoji": "💭",
+   "headline": "Goa Inside Tamil Nadu?",
+   "stat": "",
+   "sub": "Just imagine",
+   "visual_query": "India map states"
+  },
+  {
+   "narration": "Today, Oecusse is a special region with its own rules, meant to attract investment.",
+   "emoji": "🏗️",
+   "headline": "A Special Region",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Oecusse development coast"
+  },
+  {
+   "narration": "Now the last two are in India itself. And the final one has a gate with a timetable.",
+   "emoji": "⏰",
+   "headline": "A Gate With A Clock",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India border gate"
+  },
+  {
+   "narration": "Number two. Dahagram and Angarpota are villages that belong to Bangladesh, but sit inside India.",
+   "emoji": "🇧🇩",
+   "headline": "Dahagram-Angarpota",
+   "stat": "2",
+   "sub": "Bangladesh inside India",
+   "visual_query": "Dahagram Angarpota map"
+  },
+  {
+   "narration": "They lie in West Bengal, near Cooch Behar, with Indian land on every side. That makes them an enclave.",
+   "emoji": "📍",
+   "headline": "Near Cooch Behar",
+   "stat": "",
+   "sub": "West Bengal",
+   "visual_query": "Cooch Behar West Bengal fields"
+  },
+  {
+   "narration": "An enclave is a piece of one country completely surrounded by another country.",
+   "emoji": "⭕",
+   "headline": "What Is An Enclave?",
+   "stat": "",
+   "sub": "",
+   "visual_query": "enclave map highlighted"
+  },
+  {
+   "narration": "For decades, this border was a puzzle of Indian and Bangladeshi villages mixed together like pieces of two different jigsaws.",
+   "emoji": "🧩",
+   "headline": "A Mixed-Up Border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Bangladesh border village"
+  },
+  {
+   "narration": "In 2015, India and Bangladesh swapped most of those enclaves, and thousands of people chose which country to live in.",
+   "emoji": "🔄",
+   "headline": "The 2015 Swap",
+   "stat": "2015",
+   "sub": "",
+   "visual_query": "India Bangladesh enclave exchange"
+  },
+  {
+   "narration": "But Dahagram and Angarpota stayed Bangladeshi, because they already had a link back to the rest of Bangladesh.",
+   "emoji": "🔗",
+   "headline": "Still Bangladeshi",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dahagram village Bangladesh"
+  },
+  {
+   "narration": "The people there are Bangladeshi citizens, but every road around their homes leads into India.",
+   "emoji": "🏠",
+   "headline": "Home Surrounded",
+   "stat": "",
+   "sub": "",
+   "visual_query": "village road farmland Bengal"
+  },
+  {
+   "narration": "Just across the corridor lies Patgram, in Bangladesh's Lalmonirhat district, their nearest piece of mainland Bangladesh.",
+   "emoji": "📍",
+   "headline": "Mainland Is Close",
+   "stat": "",
+   "sub": "Patgram, Lalmonirhat",
+   "visual_query": "Lalmonirhat Bangladesh"
+  },
+  {
+   "narration": "So how do they get to their own country? Through a small gift of land from India.",
+   "emoji": "🎁",
+   "headline": "A Gift Of Land",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Bangladesh border fence"
+  },
+  {
+   "narration": "That gift of land is number one, and it is the strangest border in India.",
+   "emoji": "1️⃣",
+   "headline": "The Strangest One",
+   "stat": "1",
+   "sub": "",
+   "visual_query": "Tin Bigha corridor"
+  },
+  {
+   "narration": "Number one. The Tin Bigha Corridor, a small strip of Indian land leased to Bangladesh.",
+   "emoji": "🇮🇳",
+   "headline": "Tin Bigha Corridor",
+   "stat": "1",
+   "sub": "Indian land, leased",
+   "visual_query": "Tin Bigha corridor road"
+  },
+  {
+   "narration": "It measures about 178 metres by 85 metres, shorter than two football pitches laid end to end.",
+   "emoji": "📐",
+   "headline": "Tiny Strip Of Land",
+   "stat": "178 x 85 m",
+   "sub": "",
+   "visual_query": "football pitch aerial"
+  },
+  {
+   "narration": "India leased it in perpetuity, under a 1974 agreement, so Bangladeshis can reach Dahagram and Angarpota.",
+   "emoji": "📝",
+   "headline": "Leased Forever",
+   "stat": "1974",
+   "sub": "In perpetuity",
+   "visual_query": "India Bangladesh agreement signing"
+  },
+  {
+   "narration": "The land is still India's. But the people walking across it are Bangladeshi citizens, going home.",
+   "emoji": "🚶",
+   "headline": "Indian Land, Bangladeshi Feet",
+   "stat": "",
+   "sub": "",
+   "visual_query": "people walking border road"
+  },
+  {
+   "narration": "Even with an agreement in 1974, the corridor only opened on the twenty-sixth of June, 1992.",
+   "emoji": "📅",
+   "headline": "Opened In 1992",
+   "stat": "26 June 1992",
+   "sub": "",
+   "visual_query": "Tin Bigha corridor opening"
+  },
+  {
+   "narration": "And there is a gate. For years, guards opened it only at set times, around an hour at a time.",
+   "emoji": "🚪",
+   "headline": "A Gate On A Timetable",
+   "stat": "",
+   "sub": "Open at set hours",
+   "visual_query": "Tin Bigha gate BSF"
+  },
+  {
+   "narration": "Miss your slot, and you waited at the gate until the next opening. Imagine a road with a timetable.",
+   "emoji": "⏰",
+   "headline": "Miss Your Slot",
+   "stat": "",
+   "sub": "",
+   "visual_query": "closed gate border guard"
+  },
+  {
+   "narration": "Each time the gate opens, people from Dahagram walk through Indian land to Bangladesh, and walk back again.",
+   "emoji": "🔓",
+   "headline": "The Gate Opens",
+   "stat": "",
+   "sub": "",
+   "visual_query": "villagers walking through gate"
+  },
+  {
+   "narration": "In 2011, the two countries agreed to keep it open round the clock, which made life easier for the villagers.",
+   "emoji": "🕛",
+   "headline": "Open Round The Clock",
+   "stat": "2011",
+   "sub": "",
+   "visual_query": "India Bangladesh border talks 2011"
+  },
+  {
+   "narration": "Even now, it is a strip of Indian soil, with a gate and border guards, used by citizens of another country.",
+   "emoji": "🛡️",
+   "headline": "Still A Border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border guards gate India"
+  },
+  {
+   "narration": "A door, a gate and a lane, built in the middle of India so strangers can walk home.",
+   "emoji": "🚪",
+   "headline": "A Lane To Walk Home",
+   "stat": "",
+   "sub": "",
+   "visual_query": "narrow road border India fields"
+  },
+  {
+   "narration": "Now go back to the hook. Crossing Malaysia twice, with passport stamps, just to reach your own country in Brunei.",
+   "emoji": "🔁",
+   "headline": "Back To Brunei",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Brunei Malaysia border"
+  },
+  {
+   "narration": "Seven maps, seven odd shapes, and every one of them is true. The map in your head is never the full story.",
+   "emoji": "🗺️",
+   "headline": "All Seven Are True",
+   "stat": "7",
+   "sub": "",
+   "visual_query": "world map pins"
+  },
+  {
+   "narration": "Next time you look at a map, remember: some lines go around corners, through villages, and even through a gate.",
+   "emoji": "🧭",
+   "headline": "Lines Are Strange",
+   "stat": "",
+   "sub": "",
+   "visual_query": "map border line close up"
+  },
+  {
+   "narration": "Next video: another place on the map that should not exist. Come and see it.",
+   "emoji": "➡️",
+   "headline": "Next Video",
+   "stat": "",
+   "sub": "A place that should not exist",
+   "visual_query": "world map globe"
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Fly Geyser Nevada",
+ "hook": "Your drive through Nevada passes a rainbow mound that spouts hot water.",
+ "title": "A Drilling Accident Made This Rainbow Geyser",
+ "description": "Fly Geyser in Nevada is a colourful mound that spouts hot water. It exists because of a well drilled in 1964. Minerals from the water built the mound, and algae gave it those bright colours.\n\n#Shorts #Geography #Places",
+ "tags": [
+  "Fly Geyser",
+  "Nevada",
+  "geyser",
+  "rainbow",
+  "geography facts",
+  "places that shouldn't exist",
+  "accidental wonder",
+  "shorts"
+ ],
+ "comment_prompt": "Natural or man-made? Pick one",
+ "hook_banner": "AN ACCIDENT MADE THIS",
+ "scenes": [
+  {
+   "narration": "A rainbow-coloured mound spouts hot water.",
+   "emoji": "🌈",
+   "headline": "RAINBOW GEYSER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Fly Geyser Nevada"
+  },
+  {
+   "narration": "It is Fly Geyser, in Nevada.",
+   "emoji": "🇺🇸",
+   "headline": "FLY GEYSER, NEVADA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Fly Geyser Black Rock Desert"
+  },
+  {
+   "narration": "And nature did not start it.",
+   "emoji": "🤯",
+   "headline": "NATURE DIDN'T START IT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Fly Geyser colorful"
+  },
+  {
+   "narration": "In 1964, people drilled a well here.",
+   "emoji": "🏗️",
+   "headline": "DRILLED IN 1964",
+   "stat": "1964",
+   "sub": "",
+   "visual_query": "drilling rig desert"
+  },
+  {
+   "narration": "They hit scalding water underground.",
+   "emoji": "♨️",
+   "headline": "SCALDING WATER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "hot spring steam"
+  },
+  {
+   "narration": "The water kept erupting, year after year.",
+   "emoji": "💦",
+   "headline": "IT NEVER STOPPED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Fly Geyser spouting water"
+  },
+  {
+   "narration": "Minerals in the water built this mound.",
+   "emoji": "⛰️",
+   "headline": "MINERALS BUILT IT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Fly Geyser mineral mound"
+  },
+  {
+   "narration": "Algae gave it those bright colours.",
+   "emoji": "🟢",
+   "headline": "ALGAE COLOURS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Fly Geyser algae colors"
+  },
+  {
+   "narration": "A drilling accident made this wonder.",
+   "emoji": "✨",
+   "headline": "BORN FROM AN ACCIDENT",
+   "stat": "",
+   "sub": "Tomorrow: a river of five colours",
+   "visual_query": "Fly Geyser sunset"
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "category": "technology",
+ "topic": "Google Lens live translate",
+ "hook": "Your phone camera can read a Hindi sign out loud in English.",
+ "title": "Your Phone Camera Translates Signs Live",
+ "description": "Open Google Lens, tap Translate, and point it at a sign in another language. The text is swapped into English right on your screen as you move. Try it on any Android or iPhone with Google Lens.\n\n#Shorts #GoogleLens #PhoneTricks",
+ "tags": [
+  "Google Lens",
+  "live translate",
+  "phone tricks",
+  "camera translate",
+  "Hindi to English",
+  "tech facts",
+  "android tips",
+  "iPhone tips",
+  "shorts"
+ ],
+ "comment_prompt": "Tried it yet? Yes or no",
+ "hook_banner": "TRY THIS NOW",
+ "scenes": [
+  {
+   "narration": "Your phone camera can translate any sign live.",
+   "emoji": "📱",
+   "headline": "LIVE TRANSLATION",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone camera sign translation"
+  },
+  {
+   "narration": "Open Google Lens and tap Translate.",
+   "emoji": "🔍",
+   "headline": "OPEN GOOGLE LENS",
+   "stat": "",
+   "sub": "tap Translate",
+   "visual_query": "Google Lens app phone"
+  },
+  {
+   "narration": "Point it at a Hindi sign.",
+   "emoji": "🪧",
+   "headline": "POINT AT A SIGN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hindi street sign"
+  },
+  {
+   "narration": "The words swap into English on your screen.",
+   "emoji": "🔄",
+   "headline": "WORDS SWAP",
+   "stat": "",
+   "sub": "hindi to english",
+   "visual_query": "phone translating text"
+  },
+  {
+   "narration": "Move the camera and the text follows.",
+   "emoji": "🎥",
+   "headline": "IT FOLLOWS YOU",
+   "stat": "",
+   "sub": "",
+   "visual_query": "person holding phone sign"
+  },
+  {
+   "narration": "It works on menus and signboards too.",
+   "emoji": "🍽️",
+   "headline": "MENUS TOO",
+   "stat": "",
+   "sub": "",
+   "visual_query": "restaurant menu foreign language"
+  },
+  {
+   "narration": "No typing, no photo, just point.",
+   "emoji": "👆",
+   "headline": "JUST POINT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "hand holding smartphone"
+  },
+  {
+   "narration": "Your camera now reads signs for you. Next: France's strange map.",
+   "emoji": "🌐",
+   "headline": "TRY IT NOW",
+   "stat": "",
+   "sub": "Next: France's strange map",
+   "visual_query": "smartphone camera lens"
+  }
+ ]
+}

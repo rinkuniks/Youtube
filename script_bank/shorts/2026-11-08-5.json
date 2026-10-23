@@ -1,0 +1,93 @@
+{
+ "category": "technology",
+ "topic": "Piezo stove lighter",
+ "hook": "Your gas stove lighter makes sparks without batteries.",
+ "title": "Your Stove Lighter Needs No Battery",
+ "description": "Click-style gas lighters use a piezoelectric crystal. A spring-loaded hammer squeezes the crystal, and that squeeze makes a high-voltage spark. Try it next time you light the stove.\n\n#Shorts #Science #HowItWorks",
+ "tags": [
+  "piezoelectric",
+  "gas stove",
+  "lighter",
+  "how it works",
+  "science facts",
+  "electricity",
+  "kitchen science",
+  "shorts"
+ ],
+ "comment_prompt": "Heard of piezo before? Yes or no",
+ "hook_banner": "NO BATTERY. STILL SPARKS.",
+ "scenes": [
+  {
+   "narration": "Your gas stove lighter makes sparks without batteries.",
+   "emoji": "🔥",
+   "headline": "SPARK, NO BATTERY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "gas stove igniter spark"
+  },
+  {
+   "narration": "Click it and watch the spark jump.",
+   "emoji": "⚡",
+   "headline": "WATCH THE SPARK",
+   "stat": "",
+   "sub": "",
+   "visual_query": "gas stove lighter click"
+  },
+  {
+   "narration": "Inside is a tiny crystal.",
+   "emoji": "💎",
+   "headline": "A TINY CRYSTAL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "piezo igniter crystal"
+  },
+  {
+   "narration": "A spring-loaded hammer squeezes it hard.",
+   "emoji": "🔨",
+   "headline": "HAMMER SQUEEZE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "piezo lighter disassembled"
+  },
+  {
+   "narration": "Squeezing that crystal makes real electricity.",
+   "emoji": "🔌",
+   "headline": "SQUEEZE = ELECTRICITY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "electric spark closeup"
+  },
+  {
+   "narration": "It's called the piezoelectric effect.",
+   "emoji": "🧪",
+   "headline": "PIEZOELECTRIC EFFECT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "quartz crystal macro"
+  },
+  {
+   "narration": "Thousands of volts, from one click.",
+   "emoji": "⚡",
+   "headline": "THOUSANDS OF VOLTS",
+   "stat": "",
+   "sub": "from one click",
+   "visual_query": "high voltage spark"
+  },
+  {
+   "narration": "The spark lights the gas, and your stove starts.",
+   "emoji": "🍳",
+   "headline": "SPARK LIGHTS GAS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "gas burner blue flame"
+  },
+  {
+   "narration": "No battery. Just a squeeze and a spark.",
+   "emoji": "🔋",
+   "headline": "SQUEEZE, THEN SPARK",
+   "stat": "",
+   "sub": "",
+   "visual_query": "kitchen gas stove lighting"
+  }
+ ]
+}

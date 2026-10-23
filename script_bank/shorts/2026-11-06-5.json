@@ -1,0 +1,93 @@
+{
+ "category": "technology",
+ "topic": "Microwave door mesh",
+ "hook": "Your microwave door is full of tiny holes for a reason.",
+ "title": "Your microwave door is a cage for waves",
+ "description": "The metal mesh on your microwave door has holes smaller than the microwaves, so they cannot get out. Light waves are far smaller, so you can still see your food. Look at your door and you can see it right now.",
+ "tags": [
+  "microwave",
+  "how it works",
+  "tech facts",
+  "science facts",
+  "microwave door",
+  "everyday science",
+  "physics",
+  "mesh"
+ ],
+ "comment_prompt": "Did you know this? Yes or no",
+ "hook_banner": "LOOK AT YOUR DOOR",
+ "scenes": [
+  {
+   "narration": "Your microwave door is full of tiny holes.",
+   "emoji": "🔍",
+   "headline": "Look At The Door",
+   "stat": "",
+   "sub": "",
+   "visual_query": "microwave door mesh"
+  },
+  {
+   "narration": "That metal mesh blocks the microwaves.",
+   "emoji": "🛡️",
+   "headline": "A Metal Shield",
+   "stat": "",
+   "sub": "",
+   "visual_query": "microwave oven metal screen"
+  },
+  {
+   "narration": "Microwaves are about twelve centimetres long.",
+   "emoji": "📏",
+   "headline": "12 cm Waves",
+   "stat": "12 cm",
+   "sub": "",
+   "visual_query": "microwave oven inside"
+  },
+  {
+   "narration": "The holes are much smaller than that.",
+   "emoji": "⚫",
+   "headline": "Holes Are Tiny",
+   "stat": "",
+   "sub": "",
+   "visual_query": "mesh holes close up"
+  },
+  {
+   "narration": "Light waves are far tinier still.",
+   "emoji": "💡",
+   "headline": "Light Is Tinier",
+   "stat": "",
+   "sub": "",
+   "visual_query": "light through mesh"
+  },
+  {
+   "narration": "So light passes through and you see the food.",
+   "emoji": "🍲",
+   "headline": "You See Your Food",
+   "stat": "",
+   "sub": "",
+   "visual_query": "food in microwave"
+  },
+  {
+   "narration": "The microwaves cannot squeeze through.",
+   "emoji": "🚫",
+   "headline": "Waves Stay Inside",
+   "stat": "",
+   "sub": "",
+   "visual_query": "microwave heating food"
+  },
+  {
+   "narration": "Your door is a cage for waves.",
+   "emoji": "🔒",
+   "headline": "Cage For Waves",
+   "stat": "",
+   "sub": "",
+   "visual_query": "microwave oven kitchen"
+  },
+  {
+   "narration": "Tomorrow: the strip holding India's map together.",
+   "emoji": "➡️",
+   "headline": "Up Next",
+   "stat": "",
+   "sub": "Siliguri Corridor",
+   "visual_query": "India map northeast"
+  }
+ ]
+}

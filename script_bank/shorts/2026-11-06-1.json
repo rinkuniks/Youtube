@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Sundarbans mangrove and swimming tigers",
+ "hook": "Your boat here floats through tiger territory.",
+ "title": "Your boat trip goes through tiger territory",
+ "description": "The Sundarbans is the world's largest mangrove forest, shared by India and Bangladesh. Tigers here swim between the islands. A boat trip floats right through their home.\n\n#Shorts #Sundarbans #Geography",
+ "tags": [
+  "sundarbans",
+  "mangrove forest",
+  "royal bengal tiger",
+  "india",
+  "bangladesh",
+  "swimming tigers",
+  "geography facts",
+  "shorts"
+ ],
+ "comment_prompt": "Would you take this boat trip? Yes or no",
+ "hook_banner": "TIGERS SWIM HERE",
+ "scenes": [
+  {
+   "narration": "Your boat here floats through tiger territory.",
+   "emoji": "🐅",
+   "headline": "Tiger Territory",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sundarbans boat tiger"
+  },
+  {
+   "narration": "The Sundarbans is the world's largest mangrove forest.",
+   "emoji": "🌿",
+   "headline": "Largest Mangrove Forest",
+   "stat": "",
+   "sub": "In the world",
+   "visual_query": "Sundarbans mangrove forest"
+  },
+  {
+   "narration": "India and Bangladesh share it.",
+   "emoji": "🗺️",
+   "headline": "India + Bangladesh",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sundarbans map aerial"
+  },
+  {
+   "narration": "Tigers here swim between the islands.",
+   "emoji": "🏊",
+   "headline": "Swimming Tigers",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bengal tiger swimming"
+  },
+  {
+   "narration": "They even cross salty tidal rivers.",
+   "emoji": "🌊",
+   "headline": "Salty Tidal Rivers",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sundarbans tidal river"
+  },
+  {
+   "narration": "Roots poke up from the mud like spikes.",
+   "emoji": "🌱",
+   "headline": "Spiky Roots",
+   "stat": "",
+   "sub": "",
+   "visual_query": "mangrove roots mud"
+  },
+  {
+   "narration": "Twice a day, tides flood the forest.",
+   "emoji": "🌙",
+   "headline": "Flooded Twice Daily",
+   "stat": "",
+   "sub": "",
+   "visual_query": "mangrove high tide"
+  },
+  {
+   "narration": "Your boat floats where tigers swim.",
+   "emoji": "🚤",
+   "headline": "Where Tigers Swim",
+   "stat": "",
+   "sub": "",
+   "visual_query": "boat Sundarbans river"
+  },
+  {
+   "narration": "Tomorrow: more places that seem fake.",
+   "emoji": "➡️",
+   "headline": "Up Next",
+   "stat": "",
+   "sub": "Places that seem fake",
+   "visual_query": "world map globe"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "category": "geography",
+ "topic": "Kilimanjaro snow near the equator",
+ "hook": "Your Kilimanjaro climb ends on snow, near the equator.",
+ "title": "Snow on a Mountain Near the Equator",
+ "description": "Mount Kilimanjaro in Tanzania sits just south of the equator, yet its summit has snow and glaciers. At about 5,895 metres the air is far colder, though the glaciers have been shrinking for decades.\n\n#Shorts #Kilimanjaro #Geography",
+ "tags": [
+  "Kilimanjaro",
+  "Tanzania",
+  "Africa",
+  "equator",
+  "glaciers",
+  "geography facts",
+  "mountains",
+  "did you know"
+ ],
+ "comment_prompt": "Would you climb it? Yes or no",
+ "hook_banner": "SNOW AT THE EQUATOR",
+ "scenes": [
+  {
+   "narration": "Your Kilimanjaro climb ends on snow, near the equator.",
+   "emoji": "🏔️",
+   "headline": "Snow Near Equator",
+   "stat": "",
+   "sub": "Kilimanjaro, Tanzania",
+   "visual_query": "Kilimanjaro summit snow"
+  },
+  {
+   "narration": "Tanzania's hot plains surround it.",
+   "emoji": "🌍",
+   "headline": "Hot Plains Below",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Tanzania savanna Kilimanjaro"
+  },
+  {
+   "narration": "The summit is about 5,895 metres high.",
+   "emoji": "📏",
+   "headline": "Africa's Highest",
+   "stat": "5,895 m",
+   "sub": "",
+   "visual_query": "Kilimanjaro peak"
+  },
+  {
+   "narration": "Air that high is far colder.",
+   "emoji": "🥶",
+   "headline": "Thin, Cold Air",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kilimanjaro glacier"
+  },
+  {
+   "narration": "So glaciers still cling to the top.",
+   "emoji": "🧊",
+   "headline": "Glaciers On Top",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kilimanjaro ice cliffs"
+  },
+  {
+   "narration": "They've been shrinking for decades.",
+   "emoji": "📉",
+   "headline": "Slowly Shrinking",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kilimanjaro glacier retreat"
+  },
+  {
+   "narration": "Your tropical climb ends with snow.",
+   "emoji": "❄️",
+   "headline": "Tropics To Snow",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kilimanjaro hikers summit"
+  },
+  {
+   "narration": "Tomorrow: a lake of glowing lava.",
+   "emoji": "➡️",
+   "headline": "Next: Lava Lake",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nyiragongo lava lake"
+  }
+ ]
+}

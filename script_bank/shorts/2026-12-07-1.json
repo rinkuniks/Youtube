@@ -1,0 +1,94 @@
+{
+ "category": "geography",
+ "topic": "Chocolate Hills of Bohol, Philippines",
+ "hook": "Your photo here shows over 1,200 green mounds.",
+ "title": "The Philippines Hills That Turn Chocolate",
+ "description": "The Chocolate Hills on Bohol island in the Philippines are more than 1,200 grass-covered mounds. In the dry season the grass turns brown, and the hills look like chocolate drops. Part of the series Places That Shouldn't Exist.\n\n#Shorts #ChocolateHills #Philippines",
+ "tags": [
+  "chocolate hills",
+  "bohol",
+  "philippines",
+  "geography facts",
+  "natural wonders",
+  "travel facts",
+  "places that shouldn't exist",
+  "hills",
+  "asia travel"
+ ],
+ "comment_prompt": "Green or brown season? Pick one",
+ "hook_banner": "REAL PLACE, REAL HILLS",
+ "scenes": [
+  {
+   "narration": "Your photo here shows over 1,200 green mounds.",
+   "emoji": "⛰️",
+   "headline": "Over 1,200 Mounds",
+   "stat": "1,200+",
+   "sub": "",
+   "visual_query": "Chocolate Hills Bohol green"
+  },
+  {
+   "narration": "They are the Chocolate Hills, Philippines.",
+   "emoji": "🇵🇭",
+   "headline": "Chocolate Hills",
+   "stat": "",
+   "sub": "Bohol, Philippines",
+   "visual_query": "Chocolate Hills Philippines"
+  },
+  {
+   "narration": "Every mound is covered in grass.",
+   "emoji": "🌱",
+   "headline": "Grass-Covered",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chocolate Hills grass"
+  },
+  {
+   "narration": "Each one is a rounded, cone-shaped hill.",
+   "emoji": "🔺",
+   "headline": "Rounded Cones",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bohol hills aerial"
+  },
+  {
+   "narration": "In the dry season, they turn brown.",
+   "emoji": "🟤",
+   "headline": "Turns Brown",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chocolate Hills brown dry season"
+  },
+  {
+   "narration": "Then they look like chocolate drops.",
+   "emoji": "🍫",
+   "headline": "Chocolate Drops",
+   "stat": "",
+   "sub": "",
+   "visual_query": "chocolate drops closeup"
+  },
+  {
+   "narration": "They are spread across Bohol island.",
+   "emoji": "🏝️",
+   "headline": "Across Bohol",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bohol island landscape"
+  },
+  {
+   "narration": "Green hills, then chocolate hills, same place.",
+   "emoji": "🔄",
+   "headline": "Green To Brown",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chocolate Hills viewing deck"
+  },
+  {
+   "narration": "Tomorrow: a mountain taller than Everest.",
+   "emoji": "➡️",
+   "headline": "Tomorrow: Mauna Kea",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mauna Kea summit"
+  }
+ ]
+}

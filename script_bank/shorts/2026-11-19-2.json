@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Lærdal Tunnel in Norway",
+ "hook": "Your drive in Norway goes underground for twenty minutes.",
+ "title": "A Road Tunnel You Drive 20 Minutes Through",
+ "description": "The Lærdal Tunnel in Norway is 24.5 km long, the longest road tunnel in the world. Driving through takes around 20 minutes. Blue-lit caverns along the way break up the long drive. Part of the Places That Shouldn't Exist series.\n\n#Shorts #Norway #LaerdalTunnel",
+ "tags": [
+  "Laerdal tunnel",
+  "Norway",
+  "longest tunnel",
+  "longest road tunnel",
+  "geography facts",
+  "blue cavern",
+  "places that shouldn't exist",
+  "travel facts"
+ ],
+ "comment_prompt": "Would you drive it? Yes or no",
+ "hook_banner": "WORLD'S LONGEST TUNNEL",
+ "scenes": [
+  {
+   "narration": "Your drive in Norway goes underground for twenty minutes.",
+   "emoji": "🚗",
+   "headline": "20 Minutes Underground",
+   "stat": "20 min",
+   "sub": "",
+   "visual_query": "Laerdal tunnel road"
+  },
+  {
+   "narration": "This is the Lærdal Tunnel.",
+   "emoji": "📍",
+   "headline": "Lærdal Tunnel",
+   "stat": "",
+   "sub": "Norway",
+   "visual_query": "Laerdal tunnel entrance"
+  },
+  {
+   "narration": "It is 24.5 kilometres long.",
+   "emoji": "📏",
+   "headline": "24.5 Kilometres",
+   "stat": "24.5 km",
+   "sub": "",
+   "visual_query": "long road tunnel"
+  },
+  {
+   "narration": "That makes it the longest road tunnel in the world.",
+   "emoji": "🏆",
+   "headline": "World's Longest",
+   "stat": "",
+   "sub": "road tunnel",
+   "visual_query": "Laerdal tunnel interior"
+  },
+  {
+   "narration": "So engineers added caverns lit in blue.",
+   "emoji": "🔵",
+   "headline": "Blue-Lit Caverns",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Laerdal tunnel blue cavern"
+  },
+  {
+   "narration": "They break up the endless grey tunnel.",
+   "emoji": "🕳️",
+   "headline": "A Break From Grey",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tunnel blue lights cave"
+  },
+  {
+   "narration": "Cars drive through a mountain for miles.",
+   "emoji": "⛰️",
+   "headline": "Inside A Mountain",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Norway mountain tunnel"
+  },
+  {
+   "narration": "Your drive in Norway goes underground for twenty minutes.",
+   "emoji": "🚗",
+   "headline": "20 Minutes Below",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Norway tunnel driving"
+  },
+  {
+   "narration": "More places that shouldn't exist, coming soon.",
+   "emoji": "➡️",
+   "headline": "More Coming Soon",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Norway fjord road"
+  }
+ ]
+}

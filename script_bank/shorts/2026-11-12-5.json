@@ -1,0 +1,93 @@
+{
+ "category": "technology",
+ "topic": "Rear windshield heating lines",
+ "hook": "Your car's back glass has wires baked right into it.",
+ "title": "Your Car's Back Glass Has Hidden Wires",
+ "description": "The thin lines across your car's rear windshield are heating wires. Press the rear defogger button and they warm up to clear fog. You can see them on the glass right now.\n\n#Shorts #Cars #Technology",
+ "tags": [
+  "rear windshield",
+  "defogger",
+  "car facts",
+  "car tech",
+  "heating wires",
+  "monsoon driving",
+  "how it works",
+  "Shorts"
+ ],
+ "comment_prompt": "Did you know this? Yes or no",
+ "hook_banner": "LOOK AT YOUR CAR",
+ "scenes": [
+  {
+   "narration": "Your car's back glass has wires baked into it.",
+   "emoji": "🚗",
+   "headline": "WIRES IN THE GLASS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "car rear windshield lines"
+  },
+  {
+   "narration": "Those thin lines are not decoration.",
+   "emoji": "〰️",
+   "headline": "NOT DECORATION",
+   "stat": "",
+   "sub": "",
+   "visual_query": "rear window defroster grid"
+  },
+  {
+   "narration": "They are heating wires.",
+   "emoji": "🔥",
+   "headline": "HEATING WIRES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "defroster grid closeup"
+  },
+  {
+   "narration": "Press the rear defogger button on your dashboard.",
+   "emoji": "🔘",
+   "headline": "PRESS THIS BUTTON",
+   "stat": "",
+   "sub": "",
+   "visual_query": "rear defogger button car"
+  },
+  {
+   "narration": "The wires warm up and the glass heats.",
+   "emoji": "♨️",
+   "headline": "GLASS HEATS UP",
+   "stat": "",
+   "sub": "",
+   "visual_query": "heated rear window"
+  },
+  {
+   "narration": "Fog and mist melt away from the glass.",
+   "emoji": "🌫️",
+   "headline": "FOG CLEARS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "foggy car window clearing"
+  },
+  {
+   "narration": "Monsoon drivers see them clear the view.",
+   "emoji": "🌧️",
+   "headline": "MONSOON FIX",
+   "stat": "",
+   "sub": "",
+   "visual_query": "car rain windshield India"
+  },
+  {
+   "narration": "Go look at your car's back glass.",
+   "emoji": "👀",
+   "headline": "GO LOOK NOW",
+   "stat": "",
+   "sub": "",
+   "visual_query": "car back window wires"
+  },
+  {
+   "narration": "Tomorrow: a city that commutes by cable car.",
+   "emoji": "🚠",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "commute by cable car",
+   "visual_query": "La Paz cable car"
+  }
+ ]
+}

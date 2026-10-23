@@ -1,0 +1,700 @@
+{
+ "topic": "Why Ireland Is Stranger Than You Think",
+ "hook": "Your speed sign flips from miles to kilometres on the same road, and nothing else changes.",
+ "title": "Why Ireland Is Stranger Than You Think",
+ "description": "Drive across the Irish border and the speed sign flips from miles to kilometres, even though the road does not change. This video shows seven strange true facts about Ireland, from green and red post boxes to a clock that ran 25 minutes behind London.\n\n#Ireland #Geography #Borders",
+ "tags": [
+  "Ireland",
+  "Northern Ireland",
+  "Irish border",
+  "miles vs kilometres",
+  "strange borders",
+  "geography facts",
+  "Republic of Ireland",
+  "Donegal",
+  "Common Travel Area",
+  "Dublin Mean Time",
+  "weird geography",
+  "surprising facts",
+  "Lough Foyle",
+  "Brexit border"
+ ],
+ "comment_prompt": "Which border would you drive across first?",
+ "hook_banner": "THE SIGN CHANGES, THE ROAD DOESN'T",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "The speed sign that flips",
+   "scene": 6
+  },
+  {
+   "title": "Post boxes turn green",
+   "scene": 16
+  },
+  {
+   "title": "The clock 25 minutes late",
+   "scene": 25
+  },
+  {
+   "title": "Your phone changes country",
+   "scene": 35
+  },
+  {
+   "title": "The county behind another country",
+   "scene": 45
+  },
+  {
+   "title": "Water nobody agreed on",
+   "scene": 55
+  },
+  {
+   "title": "The border you can barely see",
+   "scene": 65
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your speed sign flips from miles to kilometres on the same road, and nothing else changes. No wall, no guard, just a number.",
+   "emoji": "🚗",
+   "headline": "The Sign Flips",
+   "stat": "",
+   "sub": "Same road, new units",
+   "visual_query": "Irish road speed sign"
+  },
+  {
+   "narration": "You are driving across Ireland, and in a few seconds you will cross a border that most drivers never even notice.",
+   "emoji": "🛣️",
+   "headline": "A Border You Miss",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ireland country road"
+  },
+  {
+   "narration": "By the end of this video you will see seven strange things this one island does to roads, clocks and phones.",
+   "emoji": "🗺️",
+   "headline": "Seven Strange Things",
+   "stat": "7",
+   "sub": "",
+   "visual_query": "Ireland map island"
+  },
+  {
+   "narration": "And the last one is the strangest: a border that hundreds of roads cross, with almost nothing to show it is there.",
+   "emoji": "👀",
+   "headline": "The Last One",
+   "stat": "",
+   "sub": "Almost invisible",
+   "visual_query": "Irish border road"
+  },
+  {
+   "narration": "Ireland is one island, but it is split into two countries: Northern Ireland, part of the United Kingdom, and the Republic of Ireland.",
+   "emoji": "🇮🇪",
+   "headline": "One Island, Two Countries",
+   "stat": "2",
+   "sub": "",
+   "visual_query": "Ireland island satellite"
+  },
+  {
+   "narration": "Start with the sign that gives the game away. Stay with me, because it gets stranger from here.",
+   "emoji": "➡️",
+   "headline": "Start With The Sign",
+   "stat": "",
+   "sub": "",
+   "visual_query": "road sign countryside"
+  },
+  {
+   "narration": "Strange thing one: the sign that changes its units. Drive south from Northern Ireland and the numbers look the same, but they mean something else.",
+   "emoji": "🚦",
+   "headline": "Same Number, New Meaning",
+   "stat": "",
+   "sub": "Strange thing one",
+   "visual_query": "speed limit sign"
+  },
+  {
+   "narration": "In Northern Ireland, speed limits and distances are in miles, just like the rest of the United Kingdom.",
+   "emoji": "🇬🇧",
+   "headline": "Northern Ireland: Miles",
+   "stat": "mph",
+   "sub": "",
+   "visual_query": "Northern Ireland road sign"
+  },
+  {
+   "narration": "In the Republic of Ireland, speed limits are in kilometres per hour. The Republic switched its speed signs to metric in January 2005.",
+   "emoji": "🇮🇪",
+   "headline": "Republic: Kilometres",
+   "stat": "km/h",
+   "sub": "Metric since 2005",
+   "visual_query": "Ireland km/h sign"
+  },
+  {
+   "narration": "A sign showing 100 in the Republic means 100 kilometres per hour, which is about 62 miles per hour.",
+   "emoji": "🔢",
+   "headline": "100 Means 62",
+   "stat": "100 km/h",
+   "sub": "About 62 mph",
+   "visual_query": "speed limit 100 sign"
+  },
+  {
+   "narration": "Your car does not change at the border. Only the sign tells you which rules you just drove into.",
+   "emoji": "🚙",
+   "headline": "The Car Stays The Same",
+   "stat": "",
+   "sub": "",
+   "visual_query": "car dashboard speedometer"
+  },
+  {
+   "narration": "Drivers from Northern Ireland who cross the border have to stop thinking in miles and start thinking in kilometres, with no warning.",
+   "emoji": "🧠",
+   "headline": "No Warning",
+   "stat": "",
+   "sub": "",
+   "visual_query": "driver crossing border road"
+  },
+  {
+   "narration": "Everything else about the road can stay the same: same tarmac, same hedges, same cows in the field next to it.",
+   "emoji": "🐄",
+   "headline": "Same Road, Same Cows",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Irish country lane cows"
+  },
+  {
+   "narration": "Both sides drive on the left, so there is no lane switching like at some borders. The only clue is the number on the sign.",
+   "emoji": "↩️",
+   "headline": "Both Drive Left",
+   "stat": "",
+   "sub": "",
+   "visual_query": "driving on left road"
+  },
+  {
+   "narration": "Often the sign is the only thing telling you that you changed countries. That is how a border can hide in plain sight.",
+   "emoji": "🫥",
+   "headline": "Hiding In Plain Sight",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ireland border crossing sign"
+  },
+  {
+   "narration": "Next, a clue that is much more colourful, and you can spot it from the car window. Look at the post boxes.",
+   "emoji": "📮",
+   "headline": "Now Look At Post Boxes",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Irish post box"
+  },
+  {
+   "narration": "Strange thing two: the post box that changes colour. Cross the border and the red letter box turns green.",
+   "emoji": "🟢",
+   "headline": "Red Turns Green",
+   "stat": "",
+   "sub": "Strange thing two",
+   "visual_query": "green post box Ireland"
+  },
+  {
+   "narration": "In Northern Ireland, post boxes are red, just like in England, Scotland and Wales. The Royal Mail runs them.",
+   "emoji": "🔴",
+   "headline": "Northern Ireland: Red",
+   "stat": "",
+   "sub": "Royal Mail",
+   "visual_query": "red pillar box"
+  },
+  {
+   "narration": "In the Republic of Ireland, post boxes are painted green. An Post, the Irish postal service, runs those.",
+   "emoji": "✉️",
+   "headline": "Republic: Green",
+   "stat": "",
+   "sub": "An Post",
+   "visual_query": "An Post green pillar box"
+  },
+  {
+   "narration": "The green is not an accident. After Ireland became independent, the old British red boxes were repainted green.",
+   "emoji": "🎨",
+   "headline": "Repainted After Independence",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old Irish pillar box"
+  },
+  {
+   "narration": "Some of those old green boxes still carry the royal initials of British monarchs under the paint.",
+   "emoji": "👑",
+   "headline": "Royal Initials Remain",
+   "stat": "",
+   "sub": "",
+   "visual_query": "pillar box royal cipher"
+  },
+  {
+   "narration": "So a green box can still carry a British royal mark, a small reminder of the history under the paint.",
+   "emoji": "🕰️",
+   "headline": "History Under The Paint",
+   "stat": "",
+   "sub": "",
+   "visual_query": "weathered post box"
+  },
+  {
+   "narration": "Even the postal addresses change. The Republic uses a code called Eircode, and Northern Ireland uses UK postcodes.",
+   "emoji": "🏷️",
+   "headline": "Two Address Systems",
+   "stat": "",
+   "sub": "Eircode vs UK postcode",
+   "visual_query": "Eircode address sign"
+  },
+  {
+   "narration": "That means two different address systems on one small island, sometimes only a short drive apart.",
+   "emoji": "🏘️",
+   "headline": "Two Systems, One Island",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Irish village street"
+  },
+  {
+   "narration": "Speed signs and post boxes are easy to see. The next one is about something you cannot see at all: time.",
+   "emoji": "⏰",
+   "headline": "Now, Time Itself",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old clock face"
+  },
+  {
+   "narration": "Strange thing three: Ireland's clocks used to be 25 minutes behind London. Not an hour, 25 minutes.",
+   "emoji": "🕓",
+   "headline": "25 Minutes Behind",
+   "stat": "25 min",
+   "sub": "Strange thing three",
+   "visual_query": "Dublin old clock"
+  },
+  {
+   "narration": "Before 1916, Ireland ran on its own time called Dublin Mean Time, set by the sun over Dublin.",
+   "emoji": "☀️",
+   "headline": "Dublin Mean Time",
+   "stat": "",
+   "sub": "Before 1916",
+   "visual_query": "Dublin city skyline"
+  },
+  {
+   "narration": "It was about 25 minutes behind Greenwich Mean Time, the time that London used.",
+   "emoji": "🇬🇧",
+   "headline": "Behind Greenwich",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Greenwich observatory"
+  },
+  {
+   "narration": "Trains and ferries between the two islands had to account for that gap every single day.",
+   "emoji": "🚢",
+   "headline": "Ferries Felt It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Irish Sea ferry"
+  },
+  {
+   "narration": "That changed in 1916, during the First World War, when Ireland moved its clocks to match Greenwich time.",
+   "emoji": "📅",
+   "headline": "Changed In 1916",
+   "stat": "1916",
+   "sub": "",
+   "visual_query": "vintage railway station clock"
+  },
+  {
+   "narration": "Today both parts of Ireland share one time zone, so there is no clock change at the border.",
+   "emoji": "🕒",
+   "headline": "One Time Zone Today",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ireland clock tower"
+  },
+  {
+   "narration": "In summer, clocks go forward by one hour on both sides at the same moment, so that part stays simple.",
+   "emoji": "🌞",
+   "headline": "Summer Time Matches",
+   "stat": "",
+   "sub": "",
+   "visual_query": "summer evening Ireland"
+  },
+  {
+   "narration": "So the old time gap is gone, but it shows that even time itself was once different on this island.",
+   "emoji": "⌛",
+   "headline": "Time Was Different",
+   "stat": "",
+   "sub": "",
+   "visual_query": "antique clock"
+  },
+  {
+   "narration": "Here is something to wait for: the next one happens in your pocket, and it can cost you money without you noticing.",
+   "emoji": "💸",
+   "headline": "It Happens In Your Pocket",
+   "stat": "",
+   "sub": "",
+   "visual_query": "smartphone in hand"
+  },
+  {
+   "narration": "Your phone is about to get confused about which country it is in, and the next chapter shows how.",
+   "emoji": "📱",
+   "headline": "Your Phone Gets Confused",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone network signal"
+  },
+  {
+   "narration": "Strange thing four: your phone can switch countries without you moving. Near the border, it may connect to the wrong country's network.",
+   "emoji": "📶",
+   "headline": "Phone Switches Country",
+   "stat": "",
+   "sub": "Strange thing four",
+   "visual_query": "phone roaming screen"
+  },
+  {
+   "narration": "Mobile towers do not stop at the border. A strong signal from a tower in the United Kingdom can reach into the Republic.",
+   "emoji": "🗼",
+   "headline": "Towers Ignore Borders",
+   "stat": "",
+   "sub": "",
+   "visual_query": "mobile phone mast countryside"
+  },
+  {
+   "narration": "Your phone simply picks the strongest signal. It does not care which country the tower stands in.",
+   "emoji": "📡",
+   "headline": "Strongest Signal Wins",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone signal bars"
+  },
+  {
+   "narration": "People living near the border have reported their phones showing a UK network while they stand in the Republic, and the other way round.",
+   "emoji": "🔄",
+   "headline": "Wrong Network, Right Place",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone network name screen"
+  },
+  {
+   "narration": "When that happens, calls and data can be billed as roaming, which may cost more than your normal plan.",
+   "emoji": "💰",
+   "headline": "Roaming Charges",
+   "stat": "",
+   "sub": "",
+   "visual_query": "mobile phone bill"
+  },
+  {
+   "narration": "Some people near the border choose their network by hand to avoid surprises.",
+   "emoji": "⚙️",
+   "headline": "Choosing By Hand",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone network settings"
+  },
+  {
+   "narration": "If you enjoy strange places and facts like these, this is a good moment to subscribe, because there are more coming every day.",
+   "emoji": "🔔",
+   "headline": "More Strange Places Daily",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map globe"
+  },
+  {
+   "narration": "Back to the island. So far you have seen a sign, a box, a clock and a phone that all get confused.",
+   "emoji": "🧭",
+   "headline": "Four Confusions So Far",
+   "stat": "4",
+   "sub": "",
+   "visual_query": "Ireland coast road"
+  },
+  {
+   "narration": "The next one is about the shape of the Republic itself, and it looks wrong on a map.",
+   "emoji": "📍",
+   "headline": "The Map Looks Wrong",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ireland map counties"
+  },
+  {
+   "narration": "One whole county of the Republic is almost cut off from the rest of the country.",
+   "emoji": "✂️",
+   "headline": "A County Almost Cut Off",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Donegal coast"
+  },
+  {
+   "narration": "Strange thing five: a county that belongs to one country but sits mostly behind another. Meet Donegal, in the north-west.",
+   "emoji": "🏞️",
+   "headline": "Meet Donegal",
+   "stat": "",
+   "sub": "Strange thing five",
+   "visual_query": "County Donegal landscape"
+  },
+  {
+   "narration": "County Donegal belongs to the Republic of Ireland, but it lies in the far north of the island.",
+   "emoji": "⬆️",
+   "headline": "Far North Republic",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Donegal cliffs"
+  },
+  {
+   "narration": "Northern Ireland sits right between Donegal and most of the Republic, like a wall of land.",
+   "emoji": "🧱",
+   "headline": "A Wall Of Land",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Northern Ireland map"
+  },
+  {
+   "narration": "Look at the map and Donegal is joined to the rest of the Republic only by a narrow strip of land near the west coast.",
+   "emoji": "🔗",
+   "headline": "A Narrow Link",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Donegal Bay coast"
+  },
+  {
+   "narration": "Drivers heading to Donegal can choose to pass through Northern Ireland, because it is often the shorter road.",
+   "emoji": "🚗",
+   "headline": "The Shortcut Abroad",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Irish road trip"
+  },
+  {
+   "narration": "So you can leave the Republic, drive through another country, and arrive back in the Republic without showing anything.",
+   "emoji": "🔁",
+   "headline": "Out And Back Again",
+   "stat": "",
+   "sub": "",
+   "visual_query": "road through Irish countryside"
+  },
+  {
+   "narration": "Remember, both sides drive on the left, so the only thing that changes along the way is the speed sign.",
+   "emoji": "🛑",
+   "headline": "Only The Sign Changes",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Irish road signs"
+  },
+  {
+   "narration": "Donegal also has Malin Head, the northernmost point of mainland Ireland.",
+   "emoji": "🧭",
+   "headline": "Malin Head",
+   "stat": "",
+   "sub": "Northernmost mainland point",
+   "visual_query": "Malin Head Ireland"
+  },
+  {
+   "narration": "That point is in the Republic, even though it lies further north than Northern Ireland itself.",
+   "emoji": "🌊",
+   "headline": "North Of The North",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Malin Head coast"
+  },
+  {
+   "narration": "The next one is not even on land. It is about water, and two governments have never fully agreed who owns it.",
+   "emoji": "🌊",
+   "headline": "Now, The Water",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Irish lough water"
+  },
+  {
+   "narration": "Strange thing six: a stretch of water that two governments still do not fully agree on. It is called a lough.",
+   "emoji": "💧",
+   "headline": "A Disputed Lough",
+   "stat": "",
+   "sub": "Strange thing six",
+   "visual_query": "Lough Foyle"
+  },
+  {
+   "narration": "Lough is the Irish word for a lake or sea inlet, said much like the Scottish word loch.",
+   "emoji": "🏔️",
+   "headline": "What Is A Lough?",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Irish lough mountains"
+  },
+  {
+   "narration": "Two of them, Lough Foyle in the north-west and Carlingford Lough in the east, sit right on the border.",
+   "emoji": "📌",
+   "headline": "Foyle And Carlingford",
+   "stat": "2",
+   "sub": "",
+   "visual_query": "Carlingford Lough"
+  },
+  {
+   "narration": "The land border was drawn around 1921, but the line across these two loughs was never clearly settled.",
+   "emoji": "✏️",
+   "headline": "Land Settled, Water Not",
+   "stat": "1921",
+   "sub": "",
+   "visual_query": "Ireland partition map"
+  },
+  {
+   "narration": "So the exact line in the water is still disputed between the United Kingdom and Ireland.",
+   "emoji": "⚖️",
+   "headline": "Still Disputed",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lough Foyle shoreline"
+  },
+  {
+   "narration": "People who fish and sail there have had to live with that grey area.",
+   "emoji": "⛵",
+   "headline": "A Grey Area",
+   "stat": "",
+   "sub": "",
+   "visual_query": "fishing boat Irish lough"
+  },
+  {
+   "narration": "It is a quiet disagreement, with no fences and no guards, just a line on the water that nobody has agreed on.",
+   "emoji": "🤫",
+   "headline": "A Quiet Disagreement",
+   "stat": "",
+   "sub": "",
+   "visual_query": "calm lough water"
+  },
+  {
+   "narration": "Think about that: a border can be settled on land and still be unclear a few metres away in the water.",
+   "emoji": "🤔",
+   "headline": "Settled On Land Only",
+   "stat": "",
+   "sub": "",
+   "visual_query": "shoreline border water"
+  },
+  {
+   "narration": "That brings us to the biggest question of all: how do you manage a border that has almost no signs?",
+   "emoji": "❓",
+   "headline": "A Border With No Signs",
+   "stat": "",
+   "sub": "",
+   "visual_query": "empty country road border"
+  },
+  {
+   "narration": "The last chapter shows you the most surprising thing on this island, and it connects back to that first speed sign.",
+   "emoji": "🔙",
+   "headline": "Back To The Sign",
+   "stat": "",
+   "sub": "",
+   "visual_query": "speed sign Ireland road"
+  },
+  {
+   "narration": "Strange thing seven: a border with no checkpoint. The line between Northern Ireland and the Republic runs for about 500 kilometres.",
+   "emoji": "📏",
+   "headline": "A 500 Km Border",
+   "stat": "500 km",
+   "sub": "Strange thing seven",
+   "visual_query": "Irish border aerial"
+  },
+  {
+   "narration": "Hundreds of roads cross it, from big motorways to small country lanes between farms.",
+   "emoji": "🛤️",
+   "headline": "Hundreds Of Roads",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Irish country lane farm"
+  },
+  {
+   "narration": "Most of them have no guard, no barrier and no passport desk. Often, there is only a speed sign to tell you.",
+   "emoji": "🚧",
+   "headline": "No Guard, No Barrier",
+   "stat": "",
+   "sub": "",
+   "visual_query": "open border road Ireland"
+  },
+  {
+   "narration": "That is possible because of the Common Travel Area, an arrangement between Ireland and the United Kingdom.",
+   "emoji": "🤝",
+   "headline": "The Common Travel Area",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ireland UK flags"
+  },
+  {
+   "narration": "It lets British and Irish citizens move, live and work in each other's countries, and it has existed for about a century.",
+   "emoji": "🧳",
+   "headline": "A Century Old",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Irish passport"
+  },
+  {
+   "narration": "In the past, this border was very different. During the decades of conflict known as the Troubles, many roads had army posts and checkpoints.",
+   "emoji": "🪖",
+   "headline": "Once Full Of Checkpoints",
+   "stat": "",
+   "sub": "The Troubles",
+   "visual_query": "Northern Ireland peace wall"
+  },
+  {
+   "narration": "Today those posts are gone, and driving across is as simple as driving to the next town.",
+   "emoji": "🏁",
+   "headline": "Posts Are Gone",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Irish border countryside"
+  },
+  {
+   "narration": "Even after Brexit, when the United Kingdom left the European Union, the land border stayed open without regular passport checks.",
+   "emoji": "🇪🇺",
+   "headline": "Open After Brexit",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Brexit Irish border"
+  },
+  {
+   "narration": "That is why a speed sign matters so much here. It is one of the few visible clues you will get.",
+   "emoji": "🔍",
+   "headline": "A Rare Visible Clue",
+   "stat": "",
+   "sub": "",
+   "visual_query": "road sign Ireland border"
+  },
+  {
+   "narration": "Some farms have land on both sides of the line, with a house in one country and a field in the other.",
+   "emoji": "🚜",
+   "headline": "Farms On Both Sides",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Irish farm fields"
+  },
+  {
+   "narration": "People who live near the line can shop across it and may use two currencies, euros and pounds, in the same afternoon.",
+   "emoji": "💶",
+   "headline": "Euros And Pounds",
+   "stat": "",
+   "sub": "",
+   "visual_query": "euro and pound notes"
+  },
+  {
+   "narration": "So that is Ireland: green post boxes, a clock once 25 minutes off, phones that switch countries, and a border you can barely see.",
+   "emoji": "🍀",
+   "headline": "Ireland, Recapped",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ireland green landscape"
+  },
+  {
+   "narration": "It is a quiet border, but it has a long story, and a speed sign is often its only signature.",
+   "emoji": "✍️",
+   "headline": "Its Only Signature",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Irish road sign"
+  },
+  {
+   "narration": "So the next time you drive down a road in Ireland and the speed sign flips from miles to kilometres, you will know why.",
+   "emoji": "🚦",
+   "headline": "Now You Know Why",
+   "stat": "",
+   "sub": "",
+   "visual_query": "speed limit sign road"
+  },
+  {
+   "narration": "Your speed sign flips from miles to kilometres on the same road, and nothing else changes. Tomorrow: another place where the map and the road disagree.",
+   "emoji": "➡️",
+   "headline": "Tomorrow: Another Place",
+   "stat": "",
+   "sub": "Map vs road",
+   "visual_query": "world map road"
+  }
+ ]
+}

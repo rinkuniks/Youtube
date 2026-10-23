@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Enceladus geysers",
+ "hook": "If you stood on Enceladus, ice would spray into space beside you.",
+ "title": "Saturn's Moon Sprays Ice Into Space",
+ "description": "Saturn's moon Enceladus shoots water ice into space from cracks at its south pole. NASA's Cassini spacecraft flew through the plumes and photographed them. Series: If You Were in Space.\n\n#Shorts #Space #Saturn",
+ "tags": [
+  "enceladus",
+  "saturn moon",
+  "cassini",
+  "water geysers",
+  "space facts",
+  "nasa",
+  "if you were in space",
+  "ice plumes"
+ ],
+ "comment_prompt": "Is there life there? Yes or no",
+ "hook_banner": "REAL NASA PHOTOS",
+ "scenes": [
+  {
+   "narration": "If you stood on Enceladus, ice would spray into space beside you.",
+   "emoji": "🪐",
+   "headline": "ICE SPRAYS INTO SPACE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Enceladus plumes Cassini"
+  },
+  {
+   "narration": "The jets burst from cracks at its south pole.",
+   "emoji": "❄️",
+   "headline": "SOUTH POLE CRACKS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Enceladus south pole"
+  },
+  {
+   "narration": "Water erupts and freezes into tiny ice grains.",
+   "emoji": "💧",
+   "headline": "WATER TO ICE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Enceladus geyser"
+  },
+  {
+   "narration": "NASA's Cassini flew straight through the plumes.",
+   "emoji": "🛰️",
+   "headline": "CASSINI FLEW THROUGH",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cassini spacecraft Saturn"
+  },
+  {
+   "narration": "It photographed the jets spraying outward.",
+   "emoji": "📸",
+   "headline": "PHOTOGRAPHED LIVE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Enceladus jets photo"
+  },
+  {
+   "narration": "The water appears to come from an ocean below.",
+   "emoji": "🌊",
+   "headline": "OCEAN UNDER ICE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Enceladus ocean illustration"
+  },
+  {
+   "narration": "That spray is real water from another world.",
+   "emoji": "🌌",
+   "headline": "ANOTHER WORLD",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Saturn moon Enceladus"
+  },
+  {
+   "narration": "Ice really sprays into space from Enceladus.",
+   "emoji": "🪐",
+   "headline": "IT'S REAL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Enceladus Saturn rings"
+  },
+  {
+   "narration": "Tomorrow: a man flying with jet engines.",
+   "emoji": "🚀",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "Real jet suit",
+   "visual_query": "Richard Browning jet suit"
+  }
+ ]
+}

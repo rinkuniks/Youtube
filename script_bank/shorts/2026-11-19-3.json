@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "NASA DART moved an asteroid",
+ "hook": "Your planet once crashed a spacecraft into an asteroid on purpose.",
+ "title": "NASA Crashed Into an Asteroid and Moved It",
+ "description": "In 2022 NASA's DART spacecraft hit the asteroid Dimorphos on purpose. It shortened the little moon's orbit around Didymos by about 32 minutes. It was the first time humans changed the motion of a space object.\n\n#Shorts #Space #NASA",
+ "tags": [
+  "NASA",
+  "DART",
+  "asteroid",
+  "Dimorphos",
+  "planetary defense",
+  "space facts",
+  "space",
+  "Shorts"
+ ],
+ "comment_prompt": "Should we move more asteroids? Yes or no",
+ "hook_banner": "THEY HIT IT ON PURPOSE",
+ "scenes": [
+  {
+   "narration": "Your planet once crashed a spacecraft into an asteroid on purpose.",
+   "emoji": "☄️",
+   "headline": "ON PURPOSE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "DART spacecraft asteroid impact"
+  },
+  {
+   "narration": "It was NASA's DART mission, in 2022.",
+   "emoji": "🚀",
+   "headline": "NASA DART",
+   "stat": "2022",
+   "sub": "",
+   "visual_query": "NASA DART spacecraft"
+  },
+  {
+   "narration": "The target was a small moonlet, Dimorphos.",
+   "emoji": "🌑",
+   "headline": "Dimorphos",
+   "stat": "",
+   "sub": "a tiny asteroid moon",
+   "visual_query": "Dimorphos asteroid"
+  },
+  {
+   "narration": "DART hit it head-on at huge speed.",
+   "emoji": "💥",
+   "headline": "DIRECT HIT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "DART impact asteroid debris"
+  },
+  {
+   "narration": "Its orbit around Didymos got shorter.",
+   "emoji": "🔄",
+   "headline": "ORBIT CHANGED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Didymos Dimorphos asteroid"
+  },
+  {
+   "narration": "By about thirty-two minutes.",
+   "emoji": "⏱️",
+   "headline": "32 MINUTES",
+   "stat": "32 min",
+   "sub": "shorter orbit",
+   "visual_query": "stopwatch clock close"
+  },
+  {
+   "narration": "Humans had moved a space object for the first time.",
+   "emoji": "🌍",
+   "headline": "FIRST EVER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Earth from space"
+  },
+  {
+   "narration": "That crash may protect your planet one day.",
+   "emoji": "🛡️",
+   "headline": "PLANET DEFENCE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "asteroid near Earth"
+  },
+  {
+   "narration": "Tomorrow: the fastest thing humans ever built.",
+   "emoji": "➡️",
+   "headline": "UP NEXT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Parker Solar Probe"
+  }
+ ]
+}

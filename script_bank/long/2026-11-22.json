@@ -1,0 +1,623 @@
+{
+ "topic": "Why Nepal is stranger than you think, starting at the Sunauli border",
+ "hook": "Your rickshaw ride at Sunauli takes you into a country where the year is 2083.",
+ "title": "Nepal: 15 Minutes Ahead and Already in 2083",
+ "description": "Walk across the open India-Nepal border at Sunauli and you enter a country with its own clock, its own year, a flag that is not a rectangle and a child worshipped as a living goddess. This video covers six true facts about Nepal that sound made up, from the 45-minute time zone to how Mount Everest was measured by two countries. Stay to the end for the strangest one.\n\n#Nepal #StrangeFacts #Geography",
+ "tags": [
+  "Nepal",
+  "Sunauli border",
+  "India Nepal border",
+  "Nepal facts",
+  "Nepal time zone",
+  "Bikram Sambat",
+  "Nepal flag",
+  "Mount Everest height",
+  "Kumari living goddess",
+  "strange geography",
+  "weird facts",
+  "stranger than you think",
+  "Nepal 2083"
+ ],
+ "comment_prompt": "Which Nepal fact surprised you most?",
+ "hook_banner": "NEPAL'S YEAR IS 2083",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "A border you can walk across",
+   "scene": 6
+  },
+  {
+   "title": "The 15-minute clock",
+   "scene": 17
+  },
+  {
+   "title": "The year is 2083",
+   "scene": 26
+  },
+  {
+   "title": "The flag that is not a rectangle",
+   "scene": 36
+  },
+  {
+   "title": "Everest, measured twice",
+   "scene": 45
+  },
+  {
+   "title": "The living goddess",
+   "scene": 56
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your rickshaw ride at Sunauli takes you into a country where the year is 2083.",
+   "emoji": "🛺",
+   "headline": "Cross On Foot",
+   "stat": "2083",
+   "sub": "Nepal's year",
+   "visual_query": "Sunauli border gate"
+  },
+  {
+   "narration": "No visa. No passport stamp. Just a plain gate, a few rickshaws, and suddenly you are standing in a different country.",
+   "emoji": "🚪",
+   "headline": "No Visa Needed",
+   "stat": "",
+   "sub": "India to Nepal",
+   "visual_query": "India Nepal border gate"
+  },
+  {
+   "narration": "And that is only the first strange thing. Nepal runs a clock fifteen minutes off from yours, and flies a flag that breaks a world rule.",
+   "emoji": "⏰",
+   "headline": "Odd Clock, Odd Flag",
+   "stat": "15 min",
+   "sub": "",
+   "visual_query": "Nepal flag waving"
+  },
+  {
+   "narration": "By the end you will see how Mount Everest was measured twice, and why a small child is worshipped as a living goddess.",
+   "emoji": "🏔️",
+   "headline": "Coming Up",
+   "stat": "",
+   "sub": "Everest and a living goddess",
+   "visual_query": "Mount Everest peak"
+  },
+  {
+   "narration": "Stay for the last one. It happens in a capital city that is only a short flight from Delhi.",
+   "emoji": "✈️",
+   "headline": "Save The Best",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kathmandu city skyline"
+  },
+  {
+   "narration": "But let us start where you stand, at the border town of Sunauli in Uttar Pradesh, a few hours from Gorakhpur.",
+   "emoji": "📍",
+   "headline": "Start At Sunauli",
+   "stat": "",
+   "sub": "Uttar Pradesh",
+   "visual_query": "Sunauli town street"
+  },
+  {
+   "narration": "One: a border you can simply walk across.",
+   "emoji": "1️⃣",
+   "headline": "An Open Border",
+   "stat": "1",
+   "sub": "",
+   "visual_query": "people walking border crossing"
+  },
+  {
+   "narration": "Walk a few minutes north from Sunauli and you reach Belahiya, in Nepal. The next big town beyond it is Bhairahawa.",
+   "emoji": "🗺️",
+   "headline": "Sunauli To Belahiya",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bhairahawa Nepal town"
+  },
+  {
+   "narration": "There is a gate, a sign, and a line of rickshaws. There is no wall of visa counters and no queue for a stamp.",
+   "emoji": "🛺",
+   "headline": "Just A Simple Gate",
+   "stat": "",
+   "sub": "",
+   "visual_query": "rickshaws border gate"
+  },
+  {
+   "narration": "From there, buses run on to Kathmandu and Pokhara, so many travellers begin their whole Nepal trip right on this road.",
+   "emoji": "🚌",
+   "headline": "Next Stop Kathmandu",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nepal bus road"
+  },
+  {
+   "narration": "The reason is an old treaty. In 1950, India and Nepal signed a friendship treaty that keeps the border open for their citizens.",
+   "emoji": "📜",
+   "headline": "The 1950 Treaty",
+   "stat": "1950",
+   "sub": "",
+   "visual_query": "India Nepal treaty document"
+  },
+  {
+   "narration": "Under it, Indians and Nepalis can travel, live and work across the line with a freedom that most countries never give each other.",
+   "emoji": "🤝",
+   "headline": "Live And Work",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nepal India traders market"
+  },
+  {
+   "narration": "You should still carry a valid ID, and vehicles have their own paperwork. But you never apply for a visa.",
+   "emoji": "🪪",
+   "headline": "Carry Your ID",
+   "stat": "",
+   "sub": "No visa",
+   "visual_query": "identity card hand"
+  },
+  {
+   "narration": "Many Nepali citizens even serve in the Indian Army, in Gorkha regiments that have stood on our side for generations.",
+   "emoji": "🎖️",
+   "headline": "Gorkha Regiments",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gorkha soldiers parade"
+  },
+  {
+   "narration": "Money is tied together too. Nepal fixes its rupee to ours: one hundred Indian rupees equal one hundred sixty Nepali rupees.",
+   "emoji": "💱",
+   "headline": "Linked Rupees",
+   "stat": "160",
+   "sub": "per 100 Indian rupees",
+   "visual_query": "Nepali rupee notes"
+  },
+  {
+   "narration": "And a short drive from this gate is Lumbini, where the Buddha was born. Many people cross at Sunauli just for that.",
+   "emoji": "🪷",
+   "headline": "Birthplace Of Buddha",
+   "stat": "",
+   "sub": "Lumbini",
+   "visual_query": "Lumbini Maya Devi temple"
+  },
+  {
+   "narration": "So you crossed a country line without a visa. Now watch what happens to your watch.",
+   "emoji": "⌚",
+   "headline": "Check Your Watch",
+   "stat": "",
+   "sub": "",
+   "visual_query": "wrist watch close up"
+  },
+  {
+   "narration": "Two: the clock that is fifteen minutes off.",
+   "emoji": "2️⃣",
+   "headline": "The 15-Minute Clock",
+   "stat": "2",
+   "sub": "",
+   "visual_query": "analog clock face"
+  },
+  {
+   "narration": "India runs on one time zone, five hours thirty minutes ahead of world time. Walk into Nepal and it becomes five forty-five.",
+   "emoji": "🕐",
+   "headline": "UTC +5:45",
+   "stat": "+5:45",
+   "sub": "Nepal time",
+   "visual_query": "world time zone map"
+  },
+  {
+   "narration": "So if your phone follows the local network, it jumps fifteen minutes ahead. Same sun, same sky, a different minute.",
+   "emoji": "📱",
+   "headline": "Phone Jumps Ahead",
+   "stat": "15 min",
+   "sub": "",
+   "visual_query": "smartphone clock screen"
+  },
+  {
+   "narration": "Look at that number. A time ending in forty-five is almost unheard of anywhere else on Earth.",
+   "emoji": "🔢",
+   "headline": "Why Forty-Five?",
+   "stat": "45",
+   "sub": "",
+   "visual_query": "digital clock numbers"
+  },
+  {
+   "narration": "Nepal is the only country in the world that uses this offset for its whole territory.",
+   "emoji": "🌍",
+   "headline": "Only Nepal",
+   "stat": "1",
+   "sub": "country on Earth",
+   "visual_query": "Nepal map"
+  },
+  {
+   "narration": "The reason is a choice Nepal made for itself: a time tied to a line of longitude that runs through its own mountains.",
+   "emoji": "🧭",
+   "headline": "Its Own Meridian",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Himalaya mountain range"
+  },
+  {
+   "narration": "In other words, Nepal wanted its own clock, even if it sits only a quarter of an hour away from ours.",
+   "emoji": "🕰️",
+   "headline": "Own Clock",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old clock tower"
+  },
+  {
+   "narration": "So when it is noon in Sunauli, it is already twelve fifteen a few minutes away in Belahiya.",
+   "emoji": "📏",
+   "headline": "Noon Becomes 12:15",
+   "stat": "12:15",
+   "sub": "",
+   "visual_query": "border town street"
+  },
+  {
+   "narration": "A quarter of an hour sounds small. But the next thing is bigger: Nepal is living in a different year.",
+   "emoji": "📅",
+   "headline": "A Different Year",
+   "stat": "",
+   "sub": "",
+   "visual_query": "wall calendar"
+  },
+  {
+   "narration": "Three: a country that lives in the future.",
+   "emoji": "3️⃣",
+   "headline": "The Year Is 2083",
+   "stat": "3",
+   "sub": "",
+   "visual_query": "Nepali calendar"
+  },
+  {
+   "narration": "Look at an official Nepali calendar today and it does not say 2026. It says 2083.",
+   "emoji": "🗓️",
+   "headline": "Not 2026",
+   "stat": "2083",
+   "sub": "",
+   "visual_query": "Nepali calendar page"
+  },
+  {
+   "narration": "That is Bikram Sambat, Nepal's official calendar, and it runs more than fifty-six years ahead of the one on your phone.",
+   "emoji": "➕",
+   "headline": "56 Years Ahead",
+   "stat": "56+",
+   "sub": "years",
+   "visual_query": "Bikram Sambat calendar"
+  },
+  {
+   "narration": "It is a very old calendar, also known in parts of India, and Nepal uses it for government work and official dates.",
+   "emoji": "🏛️",
+   "headline": "Official Calendar",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kathmandu government building"
+  },
+  {
+   "narration": "Its months have names like Baisakh and Jestha, which will sound familiar to anyone who knows the traditional Indian calendars.",
+   "emoji": "🌙",
+   "headline": "Baisakh, Jestha",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hindu calendar panchang"
+  },
+  {
+   "narration": "The new year does not begin in January. It begins in mid-April, around the time of Baisakhi.",
+   "emoji": "🎆",
+   "headline": "April New Year",
+   "stat": "April",
+   "sub": "",
+   "visual_query": "Nepal new year celebration"
+  },
+  {
+   "narration": "So a Nepali friend might say, I was born in twenty sixty. In your calendar, that is about two thousand three.",
+   "emoji": "🎂",
+   "headline": "Born In 2060?",
+   "stat": "2060",
+   "sub": "= about 2003",
+   "visual_query": "birthday cake candles"
+  },
+  {
+   "narration": "The week is different too. Offices in Nepal usually work Sunday to Friday, and Saturday is the main day off.",
+   "emoji": "🗒️",
+   "headline": "Saturday Is Off",
+   "stat": "",
+   "sub": "Sunday to Friday",
+   "visual_query": "office closed sign"
+  },
+  {
+   "narration": "Cross the gate on a Saturday and many offices on the Nepal side are shut, while the Indian side is open.",
+   "emoji": "🚧",
+   "headline": "Closed On Saturday",
+   "stat": "",
+   "sub": "",
+   "visual_query": "closed shop shutters"
+  },
+  {
+   "narration": "A different year, a different weekend, a different clock. Now look up at what is flying above the buildings.",
+   "emoji": "🚩",
+   "headline": "Look Up",
+   "stat": "",
+   "sub": "",
+   "visual_query": "flag above buildings Kathmandu"
+  },
+  {
+   "narration": "Four: the only flag in the world that is not a rectangle.",
+   "emoji": "4️⃣",
+   "headline": "A Flag Like No Other",
+   "stat": "4",
+   "sub": "",
+   "visual_query": "Nepal national flag"
+  },
+  {
+   "narration": "Every other national flag is a rectangle or a square. Nepal's is the only one that is neither.",
+   "emoji": "▭",
+   "headline": "Not A Rectangle",
+   "stat": "",
+   "sub": "Only one in the world",
+   "visual_query": "flags of the world"
+  },
+  {
+   "narration": "It is two triangles stacked on top of each other, crimson red with a blue border, and a moon and a sun inside.",
+   "emoji": "🔺",
+   "headline": "Two Triangles",
+   "stat": "2",
+   "sub": "",
+   "visual_query": "Nepal flag close up"
+  },
+  {
+   "narration": "Many people explain the two triangles as two Himalayan peaks, or as the two major religions, Hinduism and Buddhism.",
+   "emoji": "🏔️",
+   "headline": "Peaks Or Religions",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Himalayan peaks snow"
+  },
+  {
+   "narration": "The moon and the sun stand for the hope that Nepal will last as long as they do.",
+   "emoji": "☀️",
+   "headline": "Sun And Moon",
+   "stat": "",
+   "sub": "",
+   "visual_query": "sun and moon sky"
+  },
+  {
+   "narration": "Crimson is the national colour, and the rhododendron, the national flower, is red too. Nepal even has forests of them.",
+   "emoji": "🌺",
+   "headline": "The Red Flower",
+   "stat": "",
+   "sub": "Rhododendron",
+   "visual_query": "red rhododendron flowers"
+  },
+  {
+   "narration": "The flag is so exact that Nepal's constitution gives step by step instructions. You could draw it with just a ruler and compass.",
+   "emoji": "📐",
+   "headline": "Drawn With A Compass",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ruler compass drawing"
+  },
+  {
+   "narration": "If you enjoy strange places and facts like these, subscribe now, because the next two are the ones I was saving.",
+   "emoji": "🔔",
+   "headline": "Subscribe For More",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map globe"
+  },
+  {
+   "narration": "The next one is a mountain that two countries could not agree on.",
+   "emoji": "⛰️",
+   "headline": "Two Countries, One Peak",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Everest summit clouds"
+  },
+  {
+   "narration": "Five: the mountain that had to be measured twice.",
+   "emoji": "5️⃣",
+   "headline": "Everest, Measured Twice",
+   "stat": "5",
+   "sub": "",
+   "visual_query": "Mount Everest"
+  },
+  {
+   "narration": "Mount Everest sits on the line between Nepal and China. Nepal calls it Sagarmatha. In Tibet, it is Chomolungma.",
+   "emoji": "🏔️",
+   "headline": "Three Names",
+   "stat": "",
+   "sub": "Sagarmatha / Chomolungma",
+   "visual_query": "Everest base camp sign"
+  },
+  {
+   "narration": "For years the two countries gave different heights. Nepal said eight thousand eight hundred forty-eight metres. China said about eight thousand eight hundred forty-four.",
+   "emoji": "📏",
+   "headline": "Two Heights",
+   "stat": "8,848 vs 8,844",
+   "sub": "metres",
+   "visual_query": "surveyor theodolite mountain"
+  },
+  {
+   "narration": "The gap came from the top. China counted the solid rock, while Nepal counted the snow and ice sitting over it.",
+   "emoji": "❄️",
+   "headline": "Rock Or Snow?",
+   "stat": "",
+   "sub": "",
+   "visual_query": "snow summit ridge"
+  },
+  {
+   "narration": "In December 2020, both countries announced one shared number together: eight thousand eight hundred forty-eight point eight six metres.",
+   "emoji": "🤝",
+   "headline": "One Shared Number",
+   "stat": "8,848.86 m",
+   "sub": "Announced December 2020",
+   "visual_query": "Everest summit climbers"
+  },
+  {
+   "narration": "A Nepali survey team climbed to the top as part of that work, so Nepal had its own measurement from the summit.",
+   "emoji": "🧗",
+   "headline": "Nepali Surveyors",
+   "stat": "",
+   "sub": "",
+   "visual_query": "mountaineer summit Himalaya"
+  },
+  {
+   "narration": "And Everest is not alone. Nepal is home to eight of the world's fourteen peaks above eight thousand metres.",
+   "emoji": "🏔️",
+   "headline": "Eight Giants",
+   "stat": "8 of 14",
+   "sub": "peaks above 8,000 m",
+   "visual_query": "Annapurna mountain range"
+  },
+  {
+   "narration": "Many climbers begin at Lukla, a tiny airport on a cliff, famous for a short runway that slopes uphill.",
+   "emoji": "🛩️",
+   "headline": "Lukla Airport",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lukla airport runway"
+  },
+  {
+   "narration": "Now think back to the gate at Sunauli. That land is low, flat farmland called the Terai, right beside Uttar Pradesh.",
+   "emoji": "🌾",
+   "headline": "The Flat Terai",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Terai plains Nepal farmland"
+  },
+  {
+   "narration": "The same country holds that flat plain and the highest point on Earth. Travel north and hot fields give way to ice.",
+   "emoji": "📈",
+   "headline": "Plains To Ice",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Himalaya valley village"
+  },
+  {
+   "narration": "Big mountains are strange. But the strangest thing in Nepal is not a mountain. It is a child.",
+   "emoji": "👧",
+   "headline": "Now, A Child",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kathmandu Durbar Square"
+  },
+  {
+   "narration": "Six: a little girl who is worshipped as a goddess.",
+   "emoji": "6️⃣",
+   "headline": "The Living Goddess",
+   "stat": "6",
+   "sub": "",
+   "visual_query": "Kumari Ghar Kathmandu"
+  },
+  {
+   "narration": "In Kathmandu, a young girl called the Kumari is believed to hold the spirit of a goddess, and people truly worship her.",
+   "emoji": "🙏",
+   "headline": "Meet The Kumari",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kathmandu temple worship"
+  },
+  {
+   "narration": "She is chosen as a small child, from a particular Newar community, after priests check her for many signs of calm and perfection.",
+   "emoji": "🔍",
+   "headline": "Chosen As A Child",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Newar priests ritual"
+  },
+  {
+   "narration": "She then lives in a special house called the Kumari Ghar, right beside Durbar Square in the middle of Kathmandu.",
+   "emoji": "🏠",
+   "headline": "The Kumari Ghar",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kumari Ghar carved windows"
+  },
+  {
+   "narration": "Visitors can sometimes see her at a carved window above the courtyard, but taking her photograph is not allowed.",
+   "emoji": "🪟",
+   "headline": "At The Window",
+   "stat": "",
+   "sub": "No photos",
+   "visual_query": "carved wooden window Nepal"
+  },
+  {
+   "narration": "She leaves rarely, and tradition says she must be carried, so that her feet do not touch the ground outside.",
+   "emoji": "👣",
+   "headline": "Feet Never Touch Ground",
+   "stat": "",
+   "sub": "",
+   "visual_query": "palanquin procession Nepal"
+  },
+  {
+   "narration": "Once a year, during the Indra Jatra festival, she is pulled through the streets in a chariot while crowds watch.",
+   "emoji": "🎡",
+   "headline": "The Chariot Festival",
+   "stat": "",
+   "sub": "Indra Jatra",
+   "visual_query": "Indra Jatra chariot Kathmandu"
+  },
+  {
+   "narration": "Leaders have traditionally visited her for a blessing. A child sits in that seat of honour, in a modern capital.",
+   "emoji": "👑",
+   "headline": "Leaders Seek Blessings",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hanuman Dhoka palace Kathmandu"
+  },
+  {
+   "narration": "When she grows up and reaches puberty, she is no longer the goddess, and a new child is chosen to take her place.",
+   "emoji": "🔄",
+   "headline": "A New Kumari",
+   "stat": "",
+   "sub": "",
+   "visual_query": "young girl Nepal traditional dress"
+  },
+  {
+   "narration": "Nepal's Supreme Court has even told the state to make sure the Kumari gets an education, like any other child.",
+   "emoji": "📚",
+   "headline": "School For A Goddess",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nepal schoolchildren classroom"
+  },
+  {
+   "narration": "Think about that: a child who is a goddess, in a capital only a short flight from Delhi.",
+   "emoji": "🤯",
+   "headline": "A Short Flight Away",
+   "stat": "",
+   "sub": "",
+   "visual_query": "airplane over Himalaya"
+  },
+  {
+   "narration": "So that rickshaw at Sunauli carries you somewhere with a different clock, a different year, a different flag and a taller mountain.",
+   "emoji": "🛺",
+   "headline": "From One Gate",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sunauli border rickshaw"
+  },
+  {
+   "narration": "And all of it begins at an open gate with no visa, a few minutes' walk from an Indian road.",
+   "emoji": "🚪",
+   "headline": "No Visa, No Wall",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Nepal open border"
+  },
+  {
+   "narration": "Your rickshaw ride at Sunauli takes you into a country where the year is 2083, and now you know why.",
+   "emoji": "🔁",
+   "headline": "2083, Explained",
+   "stat": "2083",
+   "sub": "",
+   "visual_query": "Nepal flag mountains"
+  },
+  {
+   "narration": "Next in this series: why Japan is stranger than you think.",
+   "emoji": "🇯🇵",
+   "headline": "Next: Japan",
+   "stat": "",
+   "sub": "Same series",
+   "visual_query": "Mount Fuji Japan"
+  }
+ ]
+}

@@ -1,0 +1,631 @@
+{
+ "topic": "Why Punjab is stranger than you think: Kartarpur seen from India",
+ "hook": "Your binoculars can show you a holy shrine in Pakistan, from a field in India.",
+ "title": "Why Punjab Is Stranger Than You Think",
+ "description": "Punjab is split between India and Pakistan, yet from the Indian side people could look across the border at Gurdwara Darbar Sahib in Kartarpur. This video covers the land of five rivers, two scripts for one language, the Grand Trunk Road, the evening ceremony at Attari-Wagah, the 2025 Ravi flood and the Kartarpur Corridor, which was reported shut at the latest reports. Facts were checked against news reports at the time of writing, so check for updates on the corridor's status before you plan a trip.\n\n#Punjab #Kartarpur #IndiaPakistan",
+ "tags": [
+  "Punjab",
+  "Kartarpur",
+  "Kartarpur Corridor",
+  "Gurdwara Darbar Sahib",
+  "Dera Baba Nanak",
+  "India Pakistan border",
+  "Attari Wagah",
+  "Guru Nanak",
+  "strange facts",
+  "geography facts",
+  "Punjab facts",
+  "Grand Trunk Road",
+  "Ravi river"
+ ],
+ "comment_prompt": "Have you ever seen Kartarpur from the Indian side?",
+ "hook_banner": "SHRINE SEEN FROM INDIA",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "Five waters, two countries",
+   "scene": 3
+  },
+  {
+   "title": "One language, two scripts",
+   "scene": 9
+  },
+  {
+   "title": "A road cut in half",
+   "scene": 14
+  },
+  {
+   "title": "The evening gate show",
+   "scene": 21
+  },
+  {
+   "title": "The river that floods a shrine",
+   "scene": 30
+  },
+  {
+   "title": "Kartarpur, seen from India",
+   "scene": 37
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your binoculars can show you a holy shrine in Pakistan, from a field in India.",
+   "emoji": "🔭",
+   "headline": "Seen From India",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dera Baba Nanak border"
+  },
+  {
+   "narration": "That is not a trick. For years, people really stood on the Indian side and looked across the border at it.",
+   "emoji": "👀",
+   "headline": "Really Seen",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kartarpur Sahib gurdwara"
+  },
+  {
+   "narration": "By the end of this video, you will see exactly how that works, and why Punjab is stranger than you think.",
+   "emoji": "🗺️",
+   "headline": "Strange Punjab",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Punjab India map"
+  },
+  {
+   "narration": "Start with the name. Punjab is a maths problem hiding in plain sight.",
+   "emoji": "➗",
+   "headline": "Name Is Maths",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Punjab fields"
+  },
+  {
+   "narration": "Panj means five and ab means water in Persian, so Punjab means the land of five waters.",
+   "emoji": "🌊",
+   "headline": "Five Waters",
+   "stat": "5",
+   "sub": "",
+   "visual_query": "Punjab river"
+  },
+  {
+   "narration": "Those five rivers are the Jhelum, the Chenab, the Ravi, the Beas and the Sutlej.",
+   "emoji": "🏞️",
+   "headline": "The Five Rivers",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sutlej river"
+  },
+  {
+   "narration": "Before 1947, all five flowed through one Punjab. After 1947, that one land became two, in two countries.",
+   "emoji": "✂️",
+   "headline": "One Land, Two",
+   "stat": "1947",
+   "sub": "",
+   "visual_query": "Punjab partition map"
+  },
+  {
+   "narration": "Indian Punjab and Pakistani Punjab share a name, a history, and the same way of speaking, but not a flag.",
+   "emoji": "🏳️",
+   "headline": "Same Name, Two Flags",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Pakistan flags"
+  },
+  {
+   "narration": "Walk across a Punjab field and the soil looks exactly the same on both sides, even though the countries are different.",
+   "emoji": "🌾",
+   "headline": "Same Soil",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Punjab wheat field"
+  },
+  {
+   "narration": "Now here is the first twist. A language you can hear on both sides, but cannot read on the other.",
+   "emoji": "📖",
+   "headline": "Hear It, Can't Read It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Punjabi script"
+  },
+  {
+   "narration": "In Indian Punjab, Punjabi is written in Gurmukhi, the script of Sikh scripture, which runs left to right.",
+   "emoji": "✍️",
+   "headline": "Gurmukhi Script",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gurmukhi writing"
+  },
+  {
+   "narration": "In Pakistani Punjab, the same language is written in Shahmukhi, which looks like Urdu and runs right to left.",
+   "emoji": "✒️",
+   "headline": "Shahmukhi Script",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Urdu calligraphy"
+  },
+  {
+   "narration": "So two friends can speak the same sentence, laugh at the same joke, and still not read each other's signboards.",
+   "emoji": "🪧",
+   "headline": "Same Joke, Two Signs",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lahore street sign"
+  },
+  {
+   "narration": "Punjabi is actually the most spoken mother tongue in Pakistan. Same songs, same proverbs, two alphabets, one line on a map.",
+   "emoji": "🎵",
+   "headline": "Two Alphabets",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Punjabi folk singers"
+  },
+  {
+   "narration": "Stay with me, because the next one is a road older than most countries, and a border cuts it in half.",
+   "emoji": "🛣️",
+   "headline": "A Road Cut Open",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Grand Trunk Road"
+  },
+  {
+   "narration": "It is the Grand Trunk Road, one of the oldest and longest roads in South Asia.",
+   "emoji": "🛤️",
+   "headline": "Grand Trunk Road",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Grand Trunk Road India"
+  },
+  {
+   "narration": "For centuries it carried traders, armies and pilgrims, from Bengal in the east all the way to Kabul.",
+   "emoji": "🐪",
+   "headline": "Bengal To Kabul",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old Grand Trunk Road"
+  },
+  {
+   "narration": "Ordinary families used it too, with bullock carts and bags of grain, long before anyone drew a border on it.",
+   "emoji": "🐂",
+   "headline": "Before Any Border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "bullock cart road"
+  },
+  {
+   "narration": "It passes through Amritsar in India. Cross the border, and the same road reaches Lahore in Pakistan.",
+   "emoji": "🏙️",
+   "headline": "Amritsar To Lahore",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Amritsar city"
+  },
+  {
+   "narration": "Two of Punjab's great cities sit on one ancient road, but today you cannot just drive from one to the other.",
+   "emoji": "🚗",
+   "headline": "No Simple Drive",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lahore city"
+  },
+  {
+   "narration": "The road meets the border at Attari on the Indian side, and Wagah on the Pakistani side.",
+   "emoji": "📍",
+   "headline": "Attari And Wagah",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Attari Wagah border gate"
+  },
+  {
+   "narration": "And right there, where the road ends in a gate, there is a show every single evening.",
+   "emoji": "🎭",
+   "headline": "A Show At A Gate",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Wagah border ceremony"
+  },
+  {
+   "narration": "Every evening, soldiers from two armies perform a ceremony for huge crowds. It is called Beating Retreat.",
+   "emoji": "🪖",
+   "headline": "Beating Retreat",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Beating Retreat Attari"
+  },
+  {
+   "narration": "Border Security Force men stand on the Indian side. Pakistan Rangers stand on the other.",
+   "emoji": "🎖️",
+   "headline": "Two Armies, One Show",
+   "stat": "",
+   "sub": "",
+   "visual_query": "BSF soldiers"
+  },
+  {
+   "narration": "They march in heavy boots, wear tall fan-shaped headgear, and kick their legs up as high as they can.",
+   "emoji": "🦵",
+   "headline": "Legs Up High",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border guards march"
+  },
+  {
+   "narration": "The crowds on both sides cheer, and each side tries to be louder than the other.",
+   "emoji": "📣",
+   "headline": "Loudest Crowd Wins",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Wagah crowd stands"
+  },
+  {
+   "narration": "Then both flags are lowered at the same time, folded, and the gates are shut.",
+   "emoji": "🚩",
+   "headline": "Flags Come Down",
+   "stat": "",
+   "sub": "",
+   "visual_query": "flag lowering ceremony"
+  },
+  {
+   "narration": "It is part theatre, part serious military routine, and it has run for decades at a border most people never see.",
+   "emoji": "🎬",
+   "headline": "Decades Of Ritual",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Wagah border gate closed"
+  },
+  {
+   "narration": "But the strangest part is not the show. It is what lies a few kilometres away from another gate on this border.",
+   "emoji": "❓",
+   "headline": "Another Gate",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Pakistan border road"
+  },
+  {
+   "narration": "That gate matters far more to millions of people. It leads to a guru's home, and first, we need the river.",
+   "emoji": "🚪",
+   "headline": "A Guru's Gate",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Guru Nanak painting"
+  },
+  {
+   "narration": "The Ravi is one of those five waters, and in 2025 it did something dramatic.",
+   "emoji": "🌧️",
+   "headline": "The Ravi Rises",
+   "stat": "2025",
+   "sub": "",
+   "visual_query": "Ravi river flood"
+  },
+  {
+   "narration": "Heavy monsoon rain swelled the Ravi until it overflowed, in late August 2025.",
+   "emoji": "⛈️",
+   "headline": "Monsoon Flood",
+   "stat": "",
+   "sub": "",
+   "visual_query": "monsoon flood Punjab"
+  },
+  {
+   "narration": "News reports said the whole Kartarpur complex, including Gurdwara Darbar Sahib, went under floodwater.",
+   "emoji": "🌊",
+   "headline": "Shrine Under Water",
+   "stat": "",
+   "sub": "",
+   "visual_query": "flooded gurdwara"
+  },
+  {
+   "narration": "Reports said around 150 people were rescued, and the Guru Granth Sahib was moved to the first floor, above the water.",
+   "emoji": "🛟",
+   "headline": "150 Rescued",
+   "stat": "",
+   "sub": "",
+   "visual_query": "flood rescue boats"
+  },
+  {
+   "narration": "A border cannot stop a river. The Ravi does not check passports. It simply flows from India into Pakistan.",
+   "emoji": "🛂",
+   "headline": "River Needs No Visa",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ravi river India Pakistan"
+  },
+  {
+   "narration": "That is the lesson of Punjab. The land was split. The water was not.",
+   "emoji": "💧",
+   "headline": "Land Split, Water Not",
+   "stat": "",
+   "sub": "",
+   "visual_query": "river Punjab sunset"
+  },
+  {
+   "narration": "If you like strange places and facts like this, subscribe, because there is more like it every day.",
+   "emoji": "🔔",
+   "headline": "Subscribe",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map globe"
+  },
+  {
+   "narration": "Now the shrine I promised you. Its name is Gurdwara Darbar Sahib, in a town called Kartarpur.",
+   "emoji": "🕌",
+   "headline": "Darbar Sahib",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gurdwara Darbar Sahib Kartarpur"
+  },
+  {
+   "narration": "Kartarpur is where Guru Nanak, the founder of Sikhism, settled in his later years, beside the Ravi.",
+   "emoji": "🙏",
+   "headline": "Guru Nanak's Home",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Guru Nanak"
+  },
+  {
+   "narration": "He did not live in a palace. He farmed the land there, and shared meals with everyone who came.",
+   "emoji": "🌾",
+   "headline": "A Farming Guru",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Punjab farmer wheat"
+  },
+  {
+   "narration": "He died at Kartarpur in 1539, and that is where this story gets even stranger.",
+   "emoji": "🕊️",
+   "headline": "Died In 1539",
+   "stat": "1539",
+   "sub": "",
+   "visual_query": "Kartarpur gurdwara courtyard"
+  },
+  {
+   "narration": "The story says Hindus, Muslims and Sikhs all claimed him, and each wanted to honour him in their own way.",
+   "emoji": "🤝",
+   "headline": "Three Faiths Claim Him",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Guru Nanak Sikh Hindu Muslim"
+  },
+  {
+   "narration": "They were told to place flowers beside him. By morning, the story goes, only the cloth and the flowers remained.",
+   "emoji": "💐",
+   "headline": "Only Flowers Remained",
+   "stat": "",
+   "sub": "",
+   "visual_query": "marigold flowers shrine"
+  },
+  {
+   "narration": "So the gurdwara today holds both a samadhi and a grave, side by side, for one man loved by many faiths.",
+   "emoji": "⚰️",
+   "headline": "Samadhi And Grave",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kartarpur samadhi mazar"
+  },
+  {
+   "narration": "Then 1947 arrived, and the new border left Kartarpur in Pakistan, just across the river from India.",
+   "emoji": "🧭",
+   "headline": "Left Across The Line",
+   "stat": "1947",
+   "sub": "",
+   "visual_query": "India Pakistan border fence"
+  },
+  {
+   "narration": "Ask older families in Punjab about 1947, and many describe a home or a shrine that suddenly lay in another country.",
+   "emoji": "👵",
+   "headline": "Home In Another Country",
+   "stat": "",
+   "sub": "",
+   "visual_query": "elderly Punjabi family"
+  },
+  {
+   "narration": "For Sikhs in India, their holiest places in Pakistan suddenly became places they could only pray towards.",
+   "emoji": "🤲",
+   "headline": "Prayed Towards It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sikh pilgrims praying"
+  },
+  {
+   "narration": "In their daily prayer, Sikhs have asked for open access to the gurdwaras that were left behind in Pakistan.",
+   "emoji": "📿",
+   "headline": "A Daily Prayer",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sikh prayer gurdwara"
+  },
+  {
+   "narration": "The nearest Indian town is Dera Baba Nanak, in Gurdaspur district, only a few kilometres from the border.",
+   "emoji": "📌",
+   "headline": "Dera Baba Nanak",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dera Baba Nanak Gurdaspur"
+  },
+  {
+   "narration": "There, a raised viewing platform was opened in 2008, with binoculars put there by the Border Security Force.",
+   "emoji": "🏗️",
+   "headline": "The Viewing Platform",
+   "stat": "2008",
+   "sub": "",
+   "visual_query": "border viewing platform"
+  },
+  {
+   "narration": "Pilgrims climbed up, raised the binoculars, and looked across the fields towards a distant white building.",
+   "emoji": "🔭",
+   "headline": "Look Across The Fields",
+   "stat": "",
+   "sub": "",
+   "visual_query": "binoculars pilgrims border"
+  },
+  {
+   "narration": "Some wept. Some folded their hands. Some simply stood there, because they could not go any closer.",
+   "emoji": "😢",
+   "headline": "Hands Folded",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sikh devotees border"
+  },
+  {
+   "narration": "On foggy days, reports said, the view was hard, but people still came, just to face the right direction.",
+   "emoji": "🌫️",
+   "headline": "Fog On The Fields",
+   "stat": "",
+   "sub": "",
+   "visual_query": "fog Punjab fields"
+  },
+  {
+   "narration": "Distance was never the problem. The shrine is only about four or five kilometres away from the Indian border.",
+   "emoji": "📏",
+   "headline": "Only A Few Km",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kartarpur corridor road"
+  },
+  {
+   "narration": "The problem was that a fence stood between a person and a place their family had prayed towards for generations.",
+   "emoji": "🧱",
+   "headline": "A Fence Between",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border fence India"
+  },
+  {
+   "narration": "Then, in November 2019, something rare happened. The two governments opened a corridor.",
+   "emoji": "🎉",
+   "headline": "The Corridor Opens",
+   "stat": "2019",
+   "sub": "",
+   "visual_query": "Kartarpur corridor opening"
+  },
+  {
+   "narration": "It opened around the 550th birth anniversary of Guru Nanak, and it was built for one purpose.",
+   "emoji": "🎂",
+   "headline": "550th Anniversary",
+   "stat": "550",
+   "sub": "",
+   "visual_query": "Guru Nanak birth anniversary"
+  },
+  {
+   "narration": "Indian pilgrims could go from Dera Baba Nanak straight to Kartarpur, with a permit, but without a visa.",
+   "emoji": "🚶",
+   "headline": "Walk Without A Visa",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kartarpur corridor pilgrims"
+  },
+  {
+   "narration": "Think about that. A pilgrim could go in the morning, pray at the very place of Guru Nanak, and be back by evening.",
+   "emoji": "🌅",
+   "headline": "Back By Evening",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gurdwara Darbar Sahib interior"
+  },
+  {
+   "narration": "For the first time in decades, thousands could see the shrine not through glass lenses, but with their own eyes.",
+   "emoji": "👁️",
+   "headline": "Not Through Lenses",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kartarpur Sahib pilgrims"
+  },
+  {
+   "narration": "Two countries that rarely agree on anything agreed to keep this one path open for faith.",
+   "emoji": "🕊️",
+   "headline": "A Rare Agreement",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Pakistan handshake"
+  },
+  {
+   "narration": "The corridor agreement was even extended, and it now runs until October 2029.",
+   "emoji": "📝",
+   "headline": "Deal Till 2029",
+   "stat": "2029",
+   "sub": "",
+   "visual_query": "agreement signing"
+  },
+  {
+   "narration": "But the path has not stayed open. In May 2025, India suspended the corridor amid rising tensions.",
+   "emoji": "⛔",
+   "headline": "Corridor Suspended",
+   "stat": "May 2025",
+   "sub": "",
+   "visual_query": "closed gate border"
+  },
+  {
+   "narration": "At the latest reports I could find, it was still shut, with no date given for it to reopen.",
+   "emoji": "🔒",
+   "headline": "Still Shut",
+   "stat": "",
+   "sub": "",
+   "visual_query": "closed border gate lock"
+  },
+  {
+   "narration": "So the old way is the way people fall back on. Stand on the Indian side, and look across the fields.",
+   "emoji": "🔭",
+   "headline": "Back To Binoculars",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dera Baba Nanak"
+  },
+  {
+   "narration": "Look at what that means. A holy place that was once a short walk is again a distant white shape on the horizon.",
+   "emoji": "⬜",
+   "headline": "A White Shape",
+   "stat": "",
+   "sub": "",
+   "visual_query": "distant gurdwara horizon"
+  },
+  {
+   "narration": "Both sides look at the same sky, and the same Ravi river runs between them, as if nothing had changed.",
+   "emoji": "🌤️",
+   "headline": "Same Sky, Same River",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ravi river sky"
+  },
+  {
+   "narration": "And behind that one shape, there are five rivers, two alphabets, one ancient road, and one ceremony of marching soldiers.",
+   "emoji": "🧩",
+   "headline": "It All Connects",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Punjab landscape"
+  },
+  {
+   "narration": "Punjab is a place where the map says two things, and the people feel one.",
+   "emoji": "🗺️",
+   "headline": "Map Versus Heart",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Punjab people"
+  },
+  {
+   "narration": "So the next time someone tells you geography is boring, ask them about the shrine you can see from India.",
+   "emoji": "💬",
+   "headline": "Geography Isn't Boring",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Punjab fields sunrise"
+  },
+  {
+   "narration": "Your binoculars really can show you a holy shrine in Pakistan, from a field in India, and now you know why.",
+   "emoji": "🔁",
+   "headline": "The Loop",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kartarpur Sahib gurdwara"
+  },
+  {
+   "narration": "Next in this series: another place that sounds fake, but is completely real. See you there.",
+   "emoji": "➡️",
+   "headline": "Next Time",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map globe"
+  }
+ ]
+}

@@ -1,0 +1,101 @@
+{
+ "category": "geography",
+ "topic": "Richat Structure Sahara",
+ "hook": "Your satellite view of the Sahara shows a bullseye.",
+ "title": "A 40 km Bullseye Sits in the Sahara",
+ "description": "Zoom into the Sahara on a satellite map and you will find a giant ring pattern called the Richat Structure. It is about 40 km wide in Mauritania. Scientists say it is eroded rock layers. Part of the Places That Shouldn't Exist series.\n\n#Shorts #Sahara #Geography",
+ "tags": [
+  "richat structure",
+  "eye of the sahara",
+  "sahara",
+  "mauritania",
+  "satellite view",
+  "geography facts",
+  "google earth",
+  "places that shouldnt exist"
+ ],
+ "comment_prompt": "Crater or not? Crater or rock",
+ "hook_banner": "CHECK GOOGLE MAPS",
+ "scenes": [
+  {
+   "narration": "Your satellite view of the Sahara shows a bullseye.",
+   "emoji": "🎯",
+   "headline": "SAHARA BULLSEYE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Richat structure satellite"
+  },
+  {
+   "narration": "It is called the Richat Structure.",
+   "emoji": "🛰️",
+   "headline": "RICHAT STRUCTURE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Eye of the Sahara"
+  },
+  {
+   "narration": "It is about 40 kilometres wide.",
+   "emoji": "📏",
+   "headline": "ABOUT 40 KM WIDE",
+   "stat": "40 km",
+   "sub": "",
+   "visual_query": "Richat structure aerial"
+  },
+  {
+   "narration": "That is big enough to spot from orbit.",
+   "emoji": "🌍",
+   "headline": "SEEN FROM ORBIT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sahara from space"
+  },
+  {
+   "narration": "Astronauts used it as a landmark.",
+   "emoji": "👨‍🚀",
+   "headline": "ASTRONAUT LANDMARK",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut earth window"
+  },
+  {
+   "narration": "It sits in the desert of Mauritania.",
+   "emoji": "🏜️",
+   "headline": "MAURITANIA DESERT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mauritania sahara dunes"
+  },
+  {
+   "narration": "For years people called it a crater.",
+   "emoji": "☄️",
+   "headline": "NOT A CRATER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "impact crater aerial"
+  },
+  {
+   "narration": "Scientists say it is rock layers worn away.",
+   "emoji": "🪨",
+   "headline": "ERODED ROCK LAYERS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "eroded rock layers desert"
+  },
+  {
+   "narration": "Your Sahara bullseye is real, and it is rock.",
+   "emoji": "✅",
+   "headline": "REAL AND ROCK",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Richat structure desert"
+  },
+  {
+   "narration": "Next: a beach in the Maldives that glows.",
+   "emoji": "🌊",
+   "headline": "NEXT: GLOWING BEACH",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Vaadhoo island glowing beach"
+  }
+ ]
+}

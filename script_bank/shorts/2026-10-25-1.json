@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Majuli world's largest river island",
+ "hook": "Your boat ride in Assam lands on the world's largest river island.",
+ "title": "This Indian Island Sits Inside a River",
+ "description": "Majuli in Assam sits in the Brahmaputra and is recognised as the world's largest river island. You reach it by boat, and people live, farm and study there. Part of the Places That Shouldn't Exist series.\n\n#Shorts #Majuli #IndiaFacts",
+ "tags": [
+  "majuli",
+  "assam",
+  "brahmaputra",
+  "river island",
+  "india facts",
+  "places that shouldn't exist",
+  "geography",
+  "northeast india"
+ ],
+ "comment_prompt": "Would you visit? Yes or no",
+ "hook_banner": "AN ISLAND IN A RIVER",
+ "scenes": [
+  {
+   "narration": "Your boat ride in Assam lands on an island.",
+   "emoji": "⛴️",
+   "headline": "A Boat To An Island",
+   "stat": "",
+   "sub": "Assam, India",
+   "visual_query": "Majuli ferry Brahmaputra"
+  },
+  {
+   "narration": "It is the world's largest river island.",
+   "emoji": "🏝️",
+   "headline": "Largest River Island",
+   "stat": "",
+   "sub": "In the world",
+   "visual_query": "Majuli island aerial"
+  },
+  {
+   "narration": "It sits inside the Brahmaputra river.",
+   "emoji": "🌊",
+   "headline": "Inside The Brahmaputra",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Brahmaputra river wide"
+  },
+  {
+   "narration": "Real villages are built on this island.",
+   "emoji": "🏘️",
+   "headline": "Real Villages Here",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Majuli village houses"
+  },
+  {
+   "narration": "People farm rice on land surrounded by river.",
+   "emoji": "🌾",
+   "headline": "Farms In A River",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Majuli rice fields"
+  },
+  {
+   "narration": "You can only reach it by water.",
+   "emoji": "🚤",
+   "headline": "Only By Water",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Majuli boat crossing"
+  },
+  {
+   "narration": "The river that surrounds it also shapes it.",
+   "emoji": "🗺️",
+   "headline": "The River Shapes It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Majuli satellite map"
+  },
+  {
+   "narration": "Your boat ride ends on a river island.",
+   "emoji": "📍",
+   "headline": "An Island In A River",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Majuli sunset river"
+  },
+  {
+   "narration": "Tomorrow: another place that sounds fake but is real.",
+   "emoji": "➡️",
+   "headline": "Next: Another Real Place",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map globe"
+  }
+ ]
+}

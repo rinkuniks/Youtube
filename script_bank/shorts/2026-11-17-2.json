@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Australia's Dingo Fence",
+ "hook": "Your map of Australia shows one fence about 5,600 km long.",
+ "title": "Your Map Shows a 5,600 km Dog Fence",
+ "description": "The Dingo Fence in Australia is about 5,600 km long. It was built to keep wild dogs out of the sheep country to its south. Part of the series Places That Shouldn't Exist.\n\n#Shorts #Australia #PlacesThatShouldntExist",
+ "tags": [
+  "Dingo Fence",
+  "Australia",
+  "longest fence",
+  "outback",
+  "geography facts",
+  "places that shouldn't exist",
+  "dingo",
+  "Shorts"
+ ],
+ "comment_prompt": "Fence or no fence? One word",
+ "hook_banner": "ONE FENCE. ONE CONTINENT.",
+ "scenes": [
+  {
+   "narration": "Your map of Australia shows one fence.",
+   "emoji": "🗺️",
+   "headline": "ONE HUGE FENCE",
+   "stat": "5,600 km",
+   "sub": "about",
+   "visual_query": "Dingo Fence Australia"
+  },
+  {
+   "narration": "It runs about 5,600 kilometres.",
+   "emoji": "📏",
+   "headline": "ABOUT 5,600 KM",
+   "stat": "5,600 km",
+   "sub": "",
+   "visual_query": "outback fence line"
+  },
+  {
+   "narration": "It is called the Dingo Fence.",
+   "emoji": "🐕",
+   "headline": "THE DINGO FENCE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "dingo Australia"
+  },
+  {
+   "narration": "It was built to keep wild dogs out.",
+   "emoji": "🚫",
+   "headline": "KEEPING DOGS OUT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "dingo desert"
+  },
+  {
+   "narration": "Behind it lies Australia's sheep country.",
+   "emoji": "🐑",
+   "headline": "SHEEP COUNTRY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "sheep farm Australia"
+  },
+  {
+   "narration": "Dingoes hunt sheep, so farmers walled them off.",
+   "emoji": "🧱",
+   "headline": "WALLED OFF",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dingo Fence red dirt"
+  },
+  {
+   "narration": "It is among the longest structures on Earth.",
+   "emoji": "🌏",
+   "headline": "LONGEST ON EARTH?",
+   "stat": "",
+   "sub": "Among the longest",
+   "visual_query": "Dingo Fence aerial"
+  },
+  {
+   "narration": "Your map shows one fence across a continent.",
+   "emoji": "🔁",
+   "headline": "A FENCE ACROSS A CONTINENT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Australia map outback"
+  },
+  {
+   "narration": "Tomorrow: a moon bigger than a planet.",
+   "emoji": "➡️",
+   "headline": "NEXT: A GIANT MOON",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Jupiter moon Ganymede"
+  }
+ ]
+}

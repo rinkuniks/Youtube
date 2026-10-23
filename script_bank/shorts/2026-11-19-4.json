@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Parker Solar Probe speed record",
+ "hook": "Your fastest human-made object touched the Sun.",
+ "title": "The Probe That Touched the Sun at 692,000 km/h",
+ "description": "NASA's Parker Solar Probe flew through the Sun's corona and reached about 692,000 km/h in December 2024. It is the fastest human-made object ever. It survives on a heat shield built for the job.\n\n#Shorts #Space #NASA",
+ "tags": [
+  "Parker Solar Probe",
+  "NASA",
+  "Sun",
+  "corona",
+  "fastest object",
+  "space facts",
+  "space",
+  "Shorts"
+ ],
+ "comment_prompt": "Would you ride it? Yes or no",
+ "hook_banner": "IT TOUCHED THE SUN",
+ "scenes": [
+  {
+   "narration": "Your fastest human-made object touched the Sun.",
+   "emoji": "☀️",
+   "headline": "TOUCHED THE SUN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Parker Solar Probe Sun"
+  },
+  {
+   "narration": "It's NASA's Parker Solar Probe.",
+   "emoji": "🛰️",
+   "headline": "PARKER PROBE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Parker Solar Probe spacecraft"
+  },
+  {
+   "narration": "It flew through the Sun's blazing outer atmosphere.",
+   "emoji": "🔥",
+   "headline": "THE CORONA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "solar corona eclipse"
+  },
+  {
+   "narration": "In December 2024, it hit about 692,000 kilometres per hour.",
+   "emoji": "⚡",
+   "headline": "692,000 KM/H",
+   "stat": "692,000",
+   "sub": "km/h",
+   "visual_query": "Sun solar flare"
+  },
+  {
+   "narration": "That's the fastest anything we've ever built.",
+   "emoji": "🏆",
+   "headline": "SPEED RECORD",
+   "stat": "",
+   "sub": "",
+   "visual_query": "NASA mission control"
+  },
+  {
+   "narration": "Delhi to Mumbai in a few seconds.",
+   "emoji": "🇮🇳",
+   "headline": "DELHI TO MUMBAI",
+   "stat": "",
+   "sub": "in seconds",
+   "visual_query": "India map aerial"
+  },
+  {
+   "narration": "A thick heat shield keeps it alive.",
+   "emoji": "🛡️",
+   "headline": "HEAT SHIELD",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Parker Solar Probe heat shield"
+  },
+  {
+   "narration": "Your fastest object touched the Sun.",
+   "emoji": "☀️",
+   "headline": "AND SURVIVED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sun close up"
+  },
+  {
+   "narration": "Tomorrow: a laser that burns drones from the sky.",
+   "emoji": "➡️",
+   "headline": "UP NEXT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "laser weapon drone"
+  }
+ ]
+}

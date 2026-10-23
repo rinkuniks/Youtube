@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Derinkuyu underground city, Turkey",
+ "hook": "Your underground trip here goes down about 18 levels.",
+ "title": "Your Trip Goes 18 Levels Underground",
+ "description": "Derinkuyu in Turkey is an underground city that goes down about 18 levels. It had stables, wells and room for thousands of people. Part of the Places That Shouldn't Exist series.\n\n#Shorts #Turkey #PlacesThatShouldntExist",
+ "tags": [
+  "derinkuyu",
+  "underground city",
+  "turkey",
+  "cappadocia",
+  "geography facts",
+  "places that shouldn't exist",
+  "ancient cities",
+  "shorts"
+ ],
+ "comment_prompt": "Would you go down? Yes or no",
+ "hook_banner": "A CITY UNDERGROUND",
+ "scenes": [
+  {
+   "narration": "Your underground trip here goes down about 18 levels.",
+   "emoji": "⬇️",
+   "headline": "About 18 Levels Down",
+   "stat": "18",
+   "sub": "levels",
+   "visual_query": "Derinkuyu underground city"
+  },
+  {
+   "narration": "This is Derinkuyu, in Turkey.",
+   "emoji": "🇹🇷",
+   "headline": "Derinkuyu, Turkey",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Derinkuyu Cappadocia"
+  },
+  {
+   "narration": "A whole city was built under the ground.",
+   "emoji": "🏙️",
+   "headline": "A City Underground",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Derinkuyu tunnel"
+  },
+  {
+   "narration": "It had stables for animals.",
+   "emoji": "🐎",
+   "headline": "Underground Stables",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Derinkuyu stable room"
+  },
+  {
+   "narration": "It had wells for drinking water.",
+   "emoji": "💧",
+   "headline": "Underground Wells",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Derinkuyu well shaft"
+  },
+  {
+   "narration": "It was built to house thousands of people.",
+   "emoji": "👥",
+   "headline": "Thousands Lived Here",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Derinkuyu rooms carved rock"
+  },
+  {
+   "narration": "Today visitors can walk down inside.",
+   "emoji": "🚶",
+   "headline": "You Can Visit",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Derinkuyu tourists corridor"
+  },
+  {
+   "narration": "Level after level of carved rock.",
+   "emoji": "🪨",
+   "headline": "Carved Rock Levels",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Derinkuyu carved passage"
+  },
+  {
+   "narration": "So yes, your trip goes about 18 levels down.",
+   "emoji": "✅",
+   "headline": "It Is Real",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Derinkuyu entrance"
+  }
+ ]
+}

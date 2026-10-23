@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Apollo 8 Earthrise photo",
+ "hook": "Your Earth once rose above the Moon, and someone photographed it.",
+ "title": "Your Whole Earth Rising Over the Moon",
+ "description": "In December 1968, Apollo 8 astronaut Bill Anders took the photo known as Earthrise. It shows our blue Earth above the grey lunar surface, seen from orbit around the Moon. Part of the If You Were in Space series.\n\n#Shorts #Apollo8 #SpaceFacts",
+ "tags": [
+  "Earthrise",
+  "Apollo 8",
+  "Bill Anders",
+  "Moon",
+  "NASA",
+  "space facts",
+  "1968",
+  "If You Were in Space"
+ ],
+ "comment_prompt": "Is this your favourite space photo? Yes or no",
+ "hook_banner": "REAL PHOTO, 1968",
+ "scenes": [
+  {
+   "narration": "Your Earth once rose above the Moon.",
+   "emoji": "🌍",
+   "headline": "EARTH OVER MOON",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Earthrise Apollo 8"
+  },
+  {
+   "narration": "This is Earthrise, from December 1968.",
+   "emoji": "📸",
+   "headline": "EARTHRISE",
+   "stat": "1968",
+   "sub": "",
+   "visual_query": "Earthrise photograph"
+  },
+  {
+   "narration": "Apollo 8 astronaut Bill Anders took it.",
+   "emoji": "👨‍🚀",
+   "headline": "BILL ANDERS",
+   "stat": "",
+   "sub": "Apollo 8",
+   "visual_query": "Bill Anders astronaut"
+  },
+  {
+   "narration": "Three men were orbiting the Moon.",
+   "emoji": "🚀",
+   "headline": "THREE ASTRONAUTS",
+   "stat": "3",
+   "sub": "",
+   "visual_query": "Apollo 8 crew"
+  },
+  {
+   "narration": "They saw Earth appear over grey ground.",
+   "emoji": "🌑",
+   "headline": "GREY MOON GROUND",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Moon surface craters"
+  },
+  {
+   "narration": "Anders grabbed a camera and shot it.",
+   "emoji": "📷",
+   "headline": "GRAB THE CAMERA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hasselblad Apollo camera"
+  },
+  {
+   "narration": "A blue marble above a grey world.",
+   "emoji": "🔵",
+   "headline": "BLUE MARBLE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Earth blue marble"
+  },
+  {
+   "narration": "Your whole Earth, floating above grey ground.",
+   "emoji": "🌍",
+   "headline": "YOUR WHOLE EARTH",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Earth from Moon"
+  },
+  {
+   "narration": "Tomorrow: a train that floats on magnets.",
+   "emoji": "🚄",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "Floating train",
+   "visual_query": "Shanghai maglev"
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Hikkim post office Spiti",
+ "hook": "Your letter can be posted from 4,400 metres up.",
+ "title": "Post a Letter From a Himalayan Village",
+ "description": "Hikkim, in Himachal's Spiti Valley, has a post office at about 4,400 metres, one of the highest in the world. People travel there just to post a letter.\n\nSeries: Places That Shouldn't Exist.",
+ "tags": [
+  "Hikkim",
+  "Spiti Valley",
+  "highest post office",
+  "Himachal Pradesh",
+  "India",
+  "geography",
+  "Himalayas",
+  "incredible India"
+ ],
+ "comment_prompt": "Would you post one? Yes or no",
+ "hook_banner": "POST FROM THE SKY",
+ "scenes": [
+  {
+   "narration": "Your letter can be posted from 4,400 metres up.",
+   "emoji": "✉️",
+   "headline": "POST FROM 4,400 M",
+   "stat": "4,400 m",
+   "sub": "above sea level",
+   "visual_query": "Hikkim post office"
+  },
+  {
+   "narration": "That is Hikkim, in Himachal's Spiti Valley.",
+   "emoji": "🏔️",
+   "headline": "HIKKIM, SPITI",
+   "stat": "",
+   "sub": "Himachal Pradesh",
+   "visual_query": "Spiti Valley village"
+  },
+  {
+   "narration": "Its post office is among the highest in the world.",
+   "emoji": "📮",
+   "headline": "A TOP POST OFFICE",
+   "stat": "",
+   "sub": "one of the highest",
+   "visual_query": "Hikkim post box"
+  },
+  {
+   "narration": "The air up there is thin and cold.",
+   "emoji": "❄️",
+   "headline": "THIN, COLD AIR",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Spiti high altitude landscape"
+  },
+  {
+   "narration": "Still, your letter reaches any Indian address.",
+   "emoji": "🇮🇳",
+   "headline": "REACHES ANYWHERE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Indian post letter"
+  },
+  {
+   "narration": "Travellers climb up just to mail a postcard.",
+   "emoji": "🧳",
+   "headline": "TOURISTS POST HERE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "postcard Spiti Hikkim"
+  },
+  {
+   "narration": "Mountains all around, and a tiny red postbox.",
+   "emoji": "🗻",
+   "headline": "RED POSTBOX, HUGE PEAKS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Himalaya mountains red postbox"
+  },
+  {
+   "narration": "Your letter starts its trip from 4,400 metres up.",
+   "emoji": "✉️",
+   "headline": "LETTER FROM THE CLOUDS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Spiti Valley road"
+  },
+  {
+   "narration": "Tomorrow: more places that feel fake.",
+   "emoji": "🌍",
+   "headline": "TOMORROW: MORE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India map landmarks"
+  }
+ ]
+}

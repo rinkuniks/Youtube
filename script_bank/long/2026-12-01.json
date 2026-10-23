@@ -1,0 +1,595 @@
+{
+ "topic": "Kartarpur: the Pakistani gurdwara you can see from India",
+ "hook": "Your eyes can see a gurdwara in Pakistan from an Indian field, and the road that leads there has been shut.",
+ "title": "The Border Where You Can See Pakistan's Gurdwara",
+ "description": "From a viewing point at Dera Baba Nanak in Punjab, you can look across the border at Gurdwara Darbar Sahib in Kartarpur, Pakistan. This countdown covers why the shrine ended up on the other side in 1947, how the visa-free Kartarpur Corridor opened in 2019, and why it is shut on the Indian side today. It is a strange border story, and every fact in it is true.\n\n#Kartarpur #IndiaPakistan #StrangeBorders",
+ "tags": [
+  "Kartarpur",
+  "Kartarpur Corridor",
+  "Gurdwara Darbar Sahib",
+  "Dera Baba Nanak",
+  "Guru Nanak",
+  "India Pakistan border",
+  "strange borders",
+  "Punjab",
+  "Sikh pilgrimage",
+  "border facts",
+  "geography facts",
+  "facts that sound fake",
+  "Kartarpur Sahib"
+ ],
+ "comment_prompt": "Would you walk the Kartarpur road: yes or no?",
+ "hook_banner": "VISIBLE FROM INDIA, IN PAKISTAN",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "5: The viewing point",
+   "scene": 6
+  },
+  {
+   "title": "4: Why it is in Pakistan",
+   "scene": 14
+  },
+  {
+   "title": "3: The visa wall",
+   "scene": 27
+  },
+  {
+   "title": "2: A road with no visa",
+   "scene": 35
+  },
+  {
+   "title": "1: The gate that is shut",
+   "scene": 49
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your eyes can see a gurdwara in Pakistan from an Indian field, and the road that leads there has been shut.",
+   "emoji": "👀",
+   "headline": "SEEN FROM INDIA",
+   "stat": "",
+   "sub": "A shrine in Pakistan",
+   "visual_query": "Kartarpur gurdwara"
+  },
+  {
+   "narration": "That is Gurdwara Darbar Sahib in Kartarpur, one of the holiest places in Sikhism, only a few kilometres from the border.",
+   "emoji": "🛕",
+   "headline": "Gurdwara Darbar Sahib",
+   "stat": "",
+   "sub": "Kartarpur, Pakistan",
+   "visual_query": "Gurdwara Darbar Sahib Kartarpur"
+  },
+  {
+   "narration": "Most strange borders split streets or houses. This one splits a pilgrim from the place where Guru Nanak spent his last years.",
+   "emoji": "🧭",
+   "headline": "A Border Like No Other",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Pakistan border fence"
+  },
+  {
+   "narration": "Today is a countdown of five strange facts about Kartarpur, and each one is stranger than the one before.",
+   "emoji": "🔢",
+   "headline": "5 Strange Facts",
+   "stat": "5",
+   "sub": "Each one stranger",
+   "visual_query": "Punjab border fields"
+  },
+  {
+   "narration": "By the end, you will know how a visa-free road opened, why it closed, and what you can still see today.",
+   "emoji": "🚪",
+   "headline": "Road, Gate, View",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kartarpur corridor gate"
+  },
+  {
+   "narration": "Number one is about a gate that exists on the map but not in practice. First, let us start at five.",
+   "emoji": "⏳",
+   "headline": "Start At Five",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kartarpur corridor road"
+  },
+  {
+   "narration": "Number five: a viewing point. At Dera Baba Nanak, in Punjab's Gurdaspur district, there is a spot built just to look at Pakistan.",
+   "emoji": "🔭",
+   "headline": "The Viewing Point",
+   "stat": "5",
+   "sub": "Dera Baba Nanak",
+   "visual_query": "Dera Baba Nanak"
+  },
+  {
+   "narration": "From there, pilgrims look across the border fields toward Kartarpur, and the gurdwara is a small shape far away.",
+   "emoji": "🌾",
+   "headline": "Fields And A Far Shrine",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Punjab border fields"
+  },
+  {
+   "narration": "Binoculars and telescopes help. People bring their families, hold the lenses up, and search the horizon for a dome.",
+   "emoji": "🔭",
+   "headline": "Binoculars Required",
+   "stat": "",
+   "sub": "",
+   "visual_query": "binoculars telescope pilgrims"
+  },
+  {
+   "narration": "Think about that. You travel for hours, and the holy place you came for is a few kilometres away but out of reach.",
+   "emoji": "🤔",
+   "headline": "So Close, So Far",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kartarpur darshan sthal"
+  },
+  {
+   "narration": "For many years before 2019, this was how most Indian pilgrims saw the shrine. They bowed toward it from the Indian side.",
+   "emoji": "🙏",
+   "headline": "Bowing From Afar",
+   "stat": "",
+   "sub": "Before 2019",
+   "visual_query": "Sikh pilgrims praying"
+  },
+  {
+   "narration": "People say the Ardas, the Sikh prayer, facing Pakistan. It is a border you can feel in your chest, not just see on a map.",
+   "emoji": "🕊️",
+   "headline": "Ardas Facing Pakistan",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sikh prayer gurdwara"
+  },
+  {
+   "narration": "Your phone map shows the same thing. Tap Kartarpur, and the pin sits just beyond a thin dotted line.",
+   "emoji": "📱",
+   "headline": "A Dotted Line",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone map India Pakistan border"
+  },
+  {
+   "narration": "So why is this shrine on the wrong side of that line? Number four explains it.",
+   "emoji": "❓",
+   "headline": "Why Pakistan?",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Punjab map 1947"
+  },
+  {
+   "narration": "Number four: 1947. When British India was divided, the line went through Punjab, the home of Guru Nanak's people.",
+   "emoji": "🗺️",
+   "headline": "The 1947 Line",
+   "stat": "1947",
+   "sub": "Punjab was split",
+   "visual_query": "partition 1947 Punjab"
+  },
+  {
+   "narration": "Some of the most sacred Sikh places ended up in India, and some ended up in Pakistan. Kartarpur was one of those.",
+   "emoji": "✂️",
+   "headline": "Holy Sites Divided",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nankana Sahib gurdwara"
+  },
+  {
+   "narration": "Guru Nanak founded Kartarpur around 1504. Tradition says he settled here and lived for about the last eighteen years of his life.",
+   "emoji": "📜",
+   "headline": "Guru Nanak's Home",
+   "stat": "1504",
+   "sub": "Kartarpur founded",
+   "visual_query": "Guru Nanak painting"
+  },
+  {
+   "narration": "He did not sit on a throne. He farmed the land, and people of every background ate together at his table.",
+   "emoji": "🌱",
+   "headline": "A Guru Who Farmed",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Punjab farmer wheat field"
+  },
+  {
+   "narration": "That idea became the langar, the community kitchen, which still serves free food to anyone at Sikh gurdwaras today.",
+   "emoji": "🍲",
+   "headline": "The Langar",
+   "stat": "",
+   "sub": "Free food for all",
+   "visual_query": "langar gurdwara kitchen"
+  },
+  {
+   "narration": "Guru Nanak died at Kartarpur in 1539. So the place where his journey ended now lies in a different country.",
+   "emoji": "🕯️",
+   "headline": "Where He Passed Away",
+   "stat": "1539",
+   "sub": "",
+   "visual_query": "Kartarpur Sahib gurdwara"
+  },
+  {
+   "narration": "There is a famous story from that day. Hindus and Muslims both loved him, and each wanted to hold his last rites.",
+   "emoji": "🤝",
+   "headline": "Loved By Many Faiths",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Guru Nanak Hindu Muslim"
+  },
+  {
+   "narration": "The story says that when the cloth was lifted, only flowers were found. Each community took half and honoured him in its own way.",
+   "emoji": "🌸",
+   "headline": "Only Flowers Remained",
+   "stat": "",
+   "sub": "The story says",
+   "visual_query": "marigold flowers shrine"
+  },
+  {
+   "narration": "That is why Kartarpur holds both a samadhi and a grave. One holy man, two ways of remembering him.",
+   "emoji": "🕌",
+   "headline": "Samadhi And Grave",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kartarpur samadhi courtyard"
+  },
+  {
+   "narration": "Now picture the border again. It runs close to a place built on the idea that no one is separate.",
+   "emoji": "🧱",
+   "headline": "A Line Near Unity",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border fence barbed wire"
+  },
+  {
+   "narration": "That is the irony. A man who taught that people are one, and a line drawn in 1947 that says otherwise.",
+   "emoji": "⚖️",
+   "headline": "The Big Irony",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Wagah border ceremony"
+  },
+  {
+   "narration": "And the line is not far at all. The gurdwara is only a few kilometres away, closer than many people live from their own market.",
+   "emoji": "📏",
+   "headline": "Only A Few Kilometres",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dera Baba Nanak Ravi river"
+  },
+  {
+   "narration": "So how did Sikhs from India get across before 2019? That is number three, and it is a story of paperwork.",
+   "emoji": "📄",
+   "headline": "Paperwork Time",
+   "stat": "",
+   "sub": "",
+   "visual_query": "passport visa stamp"
+  },
+  {
+   "narration": "Number three: the visa wall. Before 2019, an Indian pilgrim needed a Pakistani visa to visit the gurdwara in person.",
+   "emoji": "🛂",
+   "headline": "The Visa Wall",
+   "stat": "3",
+   "sub": "Before 2019",
+   "visual_query": "passport visa application"
+  },
+  {
+   "narration": "Groups called jathas could go to Pakistan for certain festivals, under an agreement from 1974 about visiting religious shrines.",
+   "emoji": "🚌",
+   "headline": "The Jatha System",
+   "stat": "1974",
+   "sub": "Shrine visits agreement",
+   "visual_query": "Sikh jatha pilgrims"
+  },
+  {
+   "narration": "They usually crossed at Wagah near Amritsar. The trip was long, and it was tied to set dates.",
+   "emoji": "🛣️",
+   "headline": "Cross At Wagah",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Attari Wagah border gate"
+  },
+  {
+   "narration": "That meant a place only a few kilometres from your village could need a long journey and a visa.",
+   "emoji": "🧳",
+   "headline": "Near, But Not Easy",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gurdaspur village Punjab"
+  },
+  {
+   "narration": "Imagine needing a passport, a visa, a long bus ride and a schedule, just to reach a place you can see through binoculars.",
+   "emoji": "😮",
+   "headline": "Passport For A View",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Indian passport"
+  },
+  {
+   "narration": "For years, Sikh leaders and ordinary families asked for a simple, direct road to Kartarpur.",
+   "emoji": "🗣️",
+   "headline": "The Long Demand",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sikh devotees Punjab"
+  },
+  {
+   "narration": "That demand never went away. At Dera Baba Nanak, people gathered and asked for the same thing.",
+   "emoji": "🙌",
+   "headline": "The Same Wish",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dera Baba Nanak devotees"
+  },
+  {
+   "narration": "Then, in 2019, the two governments said yes. That brings us to number two, and it is the part that sounds fake.",
+   "emoji": "✅",
+   "headline": "They Said Yes",
+   "stat": "2019",
+   "sub": "",
+   "visual_query": "Kartarpur corridor inauguration"
+  },
+  {
+   "narration": "Number two: in November 2019, the Kartarpur Corridor opened, just before Guru Nanak's 550th birth anniversary.",
+   "emoji": "🎉",
+   "headline": "The Corridor Opens",
+   "stat": "2",
+   "sub": "November 2019",
+   "visual_query": "Kartarpur corridor opening"
+  },
+  {
+   "narration": "The two countries signed the agreement in October 2019, and the road opened about a month later. For these neighbours, that is fast.",
+   "emoji": "✍️",
+   "headline": "Signed, Then Opened",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kartarpur corridor agreement"
+  },
+  {
+   "narration": "A gate opens in the fence at Dera Baba Nanak. Walk through it, and a few kilometres later you reach Pakistan's gurdwara.",
+   "emoji": "🚪",
+   "headline": "A Gate In The Fence",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kartarpur corridor checkpost"
+  },
+  {
+   "narration": "Indian pilgrims did not need a visa. They needed a permit, which they applied for online before the trip.",
+   "emoji": "💻",
+   "headline": "Permit, Not Visa",
+   "stat": "",
+   "sub": "Applied online",
+   "visual_query": "Kartarpur corridor pilgrims"
+  },
+  {
+   "narration": "The rules were strict. It was a day trip, so pilgrims had to return to India the same day.",
+   "emoji": "🕒",
+   "headline": "Same-Day Return",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kartarpur corridor walkway"
+  },
+  {
+   "narration": "Pakistan also charged a service fee of twenty US dollars per pilgrim, which became a big debate in India.",
+   "emoji": "💵",
+   "headline": "The Twenty Dollar Fee",
+   "stat": "$20",
+   "sub": "Per pilgrim",
+   "visual_query": "twenty dollar bill"
+  },
+  {
+   "narration": "The agreement allowed up to 5,000 pilgrims a day, though the real numbers were often lower.",
+   "emoji": "👥",
+   "headline": "Up To 5,000 A Day",
+   "stat": "5,000",
+   "sub": "Daily limit",
+   "visual_query": "pilgrims crowd gurdwara"
+  },
+  {
+   "narration": "If you enjoy strange places and facts like this, subscribe, because there is a new one every day.",
+   "emoji": "🔔",
+   "headline": "New Strange Fact Daily",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map globe"
+  },
+  {
+   "narration": "Inside, you walk along a fenced path. Pakistan's fields stretch out on both sides, but you cannot wander off it.",
+   "emoji": "🚶",
+   "headline": "A Fenced Path",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kartarpur corridor path fields"
+  },
+  {
+   "narration": "You reach Gurdwara Darbar Sahib, where the langar serves food and the courtyard holds pilgrims of every background.",
+   "emoji": "🛕",
+   "headline": "Arrival At The Shrine",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gurdwara Darbar Sahib courtyard"
+  },
+  {
+   "narration": "For the first time in decades, a Sikh from Punjab could pray where Guru Nanak lived, and be home for dinner.",
+   "emoji": "🏠",
+   "headline": "Home For Dinner",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sikh family Punjab home"
+  },
+  {
+   "narration": "The corridor was closed in March 2020 because of Covid. It reopened in November 2021, and pilgrims returned.",
+   "emoji": "😷",
+   "headline": "Covid Closure",
+   "stat": "2020",
+   "sub": "Reopened 2021",
+   "visual_query": "Kartarpur corridor reopened pilgrims"
+  },
+  {
+   "narration": "For a while, it felt like the border had a door in it. A real door, in a real fence.",
+   "emoji": "🚪",
+   "headline": "A Door In The Border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border gate India Pakistan"
+  },
+  {
+   "narration": "But the story has another turn, and number one is the strangest, because it is a corridor that exists but is closed.",
+   "emoji": "🔒",
+   "headline": "One Last Turn",
+   "stat": "",
+   "sub": "",
+   "visual_query": "closed gate lock"
+  },
+  {
+   "narration": "Number one: the corridor is real, signed, and still on the map, but Indian pilgrims cannot use it right now.",
+   "emoji": "🚫",
+   "headline": "On The Map, Shut",
+   "stat": "1",
+   "sub": "",
+   "visual_query": "Kartarpur corridor closed"
+  },
+  {
+   "narration": "India suspended the corridor on 7 May 2025, after the Pahalgam attack and the tension that followed between the two countries.",
+   "emoji": "📅",
+   "headline": "Suspended 7 May 2025",
+   "stat": "7 May 2025",
+   "sub": "",
+   "visual_query": "Dera Baba Nanak terminal"
+  },
+  {
+   "narration": "The agreement was renewed for five more years in October 2024, so the paper is still alive. The road is the part that is shut.",
+   "emoji": "📑",
+   "headline": "Paper Alive, Road Shut",
+   "stat": "5 years",
+   "sub": "Renewed Oct 2024",
+   "visual_query": "signed agreement document"
+  },
+  {
+   "narration": "In July 2026, the Indian government told Parliament that the corridor will stay suspended because of the current security situation.",
+   "emoji": "🏛️",
+   "headline": "Told To Parliament",
+   "stat": "",
+   "sub": "July 2026",
+   "visual_query": "Indian Parliament building"
+  },
+  {
+   "narration": "Sikh leaders, including the Akal Takht Jathedar, have asked for it to reopen. As of now, there is no confirmed date.",
+   "emoji": "🙏",
+   "headline": "Calls To Reopen",
+   "stat": "",
+   "sub": "No date yet",
+   "visual_query": "Akal Takht Amritsar"
+  },
+  {
+   "narration": "Pakistan's side has reportedly stayed open as a goodwill gesture. So the gate is open on one side and closed on the other.",
+   "emoji": "🚧",
+   "headline": "Open One Side Only",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pakistan Kartarpur gurdwara entrance"
+  },
+  {
+   "narration": "That is the strangest border fact of all. A door in a fence, with a lock on only one side.",
+   "emoji": "🔐",
+   "headline": "A Lock On One Side",
+   "stat": "",
+   "sub": "",
+   "visual_query": "padlock gate fence"
+  },
+  {
+   "narration": "And that is why Dera Baba Nanak matters again. The viewing point is back to being the place where people look.",
+   "emoji": "👀",
+   "headline": "Back To The View",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dera Baba Nanak viewing point"
+  },
+  {
+   "narration": "So once more, families stand in a field in Punjab, lift their binoculars, and search for a shrine across the line.",
+   "emoji": "🔭",
+   "headline": "Search For A Shrine",
+   "stat": "",
+   "sub": "",
+   "visual_query": "family binoculars field"
+  },
+  {
+   "narration": "That is the whole story in one picture. A holy place close enough to see, yet far enough to feel.",
+   "emoji": "🌅",
+   "headline": "Close To See, Far To Feel",
+   "stat": "",
+   "sub": "",
+   "visual_query": "sunset Punjab fields"
+  },
+  {
+   "narration": "Notice what the border really did here. It did not hide Kartarpur. It left it in plain sight, and that makes it hurt more.",
+   "emoji": "💔",
+   "headline": "In Plain Sight",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kartarpur gurdwara distance"
+  },
+  {
+   "narration": "It shows how a line from 1947 can still shape a family's prayer today. Maps are never just maps.",
+   "emoji": "🗺️",
+   "headline": "Maps Are Never Just Maps",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old map Punjab"
+  },
+  {
+   "narration": "Let us run the countdown once more. Five, a viewing point where a field becomes a holy window.",
+   "emoji": "5️⃣",
+   "headline": "Five: The Window",
+   "stat": "5",
+   "sub": "",
+   "visual_query": "Dera Baba Nanak"
+  },
+  {
+   "narration": "Four, a line drawn in 1947 that left Guru Nanak's final home in Pakistan. Three, years of visas and long journeys.",
+   "emoji": "4️⃣",
+   "headline": "Four And Three",
+   "stat": "4, 3",
+   "sub": "",
+   "visual_query": "partition 1947 refugees"
+  },
+  {
+   "narration": "Two, a corridor that opened with a permit instead of a visa, a day trip, and a fee that sparked debate.",
+   "emoji": "2️⃣",
+   "headline": "Two: The Corridor",
+   "stat": "2",
+   "sub": "",
+   "visual_query": "Kartarpur corridor pilgrims walking"
+  },
+  {
+   "narration": "And one, a corridor that is still signed and still on the map, but shut on the Indian side.",
+   "emoji": "1️⃣",
+   "headline": "One: The Shut Gate",
+   "stat": "1",
+   "sub": "",
+   "visual_query": "Kartarpur corridor closed"
+  },
+  {
+   "narration": "Which brings us back to where we began. Your eyes can see a gurdwara in Pakistan from an Indian field.",
+   "emoji": "🔁",
+   "headline": "Back To The Start",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kartarpur gurdwara"
+  },
+  {
+   "narration": "Whether the gate reopens is up to two governments. The view, at least, does not need anyone's permission. Would you walk that road?",
+   "emoji": "🚶",
+   "headline": "The View Stays Free",
+   "stat": "",
+   "sub": "Would you walk it?",
+   "visual_query": "Kartarpur corridor road"
+  },
+  {
+   "narration": "Tomorrow: another border that looks fake on the map, and is completely real.",
+   "emoji": "➡️",
+   "headline": "Tomorrow: Another Border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map borders"
+  }
+ ]
+}

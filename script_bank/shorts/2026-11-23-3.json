@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Dzhanibekov effect",
+ "hook": "Your wing nut would flip itself in space.",
+ "title": "A Wing Nut Flips Itself in Space",
+ "description": "Spin a T-handle or wing nut in zero gravity and it tumbles over, then spins steadily, then tumbles again. It is called the Dzhanibekov effect, and it has been filmed on camera in orbit. Part of the If You Were in Space series.\n\n#Shorts #Space #IfYouWereInSpace",
+ "tags": [
+  "dzhanibekov effect",
+  "wing nut in space",
+  "tennis racket theorem",
+  "zero gravity",
+  "space facts",
+  "iss",
+  "if you were in space",
+  "shorts"
+ ],
+ "comment_prompt": "Did you expect that? Yes or no",
+ "hook_banner": "WATCH IT FLIP",
+ "scenes": [
+  {
+   "narration": "Your wing nut would flip itself in space.",
+   "emoji": "🔩",
+   "headline": "It Flips Itself",
+   "stat": "",
+   "sub": "In zero gravity",
+   "visual_query": "wing nut spinning"
+  },
+  {
+   "narration": "Spin a wing nut in zero gravity.",
+   "emoji": "🌀",
+   "headline": "Spin It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut floating space station"
+  },
+  {
+   "narration": "It spins steadily, then suddenly flips over.",
+   "emoji": "🔄",
+   "headline": "Sudden Flip",
+   "stat": "",
+   "sub": "",
+   "visual_query": "wing nut flip"
+  },
+  {
+   "narration": "Then it spins steadily again.",
+   "emoji": "⏸️",
+   "headline": "Steady Again",
+   "stat": "",
+   "sub": "",
+   "visual_query": "spinning T handle"
+  },
+  {
+   "narration": "No one touches it during the flip.",
+   "emoji": "🖐️",
+   "headline": "Nobody Touches It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "weightless object space station"
+  },
+  {
+   "narration": "It repeats, flip after flip.",
+   "emoji": "🔁",
+   "headline": "Flip After Flip",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tumbling object zero gravity"
+  },
+  {
+   "narration": "It is called the Dzhanibekov effect.",
+   "emoji": "🧑‍🚀",
+   "headline": "Dzhanibekov Effect",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Vladimir Dzhanibekov cosmonaut"
+  },
+  {
+   "narration": "Physics predicts it, and cameras caught it.",
+   "emoji": "🎥",
+   "headline": "Caught On Camera",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ISS astronaut camera"
+  },
+  {
+   "narration": "Next: closed eyes that still see flashes.",
+   "emoji": "➡️",
+   "headline": "Next Up",
+   "stat": "",
+   "sub": "Flashes in space",
+   "visual_query": "astronaut eye closeup"
+  }
+ ]
+}

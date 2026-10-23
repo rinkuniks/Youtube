@@ -1,0 +1,80 @@
+{
+ "category": "geography",
+ "topic": "Maho Beach Sint Maarten",
+ "hook": "Your beach towel has jumbo jets landing over your head.",
+ "title": "A Beach Where Jumbo Jets Land Overhead",
+ "description": "Maho Beach on Sint Maarten sits right beside the runway of Princess Juliana airport. Landing jets pass very low over the sand and swimmers. It is a real beach and a real airport.\n\n#Shorts #Geography #MahoBeach",
+ "tags": [
+  "Maho Beach",
+  "Sint Maarten",
+  "plane landing",
+  "geography facts",
+  "strange places",
+  "airport",
+  "places that shouldn't exist",
+  "shorts"
+ ],
+ "comment_prompt": "Would you lie there? Yes or no",
+ "hook_banner": "THIS PLACE IS REAL",
+ "scenes": [
+  {
+   "narration": "Your beach towel has jumbo jets landing over your head.",
+   "emoji": "✈️",
+   "headline": "JETS OVER YOUR TOWEL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Maho Beach plane landing"
+  },
+  {
+   "narration": "This is Maho Beach, on Sint Maarten.",
+   "emoji": "🏖️",
+   "headline": "MAHO BEACH",
+   "stat": "",
+   "sub": "Sint Maarten",
+   "visual_query": "Maho Beach Sint Maarten"
+  },
+  {
+   "narration": "The airport runway starts right behind the sand.",
+   "emoji": "🛬",
+   "headline": "RUNWAY BEHIND SAND",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Princess Juliana airport runway"
+  },
+  {
+   "narration": "Planes pass so low you feel it.",
+   "emoji": "💨",
+   "headline": "SO LOW YOU FEEL IT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "plane over beach sunbathers"
+  },
+  {
+   "narration": "Jet blasts can throw sand at people.",
+   "emoji": "🌪️",
+   "headline": "SAND IN THE AIR",
+   "stat": "",
+   "sub": "",
+   "visual_query": "jet blast beach"
+  },
+  {
+   "narration": "Tourists wait just to watch it.",
+   "emoji": "📸",
+   "headline": "TOURISTS WAIT FOR IT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Maho Beach tourists watching"
+  },
+  {
+   "narration": "Swimmers look up and see landing gear.",
+   "emoji": "🏊",
+   "headline": "LANDING GEAR ABOVE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "airplane landing gear overhead"
+  },
+  {
+   "narration": "A beach day with a runway overhead. Tomorrow: smoke over an Indian island."
+  }
+ ]
+}

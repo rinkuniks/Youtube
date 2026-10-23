@@ -1,0 +1,712 @@
+{
+ "topic": "Strange borders countdown: Perejil goat island and 6 more",
+ "hook": "Two European countries nearly went to war over a rock with goats on it, and soldiers were sent in by helicopter.",
+ "title": "7 Insane Borders, Including a War Over Goats",
+ "description": "Spain and Morocco nearly went to war in 2002 over Perejil, a bare goat island. This countdown also visits a runway that cars cross, a Spanish town inside France, a German village inside Switzerland, and ends on the tangled India-Bangladesh enclaves. Every border here is real, and you can find each one on a map.\n\n#borders #geography #mapfacts",
+ "tags": [
+  "strange borders",
+  "weird borders",
+  "borders that make no sense",
+  "Perejil island",
+  "Spain Morocco",
+  "Gibraltar runway",
+  "Llivia",
+  "Busingen",
+  "Point Roberts",
+  "Kaliningrad",
+  "India Bangladesh enclaves",
+  "Cooch Behar",
+  "geography facts",
+  "map facts"
+ ],
+ "comment_prompt": "Which border surprised you most?",
+ "hook_banner": "A WAR OVER GOATS",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "7: Gibraltar runway road",
+   "scene": 8
+  },
+  {
+   "title": "6: Llívia inside France",
+   "scene": 17
+  },
+  {
+   "title": "5: Büsingen inside Switzerland",
+   "scene": 26
+  },
+  {
+   "title": "4: Point Roberts",
+   "scene": 35
+  },
+  {
+   "title": "3: Perejil, the goat island",
+   "scene": 44
+  },
+  {
+   "title": "2: Kaliningrad",
+   "scene": 58
+  },
+  {
+   "title": "1: India's enclaves",
+   "scene": 66
+  },
+  {
+   "title": "Wrap-up",
+   "scene": 78
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Two European countries nearly went to war over a rock with goats on it, and soldiers were sent in by helicopter.",
+   "emoji": "🐐",
+   "headline": "War Over Goats",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Perejil island rock"
+  },
+  {
+   "narration": "That is not a joke, and it is not a movie plot. It really happened in the year 2002.",
+   "emoji": "📅",
+   "headline": "It Really Happened",
+   "stat": "2002",
+   "sub": "",
+   "visual_query": "Spanish military helicopter"
+  },
+  {
+   "narration": "In this video you will see seven borders that make no sense, from runways to enclaves.",
+   "emoji": "🗺️",
+   "headline": "7 Borders",
+   "stat": "7",
+   "sub": "that make no sense",
+   "visual_query": "world map borders"
+  },
+  {
+   "narration": "One of them cuts a runway in half, and one hides a whole town inside another country.",
+   "emoji": "✈️",
+   "headline": "Runway And Hidden Town",
+   "stat": "",
+   "sub": "",
+   "visual_query": "airport runway aerial"
+  },
+  {
+   "narration": "But the strangest of all is in India, and it involves land that changed countries at midnight.",
+   "emoji": "🇮🇳",
+   "headline": "India's Strangest",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Bangladesh border fence"
+  },
+  {
+   "narration": "We will count down from seven to one, and every border is stranger than the last.",
+   "emoji": "🔢",
+   "headline": "Countdown 7 To 1",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old world map"
+  },
+  {
+   "narration": "So stay until the end, because the goat island is only number three.",
+   "emoji": "⏳",
+   "headline": "Goat Island Is #3",
+   "stat": "3",
+   "sub": "",
+   "visual_query": "goats on rocky island"
+  },
+  {
+   "narration": "Let us start at number seven, with a runway that a road crosses.",
+   "emoji": "🛬",
+   "headline": "Let's Start",
+   "stat": "7",
+   "sub": "",
+   "visual_query": "Gibraltar airport"
+  },
+  {
+   "narration": "Number seven: a road that stops for airplanes. This is Gibraltar, a small British territory on the southern tip of Spain.",
+   "emoji": "🇬🇮",
+   "headline": "Gibraltar",
+   "stat": "7",
+   "sub": "British territory in Spain",
+   "visual_query": "Rock of Gibraltar"
+  },
+  {
+   "narration": "Right at the Spanish border, the main road runs straight across the airport runway.",
+   "emoji": "🛣️",
+   "headline": "Road Across Runway",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar runway road"
+  },
+  {
+   "narration": "When a plane is about to land, barriers come down and cars, bikes and walkers all wait.",
+   "emoji": "🚧",
+   "headline": "Barriers Come Down",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar runway barrier"
+  },
+  {
+   "narration": "Then the plane lands, the barriers go up, and everyone carries on, as if nothing happened.",
+   "emoji": "🚶",
+   "headline": "Then Everyone Walks On",
+   "stat": "",
+   "sub": "",
+   "visual_query": "plane landing Gibraltar"
+  },
+  {
+   "narration": "The runway was built on a narrow strip of land during the Second World War.",
+   "emoji": "🪖",
+   "headline": "Built In WWII",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar aerial isthmus"
+  },
+  {
+   "narration": "Spain does not accept that Britain owns that strip, so the airport itself sits on disputed land.",
+   "emoji": "⚖️",
+   "headline": "Disputed Land",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Spain Gibraltar border"
+  },
+  {
+   "narration": "So you can stand at a border crossing and watch a jet roll by a few metres away.",
+   "emoji": "🛩️",
+   "headline": "Jet Beside The Border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "jet landing runway"
+  },
+  {
+   "narration": "Passports are checked on foot, and then you walk straight over the runway to enter town.",
+   "emoji": "🛂",
+   "headline": "Walk Over The Runway",
+   "stat": "",
+   "sub": "",
+   "visual_query": "passport border check"
+  },
+  {
+   "narration": "That is odd, but at number six, a whole Spanish town is hiding inside France.",
+   "emoji": "👀",
+   "headline": "Next: Inside France",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pyrenees mountains village"
+  },
+  {
+   "narration": "Number six: a Spanish town that sits entirely inside France. It is called Llívia, in the Pyrenees mountains.",
+   "emoji": "🏔️",
+   "headline": "Llívia",
+   "stat": "6",
+   "sub": "Spain inside France",
+   "visual_query": "Llivia town Spain"
+  },
+  {
+   "narration": "Look at the map and you will see a small Spanish island, with France on every side.",
+   "emoji": "🗺️",
+   "headline": "Spanish Island In France",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Llivia map enclave"
+  },
+  {
+   "narration": "The reason goes back to a treaty in 1659, when Spain gave France a group of villages.",
+   "emoji": "📜",
+   "headline": "Treaty Of 1659",
+   "stat": "1659",
+   "sub": "",
+   "visual_query": "Treaty of the Pyrenees"
+  },
+  {
+   "narration": "But Llívia was officially a town, not a village, so the treaty never took it away.",
+   "emoji": "🏘️",
+   "headline": "Town, Not Village",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Llivia old town"
+  },
+  {
+   "narration": "That tiny wording difference is why it is still Spanish more than three hundred years later.",
+   "emoji": "✍️",
+   "headline": "One Word Decided It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old treaty document"
+  },
+  {
+   "narration": "A neutral road links Llívia to Spain, so Spanish drivers can travel there without entering France.",
+   "emoji": "🚗",
+   "headline": "The Neutral Road",
+   "stat": "",
+   "sub": "",
+   "visual_query": "mountain road Pyrenees"
+  },
+  {
+   "narration": "Llívia even has one of the oldest pharmacies in Europe, in a Spanish town surrounded by France.",
+   "emoji": "💊",
+   "headline": "Old Pharmacy",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old pharmacy museum"
+  },
+  {
+   "narration": "A border shaped by one missing word, and it is still on the map today.",
+   "emoji": "📍",
+   "headline": "Still On The Map",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Spain France border sign"
+  },
+  {
+   "narration": "Next, a village where people pay with two different currencies, because Switzerland is all around them.",
+   "emoji": "💶",
+   "headline": "Next: Two Currencies",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss francs euros"
+  },
+  {
+   "narration": "Number five: Büsingen, a German village with no land link to Germany at all.",
+   "emoji": "🇩🇪",
+   "headline": "Büsingen",
+   "stat": "5",
+   "sub": "German village",
+   "visual_query": "Busingen am Hochrhein"
+  },
+  {
+   "narration": "It is surrounded by Switzerland, so to reach the rest of Germany you must cross Swiss land.",
+   "emoji": "🇨🇭",
+   "headline": "Ringed By Switzerland",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rhine river Switzerland Germany"
+  },
+  {
+   "narration": "Büsingen is part of Germany, but it sits inside the Swiss customs area, so its shops follow Swiss rules.",
+   "emoji": "🏪",
+   "headline": "Swiss Customs Area",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss village shop"
+  },
+  {
+   "narration": "Many shops accept Swiss francs as well as euros, so your wallet needs to be ready for both.",
+   "emoji": "💰",
+   "headline": "Francs And Euros",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss franc banknotes"
+  },
+  {
+   "narration": "It even has its own car number plates, which start with the letters BÜS.",
+   "emoji": "🚘",
+   "headline": "Its Own Plates",
+   "stat": "BÜS",
+   "sub": "",
+   "visual_query": "German car number plate"
+  },
+  {
+   "narration": "In 1918 most villagers voted to join Switzerland, but Switzerland refused.",
+   "emoji": "🗳️",
+   "headline": "Voted For Switzerland",
+   "stat": "1918",
+   "sub": "Switzerland said no",
+   "visual_query": "voting ballot box"
+  },
+  {
+   "narration": "So they stayed German, in the middle of Switzerland, where they still live today.",
+   "emoji": "🏡",
+   "headline": "Still German",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake Constance village"
+  },
+  {
+   "narration": "It is a quiet village, but it proves a border can wrap around a place like a ring.",
+   "emoji": "💍",
+   "headline": "Border Like A Ring",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Busingen map border"
+  },
+  {
+   "narration": "Now for a place in North America that you can only drive to by leaving your own country.",
+   "emoji": "🚙",
+   "headline": "Next: Leave To Get Home",
+   "stat": "",
+   "sub": "",
+   "visual_query": "US Canada border crossing"
+  },
+  {
+   "narration": "Number four: Point Roberts, an American town you can only reach by road through Canada.",
+   "emoji": "🇺🇸",
+   "headline": "Point Roberts",
+   "stat": "4",
+   "sub": "American town",
+   "visual_query": "Point Roberts Washington"
+  },
+  {
+   "narration": "It sits on the tip of a small peninsula, just south of a straight line drawn on the map.",
+   "emoji": "📏",
+   "headline": "A Straight Line",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Point Roberts peninsula aerial"
+  },
+  {
+   "narration": "That line is the forty-ninth parallel, chosen as the border long ago by treaty.",
+   "emoji": "🧭",
+   "headline": "49th Parallel",
+   "stat": "49°",
+   "sub": "",
+   "visual_query": "49th parallel border marker"
+  },
+  {
+   "narration": "The line was straight, so it cut the peninsula, and the tip ended up in the United States.",
+   "emoji": "✂️",
+   "headline": "Peninsula Cut Off",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Tsawwassen Point Roberts map"
+  },
+  {
+   "narration": "Today, to drive from Point Roberts to the rest of America, you must cross into Canada first.",
+   "emoji": "🍁",
+   "headline": "Drive Through Canada",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Canada border road sign"
+  },
+  {
+   "narration": "Then you cross back into the United States, which means two border checks for a normal trip.",
+   "emoji": "🛃",
+   "headline": "Two Border Checks",
+   "stat": "2",
+   "sub": "",
+   "visual_query": "border patrol booth"
+  },
+  {
+   "narration": "If you enjoy strange maps like this, subscribe, because there are more places like these on the channel.",
+   "emoji": "🔔",
+   "headline": "Subscribe For More",
+   "stat": "",
+   "sub": "",
+   "visual_query": "globe world map"
+  },
+  {
+   "narration": "A simple straight line created a town that is American on paper and Canadian by road.",
+   "emoji": "🧩",
+   "headline": "American On Paper",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Point Roberts beach"
+  },
+  {
+   "narration": "And at number three, one rock nearly started a war between two friendly countries.",
+   "emoji": "⚔️",
+   "headline": "Next: The Goat Island",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Strait of Gibraltar coast Morocco"
+  },
+  {
+   "narration": "Number three: Perejil Island, the goat island. Its name is the Spanish word for parsley.",
+   "emoji": "🌿",
+   "headline": "Perejil Island",
+   "stat": "3",
+   "sub": "Spanish for parsley",
+   "visual_query": "Perejil island Morocco"
+  },
+  {
+   "narration": "It is a bare rock, with almost nothing on it, only about two hundred metres off the coast of Morocco.",
+   "emoji": "🪨",
+   "headline": "A Bare Rock",
+   "stat": "200 m",
+   "sub": "from Morocco",
+   "visual_query": "Perejil island aerial"
+  },
+  {
+   "narration": "Spain says it is Spanish, Morocco says it is Moroccan, and for decades nobody lived there.",
+   "emoji": "🤷",
+   "headline": "Who Owns It?",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Spain Morocco flags"
+  },
+  {
+   "narration": "Some goats grazed on the rock, and that was about all there was.",
+   "emoji": "🐐",
+   "headline": "Just Goats",
+   "stat": "",
+   "sub": "",
+   "visual_query": "goats rocky cliff"
+  },
+  {
+   "narration": "Then in July 2002, a small group of Moroccan soldiers landed there and set up a post.",
+   "emoji": "🪖",
+   "headline": "Soldiers Land",
+   "stat": "July 2002",
+   "sub": "",
+   "visual_query": "Moroccan soldiers"
+  },
+  {
+   "narration": "Spain called it a hostile act, because Spain has its own city of Ceuta only a few kilometres away.",
+   "emoji": "🏙️",
+   "headline": "Ceuta Is Spanish",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ceuta city Spain"
+  },
+  {
+   "narration": "Ceuta and Melilla are Spanish cities on the African coast, and they are the only land borders between the EU and Africa.",
+   "emoji": "🌍",
+   "headline": "Spain In Africa",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Melilla border fence"
+  },
+  {
+   "narration": "Spain sent warships, and for days two neighbours stared at each other over a narrow stretch of sea.",
+   "emoji": "🚢",
+   "headline": "Warships Arrive",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Spanish navy warship"
+  },
+  {
+   "narration": "On the morning of 17 July, Spanish special forces came in by helicopter and landed on the rock.",
+   "emoji": "🚁",
+   "headline": "Helicopters Land",
+   "stat": "17 July",
+   "sub": "",
+   "visual_query": "helicopter special forces"
+  },
+  {
+   "narration": "They removed the handful of Moroccan soldiers, and no one was killed.",
+   "emoji": "🕊️",
+   "headline": "Nobody Killed",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Spanish soldiers island"
+  },
+  {
+   "narration": "Then American diplomats stepped in, and both sides agreed to go back to how things were before.",
+   "emoji": "🤝",
+   "headline": "US Steps In",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Colin Powell diplomat"
+  },
+  {
+   "narration": "So today, the rock is empty again, with no flag, no troops and no one living there.",
+   "emoji": "🏝️",
+   "headline": "Empty Again",
+   "stat": "",
+   "sub": "",
+   "visual_query": "empty rocky island sea"
+  },
+  {
+   "narration": "Two countries almost fought a war over a rock with no people and no buildings.",
+   "emoji": "🤯",
+   "headline": "Over A Bare Rock",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Strait of Gibraltar map"
+  },
+  {
+   "narration": "At number two, a region of Russia that cannot be reached by land from Russia.",
+   "emoji": "🇷🇺",
+   "headline": "Next: Cut-Off Russia",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kaliningrad skyline"
+  },
+  {
+   "narration": "Number two: Kaliningrad, a part of Russia that is cut off from the rest of Russia.",
+   "emoji": "📍",
+   "headline": "Kaliningrad",
+   "stat": "2",
+   "sub": "Russia's cut-off region",
+   "visual_query": "Kaliningrad cathedral"
+  },
+  {
+   "narration": "It sits on the Baltic Sea, with Poland on one side and Lithuania on the other.",
+   "emoji": "🌊",
+   "headline": "Baltic Sea Coast",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baltic Sea coast Kaliningrad"
+  },
+  {
+   "narration": "After the Soviet Union broke up in 1991, the countries around it became independent.",
+   "emoji": "🧱",
+   "headline": "Soviet Union Ends",
+   "stat": "1991",
+   "sub": "",
+   "visual_query": "Soviet Union flag"
+  },
+  {
+   "narration": "That left Kaliningrad as a separate piece, far from the Russian mainland.",
+   "emoji": "🗺️",
+   "headline": "A Separate Piece",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kaliningrad map Europe"
+  },
+  {
+   "narration": "Travel between Kaliningrad and the rest of Russia by land means crossing other countries.",
+   "emoji": "🛣️",
+   "headline": "Cross Other Countries",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lithuania Poland border"
+  },
+  {
+   "narration": "Trains have had to cross Lithuania to get through, with special rules for the passengers.",
+   "emoji": "🚆",
+   "headline": "Train Through Lithuania",
+   "stat": "",
+   "sub": "",
+   "visual_query": "train Lithuania railway"
+  },
+  {
+   "narration": "Imagine a piece of your own state sitting across foreign lands, with no road to it at home.",
+   "emoji": "🤔",
+   "headline": "No Road Home",
+   "stat": "",
+   "sub": "",
+   "visual_query": "map of Kaliningrad oblast"
+  },
+  {
+   "narration": "But even this is not the strangest. For that, we need to go to India.",
+   "emoji": "🇮🇳",
+   "headline": "Now, India",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India map West Bengal"
+  },
+  {
+   "narration": "Number one: the border enclaves of Cooch Behar, on the India and Bangladesh border.",
+   "emoji": "🥇",
+   "headline": "Cooch Behar Enclaves",
+   "stat": "1",
+   "sub": "India and Bangladesh",
+   "visual_query": "Cooch Behar West Bengal"
+  },
+  {
+   "narration": "For decades, small pieces of India lay inside Bangladesh, and small pieces of Bangladesh lay inside India.",
+   "emoji": "🧩",
+   "headline": "Land Inside Land",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Bangladesh enclaves map"
+  },
+  {
+   "narration": "These pockets were called enclaves, and they were scattered across the border like puzzle pieces.",
+   "emoji": "🗺️",
+   "headline": "Scattered Pockets",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cooch Behar enclave village"
+  },
+  {
+   "narration": "People living in them were cut off from their own country, with no easy road to it.",
+   "emoji": "🚧",
+   "headline": "Cut Off",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Bangladesh border village"
+  },
+  {
+   "narration": "Some villagers had little access to schools, hospitals or electricity, because the country around them did not govern their land.",
+   "emoji": "💡",
+   "headline": "No Services",
+   "stat": "",
+   "sub": "",
+   "visual_query": "village India rural school"
+  },
+  {
+   "narration": "It gets stranger. In one place, there was Indian land inside Bangladeshi land inside Indian land inside Bangladesh.",
+   "emoji": "😵",
+   "headline": "Four Layers",
+   "stat": "4",
+   "sub": "",
+   "visual_query": "Dahala Khagrabari enclave"
+  },
+  {
+   "narration": "That plot was called Dahala Khagrabari, and it is often called the only one of its kind in the world.",
+   "emoji": "🌐",
+   "headline": "Dahala Khagrabari",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cooch Behar rice fields"
+  },
+  {
+   "narration": "At midnight on 31 July 2015, India and Bangladesh finally swapped these pockets of land.",
+   "emoji": "🕛",
+   "headline": "The Midnight Swap",
+   "stat": "2015",
+   "sub": "",
+   "visual_query": "India Bangladesh flag ceremony"
+  },
+  {
+   "narration": "In total, one hundred and sixty-two enclaves changed hands, and about fifty thousand people had to choose.",
+   "emoji": "📊",
+   "headline": "162 Enclaves",
+   "stat": "162",
+   "sub": "about 50,000 people",
+   "visual_query": "enclave residents Bangladesh India"
+  },
+  {
+   "narration": "For many, it meant a proper address, a vote and access to services from the country they lived in.",
+   "emoji": "🏠",
+   "headline": "A Real Address",
+   "stat": "",
+   "sub": "",
+   "visual_query": "villagers India voting"
+  },
+  {
+   "narration": "It was one of the most tangled borders ever drawn, and it was right here in our own backyard.",
+   "emoji": "🧶",
+   "headline": "Most Tangled Border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Bangladesh border fence"
+  },
+  {
+   "narration": "And that is why India has the strangest border of all, even if it was finally tidied up.",
+   "emoji": "🏆",
+   "headline": "India Wins",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Bangladesh border gate"
+  },
+  {
+   "narration": "So that is seven borders: a runway, a Spanish town in France, a German village in Switzerland, and more.",
+   "emoji": "🗺️",
+   "headline": "All 7 Borders",
+   "stat": "7",
+   "sub": "",
+   "visual_query": "world map pins"
+  },
+  {
+   "narration": "And remember the goat island: two countries, helicopters, warships, and nobody hurt over a bare rock.",
+   "emoji": "🐐",
+   "headline": "The Goat Island",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Perejil island sea"
+  },
+  {
+   "narration": "Tomorrow: the country that has no border at its own front door. See you then.",
+   "emoji": "🚪",
+   "headline": "Tomorrow",
+   "stat": "",
+   "sub": "No border at the front door",
+   "visual_query": "open border road sign"
+  }
+ ]
+}

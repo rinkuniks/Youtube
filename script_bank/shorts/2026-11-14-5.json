@@ -1,0 +1,101 @@
+{
+ "category": "technology",
+ "topic": "Smartwatch green light heart rate",
+ "hook": "Your smartwatch flashes a green light at your skin.",
+ "title": "Your smartwatch reads your pulse with light",
+ "description": "That green light on the back of your smartwatch is a heart rate sensor. It shines into your skin, and your blood flow changes how much light bounces back. Flip your watch over and look.\n\nSeries: Tech You Can Check.",
+ "tags": [
+  "smartwatch",
+  "heart rate",
+  "tech facts",
+  "how it works",
+  "wearable",
+  "green light",
+  "shorts",
+  "did you know"
+ ],
+ "comment_prompt": "Did you check your watch? Yes or no",
+ "hook_banner": "TRY THIS NOW",
+ "scenes": [
+  {
+   "narration": "Your smartwatch flashes a green light at your skin.",
+   "emoji": "⌚",
+   "headline": "Green Light Test",
+   "stat": "",
+   "sub": "",
+   "visual_query": "smartwatch green light"
+  },
+  {
+   "narration": "Flip your smartwatch over right now.",
+   "emoji": "🔄",
+   "headline": "Flip It Over",
+   "stat": "",
+   "sub": "",
+   "visual_query": "smartwatch back sensor"
+  },
+  {
+   "narration": "Look at the green light on the back.",
+   "emoji": "💚",
+   "headline": "See The Green",
+   "stat": "",
+   "sub": "",
+   "visual_query": "watch sensor green LED"
+  },
+  {
+   "narration": "It shines straight into your wrist.",
+   "emoji": "💡",
+   "headline": "Light Into Skin",
+   "stat": "",
+   "sub": "",
+   "visual_query": "wrist smartwatch"
+  },
+  {
+   "narration": "Your blood absorbs green light well.",
+   "emoji": "🩸",
+   "headline": "Blood Absorbs It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "blood vessels wrist"
+  },
+  {
+   "narration": "More blood flowing means less light returns.",
+   "emoji": "📉",
+   "headline": "Less Light Returns",
+   "stat": "",
+   "sub": "",
+   "visual_query": "light skin sensor"
+  },
+  {
+   "narration": "A sensor counts those tiny flickers.",
+   "emoji": "📡",
+   "headline": "Counting Flickers",
+   "stat": "",
+   "sub": "",
+   "visual_query": "heart rate graph watch"
+  },
+  {
+   "narration": "That flicker pattern is your pulse.",
+   "emoji": "❤️",
+   "headline": "That's Your Pulse",
+   "stat": "",
+   "sub": "",
+   "visual_query": "heart rate smartwatch screen"
+  },
+  {
+   "narration": "So that green flash is counting your heartbeat.",
+   "emoji": "💓",
+   "headline": "Counting Heartbeats",
+   "stat": "",
+   "sub": "",
+   "visual_query": "smartwatch heart rate"
+  },
+  {
+   "narration": "Tomorrow: the island where New Year starts first.",
+   "emoji": "🎆",
+   "headline": "Tomorrow: New Year",
+   "stat": "",
+   "sub": "",
+   "visual_query": "fireworks beach island"
+  }
+ ]
+}

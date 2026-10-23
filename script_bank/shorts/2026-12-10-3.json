@@ -1,0 +1,102 @@
+{
+ "category": "geography",
+ "topic": "Wakhan Corridor, Afghanistan",
+ "hook": "Your map of Afghanistan has a strange arm.",
+ "title": "Afghanistan Has an Arm That Touches China",
+ "description": "Look at a map of Afghanistan and you'll see the Wakhan Corridor, a thin arm of land about 350 km long that stretches east until it touches China. Britain and Russia shaped it in the 1890s so their empires wouldn't border each other. Part of the Places That Shouldn't Exist series.\n\n#Shorts #PlacesThatShouldntExist #Geography",
+ "tags": [
+  "wakhan corridor",
+  "afghanistan",
+  "china border",
+  "map facts",
+  "places that shouldn't exist",
+  "geography facts",
+  "british india",
+  "shorts",
+  "wait what facts"
+ ],
+ "comment_prompt": "Did you know this? Yes or no",
+ "hook_banner": "CHECK YOUR MAP",
+ "scenes": [
+  {
+   "narration": "Your map of Afghanistan has a strange arm.",
+   "emoji": "🗺️",
+   "headline": "A Strange Arm",
+   "stat": "",
+   "sub": "Afghanistan",
+   "visual_query": "Afghanistan map"
+  },
+  {
+   "narration": "It stretches east until it touches China.",
+   "emoji": "➡️",
+   "headline": "It Touches China",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Wakhan Corridor China border"
+  },
+  {
+   "narration": "It's about three hundred fifty kilometres long.",
+   "emoji": "📏",
+   "headline": "About 350 km Long",
+   "stat": "350 km",
+   "sub": "",
+   "visual_query": "Wakhan valley mountains"
+  },
+  {
+   "narration": "This is the Wakhan Corridor.",
+   "emoji": "📍",
+   "headline": "Wakhan Corridor",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Wakhan Corridor"
+  },
+  {
+   "narration": "Britain and Russia shaped it in the 1890s.",
+   "emoji": "🏛️",
+   "headline": "Drawn In The 1890s",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old map Central Asia"
+  },
+  {
+   "narration": "It kept their empires from touching.",
+   "emoji": "🚧",
+   "headline": "A Buffer Zone",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pamir mountains border"
+  },
+  {
+   "narration": "Britain then ruled India, right next door.",
+   "emoji": "🇮🇳",
+   "headline": "British India Nearby",
+   "stat": "",
+   "sub": "",
+   "visual_query": "British India map"
+  },
+  {
+   "narration": "So Afghanistan got one thin arm.",
+   "emoji": "🦾",
+   "headline": "One Thin Arm",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Afghanistan China border"
+  },
+  {
+   "narration": "That strange arm is still on your map.",
+   "emoji": "🧭",
+   "headline": "Still On The Map",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Afghanistan map atlas"
+  },
+  {
+   "narration": "Tomorrow: a statue left on the Moon.",
+   "emoji": "🌕",
+   "headline": "Tomorrow",
+   "stat": "",
+   "sub": "A statue on the Moon",
+   "visual_query": "Moon surface astronaut"
+  }
+ ]
+}

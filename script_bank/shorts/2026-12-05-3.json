@@ -1,0 +1,94 @@
+{
+ "category": "space",
+ "topic": "Ice on Mercury",
+ "hook": "Your Mercury noon would hit about 430 degrees.",
+ "title": "Mercury hits 430°C and still has ice",
+ "description": "Daytime on Mercury reaches about 430 degrees Celsius, yet the planet has water ice. It sits in permanently shadowed craters near the poles, where sunlight never reaches. Radar images from Earth showed bright patches there, and a NASA probe later backed it up.\n\n#Shorts #Space #Mercury",
+ "tags": [
+  "mercury",
+  "ice on mercury",
+  "space facts",
+  "nasa",
+  "messenger",
+  "solar system",
+  "polar craters",
+  "wait what",
+  "shorts"
+ ],
+ "comment_prompt": "Would you visit Mercury? Yes or no",
+ "hook_banner": "HOT PLANET, REAL ICE",
+ "scenes": [
+  {
+   "narration": "Your Mercury noon would hit about 430 degrees.",
+   "emoji": "🔥",
+   "headline": "430°C AT NOON",
+   "stat": "430°C",
+   "sub": "",
+   "visual_query": "Mercury planet surface"
+  },
+  {
+   "narration": "Yet Mercury has real ice.",
+   "emoji": "🧊",
+   "headline": "IT HAS ICE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ice crater planet"
+  },
+  {
+   "narration": "It hides in craters at the poles.",
+   "emoji": "🕳️",
+   "headline": "POLAR CRATERS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mercury north pole craters"
+  },
+  {
+   "narration": "Sunlight never reaches the crater floors.",
+   "emoji": "🌑",
+   "headline": "ALWAYS IN SHADOW",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mercury shadowed crater"
+  },
+  {
+   "narration": "Radar from Earth showed bright patches there.",
+   "emoji": "📡",
+   "headline": "BRIGHT RADAR PATCHES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Arecibo radar telescope"
+  },
+  {
+   "narration": "A NASA probe later backed it up.",
+   "emoji": "🛰️",
+   "headline": "NASA CONFIRMED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "MESSENGER spacecraft Mercury"
+  },
+  {
+   "narration": "Hot enough to melt lead, yet ice survives.",
+   "emoji": "🌡️",
+   "headline": "LEAD MELTS HERE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "molten lead"
+  },
+  {
+   "narration": "Same planet: baking heat and frozen ice.",
+   "emoji": "🪐",
+   "headline": "HEAT AND ICE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mercury planet"
+  },
+  {
+   "narration": "Tomorrow: a sunrise that runs backwards.",
+   "emoji": "🌅",
+   "headline": "NEXT: BACKWARDS SUNRISE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mercury horizon sun"
+  }
+ ]
+}

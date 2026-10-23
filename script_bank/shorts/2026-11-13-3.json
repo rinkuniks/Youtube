@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Phobos rises in the west",
+ "hook": "Your moon on Mars rises in the west.",
+ "title": "Mars Has a Moon That Rises Backwards",
+ "description": "Phobos, the larger of Mars's two moons, orbits faster than Mars spins. So from the surface it rises in the west and sets in the east. It is also slowly spiralling inward.\n\nSeries: If You Were on Another World.",
+ "tags": [
+  "Phobos",
+  "Mars",
+  "space facts",
+  "Mars moon",
+  "astronomy",
+  "space",
+  "did you know",
+  "solar system"
+ ],
+ "comment_prompt": "Would you watch Phobos rise? Yes or no",
+ "hook_banner": "BACKWARDS MOON",
+ "scenes": [
+  {
+   "narration": "Your moon on Mars rises in the west.",
+   "emoji": "🌑",
+   "headline": "RISES IN THE WEST",
+   "stat": "",
+   "sub": "Mars's moon Phobos",
+   "visual_query": "Phobos moon Mars"
+  },
+  {
+   "narration": "Then it sets in the east.",
+   "emoji": "🔄",
+   "headline": "SETS IN THE EAST",
+   "stat": "",
+   "sub": "backwards",
+   "visual_query": "Mars surface sunset"
+  },
+  {
+   "narration": "Phobos orbits faster than Mars spins.",
+   "emoji": "⚡",
+   "headline": "FASTER THAN MARS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mars planet orbit"
+  },
+  {
+   "narration": "It laps the planet in under eight hours.",
+   "emoji": "⏱️",
+   "headline": "UNDER 8 HOURS",
+   "stat": "",
+   "sub": "one lap",
+   "visual_query": "Phobos close up"
+  },
+  {
+   "narration": "So it can rise twice in one day.",
+   "emoji": "🌅",
+   "headline": "TWO RISES A DAY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mars horizon sky"
+  },
+  {
+   "narration": "And it is slowly spiralling inward.",
+   "emoji": "🌀",
+   "headline": "SPIRALLING INWARD",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Phobos Mars orbit"
+  },
+  {
+   "narration": "In tens of millions of years, it breaks apart.",
+   "emoji": "💥",
+   "headline": "IT WILL BREAK UP",
+   "stat": "",
+   "sub": "tens of millions of years",
+   "visual_query": "Phobos cracks grooves"
+  },
+  {
+   "narration": "Your moon rises backwards, and it is doomed.",
+   "emoji": "🌑",
+   "headline": "DOOMED MOON",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Phobos Mars"
+  },
+  {
+   "narration": "Next: a helicopter that flew on Mars.",
+   "emoji": "🚁",
+   "headline": "NEXT: MARS HELICOPTER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ingenuity helicopter Mars"
+  }
+ ]
+}

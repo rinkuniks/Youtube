@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Caño Cristales river of five colours",
+ "hook": "Your river in Colombia turns red, yellow, green and blue.",
+ "title": "The River Of Five Colours Is Real",
+ "description": "Caño Cristales in Colombia is nicknamed the river of five colours. In the right season its bed glows red, with yellow, green and blue around it. The red comes from a plant that grows on the riverbed.\n\n#Shorts #Geography #Places",
+ "tags": [
+  "Caño Cristales",
+  "Colombia",
+  "river of five colours",
+  "rainbow river",
+  "geography facts",
+  "places that shouldn't exist",
+  "nature",
+  "shorts"
+ ],
+ "comment_prompt": "Would you visit it? Yes or no",
+ "hook_banner": "A RIVER OF COLOUR",
+ "scenes": [
+  {
+   "narration": "This river in Colombia runs bright red.",
+   "emoji": "🔴",
+   "headline": "A RED RIVER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Caño Cristales red river"
+  },
+  {
+   "narration": "Yellow, green and blue too.",
+   "emoji": "🌈",
+   "headline": "YELLOW, GREEN, BLUE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Caño Cristales colors"
+  },
+  {
+   "narration": "It is called the river of five colours.",
+   "emoji": "🎨",
+   "headline": "RIVER OF FIVE COLOURS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cano Cristales river Colombia"
+  },
+  {
+   "narration": "Its name is Caño Cristales.",
+   "emoji": "🇨🇴",
+   "headline": "CAÑO CRISTALES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Serrania de la Macarena river"
+  },
+  {
+   "narration": "The red comes from a river plant.",
+   "emoji": "🌿",
+   "headline": "A PLANT MAKES THE RED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Macarenia clavigera red plant"
+  },
+  {
+   "narration": "Sand, algae and clear water add the rest.",
+   "emoji": "💧",
+   "headline": "SAND, ALGAE, WATER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "clear river yellow sand green algae"
+  },
+  {
+   "narration": "But only in the right season.",
+   "emoji": "📅",
+   "headline": "ONLY IN SEASON",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cano Cristales rapids"
+  },
+  {
+   "narration": "Other months, it looks far less colourful.",
+   "emoji": "😮",
+   "headline": "TIMING MATTERS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Colombia river rocks"
+  },
+  {
+   "narration": "A river that paints itself in colours.",
+   "emoji": "🖌️",
+   "headline": "IT PAINTS ITSELF",
+   "stat": "",
+   "sub": "Tomorrow: a hexagon wider than Earth",
+   "visual_query": "Cano Cristales red riverbed"
+  }
+ ]
+}

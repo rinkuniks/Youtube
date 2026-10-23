@@ -1,0 +1,93 @@
+{
+ "category": "technology",
+ "topic": "Rs 500 colour-shifting ink",
+ "hook": "Your Rs 500 note changes colour when you tilt it.",
+ "title": "Your Rs 500 note changes colour when tilted",
+ "description": "On the Rs 500 note, the numeral 500 shifts from green to blue when you tilt it. That is colour-shifting ink, a security feature that is hard to copy. Grab a note and try it.\n\n#Shorts #Rupee #Facts",
+ "tags": [
+  "500 rupee note",
+  "indian currency",
+  "security features",
+  "colour shifting ink",
+  "rbi",
+  "tech facts",
+  "try this",
+  "shorts"
+ ],
+ "comment_prompt": "Did it turn blue for you? Yes or no",
+ "hook_banner": "TRY THIS NOW",
+ "scenes": [
+  {
+   "narration": "Your Rs 500 note changes colour when tilted.",
+   "emoji": "💵",
+   "headline": "Tilt Your Note",
+   "stat": "₹500",
+   "sub": "",
+   "visual_query": "500 rupee note"
+  },
+  {
+   "narration": "Look at the 500 on the note.",
+   "emoji": "👀",
+   "headline": "Find The 500",
+   "stat": "",
+   "sub": "",
+   "visual_query": "500 rupee note numeral"
+  },
+  {
+   "narration": "Tilt it and green turns blue.",
+   "emoji": "🟢",
+   "headline": "Green To Blue",
+   "stat": "",
+   "sub": "",
+   "visual_query": "colour shifting ink banknote"
+  },
+  {
+   "narration": "That is colour-shifting ink.",
+   "emoji": "🎨",
+   "headline": "Colour-Shifting Ink",
+   "stat": "",
+   "sub": "",
+   "visual_query": "colour changing ink"
+  },
+  {
+   "narration": "It is hard to copy.",
+   "emoji": "🖨️",
+   "headline": "Hard To Copy",
+   "stat": "",
+   "sub": "",
+   "visual_query": "banknote security feature"
+  },
+  {
+   "narration": "Cheap fakes often miss this trick.",
+   "emoji": "🕵️",
+   "headline": "Fakes Miss It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "checking banknote hand"
+  },
+  {
+   "narration": "Try it now with a note from your wallet.",
+   "emoji": "👛",
+   "headline": "Try It Now",
+   "stat": "",
+   "sub": "",
+   "visual_query": "hand holding rupee notes"
+  },
+  {
+   "narration": "Your Rs 500 note is hiding a trick.",
+   "emoji": "💵",
+   "headline": "Hidden In Your Wallet",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Indian rupee notes"
+  },
+  {
+   "narration": "Next: tigers that swim.",
+   "emoji": "➡️",
+   "headline": "Up Next",
+   "stat": "",
+   "sub": "Swimming tigers",
+   "visual_query": "tiger swimming"
+  }
+ ]
+}

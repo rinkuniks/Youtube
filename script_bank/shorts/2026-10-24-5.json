@@ -1,0 +1,93 @@
+{
+ "category": "technology",
+ "topic": "Phone torch through finger shows veins",
+ "hook": "Your finger over the phone torch glows red and shows your veins.",
+ "title": "Your Phone Torch Can Show Your Veins",
+ "description": "Cover your phone's torch with a fingertip in a dim room and your finger glows red. Light passes through your flesh, and the darker lines you see are blood vessels. It works on any phone with a torch.\n\n#Shorts #PhoneTricks #TryThis",
+ "tags": [
+  "phone trick",
+  "torch test",
+  "veins",
+  "try this",
+  "smartphone",
+  "science experiment",
+  "amazing facts",
+  "tech facts"
+ ],
+ "comment_prompt": "Did it work? Yes or no",
+ "hook_banner": "TRY THIS NOW",
+ "scenes": [
+  {
+   "narration": "Your finger over the phone torch glows red.",
+   "emoji": "🔦",
+   "headline": "Finger Glows Red",
+   "stat": "",
+   "sub": "Try this now",
+   "visual_query": "finger over phone flashlight"
+  },
+  {
+   "narration": "Turn the torch on in a dim room.",
+   "emoji": "💡",
+   "headline": "Torch On, Lights Dim",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone flashlight dark room"
+  },
+  {
+   "narration": "Press your fingertip gently over the light.",
+   "emoji": "👆",
+   "headline": "Cover It With A Finger",
+   "stat": "",
+   "sub": "",
+   "visual_query": "fingertip covering phone light"
+  },
+  {
+   "narration": "Your whole finger lights up from inside.",
+   "emoji": "🔴",
+   "headline": "Lit From Inside",
+   "stat": "",
+   "sub": "",
+   "visual_query": "glowing red finger"
+  },
+  {
+   "narration": "The light is passing through your flesh.",
+   "emoji": "✨",
+   "headline": "Light Through Flesh",
+   "stat": "",
+   "sub": "",
+   "visual_query": "light through hand red"
+  },
+  {
+   "narration": "Those dark lines are your blood vessels.",
+   "emoji": "🩸",
+   "headline": "Those Are Your Veins",
+   "stat": "",
+   "sub": "",
+   "visual_query": "hand veins backlit"
+  },
+  {
+   "narration": "Red light travels through skin better than other colours.",
+   "emoji": "🌈",
+   "headline": "Red Gets Through",
+   "stat": "",
+   "sub": "",
+   "visual_query": "red light through skin"
+  },
+  {
+   "narration": "Your finger is glowing red, so go try it.",
+   "emoji": "🔁",
+   "headline": "Go Try It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "glowing finger phone torch"
+  },
+  {
+   "narration": "Tomorrow: the island in the middle of a river.",
+   "emoji": "➡️",
+   "headline": "Next: A River Island",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Majuli island Brahmaputra"
+  }
+ ]
+}

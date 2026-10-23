@@ -1,0 +1,93 @@
+{
+ "category": "technology",
+ "topic": "Franky Zapata Channel crossing",
+ "hook": "Your hoverboard dream flew across the English Channel in 2019.",
+ "title": "He Crossed the Sea on a Jet Board",
+ "description": "In 2019, Franky Zapata tried to cross the English Channel on his jet-powered Flyboard Air. His first attempt ended in the water. On the second try he made it to England.\n\n#Shorts #Technology #Hoverboard",
+ "tags": [
+  "Franky Zapata",
+  "Flyboard Air",
+  "English Channel",
+  "hoverboard",
+  "jet board",
+  "technology facts",
+  "2019",
+  "Shorts"
+ ],
+ "comment_prompt": "Would you ride it? Yes or no",
+ "hook_banner": "HE FLEW ACROSS A SEA",
+ "scenes": [
+  {
+   "narration": "Your hoverboard dream flew across the English Channel.",
+   "emoji": "🛹",
+   "headline": "THE REAL HOVERBOARD",
+   "stat": "2019",
+   "sub": "",
+   "visual_query": "Franky Zapata Flyboard Air"
+  },
+  {
+   "narration": "Franky Zapata stood on a jet-powered board.",
+   "emoji": "🚀",
+   "headline": "A JET-POWERED BOARD",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Franky Zapata flying"
+  },
+  {
+   "narration": "It is called the Flyboard Air.",
+   "emoji": "🏷️",
+   "headline": "FLYBOARD AIR",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Flyboard Air hoverboard"
+  },
+  {
+   "narration": "In 2019, he tried to cross the English Channel.",
+   "emoji": "🌊",
+   "headline": "ACROSS THE CHANNEL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "English Channel sea"
+  },
+  {
+   "narration": "His first attempt failed at a refuel stop.",
+   "emoji": "⛽",
+   "headline": "FIRST TRY FAILED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Zapata refuel platform"
+  },
+  {
+   "narration": "He fell into the water.",
+   "emoji": "💦",
+   "headline": "HE FELL IN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Zapata fall sea"
+  },
+  {
+   "narration": "Days later, he tried again.",
+   "emoji": "🔁",
+   "headline": "SECOND ATTEMPT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Zapata second attempt"
+  },
+  {
+   "narration": "This time, he landed in England.",
+   "emoji": "🇬🇧",
+   "headline": "HE MADE IT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Zapata lands England cliffs"
+  },
+  {
+   "narration": "Tomorrow: a perfectly round hole in the ocean.",
+   "emoji": "➡️",
+   "headline": "NEXT: A HOLE IN THE SEA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Great Blue Hole Belize"
+  }
+ ]
+}

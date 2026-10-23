@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Apollo 14 Moon trees",
+ "hook": "Your local tree might have been to the Moon.",
+ "title": "Trees grown from seeds that orbited the Moon",
+ "description": "Apollo 14 carried tree seeds around the Moon in 1971. After they returned, the seeds were planted on Earth and the trees became known as Moon trees. Some still stand today.\n\n#Shorts #Apollo14 #Space",
+ "tags": [
+  "moon trees",
+  "apollo 14",
+  "stuart roosa",
+  "space facts",
+  "nasa",
+  "trees",
+  "if you were in space",
+  "shorts"
+ ],
+ "comment_prompt": "Would you plant a Moon tree? Yes or no",
+ "hook_banner": "TREES FROM THE MOON",
+ "scenes": [
+  {
+   "narration": "Your local tree might have been to the Moon.",
+   "emoji": "🌳",
+   "headline": "A Tree On The Moon?",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Moon tree sapling"
+  },
+  {
+   "narration": "Apollo 14 carried tree seeds around the Moon.",
+   "emoji": "🚀",
+   "headline": "Apollo 14",
+   "stat": "",
+   "sub": "Seeds in orbit",
+   "visual_query": "Apollo 14 launch"
+  },
+  {
+   "narration": "Astronaut Stuart Roosa packed them in his kit.",
+   "emoji": "🧑‍🚀",
+   "headline": "Stuart Roosa",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Stuart Roosa astronaut"
+  },
+  {
+   "narration": "While others walked, he orbited alone.",
+   "emoji": "🌑",
+   "headline": "Orbiting Alone",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Moon from orbit"
+  },
+  {
+   "narration": "Back on Earth, the seeds were planted.",
+   "emoji": "🌱",
+   "headline": "Planted On Earth",
+   "stat": "",
+   "sub": "",
+   "visual_query": "planting tree seedling"
+  },
+  {
+   "narration": "They became known as Moon trees.",
+   "emoji": "🌲",
+   "headline": "Moon Trees",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Moon tree plaque"
+  },
+  {
+   "narration": "Some still stand today.",
+   "emoji": "🌳",
+   "headline": "Still Standing",
+   "stat": "",
+   "sub": "",
+   "visual_query": "large tree park"
+  },
+  {
+   "narration": "Your tree might have a Moon cousin.",
+   "emoji": "🌕",
+   "headline": "Moon Cousins",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tree under full moon"
+  },
+  {
+   "narration": "Next: money that changes colour.",
+   "emoji": "➡️",
+   "headline": "Up Next",
+   "stat": "",
+   "sub": "Colour-changing money",
+   "visual_query": "500 rupee note"
+  }
+ ]
+}

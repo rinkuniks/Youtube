@@ -1,0 +1,101 @@
+{
+ "category": "technology",
+ "topic": "DigiYatra face boarding",
+ "hook": "Your face is a boarding pass at some airports.",
+ "title": "Your Face Is Your Boarding Pass in India",
+ "description": "At some Indian airports, DigiYatra lets a camera read your face and open the gate. You register once in the app first. Delhi, Bengaluru and Varanasi were among the first to use it.\n\n#Shorts #DigiYatra #TechFacts",
+ "tags": [
+  "digiyatra",
+  "face recognition",
+  "indian airports",
+  "airport technology",
+  "tech facts",
+  "india facts",
+  "shorts",
+  "boarding pass"
+ ],
+ "comment_prompt": "Would you use face boarding? Yes or no",
+ "hook_banner": "THIS GATE IS REAL",
+ "scenes": [
+  {
+   "narration": "Your face is a boarding pass at some airports.",
+   "emoji": "🧑",
+   "headline": "FACE = BOARDING PASS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "airport face recognition gate"
+  },
+  {
+   "narration": "It's called DigiYatra, and it's real.",
+   "emoji": "✈️",
+   "headline": "DIGIYATRA",
+   "stat": "",
+   "sub": "Real, in India",
+   "visual_query": "DigiYatra airport India"
+  },
+  {
+   "narration": "Walk up to the gate.",
+   "emoji": "🚶",
+   "headline": "WALK UP",
+   "stat": "",
+   "sub": "",
+   "visual_query": "airport entry gate passengers"
+  },
+  {
+   "narration": "A camera looks at your face.",
+   "emoji": "📷",
+   "headline": "CAMERA SCANS YOU",
+   "stat": "",
+   "sub": "",
+   "visual_query": "facial recognition camera airport"
+  },
+  {
+   "narration": "The gate opens by itself.",
+   "emoji": "🚪",
+   "headline": "GATE OPENS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "automatic airport gate opening"
+  },
+  {
+   "narration": "You don't pull out a boarding pass.",
+   "emoji": "🎫",
+   "headline": "NO PAPER NEEDED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "boarding pass phone airport"
+  },
+  {
+   "narration": "You register once on the app first.",
+   "emoji": "📱",
+   "headline": "REGISTER ONCE",
+   "stat": "",
+   "sub": "In the app",
+   "visual_query": "smartphone app registration"
+  },
+  {
+   "narration": "Delhi, Bengaluru and Varanasi already use it.",
+   "emoji": "🗺️",
+   "headline": "ALREADY LIVE",
+   "stat": "",
+   "sub": "Delhi · Bengaluru · Varanasi",
+   "visual_query": "Delhi airport terminal"
+  },
+  {
+   "narration": "So yes, your face opens the gate.",
+   "emoji": "😮",
+   "headline": "YOUR FACE, YOUR KEY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "face scan passenger airport"
+  },
+  {
+   "narration": "Tomorrow: the sun that refuses to set.",
+   "emoji": "☀️",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "The sun that won't set",
+   "visual_query": "midnight sun Arctic"
+  }
+ ]
+}

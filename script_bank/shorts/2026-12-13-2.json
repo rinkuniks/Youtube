@@ -1,0 +1,101 @@
+{
+ "category": "geography",
+ "topic": "Øresund Bridge tunnel and Peberholm island",
+ "hook": "Your drive from Denmark to Sweden goes underwater.",
+ "title": "This Road Dives Under the Sea to an Island",
+ "description": "Driving from Denmark to Sweden over the Øresund link, the road starts in an undersea tunnel and surfaces on Peberholm, a completely man-made island. From there a bridge carries you into Sweden. Part of the series Places That Shouldn't Exist.\n\n#Shorts #Oresund #Geography",
+ "tags": [
+  "oresund bridge",
+  "peberholm",
+  "denmark",
+  "sweden",
+  "undersea tunnel",
+  "artificial island",
+  "geography facts",
+  "shorts"
+ ],
+ "comment_prompt": "Bridge or tunnel? Pick one",
+ "hook_banner": "ROAD GOES UNDERSEA",
+ "scenes": [
+  {
+   "narration": "Your drive from Denmark to Sweden goes underwater.",
+   "emoji": "🚗",
+   "headline": "The Road Goes Under",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Oresund Bridge aerial"
+  },
+  {
+   "narration": "First, you enter a tunnel under the sea.",
+   "emoji": "🚇",
+   "headline": "Undersea Tunnel",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Drogden tunnel Oresund"
+  },
+  {
+   "narration": "Then you surface on an island called Peberholm.",
+   "emoji": "🏝️",
+   "headline": "Peberholm Island",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Peberholm island aerial"
+  },
+  {
+   "narration": "Peberholm is completely man-made.",
+   "emoji": "🏗️",
+   "headline": "Completely Man-Made",
+   "stat": "",
+   "sub": "",
+   "visual_query": "artificial island Oresund"
+  },
+  {
+   "narration": "Its name means Pepper Islet.",
+   "emoji": "🌶️",
+   "headline": "Pepper Islet",
+   "stat": "",
+   "sub": "",
+   "visual_query": "black pepper"
+  },
+  {
+   "narration": "Next door, a natural island is Saltholm.",
+   "emoji": "🧂",
+   "headline": "Natural Saltholm Next Door",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Saltholm island"
+  },
+  {
+   "narration": "Then a bridge carries you into Sweden.",
+   "emoji": "🌉",
+   "headline": "Bridge To Sweden",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Oresund Bridge Sweden"
+  },
+  {
+   "narration": "Engineers went under to keep ships and planes clear.",
+   "emoji": "✈️",
+   "headline": "Clear For Ships And Planes",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ship under Oresund Bridge"
+  },
+  {
+   "narration": "So your road really does vanish underwater.",
+   "emoji": "😮",
+   "headline": "Road Vanishes Underwater",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Oresund Bridge road traffic"
+  },
+  {
+   "narration": "Tomorrow: another place that shouldn't exist.",
+   "emoji": "➡️",
+   "headline": "Tomorrow: Another Place",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map globe"
+  }
+ ]
+}

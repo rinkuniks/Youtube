@@ -1,0 +1,676 @@
+{
+ "topic": "Belgium's Vennbahn and 6 more strange borders",
+ "hook": "Your cycle path is Belgian land, but German villages sit on both sides of it.",
+ "title": "A Belgian Path Cuts Through Germany: 7 Odd Borders",
+ "description": "A Belgian cycle path runs through Germany, and that is only border number seven. Count down seven real borders that make no sense, from a German village surrounded by Switzerland to a lake with no agreed border, ending on a strange enclave right here in India. Every place is real and you can check it on a map.\n\n#borders #geography #facts",
+ "tags": [
+  "strange borders",
+  "Vennbahn",
+  "Belgium Germany border",
+  "enclaves",
+  "Cooch Behar enclaves",
+  "India Bangladesh enclaves",
+  "Lake Constance",
+  "Kaliningrad",
+  "Llivia",
+  "Northwest Angle",
+  "Busingen",
+  "geography facts",
+  "weird borders",
+  "facts that sound fake"
+ ],
+ "comment_prompt": "Which border was the strangest?",
+ "hook_banner": "BELGIUM CUTS THROUGH GERMANY",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "7. Belgium's path in Germany",
+   "scene": 7
+  },
+  {
+   "title": "6. German village in Swiss land",
+   "scene": 18
+  },
+  {
+   "title": "5. America's land past Canada",
+   "scene": 29
+  },
+  {
+   "title": "4. The Spanish town in France",
+   "scene": 38
+  },
+  {
+   "title": "3. Russia's cut-off region",
+   "scene": 47
+  },
+  {
+   "title": "2. The lake with no border",
+   "scene": 57
+  },
+  {
+   "title": "1. India's land within land",
+   "scene": 65
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your cycle path is Belgian land, but German villages sit on both sides of it.",
+   "emoji": "🚲",
+   "headline": "Belgium Inside Germany",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Vennbahn cycle path"
+  },
+  {
+   "narration": "That is real, and it is only border number seven. Today we count down seven borders that make no sense.",
+   "emoji": "🗺️",
+   "headline": "7 Borders",
+   "stat": "7",
+   "sub": "That make no sense",
+   "visual_query": "border sign map"
+  },
+  {
+   "narration": "Each one is stranger than the last, and the number one border is right here in India.",
+   "emoji": "🇮🇳",
+   "headline": "Number One Is Indian",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India map"
+  },
+  {
+   "narration": "By the end, you will see a piece of land inside a piece of land, inside another piece of land.",
+   "emoji": "🧩",
+   "headline": "Land Inside Land",
+   "stat": "",
+   "sub": "",
+   "visual_query": "enclave map border"
+  },
+  {
+   "narration": "On the way, you will meet a village with two currencies and a town trapped inside France.",
+   "emoji": "💶",
+   "headline": "Two Currencies",
+   "stat": "",
+   "sub": "",
+   "visual_query": "euro Swiss franc"
+  },
+  {
+   "narration": "You will also see a lake that three countries have never agreed how to divide.",
+   "emoji": "🌊",
+   "headline": "A Lake, Three Countries",
+   "stat": "3",
+   "sub": "",
+   "visual_query": "Lake Constance"
+  },
+  {
+   "narration": "Stay till the end, because the last border was only fixed in 2015, after a deal between India and Bangladesh.",
+   "emoji": "🤝",
+   "headline": "Fixed in 2015",
+   "stat": "2015",
+   "sub": "",
+   "visual_query": "India Bangladesh border"
+  },
+  {
+   "narration": "Number seven. The Vennbahn, a railway built more than a hundred years ago, when this whole area belonged to Germany.",
+   "emoji": "🚂",
+   "headline": "The Vennbahn",
+   "stat": "7",
+   "sub": "Belgium",
+   "visual_query": "Vennbahn old railway"
+  },
+  {
+   "narration": "It carried coal and steel between German cities and Luxembourg, running through quiet green hills near the Belgian border.",
+   "emoji": "⛏️",
+   "headline": "A Coal Railway",
+   "stat": "",
+   "sub": "",
+   "visual_query": "steam train hills"
+  },
+  {
+   "narration": "Then Germany lost the First World War, and the peace treaty of 1919 handed that railway line to Belgium.",
+   "emoji": "📜",
+   "headline": "Handed To Belgium",
+   "stat": "1919",
+   "sub": "",
+   "visual_query": "Treaty of Versailles"
+  },
+  {
+   "narration": "Belgium got the track, but not the land around it. So a thin Belgian strip now runs through German ground.",
+   "emoji": "📏",
+   "headline": "A Thin Belgian Strip",
+   "stat": "",
+   "sub": "",
+   "visual_query": "railway track strip"
+  },
+  {
+   "narration": "Today the trains are gone. The old line is a famous cycle path, about 125 kilometres long.",
+   "emoji": "🚴",
+   "headline": "A Cycle Path Now",
+   "stat": "125 km",
+   "sub": "",
+   "visual_query": "cyclists railway path"
+  },
+  {
+   "narration": "The route also reaches Luxembourg, so one old railway line links three countries today.",
+   "emoji": "🇱🇺",
+   "headline": "Three Countries",
+   "stat": "3",
+   "sub": "",
+   "visual_query": "Luxembourg countryside"
+  },
+  {
+   "narration": "You ride on Belgian land, while German villages like Mützenich sit beside you, on both sides of the path.",
+   "emoji": "🏡",
+   "headline": "German Villages Both Sides",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mützenich village"
+  },
+  {
+   "narration": "Think about it. You stay on a path owned by one country, while the villages next to you belong to another.",
+   "emoji": "🤯",
+   "headline": "One Path, Two Owners",
+   "stat": "",
+   "sub": "",
+   "visual_query": "path through village"
+  },
+  {
+   "narration": "There is no wall and no passport check, because both countries are in Europe's open-border zone.",
+   "emoji": "🛂",
+   "headline": "No Border Check",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Europe open border sign"
+  },
+  {
+   "narration": "So the map changed after a war, and a railway stayed behind as a Belgian strip in Germany.",
+   "emoji": "🗺️",
+   "headline": "A War Redrew It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Belgium Germany map"
+  },
+  {
+   "narration": "Strange? Yes. But number six is stranger, because it is a whole village that is surrounded by another country.",
+   "emoji": "👀",
+   "headline": "Next: A Whole Village",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss village"
+  },
+  {
+   "narration": "Number six. Büsingen, a German village completely surrounded by Switzerland.",
+   "emoji": "🏘️",
+   "headline": "Büsingen",
+   "stat": "6",
+   "sub": "Germany in Switzerland",
+   "visual_query": "Büsingen am Hochrhein"
+  },
+  {
+   "narration": "Look at the map, and you see a small German pocket, with Swiss land on every side.",
+   "emoji": "📍",
+   "headline": "A German Pocket",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Büsingen map"
+  },
+  {
+   "narration": "It sits on the Rhine river, near the Swiss city of Schaffhausen, so Switzerland really is all around it.",
+   "emoji": "🏞️",
+   "headline": "Swiss On Every Side",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rhine Schaffhausen"
+  },
+  {
+   "narration": "The people there are German citizens, so they follow German law and vote in German elections.",
+   "emoji": "🗳️",
+   "headline": "German Citizens",
+   "stat": "",
+   "sub": "",
+   "visual_query": "German flag village"
+  },
+  {
+   "narration": "But the village sits inside the Swiss customs area, and both euros and Swiss francs are used there.",
+   "emoji": "💶",
+   "headline": "Euros And Francs",
+   "stat": "",
+   "sub": "",
+   "visual_query": "euro and franc coins"
+  },
+  {
+   "narration": "Two countries' money, in one small village. That is rare for any place on Earth.",
+   "emoji": "💰",
+   "headline": "Two Currencies",
+   "stat": "2",
+   "sub": "",
+   "visual_query": "Swiss franc banknote"
+  },
+  {
+   "narration": "To reach the rest of Germany by road, you have to cross Swiss land first.",
+   "emoji": "🛣️",
+   "headline": "Road Through Switzerland",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss road"
+  },
+  {
+   "narration": "Imagine a village in one Indian state, where every road out passes through a different country. That is daily life here.",
+   "emoji": "🇮🇳",
+   "headline": "Imagine It In India",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Indian village road"
+  },
+  {
+   "narration": "Small, quiet, and perfectly normal for the people who live there, yet it looks like a mistake on the map.",
+   "emoji": "🤔",
+   "headline": "Looks Like A Mistake",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rhine river village"
+  },
+  {
+   "narration": "But a piece of America is stuck on the wrong side of a border too.",
+   "emoji": "🇺🇸",
+   "headline": "Next: America's Pocket",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake of the Woods"
+  },
+  {
+   "narration": "And that one begins with a map that was simply wrong.",
+   "emoji": "❌",
+   "headline": "A Map That Was Wrong",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old map 1783"
+  },
+  {
+   "narration": "Number five. The Northwest Angle, a small piece of Minnesota that sits north of the rest of the United States.",
+   "emoji": "📐",
+   "headline": "Northwest Angle",
+   "stat": "5",
+   "sub": "Minnesota",
+   "visual_query": "Northwest Angle Minnesota"
+  },
+  {
+   "narration": "On a map it looks like a mistake, a little box of America stuck on top of Canada.",
+   "emoji": "🗺️",
+   "headline": "A Box On Top",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Northwest Angle map"
+  },
+  {
+   "narration": "To drive there from the rest of Minnesota, you must go through Canada, because no road connects it by land.",
+   "emoji": "🚗",
+   "headline": "Drive Through Canada",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Manitoba road"
+  },
+  {
+   "narration": "So an American has to enter Canada, and then come back into the United States on the same trip.",
+   "emoji": "🔁",
+   "headline": "Leave And Re-enter",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Canada border crossing"
+  },
+  {
+   "narration": "Why? In 1783, the treaty makers used a map that was wrong about the lakes and rivers.",
+   "emoji": "📜",
+   "headline": "A Wrong Map, 1783",
+   "stat": "1783",
+   "sub": "",
+   "visual_query": "Mitchell map 1755"
+  },
+  {
+   "narration": "They believed the Mississippi river began farther north than it really does, and they drew the line using that idea.",
+   "emoji": "🌊",
+   "headline": "Wrong About The River",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mississippi river source"
+  },
+  {
+   "narration": "The mistake was never undone, so this corner of America ended up cut off from the rest by land.",
+   "emoji": "✂️",
+   "headline": "Cut Off By Land",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake of the Woods island"
+  },
+  {
+   "narration": "Much of it is lake and forest, so the real way in is often by boat or plane.",
+   "emoji": "🛶",
+   "headline": "Boat Or Plane",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake of the Woods boat"
+  },
+  {
+   "narration": "One wrong map, and a whole corner of a country was cut off. Next, a whole town goes the same way.",
+   "emoji": "😮",
+   "headline": "Next: A Trapped Town",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pyrenees mountains town"
+  },
+  {
+   "narration": "Number four. Llívia, a Spanish town that sits inside France.",
+   "emoji": "🇪🇸",
+   "headline": "Llívia",
+   "stat": "4",
+   "sub": "Spain inside France",
+   "visual_query": "Llívia Spain town"
+  },
+  {
+   "narration": "Spain is only a few kilometres away, but between the town and Spain lies French land.",
+   "emoji": "📏",
+   "headline": "French Land Between",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Llívia map France"
+  },
+  {
+   "narration": "This goes back to 1659, when Spain gave several villages to France in the Treaty of the Pyrenees.",
+   "emoji": "🏔️",
+   "headline": "Treaty Of The Pyrenees",
+   "stat": "1659",
+   "sub": "",
+   "visual_query": "Pyrenees treaty 1659"
+  },
+  {
+   "narration": "But Llívia counted as a town, not a village, so it stayed Spanish. One word on paper decided the border.",
+   "emoji": "✍️",
+   "headline": "One Word Decided It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old treaty document"
+  },
+  {
+   "narration": "Today a road called the neutral road connects Llívia to Spain. The land is French, but a Spanish road runs across it.",
+   "emoji": "🛣️",
+   "headline": "The Neutral Road",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Llívia neutral road"
+  },
+  {
+   "narration": "If you like strange places like these, this is a good moment to subscribe, because there are more to come.",
+   "emoji": "🔔",
+   "headline": "Subscribe For More",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map pins"
+  },
+  {
+   "narration": "So a Spanish town lives inside France, with its own fields, its own streets and a Spanish name on the map.",
+   "emoji": "🏡",
+   "headline": "A Spanish Island",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Llívia street"
+  },
+  {
+   "narration": "Now imagine that, but with an entire region, big enough to be a small country.",
+   "emoji": "🤯",
+   "headline": "Now A Whole Region",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baltic coast"
+  },
+  {
+   "narration": "Number three is not a town at all, and it belongs to one of the biggest countries on Earth.",
+   "emoji": "🌍",
+   "headline": "A Giant's Odd Piece",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Russia map"
+  },
+  {
+   "narration": "Number three. Kaliningrad, a part of Russia that is not connected to the rest of Russia.",
+   "emoji": "🇷🇺",
+   "headline": "Kaliningrad",
+   "stat": "3",
+   "sub": "Russia, cut off",
+   "visual_query": "Kaliningrad city"
+  },
+  {
+   "narration": "It sits on the Baltic coast, with Poland on one side and Lithuania on the other.",
+   "emoji": "🌊",
+   "headline": "Between Poland And Lithuania",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kaliningrad map Baltic"
+  },
+  {
+   "narration": "Poland and Lithuania are both in the European Union, so this is a Russian region surrounded by EU land and sea.",
+   "emoji": "🇪🇺",
+   "headline": "Surrounded By The EU",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Poland Lithuania border"
+  },
+  {
+   "narration": "This land used to be a German city called Königsberg, until the Soviet Union took it after the Second World War.",
+   "emoji": "🏰",
+   "headline": "Once Königsberg",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Königsberg old city"
+  },
+  {
+   "narration": "Today, travel by road or train from there to the rest of Russia means passing through other countries.",
+   "emoji": "🚆",
+   "headline": "Pass Through Others",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lithuania railway"
+  },
+  {
+   "narration": "Imagine if Goa belonged to India, but every road to the rest of India passed through another country.",
+   "emoji": "🏖️",
+   "headline": "Imagine Goa Cut Off",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Goa beach"
+  },
+  {
+   "narration": "That is what Russia lives with in Kaliningrad, a piece of the country that cannot be reached by land alone.",
+   "emoji": "🧭",
+   "headline": "Not Reachable By Land",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kaliningrad coast"
+  },
+  {
+   "narration": "A piece of land cut off from its country. Now, what about a border that is missing from the map?",
+   "emoji": "💧",
+   "headline": "Next: A Missing Border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "calm lake mountains"
+  },
+  {
+   "narration": "Number two does not even have a line on the map in the middle of the water.",
+   "emoji": "❓",
+   "headline": "No Line On Water",
+   "stat": "",
+   "sub": "",
+   "visual_query": "lake boat Alps"
+  },
+  {
+   "narration": "Number two. Lake Constance, where three countries share one lake, and nobody has agreed where the borders lie.",
+   "emoji": "🏞️",
+   "headline": "Lake Constance",
+   "stat": "2",
+   "sub": "Three countries",
+   "visual_query": "Lake Constance Bodensee"
+  },
+  {
+   "narration": "Germany, Switzerland and Austria all touch its shores. It sits near the Alps and is hugely popular with tourists.",
+   "emoji": "⛰️",
+   "headline": "Germany, Swiss, Austria",
+   "stat": "3",
+   "sub": "",
+   "visual_query": "Bodensee shore"
+  },
+  {
+   "narration": "On land, the borders are clear. On the water, there is no officially agreed line.",
+   "emoji": "〰️",
+   "headline": "No Line On The Water",
+   "stat": "",
+   "sub": "",
+   "visual_query": "lake water horizon"
+  },
+  {
+   "narration": "The three countries hold different views on how the lake should be divided, and that question is still open.",
+   "emoji": "⚖️",
+   "headline": "Still Not Agreed",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Constance lake map"
+  },
+  {
+   "narration": "Boats, fishing and rescue are handled by practical agreements, so everyday life carries on without trouble.",
+   "emoji": "⛵",
+   "headline": "Life Carries On",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bodensee ferry"
+  },
+  {
+   "narration": "So you can sail across it, and never know which country's water you are floating on.",
+   "emoji": "🚤",
+   "headline": "Whose Water?",
+   "stat": "",
+   "sub": "",
+   "visual_query": "sailing Lake Constance"
+  },
+  {
+   "narration": "A border that is clear on land, and simply fades away at the water's edge.",
+   "emoji": "🌫️",
+   "headline": "A Fading Border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "lake shore mist"
+  },
+  {
+   "narration": "Now for the one I promised, because it is the strangest border on this list, and it is in India.",
+   "emoji": "🇮🇳",
+   "headline": "Now, India",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Bangladesh border fence"
+  },
+  {
+   "narration": "Number one. Cooch Behar in West Bengal, near the Bangladesh border.",
+   "emoji": "📍",
+   "headline": "Cooch Behar",
+   "stat": "1",
+   "sub": "West Bengal",
+   "visual_query": "Cooch Behar West Bengal"
+  },
+  {
+   "narration": "Until 2015, this area was full of tiny islands of land, each belonging to the other country.",
+   "emoji": "🏝️",
+   "headline": "Islands Of Land",
+   "stat": "2015",
+   "sub": "",
+   "visual_query": "Cooch Behar enclave map"
+  },
+  {
+   "narration": "There were 111 Indian enclaves inside Bangladesh, and 51 Bangladeshi enclaves inside India.",
+   "emoji": "🧮",
+   "headline": "111 And 51",
+   "stat": "111 + 51",
+   "sub": "Enclaves",
+   "visual_query": "India Bangladesh enclaves map"
+  },
+  {
+   "narration": "Some were just a few fields big. People lived there as citizens of a country they could not easily reach.",
+   "emoji": "🌾",
+   "headline": "A Few Fields Big",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bengal village paddy field"
+  },
+  {
+   "narration": "Many struggled to get schools, hospitals or electricity, because the country around them was not their own.",
+   "emoji": "🏥",
+   "headline": "No Easy Access",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bengal village hut"
+  },
+  {
+   "narration": "Think of the people. For decades, they lived on land that the official maps called foreign.",
+   "emoji": "👨‍👩‍👧",
+   "headline": "Foreign On The Map",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bengal villagers"
+  },
+  {
+   "narration": "And the strangest of them all was called Dahala Khagrabari.",
+   "emoji": "🔍",
+   "headline": "Dahala Khagrabari",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dahala Khagrabari"
+  },
+  {
+   "narration": "It was an Indian plot, inside a Bangladeshi plot, inside an Indian plot, inside Bangladesh.",
+   "emoji": "🪆",
+   "headline": "Land In Land In Land",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dahala Khagrabari map"
+  },
+  {
+   "narration": "Experts called it the world's only third-order enclave. Standing there, you were in India, inside Bangladesh, inside India, inside Bangladesh.",
+   "emoji": "🏆",
+   "headline": "A World Record",
+   "stat": "",
+   "sub": "",
+   "visual_query": "enclave within enclave"
+  },
+  {
+   "narration": "On the night of 31 July 2015, India and Bangladesh finally swapped the enclaves, and people could choose their country.",
+   "emoji": "🌙",
+   "headline": "The Midnight Swap",
+   "stat": "31 Jul 2015",
+   "sub": "",
+   "visual_query": "India Bangladesh flag ceremony"
+  },
+  {
+   "narration": "After nearly seventy years, the maps finally became simple. And that is the countdown, from a Belgian strip in Germany to land inside land inside land.",
+   "emoji": "🎉",
+   "headline": "Maps Made Simple",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cooch Behar people"
+  },
+  {
+   "narration": "Which brings us back to the start: your cycle path is Belgian land, but German villages sit on both sides of it.",
+   "emoji": "🔁",
+   "headline": "Back To Belgium",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Vennbahn cycle path"
+  },
+  {
+   "narration": "Next video: time zones that make no sense, including Nepal's, which sits fifteen minutes ahead of India's.",
+   "emoji": "⏰",
+   "headline": "Next: Strange Time Zones",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world clock"
+  }
+ ]
+}

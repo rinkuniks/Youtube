@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Australia wider than the Moon",
+ "hook": "Your map shows Australia is wider than the Moon.",
+ "title": "Australia Is Wider Than the Moon",
+ "description": "Australia is about 4,000 km from east to west. The Moon is about 3,474 km across. So the whole Moon would fit inside the width of one country.\n\n#Shorts #Australia #MoonFacts",
+ "tags": [
+  "australia",
+  "moon",
+  "geography facts",
+  "map facts",
+  "size comparison",
+  "places that shouldn't exist",
+  "shorts",
+  "wait what"
+ ],
+ "comment_prompt": "Did you know this? Yes or no",
+ "hook_banner": "MAP VS MOON",
+ "scenes": [
+  {
+   "narration": "Your map shows Australia is wider than the Moon.",
+   "emoji": "🌙",
+   "headline": "WIDER THAN THE MOON",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Australia map Moon"
+  },
+  {
+   "narration": "Australia is about four thousand kilometres across.",
+   "emoji": "🇦🇺",
+   "headline": "AUSTRALIA",
+   "stat": "~4,000 km",
+   "sub": "East to west",
+   "visual_query": "Australia map outline"
+  },
+  {
+   "narration": "That is east to west.",
+   "emoji": "↔️",
+   "headline": "EAST TO WEST",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Australia continent satellite"
+  },
+  {
+   "narration": "The Moon is about 3,474 kilometres wide.",
+   "emoji": "🌕",
+   "headline": "THE MOON",
+   "stat": "3,474 km",
+   "sub": "Across",
+   "visual_query": "full moon close up"
+  },
+  {
+   "narration": "So the Moon would fit with room spare.",
+   "emoji": "✅",
+   "headline": "MOON FITS INSIDE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Moon size comparison map"
+  },
+  {
+   "narration": "Picture the Moon lying across Australia.",
+   "emoji": "🗺️",
+   "headline": "MOON ON THE MAP",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Australia outback road"
+  },
+  {
+   "narration": "Perth to Sydney is a very long flight.",
+   "emoji": "✈️",
+   "headline": "PERTH TO SYDNEY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Perth Sydney airplane"
+  },
+  {
+   "narration": "The Moon would fit inside its width.",
+   "emoji": "🌙",
+   "headline": "WIDER THAN THE MOON",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Australia from space"
+  },
+  {
+   "narration": "Tomorrow: a spoonful weighing a billion tonnes.",
+   "emoji": "🥄",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "A billion-tonne spoonful",
+   "visual_query": "neutron star illustration"
+  }
+ ]
+}

@@ -1,0 +1,683 @@
+{
+ "topic": "Strange places on the US-Canada border, led by the Haskell Free Library",
+ "hook": "Your library card can work in two countries, and a black line on the floor marks the border.",
+ "title": "Why the US-Canada Border Is Stranger Than You Think",
+ "description": "A library with a black line on the reading-room floor, a fort built in the wrong country, and a town you can only reach through Canada. These seven places on the US-Canada border look fake on a map, but every one of them is real. Watch to the end for the library where people sit in two countries at once.\n\n#geography #borders #facts",
+ "tags": [
+  "US Canada border",
+  "Haskell Free Library",
+  "Derby Line",
+  "strange borders",
+  "border facts",
+  "geography facts",
+  "Northwest Angle",
+  "Point Roberts",
+  "Hyder Alaska",
+  "Machias Seal Island",
+  "Fort Blunder",
+  "weird places",
+  "facts that sound fake"
+ ],
+ "comment_prompt": "Which of these seven places would you visit first?",
+ "hook_banner": "A LIBRARY IN TWO COUNTRIES",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "The fort built in the wrong country",
+   "scene": 7
+  },
+  {
+   "title": "Point Roberts, America via Canada",
+   "scene": 18
+  },
+  {
+   "title": "The Northwest Angle",
+   "scene": 27
+  },
+  {
+   "title": "Hyder, Alaska",
+   "scene": 36
+  },
+  {
+   "title": "The island both countries claim",
+   "scene": 45
+  },
+  {
+   "title": "The street split by the border",
+   "scene": 55
+  },
+  {
+   "title": "The library on the line",
+   "scene": 63
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your library card can work in two countries, and a black line on the floor marks the border.",
+   "emoji": "📚",
+   "headline": "A Library In Two Countries",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Haskell Free Library"
+  },
+  {
+   "narration": "People sit on both sides of that line, reading quietly, and nobody checks a passport at the table.",
+   "emoji": "🧍",
+   "headline": "Sitting On The Border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "library reading room"
+  },
+  {
+   "narration": "The US-Canada border is the longest between two countries, and it hides places that make no sense on a map.",
+   "emoji": "🗺️",
+   "headline": "The Longest Border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "US Canada border"
+  },
+  {
+   "narration": "Today you will see a fort built in the wrong country, and a town you can only reach by driving through Canada.",
+   "emoji": "🏰",
+   "headline": "Wrong Country Fort",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old stone fort"
+  },
+  {
+   "narration": "You will see a patch of America sitting above Canada, and an island that both countries say is theirs.",
+   "emoji": "🏝️",
+   "headline": "An Island Both Claim",
+   "stat": "",
+   "sub": "",
+   "visual_query": "small rocky island"
+  },
+  {
+   "narration": "Seven places, each one stranger than the last, and every single one of them is real.",
+   "emoji": "7️⃣",
+   "headline": "Seven Real Places",
+   "stat": "7",
+   "sub": "each stranger than the last",
+   "visual_query": "world map pins"
+  },
+  {
+   "narration": "By the end, you will step inside that library and see the black line on the floor yourself.",
+   "emoji": "👀",
+   "headline": "The Black Line",
+   "stat": "",
+   "sub": "",
+   "visual_query": "library floor line"
+  },
+  {
+   "narration": "Number one: a fort that America built in Canada by mistake, and then had to give up.",
+   "emoji": "🏰",
+   "headline": "Fort Blunder",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Fort Montgomery Rouses Point"
+  },
+  {
+   "narration": "In the early 1800s, the United States started building a big fort at Rouses Point, in New York state.",
+   "emoji": "🧱",
+   "headline": "A Fort Begins",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rouses Point New York"
+  },
+  {
+   "narration": "The border there follows a line of latitude, the forty-fifth parallel, and the plan was to build just south of it.",
+   "emoji": "📏",
+   "headline": "The 45th Parallel",
+   "stat": "45°",
+   "sub": "",
+   "visual_query": "latitude map line"
+  },
+  {
+   "narration": "But the first survey was wrong. When it was checked again, the half-built fort stood on British land.",
+   "emoji": "❌",
+   "headline": "The Survey Was Wrong",
+   "stat": "",
+   "sub": "",
+   "visual_query": "surveyor theodolite"
+  },
+  {
+   "narration": "Work stopped at once. A fort meant to guard America was sitting on the wrong side of the line.",
+   "emoji": "🛑",
+   "headline": "Work Stops",
+   "stat": "",
+   "sub": "",
+   "visual_query": "stone fort ruins"
+  },
+  {
+   "narration": "People started calling it Fort Blunder, and the name stuck for good.",
+   "emoji": "😅",
+   "headline": "Fort Blunder",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Fort Blunder"
+  },
+  {
+   "narration": "The problem was fixed in 1842, when a treaty gave that small piece of land to the United States.",
+   "emoji": "📜",
+   "headline": "Fixed In 1842",
+   "stat": "1842",
+   "sub": "",
+   "visual_query": "old treaty document"
+  },
+  {
+   "narration": "A new fort, Fort Montgomery, was later built on that spot, right beside Lake Champlain.",
+   "emoji": "🏯",
+   "headline": "Fort Montgomery",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake Champlain shore"
+  },
+  {
+   "narration": "This was long before GPS, so surveyors measured the land with chains and instruments, and small errors could be huge.",
+   "emoji": "📐",
+   "headline": "Before GPS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old surveying instruments"
+  },
+  {
+   "narration": "So the first surprise is that this border was once drawn by careful guesses, and guesses can be wrong.",
+   "emoji": "🤔",
+   "headline": "Careful Guesses",
+   "stat": "",
+   "sub": "",
+   "visual_query": "antique map"
+  },
+  {
+   "narration": "But it gets stranger. Next is a piece of America that you cannot drive to without crossing Canada.",
+   "emoji": "🚗",
+   "headline": "Stranger Ahead",
+   "stat": "",
+   "sub": "",
+   "visual_query": "highway border sign"
+  },
+  {
+   "narration": "Number two: a town where even a trip home by road means crossing an international border.",
+   "emoji": "🛂",
+   "headline": "Point Roberts",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Point Roberts Washington"
+  },
+  {
+   "narration": "Point Roberts is a small piece of Washington state, hanging off the end of a Canadian peninsula.",
+   "emoji": "📍",
+   "headline": "A Piece Of Washington",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Point Roberts map"
+  },
+  {
+   "narration": "The border was drawn along the forty-ninth parallel, and that straight line cut right through the land.",
+   "emoji": "✂️",
+   "headline": "A Line Cuts Through",
+   "stat": "49°",
+   "sub": "",
+   "visual_query": "49th parallel border marker"
+  },
+  {
+   "narration": "That straight line, the forty-ninth parallel, runs across much of the western border between the two countries.",
+   "emoji": "➖",
+   "headline": "A Very Straight Line",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border clearing forest"
+  },
+  {
+   "narration": "So the southern tip ended up American, while everything joined to it by land is Canadian.",
+   "emoji": "🇺🇸",
+   "headline": "American Tip",
+   "stat": "",
+   "sub": "",
+   "visual_query": "peninsula aerial view"
+  },
+  {
+   "narration": "To drive from Point Roberts to the rest of America, you must go through Canada and show your documents.",
+   "emoji": "🛃",
+   "headline": "Cross Canada To Go Home",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border crossing booth"
+  },
+  {
+   "narration": "Imagine going to the next city in your own state, but you have to cross a border first.",
+   "emoji": "🏙️",
+   "headline": "Imagine That",
+   "stat": "",
+   "sub": "",
+   "visual_query": "road traffic checkpoint"
+  },
+  {
+   "narration": "It is a piece of one country that you can only reach by land through another.",
+   "emoji": "🧩",
+   "headline": "Land Through Another",
+   "stat": "",
+   "sub": "",
+   "visual_query": "peninsula map"
+  },
+  {
+   "narration": "The same kind of line also made an even stranger oddity, far to the east, in Minnesota.",
+   "emoji": "➡️",
+   "headline": "Even Stranger",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Minnesota lake"
+  },
+  {
+   "narration": "Number three: a piece of Minnesota that sits north of the border line, all on its own.",
+   "emoji": "⬆️",
+   "headline": "Northwest Angle",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Northwest Angle Minnesota"
+  },
+  {
+   "narration": "It is called the Northwest Angle, and it is the northernmost point of the lower forty-eight US states.",
+   "emoji": "🧭",
+   "headline": "Northernmost Point",
+   "stat": "",
+   "sub": "lower 48 states",
+   "visual_query": "Lake of the Woods"
+  },
+  {
+   "narration": "Its odd shape comes from a mapping mistake. The treaty of 1783 relied on a map that got the geography wrong.",
+   "emoji": "🗺️",
+   "headline": "A Map Mistake",
+   "stat": "1783",
+   "sub": "",
+   "visual_query": "Mitchell map 1755"
+  },
+  {
+   "narration": "Negotiators believed the Mississippi began further north than it really does, so the line they described did not fit the land.",
+   "emoji": "🌊",
+   "headline": "Wrong River Source",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mississippi river headwaters"
+  },
+  {
+   "narration": "Later talks fixed the problem by following the water, and that left this odd corner of land attached to Minnesota.",
+   "emoji": "🤝",
+   "headline": "A Leftover Corner",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake of the Woods islands"
+  },
+  {
+   "narration": "By land, the only road to it runs through Manitoba, in Canada. Many visitors cross the lake by boat instead.",
+   "emoji": "🚤",
+   "headline": "Road Through Canada",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Manitoba highway"
+  },
+  {
+   "narration": "It is a part of America with Canada on its land side and a huge lake on the other.",
+   "emoji": "🏞️",
+   "headline": "Lake On One Side",
+   "stat": "",
+   "sub": "",
+   "visual_query": "northern lake forest"
+  },
+  {
+   "narration": "So far, these are borders that were drawn wrong. The next place is a town where the border barely matters.",
+   "emoji": "🏘️",
+   "headline": "Almost No Border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "small mountain town"
+  },
+  {
+   "narration": "If you like strange places like these, subscribe, because tomorrow's video is just as odd.",
+   "emoji": "🔔",
+   "headline": "More Strange Places",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world globe"
+  },
+  {
+   "narration": "Number four: an Alaskan town where the only road out leads straight into Canada.",
+   "emoji": "🏔️",
+   "headline": "Hyder, Alaska",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hyder Alaska"
+  },
+  {
+   "narration": "Hyder, Alaska, sits at the end of a road in the far southeast of the state.",
+   "emoji": "📍",
+   "headline": "End Of The Road",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hyder Alaska road"
+  },
+  {
+   "narration": "That road does not connect to any other Alaskan town. It runs to Stewart, a Canadian town in British Columbia.",
+   "emoji": "🛣️",
+   "headline": "The Road To Stewart",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Stewart British Columbia"
+  },
+  {
+   "narration": "When you drive from Canada into Hyder, there is no US customs booth waiting for you.",
+   "emoji": "🚫",
+   "headline": "No Booth Entering",
+   "stat": "",
+   "sub": "",
+   "visual_query": "empty border road"
+  },
+  {
+   "narration": "Heading back the other way, Canadian officers check you at the border crossing.",
+   "emoji": "🛂",
+   "headline": "Checked Going Back",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Canada border crossing"
+  },
+  {
+   "narration": "Hyder depends on Stewart for many everyday things, and the two towns feel almost like one place.",
+   "emoji": "🤝",
+   "headline": "Two Towns, One Life",
+   "stat": "",
+   "sub": "",
+   "visual_query": "mountain valley town"
+  },
+  {
+   "narration": "Hyder even keeps the same clock as Stewart, Pacific time, while the rest of Alaska runs an hour behind.",
+   "emoji": "🕐",
+   "headline": "Same Clock As Canada",
+   "stat": "",
+   "sub": "",
+   "visual_query": "wall clock"
+  },
+  {
+   "narration": "Two towns, two countries, one shared clock, and only one road in or out.",
+   "emoji": "🧭",
+   "headline": "One Road In",
+   "stat": "",
+   "sub": "",
+   "visual_query": "mountain road sign"
+  },
+  {
+   "narration": "Now picture something even smaller: a rocky island in the sea that both countries say is theirs.",
+   "emoji": "🌊",
+   "headline": "A Rock Both Want",
+   "stat": "",
+   "sub": "",
+   "visual_query": "rocky island sea"
+  },
+  {
+   "narration": "Number five: a puffin island that the United States and Canada both claim.",
+   "emoji": "🐧",
+   "headline": "Machias Seal Island",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Machias Seal Island"
+  },
+  {
+   "narration": "Machias Seal Island sits in the Gulf of Maine, between the coast of Maine and New Brunswick.",
+   "emoji": "📍",
+   "headline": "Gulf Of Maine",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gulf of Maine coast"
+  },
+  {
+   "narration": "Nobody has settled who owns it, so the waters around it are called the Grey Zone.",
+   "emoji": "🌫️",
+   "headline": "The Grey Zone",
+   "stat": "",
+   "sub": "",
+   "visual_query": "foggy sea island"
+  },
+  {
+   "narration": "Canada keeps a lighthouse on the island with keepers, while the United States still says the island is American.",
+   "emoji": "🗼",
+   "headline": "Canada's Lighthouse",
+   "stat": "",
+   "sub": "",
+   "visual_query": "island lighthouse"
+  },
+  {
+   "narration": "The island is famous for its Atlantic puffins, small birds with bright orange beaks that nest there each summer.",
+   "emoji": "🐦",
+   "headline": "Puffins Nest Here",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Atlantic puffin"
+  },
+  {
+   "narration": "The puffins, of course, have no idea which country they belong to.",
+   "emoji": "😄",
+   "headline": "Puffins Don't Care",
+   "stat": "",
+   "sub": "",
+   "visual_query": "puffins on rocks"
+  },
+  {
+   "narration": "Tour boats carry visitors to see the birds, and everyone lives with the dispute year after year.",
+   "emoji": "⛵",
+   "headline": "Boats Of Visitors",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tour boat puffins"
+  },
+  {
+   "narration": "Lobster fishing in the waters around it is the real prize, and fishermen on both sides keep a close watch.",
+   "emoji": "🦞",
+   "headline": "The Lobster Prize",
+   "stat": "",
+   "sub": "",
+   "visual_query": "lobster fishing boat"
+  },
+  {
+   "narration": "Yet there is no gunfire. The two countries have not fought a war against each other since 1812.",
+   "emoji": "🕊️",
+   "headline": "A Polite Dispute",
+   "stat": "1812",
+   "sub": "last war",
+   "visual_query": "Canada US flags"
+  },
+  {
+   "narration": "Next, the place where that peace is easiest to see, because the border runs down the middle of a street.",
+   "emoji": "🛤️",
+   "headline": "A Street Border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "small town street"
+  },
+  {
+   "narration": "Number six: a street where one side of the road is America and the other side is Canada.",
+   "emoji": "🛣️",
+   "headline": "Canusa Street",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Canusa Street Derby Line"
+  },
+  {
+   "narration": "In Derby Line, Vermont, and Stanstead, Quebec, two towns have grown together into one community.",
+   "emoji": "🏘️",
+   "headline": "Derby Line & Stanstead",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Derby Line Vermont"
+  },
+  {
+   "narration": "Canusa Street is named for Canada and USA, and the border runs along it.",
+   "emoji": "🔤",
+   "headline": "CAN + USA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Stanstead Quebec street"
+  },
+  {
+   "narration": "Houses on one side of the street are in the United States, and the houses opposite are in Canada.",
+   "emoji": "🏠",
+   "headline": "Houses In Two Countries",
+   "stat": "",
+   "sub": "",
+   "visual_query": "houses on both sides of street"
+  },
+  {
+   "narration": "Neighbours can wave across the road, but crossing it without going through border control is not allowed.",
+   "emoji": "👋",
+   "headline": "Wave, Don't Cross",
+   "stat": "",
+   "sub": "",
+   "visual_query": "neighbours across street"
+  },
+  {
+   "narration": "Before the world changed after 2001, people in these towns crossed far more freely to visit friends and shops.",
+   "emoji": "🚶",
+   "headline": "Before 2001",
+   "stat": "2001",
+   "sub": "",
+   "visual_query": "small town border crossing"
+  },
+  {
+   "narration": "Today there are rules and officers, but the two towns still feel like one community.",
+   "emoji": "❤️",
+   "headline": "One Community",
+   "stat": "",
+   "sub": "",
+   "visual_query": "town community street"
+  },
+  {
+   "narration": "And right in the middle of that community stands a building that sits on both sides of the line.",
+   "emoji": "🏛️",
+   "headline": "A Building On The Line",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old stone library building"
+  },
+  {
+   "narration": "Number seven, the strangest of all: a library where you can sit in two countries at once.",
+   "emoji": "📚",
+   "headline": "The Haskell Library",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Haskell Free Library Opera House"
+  },
+  {
+   "narration": "The Haskell Free Library and Opera House opened in 1904, right on the border between Derby Line and Stanstead.",
+   "emoji": "🏛️",
+   "headline": "Opened In 1904",
+   "stat": "1904",
+   "sub": "",
+   "visual_query": "Haskell Library exterior"
+  },
+  {
+   "narration": "The front door is in Canada, but a lot of the books are on the American side.",
+   "emoji": "🚪",
+   "headline": "Door In Canada",
+   "stat": "",
+   "sub": "books in the USA",
+   "visual_query": "library front entrance"
+  },
+  {
+   "narration": "Inside the reading room, a black line runs across the floor. That line is the border.",
+   "emoji": "⬛",
+   "headline": "The Black Line",
+   "stat": "",
+   "sub": "",
+   "visual_query": "black line floor library"
+  },
+  {
+   "narration": "Imagine reading a book in a quiet room, then glancing down to see a country border between your feet.",
+   "emoji": "👣",
+   "headline": "A Border Underfoot",
+   "stat": "",
+   "sub": "",
+   "visual_query": "library reading room tables"
+  },
+  {
+   "narration": "A reader can sit at a table on one side of the line while a friend sits on the other.",
+   "emoji": "🧑‍🤝‍🧑",
+   "headline": "Friends In Two Countries",
+   "stat": "",
+   "sub": "",
+   "visual_query": "people reading library"
+  },
+  {
+   "narration": "Upstairs is an opera house too. The stage is in the United States, while most of the seats are in Canada.",
+   "emoji": "🎭",
+   "headline": "Stage In The USA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "opera house stage seats"
+  },
+  {
+   "narration": "So the audience watches a show in one country while the actors perform in another.",
+   "emoji": "👏",
+   "headline": "Audience In Canada",
+   "stat": "",
+   "sub": "",
+   "visual_query": "theatre audience seats"
+  },
+  {
+   "narration": "The building was meant to be shared by both towns, and it has stayed open to both communities.",
+   "emoji": "🤲",
+   "headline": "Built To Share",
+   "stat": "",
+   "sub": "",
+   "visual_query": "library community"
+  },
+  {
+   "narration": "Visitors from Canada walk in through the front door, and they are expected to leave the same way.",
+   "emoji": "↩️",
+   "headline": "Leave The Way You Came",
+   "stat": "",
+   "sub": "",
+   "visual_query": "library door visitors"
+  },
+  {
+   "narration": "There is no passport counter at the door, yet the rules about where you may walk are real.",
+   "emoji": "📘",
+   "headline": "Rules Still Apply",
+   "stat": "",
+   "sub": "",
+   "visual_query": "passport"
+  },
+  {
+   "narration": "That is the real surprise on this border: a line the size of a strip of tape that both countries respect.",
+   "emoji": "🧵",
+   "headline": "A Line Like Tape",
+   "stat": "",
+   "sub": "",
+   "visual_query": "floor tape line"
+  },
+  {
+   "narration": "So here is the loop. Your library card can work in two countries, and a black line on the floor marks the border.",
+   "emoji": "🔁",
+   "headline": "Two Countries, One Room",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Haskell Free Library"
+  },
+  {
+   "narration": "Fort Blunder, Point Roberts, the Northwest Angle, Hyder, the Grey Zone, Canusa Street and the Haskell Library, all on one border.",
+   "emoji": "🗺️",
+   "headline": "Seven Strange Places",
+   "stat": "7",
+   "sub": "",
+   "visual_query": "US Canada border map"
+  },
+  {
+   "narration": "Tomorrow: another place that looks fake on the map but is completely real.",
+   "emoji": "➡️",
+   "headline": "Tomorrow: Another One",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map"
+  }
+ ]
+}

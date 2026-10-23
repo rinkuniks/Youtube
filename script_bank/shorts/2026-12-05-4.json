@@ -1,0 +1,101 @@
+{
+ "category": "space",
+ "topic": "Backwards sunrise on Mercury",
+ "hook": "Your sunrise on Mercury can run backwards.",
+ "title": "On Mercury, the Sun rises, then backs up",
+ "description": "At certain spots on Mercury, the Sun rises, stops, slides back toward the horizon, then rises again. It happens because Mercury's orbit speed beats its slow spin when it is closest to the Sun. If you watch an animation of the Sun's path, you can see it.\n\n#Shorts #Space #Mercury",
+ "tags": [
+  "mercury",
+  "backwards sunrise",
+  "retrograde sun",
+  "space facts",
+  "solar system",
+  "astronomy",
+  "wait what",
+  "shorts"
+ ],
+ "comment_prompt": "Would you wait for this sunrise? Yes or no",
+ "hook_banner": "THE SUN GOES BACKWARDS",
+ "scenes": [
+  {
+   "narration": "Your sunrise on Mercury can run backwards.",
+   "emoji": "🌅",
+   "headline": "BACKWARDS SUNRISE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mercury sunrise"
+  },
+  {
+   "narration": "The Sun rises above the horizon.",
+   "emoji": "☀️",
+   "headline": "SUN RISES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "sunrise over horizon"
+  },
+  {
+   "narration": "Then it stops and slides back down.",
+   "emoji": "⬇️",
+   "headline": "THEN IT SLIDES BACK",
+   "stat": "",
+   "sub": "",
+   "visual_query": "sun setting horizon"
+  },
+  {
+   "narration": "Then it climbs back up again.",
+   "emoji": "⬆️",
+   "headline": "THEN RISES AGAIN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "sun rising over hills"
+  },
+  {
+   "narration": "Mercury orbits fast but spins slowly.",
+   "emoji": "🪐",
+   "headline": "FAST ORBIT, SLOW SPIN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mercury orbit animation"
+  },
+  {
+   "narration": "Close to the Sun, its orbit outruns its spin.",
+   "emoji": "🌀",
+   "headline": "ORBIT BEATS SPIN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mercury close to Sun"
+  },
+  {
+   "narration": "That makes the Sun appear to reverse.",
+   "emoji": "↩️",
+   "headline": "THE SUN REVERSES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sun path sky time lapse"
+  },
+  {
+   "narration": "It only happens at certain spots.",
+   "emoji": "📍",
+   "headline": "ONLY AT CERTAIN SPOTS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mercury surface craters"
+  },
+  {
+   "narration": "Sunrise, backwards, then forwards again.",
+   "emoji": "🌅",
+   "headline": "RISE, REVERSE, RISE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mercury planet"
+  },
+  {
+   "narration": "Tomorrow: a rocket engine printed in one piece.",
+   "emoji": "🖨️",
+   "headline": "NEXT: PRINTED ENGINE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "3D printed rocket engine"
+  }
+ ]
+}

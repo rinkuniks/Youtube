@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Ganymede bigger than Mercury",
+ "hook": "If you flew to Jupiter, you'd find a moon bigger than Mercury.",
+ "title": "Jupiter's Moon Is Bigger Than Mercury",
+ "description": "Ganymede, a moon of Jupiter, is wider than the planet Mercury and is the largest moon in the Solar System. Mercury is still the heavier of the two. Part of the series If You Were in Space.\n\n#Shorts #Space #IfYouWereInSpace",
+ "tags": [
+  "Ganymede",
+  "Jupiter",
+  "Mercury",
+  "largest moon",
+  "space facts",
+  "solar system",
+  "if you were in space",
+  "Shorts"
+ ],
+ "comment_prompt": "Moon or planet? One word",
+ "hook_banner": "MOON BEATS PLANET",
+ "scenes": [
+  {
+   "narration": "Fly to Jupiter and you'd find a moon bigger than Mercury.",
+   "emoji": "🪐",
+   "headline": "MOON BIGGER THAN MERCURY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ganymede Jupiter moon"
+  },
+  {
+   "narration": "This moon is called Ganymede.",
+   "emoji": "🌙",
+   "headline": "GANYMEDE",
+   "stat": "",
+   "sub": "Moon of Jupiter",
+   "visual_query": "Ganymede moon surface"
+  },
+  {
+   "narration": "It is wider than the planet Mercury.",
+   "emoji": "📏",
+   "headline": "WIDER THAN MERCURY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mercury planet"
+  },
+  {
+   "narration": "It is the largest moon in the Solar System.",
+   "emoji": "🏆",
+   "headline": "BIGGEST MOON",
+   "stat": "",
+   "sub": "In the Solar System",
+   "visual_query": "Jupiter and moons"
+  },
+  {
+   "narration": "Mercury still weighs more, though.",
+   "emoji": "⚖️",
+   "headline": "MERCURY IS HEAVIER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mercury planet surface"
+  },
+  {
+   "narration": "Ganymede is mostly ice and rock.",
+   "emoji": "🧊",
+   "headline": "ICE AND ROCK",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ganymede icy moon"
+  },
+  {
+   "narration": "It even has its own magnetic field.",
+   "emoji": "🧲",
+   "headline": "ITS OWN MAGNETIC FIELD",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ganymede Juno"
+  },
+  {
+   "narration": "Your Moon looks small beside it.",
+   "emoji": "🔁",
+   "headline": "A MOON THAT OUTSIZES A PLANET",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Earth Moon Jupiter"
+  },
+  {
+   "narration": "Tomorrow: a giant heart on Pluto.",
+   "emoji": "➡️",
+   "headline": "NEXT: PLUTO'S HEART",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pluto heart New Horizons"
+  }
+ ]
+}

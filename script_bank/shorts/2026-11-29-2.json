@@ -1,0 +1,85 @@
+{
+ "category": "geography",
+ "topic": "Chandigarh capital of two states",
+ "hook": "Your drive into Chandigarh reaches two capitals at once.",
+ "title": "The City That Is Capital of Two States",
+ "description": "Chandigarh is the capital of both Punjab and Haryana. Yet the city belongs to neither, because it is a Union Territory run by the Centre. Part of the series Places That Shouldn't Exist.\n\n#Shorts #India #Geography",
+ "tags": [
+  "chandigarh",
+  "punjab",
+  "haryana",
+  "union territory",
+  "india geography",
+  "capital city",
+  "places that shouldn't exist",
+  "india facts"
+ ],
+ "comment_prompt": "Punjab or Haryana? Pick one",
+ "hook_banner": "TWO CAPITALS, ZERO OWNERS",
+ "scenes": [
+  {
+   "narration": "Your drive into Chandigarh reaches two capitals at once.",
+   "emoji": "🚗",
+   "headline": "TWO CAPITALS AT ONCE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chandigarh road entrance"
+  },
+  {
+   "narration": "It is the capital of Punjab and Haryana.",
+   "emoji": "🏛️",
+   "headline": "PUNJAB AND HARYANA",
+   "stat": "2",
+   "sub": "States, one capital",
+   "visual_query": "Chandigarh Capitol Complex"
+  },
+  {
+   "narration": "But the city belongs to neither state.",
+   "emoji": "🚫",
+   "headline": "BELONGS TO NEITHER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chandigarh Vidhan Sabha"
+  },
+  {
+   "narration": "Chandigarh is a Union Territory, run by the Centre.",
+   "emoji": "🇮🇳",
+   "headline": "UNION TERRITORY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chandigarh Rock Garden"
+  },
+  {
+   "narration": "Both states work inside a city they don't own.",
+   "emoji": "🏢",
+   "headline": "A CITY THEY DON'T OWN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chandigarh High Court"
+  },
+  {
+   "narration": "Two capitals, zero ownership.",
+   "emoji": "🤯",
+   "headline": "ZERO OWNERSHIP",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chandigarh aerial city"
+  },
+  {
+   "narration": "Technically, you just drove out of both states.",
+   "emoji": "🛣️",
+   "headline": "OUT OF BOTH STATES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chandigarh sector road"
+  },
+  {
+   "narration": "Tomorrow: a plant that grew on the Moon.",
+   "emoji": "➡️",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "A plant on the Moon",
+   "visual_query": "Moon surface far side"
+  }
+ ]
+}

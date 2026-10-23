@@ -1,0 +1,633 @@
+{
+ "topic": "Why Spain and France are stranger than you think, built around Pheasant Island",
+ "hook": "Your calendar decides who owns Pheasant Island, because Spain and France swap this tiny island between them every six months.",
+ "title": "Spain and France Swap This Island Every 6 Months",
+ "description": "Spain and France share a tiny island in a river, and it changes country every six months. This video counts through six true facts about Spain, France and the places between them, from a clock stuck on Berlin time to a town trapped inside France, ending on the island itself. Every fact is real and you can find each place on a map.\n\n#geography #borders #spain",
+ "tags": [
+  "Pheasant Island",
+  "Isla de los Faisanes",
+  "Spain France border",
+  "Bidasoa river",
+  "Llivia",
+  "Andorra",
+  "Gibraltar",
+  "Ceuta and Melilla",
+  "strange borders",
+  "geography facts",
+  "facts that sound fake",
+  "Treaty of the Pyrenees",
+  "why Spain time zone is wrong",
+  "enclaves",
+  "Europe geography"
+ ],
+ "comment_prompt": "Which of the six would you visit first?",
+ "hook_banner": "THIS ISLAND SWITCHES COUNTRY",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "Spain's Wrong Clock",
+   "scene": 6
+  },
+  {
+   "title": "The Spanish Town Inside France",
+   "scene": 14
+  },
+  {
+   "title": "A British Rock With Monkeys",
+   "scene": 23
+  },
+  {
+   "title": "Spain's Cities in Africa",
+   "scene": 29
+  },
+  {
+   "title": "Andorra's Two Princes",
+   "scene": 38
+  },
+  {
+   "title": "The Island That Switches Country",
+   "scene": 46
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your calendar decides who owns Pheasant Island, because Spain and France swap this tiny island between them every six months.",
+   "emoji": "🏝️",
+   "headline": "An Island Two Countries Share",
+   "stat": "6 months",
+   "sub": "Spain, then France",
+   "visual_query": "Pheasant Island Bidasoa"
+  },
+  {
+   "narration": "That is real, it is on the map, and nobody lives there. By the end, you will see exactly how it works.",
+   "emoji": "🗺️",
+   "headline": "Real, Not Fake",
+   "stat": "",
+   "sub": "Nobody lives there",
+   "visual_query": "Bidasoa river Irun Hendaye"
+  },
+  {
+   "narration": "But first, five other facts about Spain and France that sound fake and are true, each one stranger than the one before.",
+   "emoji": "🇪🇸",
+   "headline": "Five Facts First",
+   "stat": "5",
+   "sub": "Each one stranger",
+   "visual_query": "Spain France map"
+  },
+  {
+   "narration": "We start with a clock that is wrong, then a Spanish town trapped inside France, and a rock full of wild monkeys.",
+   "emoji": "🕐",
+   "headline": "Clock, Town, Monkey Rock",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar rock monkeys"
+  },
+  {
+   "narration": "After that come two Spanish cities in Africa, and a country ruled by a French president and a Spanish bishop.",
+   "emoji": "⛪",
+   "headline": "Cities In Africa",
+   "stat": "",
+   "sub": "Plus a country with two princes",
+   "visual_query": "Ceuta city Morocco"
+  },
+  {
+   "narration": "Stay till the end, because the island is the one that breaks every rule you know about maps.",
+   "emoji": "👀",
+   "headline": "The Island Comes Last",
+   "stat": "",
+   "sub": "",
+   "visual_query": "river island aerial"
+  },
+  {
+   "narration": "Fact one: Spain's clocks are wrong, and they have been wrong for more than eighty years, ever since 1940.",
+   "emoji": "🕰️",
+   "headline": "Spain's Wrong Clock",
+   "stat": "1940",
+   "sub": "Still not fixed",
+   "visual_query": "Madrid clock tower"
+  },
+  {
+   "narration": "Find Madrid on a map and you will see it sits slightly west of London, further out into the Atlantic.",
+   "emoji": "📍",
+   "headline": "Madrid Is West Of London",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Madrid skyline"
+  },
+  {
+   "narration": "Yet Spain's clocks run one hour ahead of London, the same time as Paris, Berlin and Warsaw, far to the east.",
+   "emoji": "⏰",
+   "headline": "One Hour Ahead",
+   "stat": "+1 hour",
+   "sub": "Same as Berlin",
+   "visual_query": "world time zone map"
+  },
+  {
+   "narration": "In 1940, the dictator Francisco Franco moved Spain's clocks forward by one hour, to match the time in Nazi Germany.",
+   "emoji": "📜",
+   "headline": "Franco Changed The Clock",
+   "stat": "1940",
+   "sub": "",
+   "visual_query": "Francisco Franco 1940"
+  },
+  {
+   "narration": "Nobody ever moved them back, so Spain still lives on Berlin time, even though the sun does not agree.",
+   "emoji": "☀️",
+   "headline": "Still On Berlin Time",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Spain sunset street"
+  },
+  {
+   "narration": "In midsummer, the sun sets after nine at night in Madrid, and even later in the far northwest of the country.",
+   "emoji": "🌇",
+   "headline": "Sunset After 9 PM",
+   "stat": "9 PM+",
+   "sub": "Midsummer in Madrid",
+   "visual_query": "Madrid sunset summer"
+  },
+  {
+   "narration": "That is one reason lunch in Spain happens around two or three, and dinner often starts at nine or ten.",
+   "emoji": "🍽️",
+   "headline": "Late Lunch, Late Dinner",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Spanish tapas restaurant night"
+  },
+  {
+   "narration": "A wrong clock is odd, but it is only a warm-up. The next place is a whole town standing in the wrong country.",
+   "emoji": "➡️",
+   "headline": "Next: A Trapped Town",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pyrenees mountain village"
+  },
+  {
+   "narration": "Fact two: Llívia is a Spanish town that sits completely inside France, with French land on every single side.",
+   "emoji": "🏘️",
+   "headline": "Llívia, Spain Inside France",
+   "stat": "",
+   "sub": "French land on every side",
+   "visual_query": "Llivia town"
+  },
+  {
+   "narration": "Look at the map and you see a small Spanish patch, floating in the middle of France, high in the Pyrenees.",
+   "emoji": "🗺️",
+   "headline": "A Spanish Patch In France",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Llivia enclave map"
+  },
+  {
+   "narration": "The reason goes back to 1659, when Spain and France finally signed a peace treaty after a very long war.",
+   "emoji": "📜",
+   "headline": "The Treaty Of 1659",
+   "stat": "1659",
+   "sub": "Treaty of the Pyrenees",
+   "visual_query": "Treaty of the Pyrenees painting"
+  },
+  {
+   "narration": "In that treaty, Spain handed over a group of villages in the Pyrenees mountains to France, to settle the border.",
+   "emoji": "⛰️",
+   "headline": "Villages Given To France",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pyrenees villages"
+  },
+  {
+   "narration": "But Llívia was officially a town, not a village, so the exact wording of the treaty left it with Spain.",
+   "emoji": "✍️",
+   "headline": "Town, Not Village",
+   "stat": "",
+   "sub": "One word saved it",
+   "visual_query": "old treaty document"
+  },
+  {
+   "narration": "A short road now joins Llívia to the Spanish town of Puigcerdà, but that road runs across French land.",
+   "emoji": "🛣️",
+   "headline": "A Road Through France",
+   "stat": "",
+   "sub": "Llívia to Puigcerdà",
+   "visual_query": "Puigcerda road"
+  },
+  {
+   "narration": "So a single word in an old treaty still decides which country a whole town belongs to today.",
+   "emoji": "🤯",
+   "headline": "One Word, One Town",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Llivia street"
+  },
+  {
+   "narration": "Remember that treaty from 1659, because it comes back at the end, and it created the biggest surprise of all.",
+   "emoji": "🔁",
+   "headline": "Remember 1659",
+   "stat": "1659",
+   "sub": "It returns",
+   "visual_query": "Treaty Pyrenees signing"
+  },
+  {
+   "narration": "But next, we go to the southern tip of Spain, where a huge rock is not Spanish at all.",
+   "emoji": "🪨",
+   "headline": "Next: A Rock Not Spanish",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rock of Gibraltar"
+  },
+  {
+   "narration": "Fact three: at the very southern edge of Spain, there is a piece of Britain, and it is called Gibraltar.",
+   "emoji": "🇬🇮",
+   "headline": "Gibraltar: A Piece Of Britain",
+   "stat": "",
+   "sub": "At Spain's southern tip",
+   "visual_query": "Gibraltar town rock"
+  },
+  {
+   "narration": "It has been British since a treaty signed in 1713, and Spain has claimed it back ever since.",
+   "emoji": "📜",
+   "headline": "British Since 1713",
+   "stat": "1713",
+   "sub": "Spain still claims it",
+   "visual_query": "Gibraltar harbour"
+  },
+  {
+   "narration": "Even so, people walk across the land border between Gibraltar and Spain all the time, to work, to shop and to visit.",
+   "emoji": "🚶",
+   "headline": "Walk Between Two Countries",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar Spain border crossing"
+  },
+  {
+   "narration": "At the top of the huge rock live Barbary macaques, which are the only wild monkeys living anywhere in Europe.",
+   "emoji": "🐒",
+   "headline": "Europe's Only Wild Monkeys",
+   "stat": "",
+   "sub": "Barbary macaques",
+   "visual_query": "Barbary macaque Gibraltar"
+  },
+  {
+   "narration": "So Europe's only wild monkeys live on a British rock, attached to Spain, looking out across the sea at Africa.",
+   "emoji": "🌊",
+   "headline": "British Rock, Spanish Coast",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Strait of Gibraltar Africa"
+  },
+  {
+   "narration": "And speaking of Africa, Spain has something even more surprising there, whole cities that count as part of Spain and Europe.",
+   "emoji": "🌍",
+   "headline": "Next: Spain In Africa",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Strait of Gibraltar ferry"
+  },
+  {
+   "narration": "Fact four: Spain owns two cities on the African continent, called Ceuta and Melilla, both on the coast of Morocco.",
+   "emoji": "🏙️",
+   "headline": "Ceuta And Melilla",
+   "stat": "2 cities",
+   "sub": "On Africa's coast",
+   "visual_query": "Ceuta harbour"
+  },
+  {
+   "narration": "They are not colonies. They are Spanish cities, with Spanish passports, the euro, and the rules of the European Union.",
+   "emoji": "💶",
+   "headline": "Spanish Passports, Euros",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Melilla city street"
+  },
+  {
+   "narration": "That means the European Union has land borders with Africa, and these two cities are the only places where it happens.",
+   "emoji": "🧭",
+   "headline": "EU Land Border With Africa",
+   "stat": "",
+   "sub": "Only here",
+   "visual_query": "Ceuta border fence"
+  },
+  {
+   "narration": "Tall fences mark those borders, so you can stand in a city that is in Europe's club while looking at Morocco.",
+   "emoji": "🚧",
+   "headline": "Fences At The Border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Melilla border fence"
+  },
+  {
+   "narration": "Ceuta even looks across the narrow strait at Gibraltar, so European-run land sits on both shores of that water.",
+   "emoji": "⛴️",
+   "headline": "Europe On Both Shores",
+   "stat": "",
+   "sub": "Ceuta and Gibraltar",
+   "visual_query": "Strait of Gibraltar map"
+  },
+  {
+   "narration": "Morocco also claims these cities, so the border here is a live argument, not just a line on a map.",
+   "emoji": "🇲🇦",
+   "headline": "A Border Still Argued",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ceuta Morocco border"
+  },
+  {
+   "narration": "So far we have a clock, a trapped town, a monkey rock and two cities in Africa, and it keeps getting stranger.",
+   "emoji": "📈",
+   "headline": "It Keeps Getting Stranger",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Europe Africa map Spain"
+  },
+  {
+   "narration": "If you like strange maps and strange facts like these, subscribe, because there are many more places to come.",
+   "emoji": "🔔",
+   "headline": "Subscribe For More",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map globe"
+  },
+  {
+   "narration": "Now the next fact has a country with two leaders, and neither of them is actually from that country.",
+   "emoji": "👑",
+   "headline": "Two Leaders, Neither Local",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Andorra la Vella"
+  },
+  {
+   "narration": "Fact five: Andorra, a tiny country in the mountains between France and Spain, has two heads of state at the same time.",
+   "emoji": "🏔️",
+   "headline": "Andorra's Two Princes",
+   "stat": "2",
+   "sub": "Heads of state",
+   "visual_query": "Andorra mountains"
+  },
+  {
+   "narration": "One is the Bishop of Urgell, a Catholic bishop who lives in Spain. The other is the President of France.",
+   "emoji": "⛪",
+   "headline": "A Bishop And A President",
+   "stat": "",
+   "sub": "",
+   "visual_query": "La Seu d'Urgell cathedral"
+  },
+  {
+   "narration": "Yes, the president of France is also, officially, a prince of another country. He gets that job just by being president.",
+   "emoji": "🇫🇷",
+   "headline": "France's President Is A Prince",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Elysee Palace Paris"
+  },
+  {
+   "narration": "The deal goes back to 1278, when a French count and a Spanish bishop argued over who ruled the Andorran valleys.",
+   "emoji": "📜",
+   "headline": "The Deal From 1278",
+   "stat": "1278",
+   "sub": "",
+   "visual_query": "medieval Andorra village"
+  },
+  {
+   "narration": "Instead of fighting it out, they signed an agreement to share the land, and that sharing never really ended.",
+   "emoji": "🤝",
+   "headline": "They Chose To Share",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Andorra old church valley"
+  },
+  {
+   "narration": "Today the two princes mostly have a ceremonial role, and Andorra's own government runs daily life in the country.",
+   "emoji": "🏛️",
+   "headline": "Ceremonial Princes",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Andorra parliament building"
+  },
+  {
+   "narration": "Andorra is not in the European Union, yet it uses the euro, which makes its status even more unusual.",
+   "emoji": "💶",
+   "headline": "Not In The EU, Uses Euros",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Andorra shopping street"
+  },
+  {
+   "narration": "Sharing a country between two rulers is strange, but sharing one island by the calendar is stranger, and that is next.",
+   "emoji": "🏝️",
+   "headline": "Next: The Island",
+   "stat": "",
+   "sub": "",
+   "visual_query": "small river island trees"
+  },
+  {
+   "narration": "Fact six: Pheasant Island, the one we promised you. Your calendar decides who owns it, and the rules are strict.",
+   "emoji": "🏝️",
+   "headline": "Pheasant Island",
+   "stat": "",
+   "sub": "Calendar decides the owner",
+   "visual_query": "Pheasant Island river"
+  },
+  {
+   "narration": "It sits in the Bidasoa river, which forms part of the border, with the Spanish town of Irun on one bank.",
+   "emoji": "🌊",
+   "headline": "In The Bidasoa River",
+   "stat": "",
+   "sub": "Irun on one bank",
+   "visual_query": "Irun Spain riverbank"
+  },
+  {
+   "narration": "On the other bank is the French town of Hendaye, so the island floats right between two countries and two languages.",
+   "emoji": "🏖️",
+   "headline": "Hendaye On The Other Side",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hendaye France waterfront"
+  },
+  {
+   "narration": "It is only about two hundred metres long and about forty metres across, which is smaller than many city parks.",
+   "emoji": "📏",
+   "headline": "Tiny: 200 By 40 Metres",
+   "stat": "200 m",
+   "sub": "About 40 m wide",
+   "visual_query": "Pheasant Island aerial"
+  },
+  {
+   "narration": "Nobody lives there, and the island is closed to the public, so there are no houses, shops or tourist boats.",
+   "emoji": "🚫",
+   "headline": "Closed To The Public",
+   "stat": "",
+   "sub": "Nobody lives there",
+   "visual_query": "uninhabited river island"
+  },
+  {
+   "narration": "From the first of February to the thirty-first of July, the island belongs to Spain, and Spain looks after it.",
+   "emoji": "🇪🇸",
+   "headline": "Feb To July: Spain",
+   "stat": "1 Feb – 31 Jul",
+   "sub": "Spanish",
+   "visual_query": "Spain flag"
+  },
+  {
+   "narration": "From the first of August to the thirty-first of January, it belongs to France instead, and France takes over.",
+   "emoji": "🇫🇷",
+   "headline": "Aug To Jan: France",
+   "stat": "1 Aug – 31 Jan",
+   "sub": "French",
+   "visual_query": "France flag"
+  },
+  {
+   "narration": "So it is Spanish for six months, French for six months, and it changes country twice every year without any fight.",
+   "emoji": "🔄",
+   "headline": "Two Switches Every Year",
+   "stat": "2x a year",
+   "sub": "",
+   "visual_query": "calendar months"
+  },
+  {
+   "narration": "The story starts in 1659. Spain and France had been at war for about twenty-four years, and both sides were exhausted.",
+   "emoji": "⚔️",
+   "headline": "A War Of 24 Years",
+   "stat": "24 years",
+   "sub": "Spain vs France",
+   "visual_query": "17th century battle painting"
+  },
+  {
+   "narration": "They needed a meeting place that felt fair to both, so they picked this little island in the middle of the river.",
+   "emoji": "🤝",
+   "headline": "A Fair Meeting Place",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bidasoa river border"
+  },
+  {
+   "narration": "There, the two sides negotiated the Treaty of the Pyrenees, the same treaty that left Llívia inside France.",
+   "emoji": "📜",
+   "headline": "The Same Treaty As Llívia",
+   "stat": "1659",
+   "sub": "Treaty of the Pyrenees",
+   "visual_query": "Treaty of Pyrenees Pheasant Island painting"
+  },
+  {
+   "narration": "The peace was sealed with a royal marriage, and in 1660 the kings of Spain and France met on this island.",
+   "emoji": "👑",
+   "headline": "Two Kings Met Here",
+   "stat": "1660",
+   "sub": "",
+   "visual_query": "Louis XIV Philip IV meeting"
+  },
+  {
+   "narration": "The Spanish king's famous court painter, Diego Velázquez, helped organise the royal trip, and he died not long after returning home.",
+   "emoji": "🎨",
+   "headline": "Velázquez Was There",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Diego Velazquez portrait"
+  },
+  {
+   "narration": "Even earlier, in 1526, the French king Francis the First was freed on this river, in exchange for his two sons.",
+   "emoji": "⛓️",
+   "headline": "A King Swapped For Sons",
+   "stat": "1526",
+   "sub": "Francis I",
+   "visual_query": "Francis I of France portrait"
+  },
+  {
+   "narration": "So this small island has seen kings, hostages and royal brides cross it, long before it became a quiet river rock.",
+   "emoji": "💍",
+   "headline": "Kings, Hostages, Brides",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bidasoa river historic"
+  },
+  {
+   "narration": "Even today, the island has a governor, and the job goes to a naval officer from whichever country holds the island.",
+   "emoji": "⚓",
+   "headline": "Governed By A Naval Officer",
+   "stat": "",
+   "sub": "",
+   "visual_query": "navy officer uniform"
+  },
+  {
+   "narration": "While the island is Spanish, a Spanish naval officer is in charge. When it turns French, a French one takes over.",
+   "emoji": "🎖️",
+   "headline": "The Governor Switches Too",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Spanish navy officer"
+  },
+  {
+   "narration": "There is no wall on it and no fight over it, only a calendar that two old rivals have followed for centuries.",
+   "emoji": "📅",
+   "headline": "No Wall, Just A Calendar",
+   "stat": "",
+   "sub": "",
+   "visual_query": "wall calendar"
+  },
+  {
+   "narration": "Think about that. Two countries that fought for decades settled their peace on a tiny island, and the sharing has lasted ever since.",
+   "emoji": "🕊️",
+   "headline": "From War To Sharing",
+   "stat": "",
+   "sub": "",
+   "visual_query": "peace dove river"
+  },
+  {
+   "narration": "You cannot visit, but from the riverbank you can see it, a small green island, with two nations quietly taking turns.",
+   "emoji": "👀",
+   "headline": "Visible From The Riverbank",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hendaye Irun river view"
+  },
+  {
+   "narration": "So on any day of the year, you can tell who owns Pheasant Island, just by checking which month it is.",
+   "emoji": "🗓️",
+   "headline": "Check The Month",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pheasant Island map"
+  },
+  {
+   "narration": "Let us run through them again: a clock stuck on Berlin time, and a Spanish town trapped inside France.",
+   "emoji": "🔁",
+   "headline": "Quick Recap",
+   "stat": "",
+   "sub": "Clock and trapped town",
+   "visual_query": "Madrid Llivia"
+  },
+  {
+   "narration": "A British rock with wild monkeys, two Spanish cities in Africa, and a country with a French president as its prince.",
+   "emoji": "🐒",
+   "headline": "Rock, Cities, Princes",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar Ceuta Andorra"
+  },
+  {
+   "narration": "And one island that is Spanish for six months, then French for six months, then Spanish again.",
+   "emoji": "🏝️",
+   "headline": "Spanish, French, Spanish",
+   "stat": "6 months",
+   "sub": "",
+   "visual_query": "Bidasoa island border"
+  },
+  {
+   "narration": "So remember, your calendar decides who owns Pheasant Island, and it has done so since 1659.",
+   "emoji": "📅",
+   "headline": "Your Calendar Decides",
+   "stat": "1659",
+   "sub": "",
+   "visual_query": "Pheasant Island Spain France"
+  },
+  {
+   "narration": "Next in this series: another country that looks perfectly normal on the map, and is not.",
+   "emoji": "➡️",
+   "headline": "Next In The Series",
+   "stat": "",
+   "sub": "Another strange country",
+   "visual_query": "world map close up"
+  }
+ ]
+}

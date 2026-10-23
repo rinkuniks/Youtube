@@ -1,0 +1,620 @@
+{
+ "topic": "Why Estonia Is Stranger Than You Think (Saatse Boot road through Russia)",
+ "hook": "Your drive on this Estonian road went through Russia for about 100 metres, and you could not stop.",
+ "title": "Why Estonia Is Stranger Than You Think",
+ "description": "Estonia has an Estonian road that drove through Russia for about 100 metres, ice roads over the sea, two castles facing each other across a river, and a government that lives on your phone. Here are seven true facts about Estonia that sound fake. The Saatse Boot road was closed in 2025, so we explain what happened and what replaces it.\n\n#Estonia #GeographyFacts #StrangePlaces",
+ "tags": [
+  "Estonia",
+  "Saatse Boot",
+  "Estonia facts",
+  "strange borders",
+  "Estonia Russia border",
+  "Narva",
+  "e-Residency",
+  "Singing Revolution",
+  "Kaali crater",
+  "ice road",
+  "geography facts",
+  "Baltic countries",
+  "weird places",
+  "Why Estonia is stranger than you think"
+ ],
+ "comment_prompt": "Which Estonia fact surprised you most?",
+ "hook_banner": "A ROAD THROUGH RUSSIA",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "The sauna habit",
+   "scene": 6
+  },
+  {
+   "title": "Roads on the frozen sea",
+   "scene": 14
+  },
+  {
+   "title": "Two castles, one river",
+   "scene": 22
+  },
+  {
+   "title": "A hole from space",
+   "scene": 30
+  },
+  {
+   "title": "The Singing Revolution",
+   "scene": 37
+  },
+  {
+   "title": "A country on your phone",
+   "scene": 46
+  },
+  {
+   "title": "The road through Russia",
+   "scene": 55
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your drive on this Estonian road went through Russia for about 100 metres, and you could not stop.",
+   "emoji": "🚗",
+   "headline": "Road Through Russia",
+   "stat": "100 m",
+   "sub": "Saatse Boot, Estonia",
+   "visual_query": "Saatse Boot road Estonia"
+  },
+  {
+   "narration": "Not a tunnel, not a bridge. Just an ordinary road, an ordinary car, and a short stretch of Russian soil.",
+   "emoji": "🛣️",
+   "headline": "An Ordinary Road",
+   "stat": "",
+   "sub": "",
+   "visual_query": "forest road border sign"
+  },
+  {
+   "narration": "That road is real, and we will drive it at the end, but Estonia has six other surprises to show you first.",
+   "emoji": "🗺️",
+   "headline": "Seven True Facts",
+   "stat": "7",
+   "sub": "",
+   "visual_query": "Estonia map"
+  },
+  {
+   "narration": "Its whole population is smaller than the city of Pune, yet this country keeps doing things bigger countries only talk about.",
+   "emoji": "👥",
+   "headline": "Tiny But Bold",
+   "stat": "",
+   "sub": "Fewer people than Pune",
+   "visual_query": "Tallinn old town"
+  },
+  {
+   "narration": "By the end you will see why a tiny country on the Baltic Sea feels a little like another planet.",
+   "emoji": "🌍",
+   "headline": "Another Planet",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baltic Sea coast Estonia"
+  },
+  {
+   "narration": "Stay for the last one, because the story of that road took a sharp turn in 2025.",
+   "emoji": "⏳",
+   "headline": "A Sharp Turn",
+   "stat": "2025",
+   "sub": "",
+   "visual_query": "road closed barrier"
+  },
+  {
+   "narration": "Number one: in Estonia, the sauna is not a spa treat. It is a family habit, the way chai is at home.",
+   "emoji": "🧖",
+   "headline": "The Sauna Habit",
+   "stat": "",
+   "sub": "",
+   "visual_query": "wooden sauna interior"
+  },
+  {
+   "narration": "Many homes and holiday cottages have their own sauna, heated to far above any summer afternoon in Delhi.",
+   "emoji": "🔥",
+   "headline": "Hotter Than Delhi",
+   "stat": "",
+   "sub": "",
+   "visual_query": "sauna stove stones"
+  },
+  {
+   "narration": "In the south, people still use a smoke sauna, where smoke fills the room first and is aired out before anyone goes in.",
+   "emoji": "💨",
+   "headline": "The Smoke Sauna",
+   "stat": "",
+   "sub": "",
+   "visual_query": "smoke sauna Estonia"
+  },
+  {
+   "narration": "That tradition is so old that UNESCO added the Võro smoke sauna to its list of living heritage in 2014.",
+   "emoji": "🏛️",
+   "headline": "UNESCO Heritage",
+   "stat": "2014",
+   "sub": "Võro smoke sauna",
+   "visual_query": "Voro smoke sauna"
+  },
+  {
+   "narration": "For generations, people there treated the sauna as the place to wash, to heal, and in old times even to give birth.",
+   "emoji": "🌿",
+   "headline": "Wash, Heal, Rest",
+   "stat": "",
+   "sub": "",
+   "visual_query": "traditional sauna birch"
+  },
+  {
+   "narration": "And here is the twist: after the heat, many Estonians run outside and jump into snow or an icy lake.",
+   "emoji": "❄️",
+   "headline": "Into The Snow",
+   "stat": "",
+   "sub": "",
+   "visual_query": "jumping into frozen lake"
+  },
+  {
+   "narration": "So the first strange fact is a country that relaxes by going from burning hot to freezing cold in seconds.",
+   "emoji": "🥶",
+   "headline": "Hot To Freezing",
+   "stat": "",
+   "sub": "",
+   "visual_query": "snow sauna winter"
+  },
+  {
+   "narration": "Now from a hot room to a frozen sea, because the next fact lets you drive on water.",
+   "emoji": "🧊",
+   "headline": "Drive On Water",
+   "stat": "",
+   "sub": "",
+   "visual_query": "frozen sea ice"
+  },
+  {
+   "narration": "Number two: Estonia has more than two thousand islands, and in winter some of them are joined to the mainland by roads of ice.",
+   "emoji": "🏝️",
+   "headline": "Over 2,000 Islands",
+   "stat": "2,000+",
+   "sub": "islands",
+   "visual_query": "Estonia islands aerial"
+  },
+  {
+   "narration": "The two biggest, Saaremaa and Hiiumaa, have towns, farms, schools and lighthouses, so these are real homes, not just rocks in the sea.",
+   "emoji": "🏠",
+   "headline": "Real Island Homes",
+   "stat": "",
+   "sub": "Saaremaa and Hiiumaa",
+   "visual_query": "Hiiumaa lighthouse"
+  },
+  {
+   "narration": "When the Baltic Sea freezes hard enough, the government opens official ice roads, with speed limits and proper road signs.",
+   "emoji": "🛑",
+   "headline": "Official Ice Roads",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ice road cars"
+  },
+  {
+   "narration": "The best known one links the mainland to Hiiumaa, and it is counted among the longest ice roads in Europe.",
+   "emoji": "🚙",
+   "headline": "Europe's Longest",
+   "stat": "",
+   "sub": "Among the longest",
+   "visual_query": "Hiiumaa ice road"
+  },
+  {
+   "narration": "Picture your car rolling along with the sea under your tyres, and fish swimming silently below you.",
+   "emoji": "🐟",
+   "headline": "Sea Under Tyres",
+   "stat": "",
+   "sub": "",
+   "visual_query": "car on frozen sea"
+  },
+  {
+   "narration": "It only opens when the ice is thick enough, and in a warm winter it may not open at all.",
+   "emoji": "🌡️",
+   "headline": "Only If Thick Enough",
+   "stat": "",
+   "sub": "",
+   "visual_query": "thick ice measuring"
+  },
+  {
+   "narration": "In summer the same route is a ferry crossing, so one journey becomes a boat ride or an ice drive depending on the season.",
+   "emoji": "⛴️",
+   "headline": "Ferry In Summer",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ferry Estonia island"
+  },
+  {
+   "narration": "Next, a river that works as a border, and two castles that stare at each other.",
+   "emoji": "🏰",
+   "headline": "Two Castles Ahead",
+   "stat": "",
+   "sub": "",
+   "visual_query": "castle on river"
+  },
+  {
+   "narration": "Number three: in Narva, on Estonia's eastern edge, you can stand by a river and look straight at Russia.",
+   "emoji": "👀",
+   "headline": "Look At Russia",
+   "stat": "",
+   "sub": "Narva, Estonia",
+   "visual_query": "Narva river"
+  },
+  {
+   "narration": "The Narva river is the border. On the Estonian bank stands Hermann Castle, a medieval fortress with a tall tower.",
+   "emoji": "🏯",
+   "headline": "Hermann Castle",
+   "stat": "",
+   "sub": "Estonian side",
+   "visual_query": "Narva Hermann Castle"
+  },
+  {
+   "narration": "On the Russian bank, just across the water, stands Ivangorod Fortress, facing the Estonian castle like a mirror.",
+   "emoji": "🪞",
+   "headline": "Ivangorod Fortress",
+   "stat": "",
+   "sub": "Russian side",
+   "visual_query": "Ivangorod Fortress"
+  },
+  {
+   "narration": "Two fortresses, two countries, one narrow river between them, and a bridge that works as the border crossing.",
+   "emoji": "🌉",
+   "headline": "One Narrow River",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Narva border bridge"
+  },
+  {
+   "narration": "Think of two old forts facing each other across a river, each flying a different flag. That is an everyday view here.",
+   "emoji": "🚩",
+   "headline": "Two Flags",
+   "stat": "",
+   "sub": "",
+   "visual_query": "two flags river fort"
+  },
+  {
+   "narration": "Narva was badly damaged in the Second World War, and its castle has been carefully restored so visitors can climb it today.",
+   "emoji": "🧱",
+   "headline": "Rebuilt After War",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Narva castle tower"
+  },
+  {
+   "narration": "Most borders feel far away, hidden in mountains or deserts. This one is a riverside walk and a view you cannot miss.",
+   "emoji": "🚶",
+   "headline": "A Riverside Walk",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Narva riverside promenade"
+  },
+  {
+   "narration": "But the next place was not shaped by any border. It was shaped by something that fell from the sky.",
+   "emoji": "☄️",
+   "headline": "Fell From The Sky",
+   "stat": "",
+   "sub": "",
+   "visual_query": "meteorite impact"
+  },
+  {
+   "narration": "Number four: on the island of Saaremaa there is a round crater, made when a meteorite hit the ground thousands of years ago.",
+   "emoji": "🕳️",
+   "headline": "Kaali Crater",
+   "stat": "",
+   "sub": "Saaremaa island",
+   "visual_query": "Kaali crater Saaremaa"
+  },
+  {
+   "narration": "The biggest crater at Kaali is about 110 metres across, and it holds a small pond at the bottom.",
+   "emoji": "📏",
+   "headline": "110 Metres Wide",
+   "stat": "110 m",
+   "sub": "main crater",
+   "visual_query": "Kaali crater lake"
+  },
+  {
+   "narration": "Some researchers think old local myths about a fallen sun may be a memory of this very impact.",
+   "emoji": "☀️",
+   "headline": "A Fallen Sun?",
+   "stat": "",
+   "sub": "",
+   "visual_query": "meteor fireball sky"
+  },
+  {
+   "narration": "You can walk a path through the trees and stand on the rim, with no mountain anywhere in sight.",
+   "emoji": "🌲",
+   "headline": "Stand On The Rim",
+   "stat": "",
+   "sub": "",
+   "visual_query": "crater rim forest path"
+  },
+  {
+   "narration": "A hole from space, in a country that looks flat and calm on the map, and you can visit it on a weekend trip.",
+   "emoji": "🌌",
+   "headline": "A Hole From Space",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Saaremaa landscape"
+  },
+  {
+   "narration": "If you enjoy strange places like this, this is a good moment to subscribe, because we post more of them every day.",
+   "emoji": "🔔",
+   "headline": "Love Strange Places?",
+   "stat": "",
+   "sub": "Subscribe",
+   "visual_query": "world map pins"
+  },
+  {
+   "narration": "And the next story is about a country that sang its way to freedom.",
+   "emoji": "🎶",
+   "headline": "Sang To Freedom",
+   "stat": "",
+   "sub": "",
+   "visual_query": "crowd singing choir"
+  },
+  {
+   "narration": "Number five: Estonia won back its freedom with songs, and the movement is called the Singing Revolution.",
+   "emoji": "🎤",
+   "headline": "Singing Revolution",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Singing Revolution Estonia"
+  },
+  {
+   "narration": "Under Soviet rule, many national songs were discouraged. In 1988, huge crowds gathered in Tallinn to sing them together.",
+   "emoji": "🇪🇪",
+   "headline": "Songs Of 1988",
+   "stat": "1988",
+   "sub": "Tallinn",
+   "visual_query": "Tallinn Song Festival Grounds"
+  },
+  {
+   "narration": "Hundreds of thousands of people stood in one field and sang, in a country with a very small population.",
+   "emoji": "👨‍👩‍👧‍👦",
+   "headline": "Hundreds Of Thousands",
+   "stat": "",
+   "sub": "",
+   "visual_query": "huge crowd singing field"
+  },
+  {
+   "narration": "Then in 1989, about two million people in Estonia, Latvia and Lithuania held hands in a human chain.",
+   "emoji": "🤝",
+   "headline": "The Human Chain",
+   "stat": "~2 million",
+   "sub": "Baltic Way, 1989",
+   "visual_query": "Baltic Way human chain"
+  },
+  {
+   "narration": "It stretched roughly 600 kilometres, about the road distance from Delhi to Jaipur and back again.",
+   "emoji": "📍",
+   "headline": "600 Kilometres",
+   "stat": "~600 km",
+   "sub": "",
+   "visual_query": "long human chain road"
+  },
+  {
+   "narration": "Estonia became independent again in 1991, and the change happened largely without the war that many people had feared.",
+   "emoji": "🕊️",
+   "headline": "Free Again, 1991",
+   "stat": "1991",
+   "sub": "",
+   "visual_query": "Estonia flag independence"
+  },
+  {
+   "narration": "Even today, a giant song festival is held in Tallinn, a tradition that began back in the 1800s.",
+   "emoji": "🎼",
+   "headline": "The Song Festival",
+   "stat": "",
+   "sub": "Since the 1800s",
+   "visual_query": "Estonian song festival"
+  },
+  {
+   "narration": "A weapon made of voices. That is one of the strangest ways any country has ever won back its freedom.",
+   "emoji": "🗣️",
+   "headline": "Weapon Of Voices",
+   "stat": "",
+   "sub": "",
+   "visual_query": "choir singing national costume"
+  },
+  {
+   "narration": "But the next fact is about the future, because Estonia lives online more than almost any country.",
+   "emoji": "💻",
+   "headline": "Living Online",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Tallinn modern skyline"
+  },
+  {
+   "narration": "Number six: in Estonia you can vote from your phone or laptop, and nationwide online voting has been allowed there since 2005.",
+   "emoji": "🗳️",
+   "headline": "Vote From Your Phone",
+   "stat": "2005",
+   "sub": "online voting",
+   "visual_query": "online voting phone"
+  },
+  {
+   "narration": "Think of UPI and Aadhaar, but for most of your government paperwork. Taxes, prescriptions and records, all online.",
+   "emoji": "📱",
+   "headline": "UPI For Paperwork",
+   "stat": "",
+   "sub": "",
+   "visual_query": "smartphone digital ID"
+  },
+  {
+   "narration": "For many people, filing taxes takes just a few minutes with a digital ID. A few things still need you in person, like getting married.",
+   "emoji": "🧾",
+   "headline": "Taxes In Minutes",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tax form laptop"
+  },
+  {
+   "narration": "The system keeps a log of who looked at your data, and citizens can check it. Your records are not a black box.",
+   "emoji": "🔍",
+   "headline": "Who Looked At You?",
+   "stat": "",
+   "sub": "",
+   "visual_query": "data security lock"
+  },
+  {
+   "narration": "Since 2014, even foreigners can apply for e-Residency, a digital identity that lets you run a company from anywhere.",
+   "emoji": "🪪",
+   "headline": "e-Residency",
+   "stat": "2014",
+   "sub": "",
+   "visual_query": "e-Residency card Estonia"
+  },
+  {
+   "narration": "So a person in India can own an Estonian company without ever living in Estonia.",
+   "emoji": "🇮🇳",
+   "headline": "India To Estonia",
+   "stat": "",
+   "sub": "",
+   "visual_query": "laptop remote work India"
+  },
+  {
+   "narration": "And Skype, the app that put millions of people on video calls, was built by engineers from this small country.",
+   "emoji": "📞",
+   "headline": "Skype Was Estonian",
+   "stat": "",
+   "sub": "",
+   "visual_query": "video call laptop"
+  },
+  {
+   "narration": "A country with fewer people than Pune built tools that changed how the world makes calls, signs papers and runs businesses.",
+   "emoji": "🚀",
+   "headline": "Small Country, Big Tech",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Tallinn tech startup office"
+  },
+  {
+   "narration": "Now the last place. It is the one from the start, and the biggest surprise of all.",
+   "emoji": "🎯",
+   "headline": "The Biggest One",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Estonia Russia border forest"
+  },
+  {
+   "narration": "Number seven: the Saatse Boot, a road in south-east Estonia that crossed into Russia and came back out.",
+   "emoji": "🥾",
+   "headline": "The Saatse Boot",
+   "stat": "",
+   "sub": "South-east Estonia",
+   "visual_query": "Saatse Boot map"
+  },
+  {
+   "narration": "It is called the Boot because, on the map, the Russian patch pushing into Estonia looks exactly like a boot.",
+   "emoji": "🗺️",
+   "headline": "Shaped Like A Boot",
+   "stat": "",
+   "sub": "",
+   "visual_query": "boot shaped border map"
+  },
+  {
+   "narration": "After the Soviet Union broke up, the new border left that patch on the Russian side, with a village road running through it.",
+   "emoji": "🧭",
+   "headline": "A Border Quirk",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Estonia Russia border map"
+  },
+  {
+   "narration": "Drive in from the Estonian side, and for about 100 metres you were officially in Russia.",
+   "emoji": "🚗",
+   "headline": "Officially In Russia",
+   "stat": "100 m",
+   "sub": "",
+   "visual_query": "road through border forest"
+  },
+  {
+   "narration": "The rules were simple: do not stop, do not get out of the car, and keep driving until you are back home.",
+   "emoji": "🚫",
+   "headline": "Never Stop",
+   "stat": "",
+   "sub": "",
+   "visual_query": "no stopping road sign"
+  },
+  {
+   "narration": "Locals used this road in daily life, because it was the shortest way between villages in that corner of Estonia.",
+   "emoji": "🏘️",
+   "headline": "Used Every Day",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Estonian village road"
+  },
+  {
+   "narration": "On a map, your blue dot slid out of Estonia, into Russia, and back again within seconds.",
+   "emoji": "📍",
+   "headline": "The Blue Dot Slides",
+   "stat": "",
+   "sub": "",
+   "visual_query": "GPS map blue dot"
+  },
+  {
+   "narration": "Think how strange that is. A local bus, a tractor or a family car could briefly be in another country.",
+   "emoji": "🚌",
+   "headline": "Briefly Abroad",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tractor rural road"
+  },
+  {
+   "narration": "Now the twist. In 2025, Estonia closed this road to traffic after reports of armed men seen near it.",
+   "emoji": "⛔",
+   "headline": "Closed In 2025",
+   "stat": "2025",
+   "sub": "",
+   "visual_query": "road closed barrier Estonia"
+  },
+  {
+   "narration": "So the road you could not stop on is now a road you cannot use at all.",
+   "emoji": "🚧",
+   "headline": "Now Fully Closed",
+   "stat": "",
+   "sub": "",
+   "visual_query": "closed road sign"
+  },
+  {
+   "narration": "Estonia is building new roads that stay inside its own land, so villagers no longer need to cross Russia to get home.",
+   "emoji": "🛠️",
+   "headline": "New Roads Coming",
+   "stat": "",
+   "sub": "",
+   "visual_query": "road construction forest"
+  },
+  {
+   "narration": "The boot is still on the map, and the border has not moved. Only the way people get around it has changed.",
+   "emoji": "🗺️",
+   "headline": "Border Unchanged",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border marker post"
+  },
+  {
+   "narration": "So that is Estonia: a sauna, a frozen sea, two castles, a meteorite crater, a revolution of songs and a government on your phone.",
+   "emoji": "🇪🇪",
+   "headline": "Estonia In Seven",
+   "stat": "7",
+   "sub": "",
+   "visual_query": "Estonia landscape"
+  },
+  {
+   "narration": "And remember where we started: for about 100 metres, an Estonian road went through Russia, and you could not stop.",
+   "emoji": "🔁",
+   "headline": "Through Russia",
+   "stat": "100 m",
+   "sub": "",
+   "visual_query": "Saatse Boot road Estonia"
+  },
+  {
+   "narration": "Tomorrow: a country with no airport of its own.",
+   "emoji": "✈️",
+   "headline": "Tomorrow",
+   "stat": "",
+   "sub": "A country with no airport",
+   "visual_query": "small country airport sign"
+  }
+ ]
+}

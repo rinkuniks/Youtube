@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Cappadocia balloons",
+ "hook": "Your dawn in Cappadocia fills the sky with balloons.",
+ "title": "Turkey's sunrise sky full of balloons",
+ "description": "At dawn in Cappadocia, Turkey, hot-air balloons rise above rock chimneys made of volcanic rock. On busy mornings hundreds can fly together, and the sight is famous around the world. Part of the series 'Places That Shouldn't Exist'.\n\n#Shorts #Cappadocia #Travel",
+ "tags": [
+  "cappadocia",
+  "turkey",
+  "hot air balloons",
+  "fairy chimneys",
+  "geography facts",
+  "travel",
+  "places that shouldnt exist",
+  "shorts"
+ ],
+ "comment_prompt": "Would you ride one? Yes or no",
+ "hook_banner": "SUNRISE IN TURKEY",
+ "scenes": [
+  {
+   "narration": "Your dawn in Cappadocia fills the sky with balloons.",
+   "emoji": "🎈",
+   "headline": "SKY FULL OF BALLOONS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cappadocia hot air balloons sunrise"
+  },
+  {
+   "narration": "They float above rock chimneys.",
+   "emoji": "🏜️",
+   "headline": "ROCK CHIMNEYS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cappadocia fairy chimneys"
+  },
+  {
+   "narration": "The chimneys are towers of volcanic rock.",
+   "emoji": "🌋",
+   "headline": "VOLCANIC ROCK TOWERS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Goreme volcanic rock formations"
+  },
+  {
+   "narration": "Locals call them fairy chimneys.",
+   "emoji": "🧚",
+   "headline": "FAIRY CHIMNEYS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Goreme Turkey valley"
+  },
+  {
+   "narration": "Balloons lift off at sunrise.",
+   "emoji": "🌄",
+   "headline": "LIFTOFF AT SUNRISE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "balloon launch Cappadocia dawn"
+  },
+  {
+   "narration": "Hundreds can rise together on busy mornings.",
+   "emoji": "🎈",
+   "headline": "HUNDREDS AT ONCE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "many balloons Cappadocia sky"
+  },
+  {
+   "narration": "Travelers come from around the world to see it.",
+   "emoji": "🌍",
+   "headline": "WORLD FAMOUS SIGHT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tourists watching Cappadocia balloons"
+  },
+  {
+   "narration": "Wake early, and the sky is crowded with color.",
+   "emoji": "🎨",
+   "headline": "SKY FULL OF COLOR",
+   "stat": "",
+   "sub": "",
+   "visual_query": "colorful balloons Turkey sky"
+  },
+  {
+   "narration": "Tomorrow: another place that sounds fake.",
+   "emoji": "➡️",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "Another place that sounds fake",
+   "visual_query": "Cappadocia balloons valley"
+  }
+ ]
+}

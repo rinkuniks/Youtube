@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Tardigrades survive space",
+ "hook": "Your tardigrade survived open space.",
+ "title": "Tiny Animals Survived Open Space",
+ "description": "In 2007, microscopic tardigrades, or water bears, flew on the Foton-M3 mission and were exposed to space. Some came back alive and went on to lay eggs.\n\nSeries: If You Were in Space.",
+ "tags": [
+  "tardigrade",
+  "water bear",
+  "foton m3",
+  "space facts",
+  "survived space",
+  "science facts",
+  "microscopic",
+  "shorts"
+ ],
+ "comment_prompt": "Toughest animal ever: tardigrade or cockroach? Pick one",
+ "hook_banner": "THEY SURVIVED SPACE",
+ "scenes": [
+  {
+   "narration": "Your tardigrade survived open space.",
+   "emoji": "🐻",
+   "headline": "SURVIVED OPEN SPACE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tardigrade water bear"
+  },
+  {
+   "narration": "In 2007, water bears flew on Foton-M3.",
+   "emoji": "🚀",
+   "headline": "FOTON-M3, 2007",
+   "stat": "2007",
+   "sub": "",
+   "visual_query": "Foton-M3 capsule"
+  },
+  {
+   "narration": "Tardigrades are tiny animals under a millimetre long.",
+   "emoji": "🔬",
+   "headline": "UNDER A MILLIMETRE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tardigrade microscope"
+  },
+  {
+   "narration": "They sat exposed to the vacuum of space.",
+   "emoji": "🌌",
+   "headline": "EXPOSED TO VACUUM",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Earth orbit space"
+  },
+  {
+   "narration": "They faced space radiation too.",
+   "emoji": "☢️",
+   "headline": "SPACE RADIATION",
+   "stat": "",
+   "sub": "",
+   "visual_query": "sun radiation space"
+  },
+  {
+   "narration": "Some came back alive.",
+   "emoji": "✅",
+   "headline": "SOME CAME BACK ALIVE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tardigrade alive"
+  },
+  {
+   "narration": "Then they laid eggs.",
+   "emoji": "🥚",
+   "headline": "THEN THEY LAID EGGS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tardigrade eggs"
+  },
+  {
+   "narration": "Your tardigrade survived open space.",
+   "emoji": "🐻",
+   "headline": "OPEN SPACE. SURVIVED.",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tardigrade electron microscope"
+  },
+  {
+   "narration": "Tomorrow: crossing India in six minutes.",
+   "emoji": "🇮🇳",
+   "headline": "NEXT: INDIA IN MINUTES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India map satellite"
+  }
+ ]
+}

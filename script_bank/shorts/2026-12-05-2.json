@@ -1,0 +1,94 @@
+{
+ "category": "geography",
+ "topic": "Baikonur cosmodrome leased by Russia",
+ "hook": "Your rocket lifts off from rented land.",
+ "title": "Russia pays rent to launch its rockets",
+ "description": "Baikonur Cosmodrome sits inside Kazakhstan, but Russia leases it, and the lease runs until 2050. Yuri Gagarin launched from here in 1961, and India's Rakesh Sharma flew from here in 1984. Places That Shouldn't Exist.\n\n#Shorts #Space #Geography",
+ "tags": [
+  "baikonur",
+  "kazakhstan",
+  "russia",
+  "cosmodrome",
+  "rakesh sharma",
+  "gagarin",
+  "space facts",
+  "geography facts",
+  "shorts"
+ ],
+ "comment_prompt": "Would you rent out a launch site? Yes or no",
+ "hook_banner": "RUSSIA PAYS RENT HERE",
+ "scenes": [
+  {
+   "narration": "Your rocket lifts off from rented land.",
+   "emoji": "🚀",
+   "headline": "RENTED LAUNCH SITE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Soyuz rocket launch Baikonur"
+  },
+  {
+   "narration": "Baikonur sits inside Kazakhstan, not Russia.",
+   "emoji": "🇰🇿",
+   "headline": "IT'S IN KAZAKHSTAN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kazakhstan steppe"
+  },
+  {
+   "narration": "Russia leases the whole cosmodrome.",
+   "emoji": "📝",
+   "headline": "RUSSIA LEASES IT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baikonur cosmodrome"
+  },
+  {
+   "narration": "That lease runs until 2050.",
+   "emoji": "📅",
+   "headline": "LEASE UNTIL 2050",
+   "stat": "2050",
+   "sub": "",
+   "visual_query": "Baikonur launch pad"
+  },
+  {
+   "narration": "Yuri Gagarin launched from here in 1961.",
+   "emoji": "👨‍🚀",
+   "headline": "GAGARIN, 1961",
+   "stat": "1961",
+   "sub": "",
+   "visual_query": "Yuri Gagarin"
+  },
+  {
+   "narration": "India's Rakesh Sharma flew from here in 1984.",
+   "emoji": "🇮🇳",
+   "headline": "RAKESH SHARMA, 1984",
+   "stat": "1984",
+   "sub": "",
+   "visual_query": "Rakesh Sharma astronaut"
+  },
+  {
+   "narration": "Soyuz crews still leave from this rented ground.",
+   "emoji": "🧑‍🚀",
+   "headline": "STILL IN USE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Soyuz crew launch"
+  },
+  {
+   "narration": "Your rocket launches from land Russia rents.",
+   "emoji": "🚀",
+   "headline": "LAND RUSSIA RENTS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Soyuz rocket night launch"
+  },
+  {
+   "narration": "Tomorrow: ice on the hottest planet's neighbour.",
+   "emoji": "🧊",
+   "headline": "NEXT: ICE ON MERCURY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mercury planet"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "category": "geography",
+ "topic": "Marble Caves of Patagonia, Chile",
+ "hook": "Your boat glides through caves of swirling blue stone.",
+ "title": "A Boat Ride Through Swirling Blue Marble",
+ "description": "The Marble Caves sit on General Carrera Lake in Patagonia, Chile. The lake's waves carved the marble into smooth chambers with swirling blue and white patterns. You reach them by boat.\n\n#Shorts #MarbleCaves #Patagonia",
+ "tags": [
+  "marble caves",
+  "patagonia",
+  "chile",
+  "general carrera lake",
+  "geography",
+  "travel",
+  "natural wonders",
+  "shorts"
+ ],
+ "comment_prompt": "Would you ride this boat? Yes or no",
+ "hook_banner": "REAL CAVES, REAL LAKE",
+ "scenes": [
+  {
+   "narration": "Your boat glides through caves of swirling blue stone.",
+   "emoji": "🛶",
+   "headline": "BLUE MARBLE CAVES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Marble Caves Patagonia boat"
+  },
+  {
+   "narration": "These are the Marble Caves in Patagonia, Chile.",
+   "emoji": "🇨🇱",
+   "headline": "PATAGONIA, CHILE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Patagonia Chile lake"
+  },
+  {
+   "narration": "They sit right on General Carrera Lake.",
+   "emoji": "🏔️",
+   "headline": "ON A MOUNTAIN LAKE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "General Carrera Lake"
+  },
+  {
+   "narration": "The walls are solid marble, not paint.",
+   "emoji": "🎨",
+   "headline": "SOLID MARBLE WALLS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "marble cave swirling walls"
+  },
+  {
+   "narration": "Waves slowly carved the rock into smooth chambers.",
+   "emoji": "🌊",
+   "headline": "CARVED BY WAVES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "lake waves cave carving"
+  },
+  {
+   "narration": "Light bounces off the water onto the stone.",
+   "emoji": "💙",
+   "headline": "LAKE LIGHT ON STONE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "turquoise water cave reflection"
+  },
+  {
+   "narration": "That makes the blue and white swirls glow.",
+   "emoji": "✨",
+   "headline": "THE ROCK GLOWS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Marble Caves blue swirls"
+  },
+  {
+   "narration": "Your boat glides through carved blue marble.",
+   "emoji": "🚣",
+   "headline": "CARVED BY A LAKE",
+   "stat": "",
+   "sub": "Tomorrow: coffee that climbs by itself",
+   "visual_query": "Marble Caves Chile"
+  }
+ ]
+}

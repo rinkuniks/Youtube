@@ -1,0 +1,94 @@
+{
+ "category": "geography",
+ "topic": "Madha and Nahwa enclave inside enclave",
+ "hook": "Your map of the UAE has a piece of Oman inside it.",
+ "title": "A UAE Village Inside Oman Inside the UAE",
+ "description": "Madha is an Omani enclave surrounded by the UAE, and inside Madha sits Nahwa, a village that belongs to the UAE. Borders really can nest inside borders. Series: Places That Shouldn't Exist.\n\n#Shorts #Geography #PlacesThatShouldntExist",
+ "tags": [
+  "madha",
+  "nahwa",
+  "enclave",
+  "oman",
+  "uae",
+  "borders",
+  "geography facts",
+  "places that shouldnt exist",
+  "shorts"
+ ],
+ "comment_prompt": "Would you visit this border? Yes or no",
+ "hook_banner": "THIS PLACE IS REAL",
+ "scenes": [
+  {
+   "narration": "Your map of the UAE has a piece of Oman inside it.",
+   "emoji": "🗺️",
+   "headline": "OMAN INSIDE UAE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Madha Oman UAE map"
+  },
+  {
+   "narration": "It's called Madha, and it's Omani land.",
+   "emoji": "🇴🇲",
+   "headline": "MADHA",
+   "stat": "",
+   "sub": "Omani enclave",
+   "visual_query": "Madha enclave map"
+  },
+  {
+   "narration": "UAE territory surrounds it on every side.",
+   "emoji": "🇦🇪",
+   "headline": "SURROUNDED BY UAE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "UAE Oman border"
+  },
+  {
+   "narration": "Now zoom in further.",
+   "emoji": "🔍",
+   "headline": "ZOOM IN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "satellite map zoom"
+  },
+  {
+   "narration": "Inside Madha sits Nahwa, a UAE village.",
+   "emoji": "🏘️",
+   "headline": "NAHWA",
+   "stat": "",
+   "sub": "A UAE village",
+   "visual_query": "Nahwa village"
+  },
+  {
+   "narration": "A UAE village inside Oman inside the UAE.",
+   "emoji": "🔁",
+   "headline": "NESTED BORDERS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "enclave map border"
+  },
+  {
+   "narration": "Borders can nest inside borders like this.",
+   "emoji": "🧩",
+   "headline": "BORDERS IN BORDERS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border enclave aerial"
+  },
+  {
+   "narration": "Your map's UAE contains Oman, which contains the UAE.",
+   "emoji": "🌍",
+   "headline": "UAE, OMAN, UAE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "UAE map"
+  },
+  {
+   "narration": "Tomorrow: a capital city that's sinking.",
+   "emoji": "🌊",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "A sinking capital",
+   "visual_query": "Jakarta flooding"
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Chefchaouen Blue Pearl",
+ "hook": "Your walk in Chefchaouen is a walk through blue.",
+ "title": "The Moroccan Town Painted Blue",
+ "description": "Chefchaouen in northern Morocco is famous for its blue-painted walls, doors and stairs. Its old town is known as the Blue Pearl. India has a Blue City too, Jodhpur, but this one feels different. Part of the Places That Shouldn't Exist series.\n\n#Shorts #Morocco #Chefchaouen",
+ "tags": [
+  "Chefchaouen",
+  "Morocco",
+  "Blue Pearl",
+  "blue city",
+  "travel",
+  "geography facts",
+  "Jodhpur",
+  "shorts"
+ ],
+ "comment_prompt": "Would you visit? Yes or no",
+ "hook_banner": "THIS PLACE IS REAL",
+ "scenes": [
+  {
+   "narration": "Your walk in Chefchaouen is a walk through blue.",
+   "emoji": "💙",
+   "headline": "A Town Of Blue",
+   "stat": "",
+   "sub": "Chefchaouen, Morocco",
+   "visual_query": "Chefchaouen blue street"
+  },
+  {
+   "narration": "Walls, doors and stairs are painted blue.",
+   "emoji": "🪜",
+   "headline": "Blue Walls And Stairs",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chefchaouen blue stairs"
+  },
+  {
+   "narration": "The old town is called the Blue Pearl.",
+   "emoji": "🔵",
+   "headline": "The Blue Pearl",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chefchaouen medina blue"
+  },
+  {
+   "narration": "It sits in the mountains of northern Morocco.",
+   "emoji": "⛰️",
+   "headline": "Northern Morocco",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chefchaouen Rif mountains"
+  },
+  {
+   "narration": "Rajasthan has its own Blue City, Jodhpur.",
+   "emoji": "🇮🇳",
+   "headline": "India's Blue City",
+   "stat": "",
+   "sub": "Jodhpur",
+   "visual_query": "Jodhpur blue city"
+  },
+  {
+   "narration": "Here the blue spreads through nearly every lane.",
+   "emoji": "🏘️",
+   "headline": "Blue Everywhere",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chefchaouen blue alley"
+  },
+  {
+   "narration": "Even the stairs are blue.",
+   "emoji": "📸",
+   "headline": "Even The Stairs",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chefchaouen blue doorway"
+  },
+  {
+   "narration": "So your walk never leaves the blue.",
+   "emoji": "🚶",
+   "headline": "Never Leaves The Blue",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chefchaouen tourists walking"
+  },
+  {
+   "narration": "Tomorrow: another place that shouldn't exist.",
+   "emoji": "➡️",
+   "headline": "Tomorrow: Another Place",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map globe"
+  }
+ ]
+}

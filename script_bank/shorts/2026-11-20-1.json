@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Atal Tunnel under Rohtang",
+ "hook": "Your drive here goes 9 km under a Himalayan pass.",
+ "title": "The World's Longest High-Altitude Tunnel",
+ "description": "The Atal Tunnel in Himachal Pradesh runs about 9 km beneath the Rohtang Pass. It is the longest highway tunnel in the world above 10,000 feet. It keeps this Himalayan road open when snow blocks the pass.\n\n#Shorts #Geography #India",
+ "tags": [
+  "Atal Tunnel",
+  "Rohtang Pass",
+  "Himachal Pradesh",
+  "Manali",
+  "India",
+  "geography facts",
+  "longest tunnel",
+  "Shorts"
+ ],
+ "comment_prompt": "Would you drive it? Yes or no",
+ "hook_banner": "THIS TUNNEL IS REAL",
+ "scenes": [
+  {
+   "narration": "Your drive here goes nine kilometres under a Himalayan pass.",
+   "emoji": "🏔️",
+   "headline": "UNDER THE PASS",
+   "stat": "9 km",
+   "sub": "",
+   "visual_query": "Atal Tunnel Rohtang"
+  },
+  {
+   "narration": "This is the Atal Tunnel, in Himachal.",
+   "emoji": "🚗",
+   "headline": "ATAL TUNNEL",
+   "stat": "",
+   "sub": "Himachal Pradesh",
+   "visual_query": "Atal Tunnel entrance Manali"
+  },
+  {
+   "narration": "It runs beneath the famous Rohtang Pass.",
+   "emoji": "❄️",
+   "headline": "ROHTANG PASS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rohtang Pass snow"
+  },
+  {
+   "narration": "Snow used to close that road for months.",
+   "emoji": "🌨️",
+   "headline": "SNOWED IN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Himalaya road snow"
+  },
+  {
+   "narration": "Now cars drive straight through the mountain.",
+   "emoji": "🛣️",
+   "headline": "STRAIGHT THROUGH",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tunnel highway cars"
+  },
+  {
+   "narration": "It's above ten thousand feet.",
+   "emoji": "📏",
+   "headline": "10,000+ FEET",
+   "stat": "10,000 ft",
+   "sub": "",
+   "visual_query": "Himalaya mountains Lahaul"
+  },
+  {
+   "narration": "No highway tunnel is longer at that height.",
+   "emoji": "🏆",
+   "headline": "WORLD'S LONGEST",
+   "stat": "",
+   "sub": "above 10,000 ft",
+   "visual_query": "Atal Tunnel interior"
+  },
+  {
+   "narration": "Your road now goes under the Himalayas.",
+   "emoji": "🏔️",
+   "headline": "UNDER THE PASS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Himalaya tunnel Manali"
+  },
+  {
+   "narration": "Tomorrow: a train bridge that lifts into the air.",
+   "emoji": "➡️",
+   "headline": "UP NEXT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pamban Bridge lift"
+  }
+ ]
+}

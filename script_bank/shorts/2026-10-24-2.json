@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Lonar lake turned pink",
+ "hook": "Your Maps view of Lonar shows a round lake that turned pink.",
+ "title": "This Indian Lake Turned Pink Overnight",
+ "description": "Lonar Lake in Maharashtra sits inside a crater formed by a meteor impact. In 2020 its water turned pink, and scientists linked the change to microorganisms in the salty water. Part of the Places That Shouldn't Exist series.\n\n#Shorts #LonarLake #IndiaFacts",
+ "tags": [
+  "lonar lake",
+  "pink lake",
+  "maharashtra",
+  "meteor crater",
+  "india facts",
+  "places that shouldn't exist",
+  "geography",
+  "amazing facts"
+ ],
+ "comment_prompt": "Seen it in person? Yes or no",
+ "hook_banner": "A REAL PINK LAKE",
+ "scenes": [
+  {
+   "narration": "Your Maps view of Lonar shows a perfectly round lake.",
+   "emoji": "🗺️",
+   "headline": "A Perfectly Round Lake",
+   "stat": "",
+   "sub": "Lonar, Maharashtra",
+   "visual_query": "Lonar lake aerial view"
+  },
+  {
+   "narration": "In 2020, its water turned pink.",
+   "emoji": "🩷",
+   "headline": "The Water Turned Pink",
+   "stat": "2020",
+   "sub": "",
+   "visual_query": "Lonar lake pink water"
+  },
+  {
+   "narration": "That is not a filter or an edit.",
+   "emoji": "📸",
+   "headline": "Not A Filter",
+   "stat": "",
+   "sub": "",
+   "visual_query": "pink lake shore"
+  },
+  {
+   "narration": "The lake sits inside a meteor crater.",
+   "emoji": "☄️",
+   "headline": "A Meteor Crater",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lonar crater"
+  },
+  {
+   "narration": "Its water is very salty.",
+   "emoji": "🧂",
+   "headline": "Very Salty Water",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lonar lake salt shore"
+  },
+  {
+   "narration": "Scientists linked the colour to tiny microbes.",
+   "emoji": "🔬",
+   "headline": "Tiny Microbes",
+   "stat": "",
+   "sub": "Blamed for the colour",
+   "visual_query": "microorganisms microscope"
+  },
+  {
+   "narration": "Space rock made a hole, then life painted it.",
+   "emoji": "🎨",
+   "headline": "Rock Made It, Life Painted It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lonar lake pink crater"
+  },
+  {
+   "narration": "Your round pink lake is real.",
+   "emoji": "📍",
+   "headline": "Round, Pink, Real",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lonar lake sunrise"
+  },
+  {
+   "narration": "Tomorrow: the astronaut who got stuck in space.",
+   "emoji": "➡️",
+   "headline": "Next: Stuck In Space",
+   "stat": "",
+   "sub": "",
+   "visual_query": "International Space Station"
+  }
+ ]
+}

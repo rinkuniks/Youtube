@@ -1,0 +1,643 @@
+{
+ "topic": "Valga-Valka, the Estonia-Latvia town split between two countries",
+ "hook": "Your evening walk in this town takes you from Estonia to Latvia and back, and you never show a passport.",
+ "title": "Valga-Valka: 1 Town, 2 Countries, 1 British Colonel",
+ "description": "Valga in Estonia and Valka in Latvia are one town split between two countries, and a street, a square and a park all straddle the border. This video walks through seven true surprises: the 1917 Latvian independence decision, the British colonel who drew the line in 1920, the Soviet years with no border, and the Schengen era that followed. Watch to the end for the strangest part of the walk.\n\n#Geography #Borders #Estonia",
+ "tags": [
+  "Valga Valka",
+  "Estonia Latvia border",
+  "town split between two countries",
+  "strange borders",
+  "weird geography",
+  "Baltic states",
+  "border towns",
+  "Schengen",
+  "facts that sound fake",
+  "geography facts",
+  "Estonia",
+  "Latvia",
+  "Why is it stranger than you think"
+ ],
+ "comment_prompt": "Which border would you walk across daily?",
+ "hook_banner": "ONE TOWN, TWO COUNTRIES",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "Older than both countries",
+   "scene": 6
+  },
+  {
+   "title": "A country decided in Valka",
+   "scene": 14
+  },
+  {
+   "title": "A British colonel draws the line",
+   "scene": 20
+  },
+  {
+   "title": "The border that vanished",
+   "scene": 31
+  },
+  {
+   "title": "The checks end in 2007",
+   "scene": 40
+  },
+  {
+   "title": "Choosing your country",
+   "scene": 50
+  },
+  {
+   "title": "A street, square and park",
+   "scene": 62
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your evening walk in this town takes you from Estonia to Latvia and back, and you never show a passport.",
+   "emoji": "🚶",
+   "headline": "Two Countries, One Walk",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Valga Valka border"
+  },
+  {
+   "narration": "One small town, two countries, and a street, a square and a park that all sit across the line.",
+   "emoji": "🗺️",
+   "headline": "One Town, Two Countries",
+   "stat": "",
+   "sub": "Valga and Valka",
+   "visual_query": "Valga town square"
+  },
+  {
+   "narration": "By the end, you'll see how a British officer, a Soviet empire and a treaty turned one town into two.",
+   "emoji": "🎖️",
+   "headline": "How It Happened",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Estonia Latvia map"
+  },
+  {
+   "narration": "This is Valga in Estonia and Valka in Latvia, and it is a real place you can walk through today.",
+   "emoji": "📍",
+   "headline": "Valga and Valka",
+   "stat": "",
+   "sub": "Estonia | Latvia",
+   "visual_query": "Valka Latvia town"
+  },
+  {
+   "narration": "And the strangest part is not the border itself. It is how normal it feels to the people living there.",
+   "emoji": "😮",
+   "headline": "Strangely Normal",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Valga street people"
+  },
+  {
+   "narration": "We'll go through seven surprises, and each one is stranger than the last. Let's start with how old this town is.",
+   "emoji": "7️⃣",
+   "headline": "Seven Surprises",
+   "stat": "7",
+   "sub": "",
+   "visual_query": "Valga old town"
+  },
+  {
+   "narration": "First surprise: this town is far older than the modern border that cuts through it.",
+   "emoji": "🏰",
+   "headline": "Older Than The Border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Valga church"
+  },
+  {
+   "narration": "Valga is first mentioned in 1286, in the age of castles, long before Estonia and Latvia existed as modern countries.",
+   "emoji": "📜",
+   "headline": "First Mentioned",
+   "stat": "1286",
+   "sub": "",
+   "visual_query": "medieval castle Estonia"
+  },
+  {
+   "narration": "On the Latvian side, Valka received town rights in 1584 from Stefan Batory, the Polish-Lithuanian king.",
+   "emoji": "👑",
+   "headline": "Town Rights Granted",
+   "stat": "1584",
+   "sub": "Valka",
+   "visual_query": "Stefan Batory portrait"
+  },
+  {
+   "narration": "A king far away gave Valka its rights, and centuries later it would become a border town.",
+   "emoji": "🏘️",
+   "headline": "A King's Gift",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Valka Latvia street"
+  },
+  {
+   "narration": "Then in the late 1800s the railway came, and the town became an important junction.",
+   "emoji": "🚂",
+   "headline": "The Railway Arrives",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Valga railway station"
+  },
+  {
+   "narration": "Trains brought workers and shops. In 1881 about 4,200 people lived here, and by the end of World War One over twenty thousand.",
+   "emoji": "📈",
+   "headline": "Fast Growth",
+   "stat": "20,000+",
+   "sub": "from about 4,200 in 1881",
+   "visual_query": "old railway station"
+  },
+  {
+   "narration": "So by 1917, this was one busy place, with Estonians and Latvians living side by side.",
+   "emoji": "👥",
+   "headline": "Side By Side",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Valga old photograph"
+  },
+  {
+   "narration": "But the next part is where this town helps create a whole country.",
+   "emoji": "⏭️",
+   "headline": "A Country Is Born",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Latvia flag"
+  },
+  {
+   "narration": "Second surprise: one half of this town helped create a country. Latvia's story has a chapter written in Valka.",
+   "emoji": "🇱🇻",
+   "headline": "Latvia's Big Moment",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Valka Latvia"
+  },
+  {
+   "narration": "On 15 November 1917, the Latvian Provisional National Council decided to proclaim an independent Republic of Latvia, in Valka.",
+   "emoji": "📅",
+   "headline": "15 November 1917",
+   "stat": "1917",
+   "sub": "",
+   "visual_query": "Latvian independence historic"
+  },
+  {
+   "narration": "That was during the First World War, when nobody was sure which empire would win or which maps would survive.",
+   "emoji": "🌍",
+   "headline": "A War, A Decision",
+   "stat": "",
+   "sub": "",
+   "visual_query": "World War One Europe map"
+  },
+  {
+   "narration": "So a modest railway town became a place where a nation's future was discussed. Hold that thought.",
+   "emoji": "💭",
+   "headline": "A Railway Town Matters",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Valka railway"
+  },
+  {
+   "narration": "Because just a few years later, that same town was the centre of an argument between two new countries.",
+   "emoji": "⚖️",
+   "headline": "Two Countries Argue",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Estonia Latvia border sign"
+  },
+  {
+   "narration": "Both Estonia and Latvia wanted Valga and Valka. And the people living there did not make the choice easy.",
+   "emoji": "🤔",
+   "headline": "Who Gets The Town?",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Valga Valka map"
+  },
+  {
+   "narration": "Third surprise: the line through this town was drawn by a British colonel who did not live there.",
+   "emoji": "🎖️",
+   "headline": "A British Colonel",
+   "stat": "",
+   "sub": "",
+   "visual_query": "British army colonel 1920"
+  },
+  {
+   "narration": "Estonia and Latvia could not agree where the border should go, and the town could not be cut cleanly.",
+   "emoji": "✂️",
+   "headline": "No Clean Cut",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border line map"
+  },
+  {
+   "narration": "The population was split almost evenly between Estonians and Latvians, so there was no easy way to divide it.",
+   "emoji": "⚖️",
+   "headline": "Almost 50-50",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Estonian Latvian flags"
+  },
+  {
+   "narration": "An international commission with British, Latvian and Estonian members tried, but they could not decide.",
+   "emoji": "🏛️",
+   "headline": "The Commission Fails",
+   "stat": "",
+   "sub": "",
+   "visual_query": "commission meeting 1920"
+  },
+  {
+   "narration": "So the chairman of the court of arbitration, a British colonel named Tallents, made the final decision.",
+   "emoji": "✍️",
+   "headline": "Colonel Tallents Decides",
+   "stat": "",
+   "sub": "",
+   "visual_query": "arbitration document signing"
+  },
+  {
+   "narration": "His ruling gave the main part of the town to Estonia, and the suburban part to Latvia.",
+   "emoji": "🇪🇪",
+   "headline": "Main Town: Estonia",
+   "stat": "",
+   "sub": "Suburbs: Latvia",
+   "visual_query": "Estonia flag town"
+  },
+  {
+   "narration": "The line followed a small creek running through the area. A creek decided where two nations begin.",
+   "emoji": "🌊",
+   "headline": "A Creek Decides",
+   "stat": "",
+   "sub": "",
+   "visual_query": "small creek bridge"
+  },
+  {
+   "narration": "It took effect on 1 July 1920, and it is still the reason the town has two names today.",
+   "emoji": "📆",
+   "headline": "1 July 1920",
+   "stat": "1920",
+   "sub": "",
+   "visual_query": "Valga street sign"
+  },
+  {
+   "narration": "Imagine waking up one summer and learning that your street now belonged to a different country.",
+   "emoji": "🏠",
+   "headline": "Your Street, New Country",
+   "stat": "",
+   "sub": "",
+   "visual_query": "quiet town street houses"
+  },
+  {
+   "narration": "Think of a cricket pitch cut in half by a rope. Same ground, but now two sets of rules.",
+   "emoji": "🏏",
+   "headline": "Same Ground, Two Rules",
+   "stat": "",
+   "sub": "",
+   "visual_query": "cricket ground rope"
+  },
+  {
+   "narration": "You might expect a border like that to feel serious. But for decades, it hardly mattered at all.",
+   "emoji": "🤯",
+   "headline": "Then It Vanished",
+   "stat": "",
+   "sub": "",
+   "visual_query": "empty border road"
+  },
+  {
+   "narration": "Fourth surprise: for years, this international border did not exist as a real border at all.",
+   "emoji": "👻",
+   "headline": "The Missing Border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Soviet era street Estonia"
+  },
+  {
+   "narration": "In 1940 the Soviet occupation began, and both Estonia and Latvia came under the same Soviet control.",
+   "emoji": "☭",
+   "headline": "Soviet Control",
+   "stat": "1940",
+   "sub": "",
+   "visual_query": "Soviet flag"
+  },
+  {
+   "narration": "Under Soviet rule, the physical border between the two towns was non-existent. You could stroll across as if it was one place.",
+   "emoji": "🚶",
+   "headline": "No Physical Border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Valga Valka street"
+  },
+  {
+   "narration": "Yet each half of the town kept going on its own, with its own life and its own story.",
+   "emoji": "🏘️",
+   "headline": "Two Halves, Own Lives",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Latvian town street"
+  },
+  {
+   "narration": "That period also brought mass deportations of Estonians and Latvians from both towns, a painful chapter in their history.",
+   "emoji": "🕯️",
+   "headline": "A Painful Chapter",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baltic deportation memorial"
+  },
+  {
+   "narration": "Neighbours could cross without thinking, because both halves were part of the same big state.",
+   "emoji": "🤝",
+   "headline": "Cross Without Thinking",
+   "stat": "",
+   "sub": "",
+   "visual_query": "two neighbours talking street"
+  },
+  {
+   "narration": "Then came 1991. Both countries regained independence, and the border in Valga and Valka was set up again.",
+   "emoji": "🗽",
+   "headline": "Border Returns",
+   "stat": "1991",
+   "sub": "",
+   "visual_query": "Estonia independence 1991"
+  },
+  {
+   "narration": "Imagine a line you had forgotten, suddenly drawn back across your own neighbourhood. That is what happened here.",
+   "emoji": "✏️",
+   "headline": "A Line Redrawn",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border marker post"
+  },
+  {
+   "narration": "Hold on, though. Because the border was about to change a second time, and this time it would melt away.",
+   "emoji": "⏭️",
+   "headline": "It Changes Again",
+   "stat": "",
+   "sub": "",
+   "visual_query": "open border road"
+  },
+  {
+   "narration": "Fifth surprise: ordinary border checks here ended in 2007, and the towns could finally flow into each other again.",
+   "emoji": "🛂",
+   "headline": "Checks End",
+   "stat": "2007",
+   "sub": "",
+   "visual_query": "Schengen sign"
+  },
+  {
+   "narration": "On 21 December 2007, Estonia and Latvia joined the Schengen zone, which lets people travel without passport checks.",
+   "emoji": "🇪🇺",
+   "headline": "Joining Schengen",
+   "stat": "21 Dec 2007",
+   "sub": "",
+   "visual_query": "Schengen border sign"
+  },
+  {
+   "narration": "In Valga and Valka, that meant the streets could simply flow into each other again.",
+   "emoji": "🛣️",
+   "headline": "Streets Flow Together",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Valga Valka road"
+  },
+  {
+   "narration": "Both countries also use the euro, so the money in your pocket works on both sides of the line.",
+   "emoji": "💶",
+   "headline": "One Currency",
+   "stat": "",
+   "sub": "Euro",
+   "visual_query": "euro coins notes"
+  },
+  {
+   "narration": "Both are also in the same time zone, so your phone clock doesn't change when you cross.",
+   "emoji": "🕐",
+   "headline": "Same Time Zone",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone clock"
+  },
+  {
+   "narration": "Think about what that means: you can buy bread in Latvia and have coffee in Estonia during one short walk.",
+   "emoji": "☕",
+   "headline": "Bread, Then Coffee",
+   "stat": "",
+   "sub": "",
+   "visual_query": "bakery coffee cafe"
+  },
+  {
+   "narration": "Valga's station has a city bus, number 3, that links the twin towns three times a day.",
+   "emoji": "🚌",
+   "headline": "Bus Number 3",
+   "stat": "3",
+   "sub": "trips a day",
+   "visual_query": "city bus Estonia"
+  },
+  {
+   "narration": "For most of us, a bus ride that crosses a country border sounds almost unreal. Here it is a normal commute.",
+   "emoji": "🤯",
+   "headline": "A Border Bus Ride",
+   "stat": "",
+   "sub": "",
+   "visual_query": "bus stop passengers"
+  },
+  {
+   "narration": "If you enjoy strange places like this, subscribe, because there are more true geography surprises coming.",
+   "emoji": "🔔",
+   "headline": "More Strange Places",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map globe"
+  },
+  {
+   "narration": "But the real surprise is how people have quietly started using this open border to their advantage.",
+   "emoji": "💡",
+   "headline": "A Quiet Trend",
+   "stat": "",
+   "sub": "",
+   "visual_query": "people walking town"
+  },
+  {
+   "narration": "Sixth surprise: in 2016 it was reported that many Valka residents had registered themselves as residents of Valga.",
+   "emoji": "📝",
+   "headline": "Switching Sides",
+   "stat": "2016",
+   "sub": "",
+   "visual_query": "registration form document"
+  },
+  {
+   "narration": "The reason given was simple: better welfare and higher salaries on the Estonian side.",
+   "emoji": "💰",
+   "headline": "Better Pay, Better Welfare",
+   "stat": "",
+   "sub": "",
+   "visual_query": "salary money euro"
+  },
+  {
+   "narration": "So choosing your country can come down to which side of a small town supports you better.",
+   "emoji": "⚖️",
+   "headline": "Choosing A Country",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Estonia Latvia flags"
+  },
+  {
+   "narration": "It is a bit like choosing which side of a city boundary to register your home, except the boundary is a country.",
+   "emoji": "🏙️",
+   "headline": "A Country-Sized Boundary",
+   "stat": "",
+   "sub": "",
+   "visual_query": "city boundary sign"
+  },
+  {
+   "narration": "The towns even use a slogan: One Town, Two Countries. It sounds like a joke, but it fits perfectly.",
+   "emoji": "💬",
+   "headline": "One Town, Two Countries",
+   "stat": "",
+   "sub": "The slogan",
+   "visual_query": "Valga Valka sign"
+  },
+  {
+   "narration": "Valga has about twelve thousand people, and Valka about six thousand, so Valka is roughly half the size.",
+   "emoji": "👥",
+   "headline": "Valga vs Valka",
+   "stat": "12,000 / 6,000",
+   "sub": "approx. population",
+   "visual_query": "Valga aerial town"
+  },
+  {
+   "narration": "Together that is a little over eighteen thousand people, and about thirty square kilometres of land.",
+   "emoji": "📏",
+   "headline": "A Small Place",
+   "stat": "18,000",
+   "sub": "people, about 30 sq km",
+   "visual_query": "Valka aerial view"
+  },
+  {
+   "narration": "Imagine two neighbouring wards in one Indian city, except each ward has its own government and its own flag.",
+   "emoji": "🇮🇳",
+   "headline": "Two Wards, Two Flags",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Indian city street"
+  },
+  {
+   "narration": "Quick recap before the finale: a town older than both countries, and a nation's decision made in Valka.",
+   "emoji": "🔁",
+   "headline": "Recap: Part One",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Valka historic building"
+  },
+  {
+   "narration": "A British colonel who drew a line in 1920, and a Soviet era when that line barely mattered.",
+   "emoji": "🎖️",
+   "headline": "Recap: Part Two",
+   "stat": "",
+   "sub": "",
+   "visual_query": "British colonel Tallents"
+  },
+  {
+   "narration": "Then 1991 brought the border back, and 2007 brought ordinary checks to an end, so the two towns joined hands again.",
+   "emoji": "🤝",
+   "headline": "Recap: Part Three",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Schengen border crossing"
+  },
+  {
+   "narration": "Final surprise, the one I promised: in Valga and Valka, a street, a square and a park all straddle the border.",
+   "emoji": "🏁",
+   "headline": "Street, Square, Park",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Valga Valka border street"
+  },
+  {
+   "narration": "That means you can stand on one street with one foot in Estonia and one foot in Latvia.",
+   "emoji": "🦶",
+   "headline": "One Foot Each Side",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border line pavement"
+  },
+  {
+   "narration": "A town square is where people meet, shop and argue. Here, that same square sits across two countries.",
+   "emoji": "🏛️",
+   "headline": "A Square In Two Countries",
+   "stat": "",
+   "sub": "",
+   "visual_query": "town square Estonia"
+  },
+  {
+   "narration": "A park is where children play. Here, children can play in a park that sits across two nations.",
+   "emoji": "🌳",
+   "headline": "A Park Across Borders",
+   "stat": "",
+   "sub": "",
+   "visual_query": "park Valga Latvia"
+  },
+  {
+   "narration": "Most borders you picture have fences and guards. Here, the border runs through everyday places.",
+   "emoji": "🚧",
+   "headline": "A Border In Daily Life",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border marker pavement"
+  },
+  {
+   "narration": "So when someone says 'I'm going to the park', they may also be saying 'I'm going abroad'.",
+   "emoji": "✈️",
+   "headline": "Going To The Park = Abroad",
+   "stat": "",
+   "sub": "",
+   "visual_query": "people walking park"
+  },
+  {
+   "narration": "Two names, two languages, two countries, and one set of streets. That is what Valga and Valka mean for locals.",
+   "emoji": "🗣️",
+   "headline": "Two Names, Two Languages",
+   "stat": "",
+   "sub": "Estonian | Latvian",
+   "visual_query": "bilingual street sign"
+  },
+  {
+   "narration": "And remember how it began: a British colonel, a small creek, and a decision made in 1920.",
+   "emoji": "🎖️",
+   "headline": "Colonel, Creek, 1920",
+   "stat": "1920",
+   "sub": "",
+   "visual_query": "creek Valga Valka"
+  },
+  {
+   "narration": "A line drawn when the population was almost evenly split still runs through everything in the town today.",
+   "emoji": "➖",
+   "headline": "A Line That Stayed",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Valga Valka aerial"
+  },
+  {
+   "narration": "Picture the map: a thin line, thirty square kilometres of town, and two flags flying side by side.",
+   "emoji": "🗺️",
+   "headline": "Thin Line, Two Flags",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Estonia Latvia flags together"
+  },
+  {
+   "narration": "That is why this town is stranger than you think: your evening walk can take you from Estonia to Latvia and back.",
+   "emoji": "🔄",
+   "headline": "Estonia, Latvia, Back",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Valga Valka walking"
+  },
+  {
+   "narration": "Next up: a country completely surrounded by another country, and how people live inside it.",
+   "emoji": "➡️",
+   "headline": "Next: A Country Inside",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lesotho mountains"
+  }
+ ]
+}

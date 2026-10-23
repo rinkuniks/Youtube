@@ -1,0 +1,86 @@
+{
+ "category": "geography",
+ "topic": "Kiruna relocation",
+ "hook": "Your whole town gets moved if the ground below it is worth more.",
+ "title": "A Whole Swedish Town Is Being Moved",
+ "description": "Kiruna in northern Sweden sits on a huge iron ore mine, and the ground under the town centre is becoming unstable. So the town is being relocated, including its church. Part of the series: Places That Shouldn't Exist.\n\n#Shorts #Kiruna #Geography",
+ "tags": [
+  "Kiruna",
+  "Sweden",
+  "town moved",
+  "mining",
+  "church moved",
+  "geography facts",
+  "Places That Shouldn't Exist",
+  "weird places",
+  "shorts"
+ ],
+ "comment_prompt": "Would you move? Yes or no",
+ "hook_banner": "A TOWN ON THE MOVE",
+ "scenes": [
+  {
+   "narration": "Imagine your whole town being picked up and moved.",
+   "emoji": "🏘️",
+   "headline": "TOWN BEING MOVED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kiruna Sweden town"
+  },
+  {
+   "narration": "This is Kiruna, in northern Sweden.",
+   "emoji": "🇸🇪",
+   "headline": "KIRUNA, SWEDEN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kiruna winter"
+  },
+  {
+   "narration": "Right under it sits a giant iron mine.",
+   "emoji": "⛏️",
+   "headline": "GIANT IRON MINE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kiruna iron ore mine"
+  },
+  {
+   "narration": "Mining makes the ground unstable.",
+   "emoji": "⚠️",
+   "headline": "GROUND IS UNSAFE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "open pit mine"
+  },
+  {
+   "narration": "So the town centre is relocating.",
+   "emoji": "🚚",
+   "headline": "RELOCATING",
+   "stat": "",
+   "sub": "buildings moved",
+   "visual_query": "building being moved truck"
+  },
+  {
+   "narration": "Even the church was moved, in one piece.",
+   "emoji": "⛪",
+   "headline": "THE CHURCH MOVED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kiruna church"
+  },
+  {
+   "narration": "It rolled several kilometres across town.",
+   "emoji": "🛣️",
+   "headline": "ROLLED ACROSS TOWN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "church moving road"
+  },
+  {
+   "narration": "A whole town, moved for the ground below. Next: India on the Moon.",
+   "emoji": "🌙",
+   "headline": "TOWN ON THE MOVE",
+   "stat": "",
+   "sub": "Next: India on the Moon",
+   "visual_query": "Sweden town snow"
+  }
+ ]
+}

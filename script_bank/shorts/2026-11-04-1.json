@@ -1,0 +1,85 @@
+{
+ "category": "geography",
+ "topic": "Tonle Sap river reverses direction",
+ "hook": "Your boat on this river would suddenly start drifting backwards.",
+ "title": "A River That Flows Backwards Every Year",
+ "description": "Cambodia's Tonle Sap river changes direction twice a year. In the dry season it drains the lake into the Mekong. When the monsoon swells the Mekong, the water pushes back up into the lake.\n\n#Shorts #Geography #Cambodia",
+ "tags": [
+  "Tonle Sap",
+  "Cambodia",
+  "river reverses",
+  "Mekong",
+  "monsoon",
+  "geography facts",
+  "places that shouldn't exist",
+  "shorts"
+ ],
+ "comment_prompt": "Would you sail it? Yes or no",
+ "hook_banner": "RIVER FLOWS BACKWARDS",
+ "scenes": [
+  {
+   "narration": "Your boat here would suddenly drift backwards.",
+   "emoji": "🛶",
+   "headline": "RIVER FLOWS BACKWARDS",
+   "stat": "",
+   "sub": "Tonle Sap, Cambodia",
+   "visual_query": "Tonle Sap river boat"
+  },
+  {
+   "narration": "This is the Tonle Sap river in Cambodia.",
+   "emoji": "🇰🇭",
+   "headline": "TONLE SAP, CAMBODIA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cambodia river village"
+  },
+  {
+   "narration": "In the dry season, it flows toward the Mekong.",
+   "emoji": "➡️",
+   "headline": "DRY SEASON: OUT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mekong river"
+  },
+  {
+   "narration": "Then the monsoon rains arrive.",
+   "emoji": "🌧️",
+   "headline": "MONSOON ARRIVES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "monsoon rain river"
+  },
+  {
+   "narration": "The Mekong swells and pushes the water back.",
+   "emoji": "⬅️",
+   "headline": "THE MEKONG PUSHES BACK",
+   "stat": "",
+   "sub": "",
+   "visual_query": "flooded river Cambodia"
+  },
+  {
+   "narration": "The river reverses and fills a huge lake.",
+   "emoji": "🌊",
+   "headline": "THE RIVER REVERSES",
+   "stat": "",
+   "sub": "Every single year",
+   "visual_query": "Tonle Sap lake floating village"
+  },
+  {
+   "narration": "India's monsoon season does this to rivers too.",
+   "emoji": "🇮🇳",
+   "headline": "MONSOON POWER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India monsoon river flood"
+  },
+  {
+   "narration": "A river that flows backwards, every year. Tomorrow: an island shaped like a tree.",
+   "emoji": "🌴",
+   "headline": "TOMORROW: PALM ISLAND",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Palm Jumeirah aerial"
+  }
+ ]
+}

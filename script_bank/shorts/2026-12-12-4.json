@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Sputnik 1 beach-ball satellite",
+ "hook": "Your radio could have heard the first satellite.",
+ "title": "The First Satellite Was a Beach-Ball Beeper",
+ "description": "Sputnik 1 launched in 1957 and was only 58 cm wide. Its transmitter sent beeps that ordinary radios could pick up. Part of the series Places That Shouldn't Exist, from Earth to orbit.\n\n#Shorts #Space #Sputnik",
+ "tags": [
+  "sputnik",
+  "sputnik 1",
+  "first satellite",
+  "1957",
+  "space facts",
+  "space race",
+  "radio",
+  "shorts"
+ ],
+ "comment_prompt": "Would you have listened in? Yes or no",
+ "hook_banner": "BEEPS FROM ORBIT",
+ "scenes": [
+  {
+   "narration": "Your radio could have heard the first satellite.",
+   "emoji": "📻",
+   "headline": "Radio Heard Space",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sputnik 1 satellite"
+  },
+  {
+   "narration": "Sputnik 1 launched in 1957.",
+   "emoji": "🚀",
+   "headline": "Sputnik 1",
+   "stat": "1957",
+   "sub": "",
+   "visual_query": "Sputnik launch 1957"
+  },
+  {
+   "narration": "It was only 58 centimetres wide.",
+   "emoji": "📏",
+   "headline": "Only 58 cm Wide",
+   "stat": "58 cm",
+   "sub": "",
+   "visual_query": "Sputnik replica museum"
+  },
+  {
+   "narration": "That's about the size of a beach ball.",
+   "emoji": "🏖️",
+   "headline": "Beach Ball Size",
+   "stat": "",
+   "sub": "",
+   "visual_query": "beach ball"
+  },
+  {
+   "narration": "Inside, a transmitter sent out steady beeps.",
+   "emoji": "📡",
+   "headline": "Steady Beeps",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sputnik radio transmitter"
+  },
+  {
+   "narration": "Ordinary radios could pick up those beeps.",
+   "emoji": "📻",
+   "headline": "Radios Picked It Up",
+   "stat": "",
+   "sub": "",
+   "visual_query": "vintage radio 1950s"
+  },
+  {
+   "narration": "People listened to space from their living rooms.",
+   "emoji": "🏠",
+   "headline": "Space In Your Living Room",
+   "stat": "",
+   "sub": "",
+   "visual_query": "family listening vintage radio"
+  },
+  {
+   "narration": "One small beeping ball started the space age.",
+   "emoji": "🌍",
+   "headline": "The Space Age Began",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Earth from orbit"
+  },
+  {
+   "narration": "Tomorrow: a code that works while scribbled on.",
+   "emoji": "➡️",
+   "headline": "Tomorrow: Scribbled QR",
+   "stat": "",
+   "sub": "",
+   "visual_query": "QR code phone scan"
+  }
+ ]
+}

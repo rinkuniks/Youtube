@@ -1,0 +1,93 @@
+{
+ "category": "technology",
+ "topic": "Zipline blood drones in Rwanda",
+ "hook": "Your blood delivery can arrive by drone.",
+ "title": "Drones Drop Blood by Parachute in Rwanda",
+ "description": "In Rwanda, Zipline drones fly medical supplies, including blood, to health facilities. The drone does not land: it drops the package by parachute. Part of the series Tech That Sounds Fake.\n\n#Shorts #Technology #Drones",
+ "tags": [
+  "zipline",
+  "drone delivery",
+  "rwanda",
+  "medical drones",
+  "blood delivery",
+  "technology facts",
+  "parachute",
+  "tech that sounds fake"
+ ],
+ "comment_prompt": "Would you trust drone delivery? Yes or no",
+ "hook_banner": "DRONES CARRY BLOOD",
+ "scenes": [
+  {
+   "narration": "Your blood delivery can arrive by drone.",
+   "emoji": "🚁",
+   "headline": "BLOOD BY DRONE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Zipline drone flying"
+  },
+  {
+   "narration": "In Rwanda, Zipline drones fly medical supplies.",
+   "emoji": "🇷🇼",
+   "headline": "RWANDA",
+   "stat": "",
+   "sub": "Zipline drones",
+   "visual_query": "Zipline Rwanda launch"
+  },
+  {
+   "narration": "That includes blood for hospitals.",
+   "emoji": "🩸",
+   "headline": "BLOOD FOR HOSPITALS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "blood bag hospital"
+  },
+  {
+   "narration": "The drone never even lands.",
+   "emoji": "🛩️",
+   "headline": "IT NEVER LANDS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "drone flying over hills"
+  },
+  {
+   "narration": "It drops the package by parachute.",
+   "emoji": "🪂",
+   "headline": "PARACHUTE DROP",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Zipline parachute package"
+  },
+  {
+   "narration": "The box floats down to a small drop zone.",
+   "emoji": "📦",
+   "headline": "SMALL DROP ZONE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Zipline delivery package ground"
+  },
+  {
+   "narration": "Then the drone flies back to base.",
+   "emoji": "↩️",
+   "headline": "BACK TO BASE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Zipline drone catch"
+  },
+  {
+   "narration": "Your blood could come from the sky.",
+   "emoji": "☁️",
+   "headline": "DELIVERED FROM THE SKY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "drone sky Rwanda"
+  },
+  {
+   "narration": "Tomorrow: seven islands hiding in a city map.",
+   "emoji": "➡️",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "Seven hidden islands",
+   "visual_query": "Mumbai skyline sea"
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Hubble Ultra Deep Field thumbnail",
+ "hook": "Your outstretched thumbnail covers at least 10,000 galaxies.",
+ "title": "Your Thumbnail Covers 10,000 Galaxies",
+ "description": "Hubble stared at one tiny, dark patch of sky for days. The Ultra Deep Field image revealed about 10,000 galaxies in that spot, which is smaller than your thumbnail at arm's length. Every dot in it is a whole galaxy.\n\n#Shorts #Hubble #SpaceFacts",
+ "tags": [
+  "hubble",
+  "ultra deep field",
+  "galaxies",
+  "space facts",
+  "nasa",
+  "universe",
+  "astronomy",
+  "did you know"
+ ],
+ "comment_prompt": "Are we alone in all that? Yes or no",
+ "hook_banner": "ONE TINY PATCH",
+ "scenes": [
+  {
+   "narration": "Your outstretched thumbnail covers at least 10,000 galaxies.",
+   "emoji": "👍",
+   "headline": "Thumbnail Sky",
+   "stat": "10,000",
+   "sub": "galaxies",
+   "visual_query": "thumb arm outstretched sky"
+  },
+  {
+   "narration": "Hubble aimed at one dark, empty-looking patch.",
+   "emoji": "🔭",
+   "headline": "A Dark Patch",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hubble space telescope"
+  },
+  {
+   "narration": "It looked like nothing at all.",
+   "emoji": "⚫",
+   "headline": "Looked Empty",
+   "stat": "",
+   "sub": "",
+   "visual_query": "dark night sky"
+  },
+  {
+   "narration": "Hubble stared at it for days.",
+   "emoji": "⏳",
+   "headline": "Staring for Days",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hubble telescope orbit"
+  },
+  {
+   "narration": "Then galaxy after galaxy appeared.",
+   "emoji": "🌌",
+   "headline": "Galaxies Appear",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hubble Ultra Deep Field"
+  },
+  {
+   "narration": "About 10,000 of them, in that tiny spot.",
+   "emoji": "✨",
+   "headline": "10,000 In One Spot",
+   "stat": "10,000",
+   "sub": "",
+   "visual_query": "deep field galaxies"
+  },
+  {
+   "narration": "Every dot is a whole galaxy.",
+   "emoji": "🌀",
+   "headline": "Every Dot Is a Galaxy",
+   "stat": "",
+   "sub": "",
+   "visual_query": "spiral galaxy"
+  },
+  {
+   "narration": "Each one holds countless stars.",
+   "emoji": "⭐",
+   "headline": "Countless Stars",
+   "stat": "",
+   "sub": "",
+   "visual_query": "star field galaxy"
+  },
+  {
+   "narration": "Your thumbnail covers a sky full of galaxies.",
+   "emoji": "👍",
+   "headline": "Thumbnail Universe",
+   "stat": "",
+   "sub": "",
+   "visual_query": "thumb pointing at sky"
+  }
+ ]
+}

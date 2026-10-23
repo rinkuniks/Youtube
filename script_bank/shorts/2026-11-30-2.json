@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Bagan time in Assam tea gardens",
+ "hook": "Your watch in Assam's tea gardens runs an hour ahead.",
+ "title": "Your Watch Runs 1 Hour Ahead in Assam",
+ "description": "Many Assam tea gardens run on Bagan time, an informal clock one hour ahead of India's official time. It exists so workers can use the early daylight in the east. Part of the Places That Shouldn't Exist series.\n\n#Shorts #Assam #IndiaFacts",
+ "tags": [
+  "Assam",
+  "Bagan time",
+  "tea gardens",
+  "India facts",
+  "IST",
+  "time zone",
+  "geography facts",
+  "Places That Shouldn't Exist"
+ ],
+ "comment_prompt": "Would you switch to Bagan time? Yes or no",
+ "hook_banner": "TWO CLOCKS, ONE INDIA",
+ "scenes": [
+  {
+   "narration": "Your watch in Assam's tea gardens runs an hour ahead.",
+   "emoji": "⌚",
+   "headline": "AN HOUR AHEAD",
+   "stat": "",
+   "sub": "Assam tea gardens",
+   "visual_query": "Assam tea garden"
+  },
+  {
+   "narration": "It is called Bagan time.",
+   "emoji": "🍃",
+   "headline": "BAGAN TIME",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tea garden workers"
+  },
+  {
+   "narration": "India has one official time, IST.",
+   "emoji": "🇮🇳",
+   "headline": "ONE OFFICIAL TIME",
+   "stat": "IST",
+   "sub": "",
+   "visual_query": "India clock tower"
+  },
+  {
+   "narration": "Tea gardens keep their own clock anyway.",
+   "emoji": "🕐",
+   "headline": "THEIR OWN CLOCK",
+   "stat": "",
+   "sub": "",
+   "visual_query": "wall clock tea estate"
+  },
+  {
+   "narration": "Sunrise comes very early in Assam.",
+   "emoji": "🌅",
+   "headline": "EARLY SUNRISE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Assam sunrise tea"
+  },
+  {
+   "narration": "So workers start and finish earlier, using daylight.",
+   "emoji": "🧺",
+   "headline": "USE THE DAYLIGHT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tea leaf plucking"
+  },
+  {
+   "narration": "Same country, two clocks, one hour apart.",
+   "emoji": "🗺️",
+   "headline": "TWO CLOCKS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India map Assam"
+  },
+  {
+   "narration": "Your watch in Assam might be an hour ahead.",
+   "emoji": "⌚",
+   "headline": "CHECK YOUR WATCH",
+   "stat": "",
+   "sub": "",
+   "visual_query": "wristwatch tea plantation"
+  },
+  {
+   "narration": "Tomorrow: camels standing in front of snow peaks.",
+   "emoji": "🐪",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "Camels and snow",
+   "visual_query": "Nubra Valley camels"
+  }
+ ]
+}

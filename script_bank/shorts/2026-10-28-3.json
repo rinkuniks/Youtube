@@ -1,0 +1,86 @@
+{
+ "category": "space",
+ "topic": "Chandrayaan-3 south pole",
+ "hook": "Your Moon landing map has India at the south pole.",
+ "title": "India Landed Near the Moon's South Pole",
+ "description": "On 23 August 2023, Chandrayaan-3 touched down near the lunar south pole. The Pragyan rover then rolled out onto the surface. Part of the series: India In Space.\n\n#Shorts #Chandrayaan3 #Moon",
+ "tags": [
+  "Chandrayaan-3",
+  "ISRO",
+  "Moon",
+  "south pole",
+  "Pragyan rover",
+  "India space",
+  "Vikram lander",
+  "space facts",
+  "shorts"
+ ],
+ "comment_prompt": "Proud moment? Yes or no",
+ "hook_banner": "INDIA ON THE MOON",
+ "scenes": [
+  {
+   "narration": "Your Moon landing map has India at the south pole.",
+   "emoji": "🌕",
+   "headline": "INDIA ON THE MOON",
+   "stat": "",
+   "sub": "south pole",
+   "visual_query": "Moon south pole"
+  },
+  {
+   "narration": "Chandrayaan-3 touched down on 23 August 2023.",
+   "emoji": "📅",
+   "headline": "23 AUGUST 2023",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chandrayaan-3 lander"
+  },
+  {
+   "narration": "It landed near the Moon's south pole.",
+   "emoji": "🎯",
+   "headline": "NEAR THE SOUTH POLE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Vikram lander Moon surface"
+  },
+  {
+   "narration": "Then a ramp opened on the lander.",
+   "emoji": "🚪",
+   "headline": "THE RAMP OPENS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "lunar lander ramp"
+  },
+  {
+   "narration": "Out rolled the Pragyan rover.",
+   "emoji": "🤖",
+   "headline": "PRAGYAN ROLLS OUT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pragyan rover Moon"
+  },
+  {
+   "narration": "Its wheels left marks on the lunar dust.",
+   "emoji": "🛞",
+   "headline": "WHEEL TRACKS",
+   "stat": "",
+   "sub": "on the Moon",
+   "visual_query": "rover tracks lunar surface"
+  },
+  {
+   "narration": "Few places on the Moon are harder to reach.",
+   "emoji": "🧗",
+   "headline": "HARD PLACE TO REACH",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Moon craters pole"
+  },
+  {
+   "narration": "India is at the south pole. Next: India's first Mars try.",
+   "emoji": "🇮🇳",
+   "headline": "INDIA AT THE POLE",
+   "stat": "",
+   "sub": "Next: India's Mars try",
+   "visual_query": "ISRO Chandrayaan celebration"
+  }
+ ]
+}

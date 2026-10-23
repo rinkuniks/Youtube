@@ -1,0 +1,701 @@
+{
+ "topic": "Brazil-Uruguay border: Santana do Livramento and Rivera",
+ "hook": "Your street in Santana do Livramento ends in Uruguay, and nobody stops you.",
+ "title": "Why Brazil's Border With Uruguay Is Stranger Than You Think",
+ "description": "In Santana do Livramento, Brazil, a street runs straight into Rivera, Uruguay, and only markers or a park show where one country ends. This video walks through seven true facts about the Brazil-Uruguay border: a shared square, a mixed language, duty-free shops that turn locals away, clocks that once disagreed, a treaty for border families, and an avenue named for the neighbour. Watch to the end for the strangest street of all.\n\n#Geography #Borders #Brazil",
+ "tags": [
+  "Santana do Livramento",
+  "Rivera Uruguay",
+  "Brazil Uruguay border",
+  "Fronteira da Paz",
+  "strange borders",
+  "twin cities",
+  "border towns",
+  "geography facts",
+  "weird geography",
+  "Chuy Chui",
+  "Praca Internacional",
+  "portunol",
+  "facts that sound fake",
+  "Stranger Than You Think",
+  "South America facts"
+ ],
+ "comment_prompt": "Brazil or Uruguay: which side would you pick?",
+ "hook_banner": "ONE STREET, TWO COUNTRIES",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "One street, two countries",
+   "scene": 6
+  },
+  {
+   "title": "A park split by a border",
+   "scene": 16
+  },
+  {
+   "title": "A language that mixes two",
+   "scene": 26
+  },
+  {
+   "title": "Shops that refuse locals",
+   "scene": 35
+  },
+  {
+   "title": "When the clocks disagreed",
+   "scene": 45
+  },
+  {
+   "title": "A treaty for border families",
+   "scene": 55
+  },
+  {
+   "title": "The avenue named for each other",
+   "scene": 65
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your street in Santana do Livramento ends in Uruguay, and nobody stops you. No gate, no guard, only a marker.",
+   "emoji": "🛣️",
+   "headline": "A street into Uruguay",
+   "stat": "",
+   "sub": "No gate, no guard",
+   "visual_query": "Santana do Livramento street"
+  },
+  {
+   "narration": "Two towns, one built-up area: Brazil's Santana do Livramento and Uruguay's Rivera. Well over a lakh people live across the pair.",
+   "emoji": "🏙️",
+   "headline": "Two towns, one city",
+   "stat": "",
+   "sub": "Brazil and Uruguay",
+   "visual_query": "Rivera Uruguay city"
+  },
+  {
+   "narration": "By the end, you will see a park split by a border, shops that refuse locals, and clocks that disagreed.",
+   "emoji": "👀",
+   "headline": "What you will see",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Parque Internacional Livramento Rivera"
+  },
+  {
+   "narration": "You will also meet an avenue where Brazil's street is named Uruguay, and Uruguay's street is named Brazil.",
+   "emoji": "🛤️",
+   "headline": "Streets named for neighbours",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chuy Chui avenue"
+  },
+  {
+   "narration": "Seven strange facts about this border, and each one is stranger than the last. The final one sounds like a joke.",
+   "emoji": "7️⃣",
+   "headline": "Seven strange facts",
+   "stat": "7",
+   "sub": "Each one stranger",
+   "visual_query": "Brazil Uruguay map"
+  },
+  {
+   "narration": "Think of crossing a busy road in your own city. Now imagine that road is a line between two countries.",
+   "emoji": "🚦",
+   "headline": "A road that is a border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "busy city road crossing"
+  },
+  {
+   "narration": "Fact one: you can walk from Brazil to Uruguay without ever noticing.",
+   "emoji": "🚶",
+   "headline": "Walk into Uruguay",
+   "stat": "1",
+   "sub": "Fact one",
+   "visual_query": "pedestrians crossing border street"
+  },
+  {
+   "narration": "In Santana do Livramento, the streets simply carry on into Rivera. The buildings, shops and traffic barely change.",
+   "emoji": "🏘️",
+   "headline": "Streets carry on",
+   "stat": "",
+   "sub": "Livramento into Rivera",
+   "visual_query": "Rivera Uruguay street shops"
+  },
+  {
+   "narration": "Only a row of border markers tells you where one country stops. Many people walk past them every day without looking down.",
+   "emoji": "📍",
+   "headline": "Border markers",
+   "stat": "",
+   "sub": "Easy to miss",
+   "visual_query": "border marker pavement"
+  },
+  {
+   "narration": "Locals call it the Fronteira da Paz, the Border of Peace, because the line is open and easy to cross.",
+   "emoji": "🕊️",
+   "headline": "The Border of Peace",
+   "stat": "",
+   "sub": "Fronteira da Paz",
+   "visual_query": "Fronteira da Paz Livramento"
+  },
+  {
+   "narration": "Inside town there is no fence and no wall. A cyclist can cross countries without even slowing down.",
+   "emoji": "🚲",
+   "headline": "No fence, no wall",
+   "stat": "",
+   "sub": "",
+   "visual_query": "cyclist street Rivera"
+  },
+  {
+   "narration": "Everyday life flows across the line. People cross to shop, eat and visit family, often without a second thought.",
+   "emoji": "👨‍👩‍👧",
+   "headline": "Life flows across",
+   "stat": "",
+   "sub": "",
+   "visual_query": "people walking street Livramento"
+  },
+  {
+   "narration": "Imagine your neighbour lives in Brazil and you live in Uruguay, yet you share the same street life.",
+   "emoji": "🏠",
+   "headline": "Neighbours, two countries",
+   "stat": "",
+   "sub": "",
+   "visual_query": "houses street South America"
+  },
+  {
+   "narration": "The two towns grew up together. Rivera is the capital of its Uruguayan department, and Livramento is a Brazilian city of its own.",
+   "emoji": "🏛️",
+   "headline": "Twin cities",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rivera Uruguay plaza"
+  },
+  {
+   "narration": "And yet each side keeps its own flag, its own laws and its own money.",
+   "emoji": "🏳️",
+   "headline": "Two flags, two rulebooks",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Uruguay Brazil flags"
+  },
+  {
+   "narration": "But the best part of the border is not a street. It is a park, and it is next.",
+   "emoji": "🌳",
+   "headline": "Next: the park",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Parque Internacional Livramento"
+  },
+  {
+   "narration": "Fact two: there is a public square where you can stand in two countries at once.",
+   "emoji": "🟩",
+   "headline": "A square in two countries",
+   "stat": "2",
+   "sub": "Fact two",
+   "visual_query": "Praca Internacional Livramento"
+  },
+  {
+   "narration": "It is called the Praça Internacional, or International Park. It was opened in 1943 by the leaders of Brazil and Uruguay.",
+   "emoji": "🏞️",
+   "headline": "International Park",
+   "stat": "1943",
+   "sub": "Opened by two leaders",
+   "visual_query": "Praca Internacional monument"
+  },
+  {
+   "narration": "It is often called the only square in the world shared by two nations. Half of it is Brazilian and half is Uruguayan.",
+   "emoji": "🌎",
+   "headline": "Half Brazil, half Uruguay",
+   "stat": "",
+   "sub": "",
+   "visual_query": "binational square park"
+  },
+  {
+   "narration": "Picture a cricket ground where the boundary rope is also a border between two countries. That is the idea here.",
+   "emoji": "🏏",
+   "headline": "A rope that is a border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "cricket ground boundary rope"
+  },
+  {
+   "narration": "Walk across the grass and you step from Brazilian soil onto Uruguayan soil. Markers show where the line runs.",
+   "emoji": "👣",
+   "headline": "Step across the grass",
+   "stat": "",
+   "sub": "",
+   "visual_query": "park lawn border marker"
+  },
+  {
+   "narration": "Families picnic here. Kids play on both sides of the line, and nobody asks which country they belong to.",
+   "emoji": "🧺",
+   "headline": "Picnics on the line",
+   "stat": "",
+   "sub": "",
+   "visual_query": "family picnic park plaza"
+  },
+  {
+   "narration": "Imagine a football rolling out of Brazil and into Uruguay. Nobody needs a visa to fetch it.",
+   "emoji": "⚽",
+   "headline": "A ball crosses countries",
+   "stat": "",
+   "sub": "",
+   "visual_query": "children football park"
+  },
+  {
+   "narration": "Most borders in the world are walls, rivers or mountains. This one is a public lawn.",
+   "emoji": "⛰️",
+   "headline": "A border on a lawn",
+   "stat": "",
+   "sub": "",
+   "visual_query": "river border mountains"
+  },
+  {
+   "narration": "A border you can sit on with a cup of chai. Well, here it is mate, the local herbal tea.",
+   "emoji": "🧉",
+   "headline": "Border and mate",
+   "stat": "",
+   "sub": "",
+   "visual_query": "mate gourd Uruguay"
+  },
+  {
+   "narration": "Next, the way people talk here. It is not quite Portuguese, and not quite Spanish.",
+   "emoji": "🗣️",
+   "headline": "Next: the language",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Uruguay street signs Spanish"
+  },
+  {
+   "narration": "Fact three: Brazil speaks Portuguese and Uruguay speaks Spanish, but the border speaks both at once.",
+   "emoji": "💬",
+   "headline": "Two languages at once",
+   "stat": "3",
+   "sub": "Fact three",
+   "visual_query": "Portuguese Spanish signs"
+  },
+  {
+   "narration": "Residents switch between Portuguese and Spanish and blend them together. The mix is commonly called portuñol.",
+   "emoji": "🔀",
+   "headline": "Portuñol",
+   "stat": "",
+   "sub": "A blend of two",
+   "visual_query": "people talking cafe Uruguay"
+  },
+  {
+   "narration": "It is a bit like Hinglish, where Hindi and English tumble into one sentence without anyone blinking.",
+   "emoji": "🇮🇳",
+   "headline": "Like Hinglish",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Indian friends chatting street"
+  },
+  {
+   "narration": "Shop owners, taxi drivers and kids at school slide between the two without a second thought.",
+   "emoji": "🚕",
+   "headline": "Switching mid-sentence",
+   "stat": "",
+   "sub": "",
+   "visual_query": "taxi driver Uruguay"
+  },
+  {
+   "narration": "A Brazilian can start in Portuguese, a Uruguayan can answer in Spanish, and both usually get it.",
+   "emoji": "🤝",
+   "headline": "Both understand",
+   "stat": "",
+   "sub": "",
+   "visual_query": "two men talking handshake"
+  },
+  {
+   "narration": "The languages are close cousins, which helps, just as Hindi and Marathi are relatives.",
+   "emoji": "📚",
+   "headline": "Close cousins",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Portuguese Spanish dictionary"
+  },
+  {
+   "narration": "So one street can carry signs in Portuguese, signs in Spanish, and cash in two currencies, the Brazilian real and the Uruguayan peso.",
+   "emoji": "💵",
+   "headline": "Real and peso",
+   "stat": "",
+   "sub": "Two currencies",
+   "visual_query": "Brazilian real Uruguayan peso"
+  },
+  {
+   "narration": "Two flags, two languages, two currencies. And yet, one daily life.",
+   "emoji": "🌐",
+   "headline": "One daily life",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rivera Livramento aerial"
+  },
+  {
+   "narration": "Now to the fact that sends Brazilians across the line with empty bags.",
+   "emoji": "🛍️",
+   "headline": "Next: shopping",
+   "stat": "",
+   "sub": "",
+   "visual_query": "shopping bags street"
+  },
+  {
+   "narration": "Fact four: in Rivera there are shops where Uruguayans are not allowed to buy.",
+   "emoji": "🚫",
+   "headline": "Shops that refuse locals",
+   "stat": "4",
+   "sub": "Fact four",
+   "visual_query": "Rivera free shop"
+  },
+  {
+   "narration": "These are duty-free shops, called free shops. They sit near the border and mainly serve Brazilian shoppers.",
+   "emoji": "🏬",
+   "headline": "Free shops",
+   "stat": "",
+   "sub": "Duty-free on a street",
+   "visual_query": "free shop Rivera Uruguay"
+  },
+  {
+   "narration": "To buy, you must show a foreign ID, such as a passport. A Uruguayan local cannot just walk in and shop.",
+   "emoji": "🛂",
+   "headline": "Foreign ID needed",
+   "stat": "",
+   "sub": "",
+   "visual_query": "passport shop counter"
+  },
+  {
+   "narration": "Think airport duty-free, but on a normal city street.",
+   "emoji": "✈️",
+   "headline": "Airport shop, city street",
+   "stat": "",
+   "sub": "",
+   "visual_query": "duty free shop shelves"
+  },
+  {
+   "narration": "Shopping is a huge draw. Santana do Livramento is one of the top tourist spots in Rio Grande do Sul, largely for shopping.",
+   "emoji": "🧳",
+   "headline": "Shopping tourism",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Santana do Livramento tourism"
+  },
+  {
+   "narration": "If you like strange places that sound fake but are true, subscribe. There is a lot more like this.",
+   "emoji": "🔔",
+   "headline": "Like strange places?",
+   "stat": "",
+   "sub": "Subscribe for more",
+   "visual_query": "world map pins"
+  },
+  {
+   "narration": "So the border works like a giant price tag. Cross the line, and the rules about who can buy what flip.",
+   "emoji": "🏷️",
+   "headline": "A border as a price tag",
+   "stat": "",
+   "sub": "",
+   "visual_query": "price tag shop window"
+  },
+  {
+   "narration": "Think of people in India crossing into another state for cheaper goods. Same idea, but with a whole country.",
+   "emoji": "🇮🇳",
+   "headline": "Like a state border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India state border road"
+  },
+  {
+   "narration": "The shops are built right beside the line, so the walk from Brazil is short.",
+   "emoji": "📏",
+   "headline": "Shops beside the line",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sarandi street Rivera shops"
+  },
+  {
+   "narration": "That was strange. The next fact is about time itself.",
+   "emoji": "⏰",
+   "headline": "Next: time",
+   "stat": "",
+   "sub": "",
+   "visual_query": "wall clock"
+  },
+  {
+   "narration": "Fact five: for some summers, the clock changed by an hour when you crossed the street.",
+   "emoji": "🕐",
+   "headline": "An hour across the road",
+   "stat": "5",
+   "sub": "Fact five",
+   "visual_query": "two clocks different time"
+  },
+  {
+   "narration": "Today, southern Brazil and Uruguay run on the same clock, three hours behind UTC.",
+   "emoji": "🌍",
+   "headline": "Same clock today",
+   "stat": "UTC-3",
+   "sub": "",
+   "visual_query": "world time zone map"
+  },
+  {
+   "narration": "But Brazil used to move its clocks forward every summer. Uruguay had stopped doing that in 2015.",
+   "emoji": "☀️",
+   "headline": "Brazil changed, Uruguay did not",
+   "stat": "2015",
+   "sub": "Uruguay stopped",
+   "visual_query": "daylight saving clock"
+  },
+  {
+   "narration": "That meant in summer, Rio Grande do Sul's clocks ran one hour ahead of Uruguay's, right across the border.",
+   "emoji": "⏱️",
+   "headline": "One hour apart",
+   "stat": "1 hour",
+   "sub": "",
+   "visual_query": "Rio Grande do Sul map"
+  },
+  {
+   "narration": "So a Livramento shop could close at six while the Rivera cafe across the road still said five.",
+   "emoji": "☕",
+   "headline": "Six here, five there",
+   "stat": "",
+   "sub": "",
+   "visual_query": "cafe street clock"
+  },
+  {
+   "narration": "Imagine India with two time zones just across one road. Your phone would have to guess.",
+   "emoji": "📱",
+   "headline": "Your phone guesses",
+   "stat": "",
+   "sub": "",
+   "visual_query": "smartphone clock display"
+  },
+  {
+   "narration": "Brazil scrapped daylight saving time in 2019, so the mismatch is gone.",
+   "emoji": "🗓️",
+   "headline": "Brazil scrapped it",
+   "stat": "2019",
+   "sub": "",
+   "visual_query": "calendar 2019 clock"
+  },
+  {
+   "narration": "India keeps one clock across the whole country. Here, two small towns once needed two.",
+   "emoji": "🕰️",
+   "headline": "One clock vs two",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Indian railway station clock"
+  },
+  {
+   "narration": "Today you can cross the street and the time stays the same. Strange that it used to be different.",
+   "emoji": "✅",
+   "headline": "Same time now",
+   "stat": "",
+   "sub": "",
+   "visual_query": "street Rivera evening"
+  },
+  {
+   "narration": "Next, the rules that let families live a life across both countries.",
+   "emoji": "📜",
+   "headline": "Next: the treaty",
+   "stat": "",
+   "sub": "",
+   "visual_query": "treaty document signing"
+  },
+  {
+   "narration": "Fact six: two governments signed a deal that lets border families live across both countries.",
+   "emoji": "🤝",
+   "headline": "A deal for border families",
+   "stat": "6",
+   "sub": "Fact six",
+   "visual_query": "Brazil Uruguay presidents handshake"
+  },
+  {
+   "narration": "In 2002, Brazil and Uruguay signed an agreement in Montevideo for people living in linked border towns.",
+   "emoji": "✍️",
+   "headline": "Signed in Montevideo",
+   "stat": "2002",
+   "sub": "",
+   "visual_query": "Montevideo city"
+  },
+  {
+   "narration": "It covers residence, study and work. Santana do Livramento and Rivera are on the list of linked towns.",
+   "emoji": "📋",
+   "headline": "Residence, study, work",
+   "stat": "",
+   "sub": "Livramento and Rivera listed",
+   "visual_query": "students classroom Uruguay"
+  },
+  {
+   "narration": "So under the deal, a Brazilian living there can work or study on the Uruguayan side. And the reverse.",
+   "emoji": "🎓",
+   "headline": "Work and study across",
+   "stat": "",
+   "sub": "",
+   "visual_query": "university students campus"
+  },
+  {
+   "narration": "A later addition in 2008 covered health care, letting border residents use medical services on either side.",
+   "emoji": "🏥",
+   "headline": "Health care both sides",
+   "stat": "2008",
+   "sub": "",
+   "visual_query": "hospital Rivera Uruguay"
+  },
+  {
+   "narration": "There is a limit. It only covers services that already exist in the town, under each country's rules.",
+   "emoji": "⚠️",
+   "headline": "There is a limit",
+   "stat": "",
+   "sub": "",
+   "visual_query": "hospital entrance sign"
+  },
+  {
+   "narration": "Officials have even pushed for a shared hospital care model for the two cities in recent years.",
+   "emoji": "🩺",
+   "headline": "A shared hospital plan",
+   "stat": "",
+   "sub": "",
+   "visual_query": "doctor hospital corridor"
+  },
+  {
+   "narration": "In other places, crossing for a doctor needs visas and forms. Here, governments wrote the paperwork in advance.",
+   "emoji": "📄",
+   "headline": "Paperwork written ahead",
+   "stat": "",
+   "sub": "",
+   "visual_query": "visa forms passport"
+  },
+  {
+   "narration": "A border is usually where rules get strict. Here, the rules were written to make crossing easy.",
+   "emoji": "🟢",
+   "headline": "Rules that ease crossing",
+   "stat": "",
+   "sub": "",
+   "visual_query": "open border road sign"
+  },
+  {
+   "narration": "And there is another border town where the street itself is the line.",
+   "emoji": "➡️",
+   "headline": "Next: the biggest one",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chui Brazil border town"
+  },
+  {
+   "narration": "Fact seven, the biggest one: Chuí in Brazil and Chuy in Uruguay are split by a single avenue.",
+   "emoji": "🛣️",
+   "headline": "One avenue, two countries",
+   "stat": "7",
+   "sub": "Chuí and Chuy",
+   "visual_query": "Chuy Chui avenue median"
+  },
+  {
+   "narration": "It lies near the Atlantic coast of southern Brazil, far from Rivera, at the other end of the border.",
+   "emoji": "🌊",
+   "headline": "Near the Atlantic",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chuy Uruguay town"
+  },
+  {
+   "narration": "The avenue has two names. Brazil calls its side Avenida Uruguai, and Uruguay calls its side Avenida Brasil.",
+   "emoji": "🪧",
+   "headline": "Two names, one avenue",
+   "stat": "",
+   "sub": "Uruguai and Brasil",
+   "visual_query": "Avenida Brasil Chuy sign"
+  },
+  {
+   "narration": "So Brazil's street is named after Uruguay, and Uruguay's street is named after Brazil.",
+   "emoji": "🔄",
+   "headline": "Named for the neighbour",
+   "stat": "",
+   "sub": "",
+   "visual_query": "street name sign Uruguay"
+  },
+  {
+   "narration": "The median strip in the middle of the avenue is where the line runs. Step across it and you change countries.",
+   "emoji": "↔️",
+   "headline": "The median is the border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "avenue median strip trees"
+  },
+  {
+   "narration": "No bridge, no river, no checkpoint in town. Immigration posts sit several kilometres outside, not on the avenue.",
+   "emoji": "🛑",
+   "headline": "No checkpoint on the street",
+   "stat": "",
+   "sub": "",
+   "visual_query": "road immigration post Uruguay"
+  },
+  {
+   "narration": "Picture parking your car in Brazil while your friend parks in Uruguay, one lane apart.",
+   "emoji": "🚗",
+   "headline": "Parked in two countries",
+   "stat": "",
+   "sub": "",
+   "visual_query": "cars parked avenue Chuy"
+  },
+  {
+   "narration": "Even the money changes at the median. The Brazilian real on one side, the Uruguayan peso on the other.",
+   "emoji": "💱",
+   "headline": "Money changes mid-road",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Uruguayan peso banknotes"
+  },
+  {
+   "narration": "One more twin trick: a town called Aceguá exists on the Brazilian side, and another Aceguá on the Uruguayan side.",
+   "emoji": "👯",
+   "headline": "Two towns, same name",
+   "stat": "",
+   "sub": "Aceguá and Aceguá",
+   "visual_query": "Acegua border town"
+  },
+  {
+   "narration": "Same name, same border, two countries. Even the maps need a second look.",
+   "emoji": "🗺️",
+   "headline": "Maps need a second look",
+   "stat": "",
+   "sub": "",
+   "visual_query": "map Uruguay Brazil border"
+  },
+  {
+   "narration": "So that is seven strange facts. A street that flows into Uruguay, a park split in two, and a mixed language.",
+   "emoji": "✨",
+   "headline": "Seven facts recap",
+   "stat": "7",
+   "sub": "",
+   "visual_query": "Praca Internacional aerial"
+  },
+  {
+   "narration": "Shops that refuse locals, clocks that once disagreed, a treaty for families, and an avenue named for the neighbour.",
+   "emoji": "🧩",
+   "headline": "Recap: the strangest bits",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rivera free shop street"
+  },
+  {
+   "narration": "Now back to the start. Your street in Santana do Livramento ends in Uruguay, and nobody stops you.",
+   "emoji": "🔁",
+   "headline": "Back to the start",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Santana do Livramento Rivera border"
+  },
+  {
+   "narration": "Not a wall, not a fence, just a marker. Sometimes the strangest border is the one that is easiest to cross.",
+   "emoji": "📍",
+   "headline": "Easiest border to cross",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border marker street"
+  },
+  {
+   "narration": "Tomorrow: another place where the map and real life refuse to agree.",
+   "emoji": "➡️",
+   "headline": "Tomorrow: another strange place",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map globe"
+  }
+ ]
+}

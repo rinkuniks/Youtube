@@ -1,0 +1,85 @@
+{
+ "category": "geography",
+ "topic": "Thimphu has no traffic lights",
+ "hook": "Your drive through Thimphu has no traffic lights.",
+ "title": "Your Drive in Bhutan's Capital Has No Lights",
+ "description": "Thimphu, the capital of Bhutan, has no traffic lights. A police officer directs the cars by hand instead. Bhutan is also famous for measuring Gross National Happiness. Series: Places That Shouldn't Exist.\n\n#Shorts #Bhutan #Geography",
+ "tags": [
+  "Thimphu",
+  "Bhutan",
+  "no traffic lights",
+  "capital city",
+  "geography facts",
+  "Places That Shouldn't Exist",
+  "weird facts",
+  "shorts"
+ ],
+ "comment_prompt": "Would you drive here? Yes or no",
+ "hook_banner": "NO LIGHTS AT ALL",
+ "scenes": [
+  {
+   "narration": "Your drive through Thimphu has no traffic lights.",
+   "emoji": "🚗",
+   "headline": "No Traffic Lights",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Thimphu traffic police"
+  },
+  {
+   "narration": "A police officer directs every car by hand.",
+   "emoji": "👮",
+   "headline": "Directed By Hand",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Thimphu traffic officer"
+  },
+  {
+   "narration": "Not one signal in the whole capital.",
+   "emoji": "🚫",
+   "headline": "Zero Signals",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Thimphu city road"
+  },
+  {
+   "narration": "Hand signals decide who goes first.",
+   "emoji": "✋",
+   "headline": "Hands Decide",
+   "stat": "",
+   "sub": "",
+   "visual_query": "police hand signal"
+  },
+  {
+   "narration": "Bhutan even measures Gross National Happiness.",
+   "emoji": "😊",
+   "headline": "Gross National Happiness",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bhutan Thimphu"
+  },
+  {
+   "narration": "Cross from India, and the signals vanish.",
+   "emoji": "🇮🇳",
+   "headline": "India To Bhutan",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bhutan gate Phuentsholing"
+  },
+  {
+   "narration": "Your drive in Thimphu runs on hands, not lights.",
+   "emoji": "🚗",
+   "headline": "Hands, Not Lights",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Thimphu traffic police"
+  },
+  {
+   "narration": "Tomorrow: the first Indian in space.",
+   "emoji": "🚀",
+   "headline": "Tomorrow: First In Space",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Soyuz rocket launch"
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "category": "geography",
+ "topic": "Haparanda-Tornio golf course border",
+ "hook": "Your golf ball can cross a border.",
+ "title": "Your Golf Ball Can Fly Into Another Country",
+ "description": "The Green Zone golf course sits on the Sweden-Finland border at Haparanda and Tornio. Part of the course is in each country, and Finland is one hour ahead of Sweden. Same round, two countries, two time zones.\n\n#Shorts #Geography #PlacesThatShouldntExist",
+ "tags": [
+  "golf",
+  "sweden",
+  "finland",
+  "border",
+  "time zone",
+  "haparanda",
+  "tornio",
+  "geography facts",
+  "places that shouldnt exist"
+ ],
+ "comment_prompt": "Would you play this course? Yes or no",
+ "hook_banner": "TWO COUNTRIES, ONE COURSE",
+ "scenes": [
+  {
+   "narration": "Your golf ball can cross a border.",
+   "emoji": "⛳",
+   "headline": "Golf Across Borders",
+   "stat": "",
+   "sub": "Sweden to Finland",
+   "visual_query": "golf course fairway"
+  },
+  {
+   "narration": "This course sits in Haparanda and Tornio.",
+   "emoji": "📍",
+   "headline": "Haparanda-Tornio",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Haparanda Tornio border"
+  },
+  {
+   "narration": "Some holes are Swedish, some are Finnish.",
+   "emoji": "🏌️",
+   "headline": "Holes In Two Countries",
+   "stat": "",
+   "sub": "",
+   "visual_query": "golfer putting green"
+  },
+  {
+   "narration": "The border runs right through the fairways.",
+   "emoji": "🚧",
+   "headline": "Border On The Fairway",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sweden Finland border"
+  },
+  {
+   "narration": "Finland is one hour ahead of Sweden.",
+   "emoji": "🕐",
+   "headline": "One Hour Apart",
+   "stat": "+1 HR",
+   "sub": "Finland vs Sweden",
+   "visual_query": "analog clock face"
+  },
+  {
+   "narration": "Walk into Finland and it's an hour later.",
+   "emoji": "🚶",
+   "headline": "Walk, Gain An Hour",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Finnish flag"
+  },
+  {
+   "narration": "Same game, two countries, two time zones.",
+   "emoji": "🌍",
+   "headline": "Two Time Zones",
+   "stat": "2",
+   "sub": "countries, one round",
+   "visual_query": "Tornio Finland river"
+  },
+  {
+   "narration": "So yes, your golf ball crossed a border.",
+   "emoji": "⛳",
+   "headline": "Your Ball Crossed",
+   "stat": "",
+   "sub": "",
+   "visual_query": "golf ball flying"
+  },
+  {
+   "narration": "Tomorrow: ice so clear you can see through it.",
+   "emoji": "❄️",
+   "headline": "Tomorrow",
+   "stat": "",
+   "sub": "Clearest ice on Earth",
+   "visual_query": "Lake Baikal clear ice"
+  }
+ ]
+}

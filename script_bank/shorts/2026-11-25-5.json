@@ -1,0 +1,93 @@
+{
+ "category": "technology",
+ "topic": "Quantum locking superconductor",
+ "hook": "Your superconductor can hang in mid-air.",
+ "title": "A Disc That Hangs in Mid-Air Over a Magnet",
+ "description": "Cool a superconductor and it can float above a magnet and lock in place. This is called quantum locking, and the disc can even hang upside down. It works because magnetic field lines get pinned inside the superconductor.\n\n#Shorts #Physics #Technology",
+ "tags": [
+  "quantum locking",
+  "superconductor",
+  "levitation",
+  "magnet",
+  "physics",
+  "science facts",
+  "technology",
+  "Shorts"
+ ],
+ "comment_prompt": "Magic or science? One word",
+ "hook_banner": "NO STRINGS ATTACHED",
+ "scenes": [
+  {
+   "narration": "Your superconductor can hang in mid-air.",
+   "emoji": "🧲",
+   "headline": "HANGING IN MID-AIR",
+   "stat": "",
+   "sub": "",
+   "visual_query": "quantum levitation superconductor"
+  },
+  {
+   "narration": "Cool it down, and put it near a magnet.",
+   "emoji": "❄️",
+   "headline": "COOL IT, ADD MAGNET",
+   "stat": "",
+   "sub": "",
+   "visual_query": "liquid nitrogen superconductor"
+  },
+  {
+   "narration": "It floats, and then it locks in place.",
+   "emoji": "🔒",
+   "headline": "FLOATS, THEN LOCKS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "superconductor floating over magnet"
+  },
+  {
+   "narration": "Push it, tilt it, even flip it upside down.",
+   "emoji": "🙃",
+   "headline": "EVEN UPSIDE DOWN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "quantum locking upside down"
+  },
+  {
+   "narration": "It stays exactly where you left it.",
+   "emoji": "📍",
+   "headline": "STAYS WHERE YOU PUT IT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "levitating disc magnetic track"
+  },
+  {
+   "narration": "This is called quantum locking.",
+   "emoji": "⚛️",
+   "headline": "QUANTUM LOCKING",
+   "stat": "",
+   "sub": "",
+   "visual_query": "quantum locking demonstration"
+  },
+  {
+   "narration": "Magnetic field lines get pinned inside it.",
+   "emoji": "📌",
+   "headline": "FIELD LINES PINNED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "magnetic field lines magnet"
+  },
+  {
+   "narration": "A disc frozen in mid-air, no strings.",
+   "emoji": "✨",
+   "headline": "NO STRINGS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "superconductor hovering magnet"
+  },
+  {
+   "narration": "Tomorrow: money made of giant stone.",
+   "emoji": "🪨",
+   "headline": "TOMORROW: STONE MONEY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Yap rai stone money"
+  }
+ ]
+}

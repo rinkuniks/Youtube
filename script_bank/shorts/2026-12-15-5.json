@@ -1,0 +1,93 @@
+{
+ "category": "technology",
+ "topic": "CD diffraction with a laser pointer",
+ "hook": "Your old CD can turn one laser into a wall of dots.",
+ "title": "Your Old CD Turns One Laser Into Dots",
+ "description": "Point a laser pointer at the shiny side of an old CD and a pattern of dots appears on the wall. The disc's tracks are about 1.6 micrometres apart, so they split the light. Never point a laser at anyone's eyes, and don't look into the reflection.\n\n#Shorts #Science #Tech",
+ "tags": [
+  "CD",
+  "laser pointer",
+  "diffraction",
+  "science experiment",
+  "tech facts",
+  "physics",
+  "try this",
+  "shorts"
+ ],
+ "comment_prompt": "Got an old CD at home? Yes or no",
+ "hook_banner": "TRY THIS AT HOME",
+ "scenes": [
+  {
+   "narration": "Your old CD can turn one laser into dots.",
+   "emoji": "💿",
+   "headline": "One Laser, Many Dots",
+   "stat": "",
+   "sub": "",
+   "visual_query": "laser pointer CD"
+  },
+  {
+   "narration": "Point a laser pointer at its shiny side.",
+   "emoji": "🔦",
+   "headline": "Aim At The Shiny Side",
+   "stat": "",
+   "sub": "Never at eyes",
+   "visual_query": "laser pointer"
+  },
+  {
+   "narration": "Now look at the wall behind it.",
+   "emoji": "🧱",
+   "headline": "Check The Wall",
+   "stat": "",
+   "sub": "",
+   "visual_query": "dark wall light"
+  },
+  {
+   "narration": "A pattern of bright dots appears.",
+   "emoji": "✨",
+   "headline": "Dots Appear",
+   "stat": "",
+   "sub": "",
+   "visual_query": "laser diffraction pattern"
+  },
+  {
+   "narration": "The disc's tiny tracks split the light.",
+   "emoji": "🌈",
+   "headline": "Tracks Split The Light",
+   "stat": "",
+   "sub": "",
+   "visual_query": "compact disc surface"
+  },
+  {
+   "narration": "Those tracks sit about 1.6 micrometres apart.",
+   "emoji": "📏",
+   "headline": "Track Spacing",
+   "stat": "1.6 µm",
+   "sub": "",
+   "visual_query": "CD close up"
+  },
+  {
+   "narration": "That is far thinner than a human hair.",
+   "emoji": "🧵",
+   "headline": "Thinner Than Hair",
+   "stat": "",
+   "sub": "",
+   "visual_query": "human hair microscope"
+  },
+  {
+   "narration": "One laser, one old disc, a wall of dots.",
+   "emoji": "💿",
+   "headline": "Wall Of Dots",
+   "stat": "",
+   "sub": "",
+   "visual_query": "laser dots wall"
+  },
+  {
+   "narration": "Next: dolphins swimming in an Odisha lake.",
+   "emoji": "🐬",
+   "headline": "Up Next",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chilika Lake boat"
+  }
+ ]
+}

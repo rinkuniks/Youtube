@@ -1,0 +1,85 @@
+{
+ "category": "geography",
+ "topic": "Maldives lowest country",
+ "hook": "Your Maldives holiday is on the lowest country on Earth.",
+ "title": "The Maldives Is Barely Above the Sea",
+ "description": "The Maldives is the lowest-lying country on Earth. Its highest natural point is often listed at only about 2.4 metres above sea level. Most of the islands sit just above the waves.\n\n#Shorts #Maldives #Geography",
+ "tags": [
+  "Maldives",
+  "lowest country",
+  "sea level",
+  "geography facts",
+  "Maldives holiday",
+  "climate",
+  "travel facts",
+  "Shorts"
+ ],
+ "comment_prompt": "Would you visit? Yes or no",
+ "hook_banner": "LOWEST COUNTRY EARTH",
+ "scenes": [
+  {
+   "narration": "Your Maldives holiday is on the lowest country on Earth.",
+   "emoji": "🏝️",
+   "headline": "LOWEST COUNTRY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Maldives aerial island"
+  },
+  {
+   "narration": "Its highest natural point is about 2.4 metres.",
+   "emoji": "📏",
+   "headline": "HIGHEST POINT",
+   "stat": "2.4 m",
+   "sub": "above sea level",
+   "visual_query": "Maldives low island beach"
+  },
+  {
+   "narration": "That is shorter than a basketball hoop.",
+   "emoji": "🏀",
+   "headline": "SHORTER THAN A HOOP",
+   "stat": "",
+   "sub": "A hoop is 3.05 m",
+   "visual_query": "basketball hoop"
+  },
+  {
+   "narration": "The whole country is a chain of tiny islands.",
+   "emoji": "🌴",
+   "headline": "TINY ISLANDS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Maldives atoll"
+  },
+  {
+   "narration": "Your resort sits just above the waves.",
+   "emoji": "🏨",
+   "headline": "ABOVE THE WAVES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Maldives water villa"
+  },
+  {
+   "narration": "Rising seas are a real worry there.",
+   "emoji": "🌊",
+   "headline": "RISING SEAS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Male Maldives sea wall"
+  },
+  {
+   "narration": "So that paradise is the lowest place on Earth.",
+   "emoji": "🌏",
+   "headline": "LOWEST COUNTRY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Maldives turquoise water"
+  },
+  {
+   "narration": "Tomorrow: a ferry from Europe to Asia.",
+   "emoji": "⛴️",
+   "headline": "NEXT: TWO CONTINENTS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Istanbul ferry Bosphorus"
+  }
+ ]
+}

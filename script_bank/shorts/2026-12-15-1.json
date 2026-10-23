@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Mount Roraima",
+ "hook": "Your hike ends on a flat mountaintop.",
+ "title": "Your Hike Ends on a Flat Mountaintop in Clouds",
+ "description": "Mount Roraima in South America is a flat-topped tepui with cliffs on every side, about 2,800 m high. Clouds often sit on top, and Venezuela, Brazil and Guyana meet there. Series: Places That Shouldn't Exist.\n\n#Shorts #Geography #PlacesThatShouldntExist",
+ "tags": [
+  "Mount Roraima",
+  "tepui",
+  "South America",
+  "geography facts",
+  "Places That Shouldn't Exist",
+  "Venezuela",
+  "Guyana",
+  "travel shorts"
+ ],
+ "comment_prompt": "Would you hike it? Yes or no",
+ "hook_banner": "THIS PLACE IS REAL",
+ "scenes": [
+  {
+   "narration": "Your hike ends on a flat mountaintop.",
+   "emoji": "⛰️",
+   "headline": "FLAT MOUNTAINTOP",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mount Roraima summit"
+  },
+  {
+   "narration": "This is Mount Roraima in South America.",
+   "emoji": "🌎",
+   "headline": "MOUNT RORAIMA",
+   "stat": "",
+   "sub": "South America",
+   "visual_query": "Mount Roraima aerial"
+  },
+  {
+   "narration": "Sheer cliffs surround it on every side.",
+   "emoji": "🧗",
+   "headline": "CLIFFS ALL AROUND",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Roraima cliffs"
+  },
+  {
+   "narration": "The top is about 2,800 metres high.",
+   "emoji": "📏",
+   "headline": "ABOUT 2,800 M",
+   "stat": "2,800 m",
+   "sub": "",
+   "visual_query": "Roraima tepui"
+  },
+  {
+   "narration": "Clouds often sit right on top.",
+   "emoji": "☁️",
+   "headline": "CLOUDS ON TOP",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Roraima clouds"
+  },
+  {
+   "narration": "Three countries meet up there: Venezuela, Brazil, Guyana.",
+   "emoji": "🗺️",
+   "headline": "THREE COUNTRIES MEET",
+   "stat": "3",
+   "sub": "",
+   "visual_query": "Venezuela Brazil Guyana map"
+  },
+  {
+   "narration": "It inspired the dinosaur novel The Lost World.",
+   "emoji": "🦖",
+   "headline": "THE LOST WORLD",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lost World Roraima"
+  },
+  {
+   "narration": "So a flat mountain above clouds is real.",
+   "emoji": "✅",
+   "headline": "IT'S REAL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Roraima plateau"
+  },
+  {
+   "narration": "Tomorrow: a fortress on a rock.",
+   "emoji": "➡️",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "Sigiriya",
+   "visual_query": "Sigiriya rock"
+  }
+ ]
+}

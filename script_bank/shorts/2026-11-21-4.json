@@ -1,0 +1,86 @@
+{
+ "category": "space",
+ "topic": "Haircut in space",
+ "hook": "Your haircut in space needs clippers attached to a vacuum.",
+ "title": "Your Haircut in Space Uses a Vacuum Hose",
+ "description": "On the space station, cut hair would float around the cabin and could get into equipment or eyes. So astronauts use clippers attached to a vacuum hose that sucks each hair straight in. Haircuts in space have been filmed.\n\n#Shorts #Space #Astronaut",
+ "tags": [
+  "space",
+  "astronaut",
+  "haircut in space",
+  "ISS",
+  "vacuum clippers",
+  "life in space",
+  "space facts",
+  "if you were in space",
+  "weird facts"
+ ],
+ "comment_prompt": "Would you cut hair in space? Yes or no",
+ "hook_banner": "HAIRCUT IN ZERO GRAVITY",
+ "scenes": [
+  {
+   "narration": "Your haircut in space needs clippers attached to a vacuum.",
+   "emoji": "💇",
+   "headline": "CLIPPERS PLUS VACUUM",
+   "stat": "",
+   "sub": "If You Were in Space",
+   "visual_query": "astronaut haircut space station"
+  },
+  {
+   "narration": "Cut hair does not fall in space.",
+   "emoji": "✂️",
+   "headline": "HAIR DOESN'T FALL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut hair floating"
+  },
+  {
+   "narration": "It would float all around the cabin.",
+   "emoji": "🌀",
+   "headline": "IT FLOATS EVERYWHERE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut microgravity cabin"
+  },
+  {
+   "narration": "It could get into eyes and equipment.",
+   "emoji": "👁️",
+   "headline": "EYES AND EQUIPMENT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "space station equipment panels"
+  },
+  {
+   "narration": "So the clippers are attached to a hose.",
+   "emoji": "🔌",
+   "headline": "CLIPPERS ON A HOSE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "hair clippers vacuum astronaut"
+  },
+  {
+   "narration": "Each hair gets sucked straight in.",
+   "emoji": "🌪️",
+   "headline": "SUCKED STRAIGHT IN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut cutting hair vacuum"
+  },
+  {
+   "narration": "Nothing is left to float away.",
+   "emoji": "✅",
+   "headline": "NOTHING FLOATS AWAY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut smiling new haircut"
+  },
+  {
+   "narration": "Your haircut in space is a vacuum job.",
+   "emoji": "🚀",
+   "headline": "A VACUUM JOB",
+   "stat": "",
+   "sub": "Next series: Places That Shouldn't Exist",
+   "visual_query": "Earth from space station window"
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Ha Long Bay limestone islands",
+ "hook": "Your cruise in Vietnam sails between 1,600 stone towers.",
+ "title": "Vietnam's Bay Of 1,600 Stone Towers",
+ "description": "Ha Long Bay in Vietnam holds about 1,600 limestone islands and islets rising straight out of the sea. Many are covered in green forest above emerald water. It is a UNESCO World Heritage Site.\n\n#Shorts #Vietnam #Geography",
+ "tags": [
+  "Ha Long Bay",
+  "Vietnam",
+  "limestone islands",
+  "UNESCO",
+  "travel",
+  "geography",
+  "cruise",
+  "shorts"
+ ],
+ "comment_prompt": "Would you cruise here? Yes or no",
+ "hook_banner": "THIS PLACE IS REAL",
+ "scenes": [
+  {
+   "narration": "Your cruise in Vietnam sails between stone towers.",
+   "emoji": "🚢",
+   "headline": "Stone Towers At Sea",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ha Long Bay cruise"
+  },
+  {
+   "narration": "This is Ha Long Bay.",
+   "emoji": "📍",
+   "headline": "Ha Long Bay",
+   "stat": "",
+   "sub": "Vietnam",
+   "visual_query": "Ha Long Bay aerial"
+  },
+  {
+   "narration": "About 1,600 limestone islands rise from the water.",
+   "emoji": "⛰️",
+   "headline": "Limestone Islands",
+   "stat": "~1,600",
+   "sub": "",
+   "visual_query": "Ha Long Bay limestone islands"
+  },
+  {
+   "narration": "Many are wrapped in thick green forest.",
+   "emoji": "🌿",
+   "headline": "Green Towers",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ha Long Bay forest island"
+  },
+  {
+   "narration": "The water around them looks emerald green.",
+   "emoji": "💚",
+   "headline": "Emerald Water",
+   "stat": "",
+   "sub": "",
+   "visual_query": "emerald water Vietnam"
+  },
+  {
+   "narration": "Boats glide right between the rock walls.",
+   "emoji": "⛵",
+   "headline": "Gliding Between Rocks",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ha Long Bay junk boat"
+  },
+  {
+   "narration": "It is a UNESCO World Heritage Site.",
+   "emoji": "🏛️",
+   "headline": "UNESCO Site",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ha Long Bay sunrise"
+  },
+  {
+   "narration": "Green towers standing in a green sea.",
+   "emoji": "🌊",
+   "headline": "Green Towers, Green Sea",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ha Long Bay islands"
+  },
+  {
+   "narration": "Next: a country with two capitals.",
+   "emoji": "🗺️",
+   "headline": "Up Next",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bolivia map"
+  }
+ ]
+}

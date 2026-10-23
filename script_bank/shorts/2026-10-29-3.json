@@ -1,0 +1,85 @@
+{
+ "category": "geography",
+ "topic": "Thingvellir tectonic rift",
+ "hook": "Your next step in Iceland can take you between two continents.",
+ "title": "Walk Between Two Continents In Iceland",
+ "description": "At Thingvellir National Park in Iceland, the North American and Eurasian tectonic plates are pulling apart, and the rift is visible on the ground. You can walk through the gap between them.\n\n#Shorts #Iceland #Geography",
+ "tags": [
+  "thingvellir",
+  "iceland",
+  "tectonic plates",
+  "geography facts",
+  "north america",
+  "eurasia",
+  "travel",
+  "shorts"
+ ],
+ "comment_prompt": "Would you walk this rift? Yes or no",
+ "hook_banner": "TWO PLATES, ONE PATH",
+ "scenes": [
+  {
+   "narration": "Your next step in Iceland can cross two continents.",
+   "emoji": "🌍",
+   "headline": "BETWEEN TWO PLATES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Thingvellir rift Iceland"
+  },
+  {
+   "narration": "This is Thingvellir National Park.",
+   "emoji": "🏞️",
+   "headline": "THINGVELLIR, ICELAND",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Thingvellir national park"
+  },
+  {
+   "narration": "Here, the North American plate meets the Eurasian plate.",
+   "emoji": "🗺️",
+   "headline": "AMERICA MEETS EURASIA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tectonic plates map Iceland"
+  },
+  {
+   "narration": "They are slowly pulling apart.",
+   "emoji": "↔️",
+   "headline": "PULLING APART",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Almannagja rift"
+  },
+  {
+   "narration": "That split is a visible rift in the ground.",
+   "emoji": "👀",
+   "headline": "THE RIFT IS VISIBLE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Iceland rift valley cliffs"
+  },
+  {
+   "narration": "And there is a path you can walk through it.",
+   "emoji": "🚶",
+   "headline": "YOU CAN WALK IT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tourists walking Thingvellir rift"
+  },
+  {
+   "narration": "One wall is North America, the other Eurasia.",
+   "emoji": "🧱",
+   "headline": "TWO CONTINENT WALLS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Thingvellir rift wall"
+  },
+  {
+   "narration": "So yes, you can stand between continents.",
+   "emoji": "🔁",
+   "headline": "BETWEEN CONTINENTS",
+   "stat": "",
+   "sub": "Tomorrow: Hindi is flying through space",
+   "visual_query": "Iceland Thingvellir path"
+  }
+ ]
+}

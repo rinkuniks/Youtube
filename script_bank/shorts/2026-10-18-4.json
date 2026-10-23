@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Water blob and fizzy tablet in space",
+ "hook": "If you drop a fizzy tablet in a space water ball, the bubbles stay trapped.",
+ "title": "A Fizzy Tablet Inside a Floating Water Ball",
+ "description": "In microgravity, water pulls itself into a floating, wobbling sphere. Astronauts on the ISS dropped an effervescent tablet into one, and the gas bubbles stayed inside the ball because nothing makes them rise. Part of our If You Were in Space series.\n\n#Shorts #Space #ISS",
+ "tags": [
+  "water ball space",
+  "effervescent tablet",
+  "iss",
+  "microgravity",
+  "bubbles in space",
+  "if you were in space",
+  "space facts",
+  "astronaut"
+ ],
+ "comment_prompt": "Fizzy or flat? Pick one",
+ "hook_banner": "BUBBLES CAN'T ESCAPE",
+ "scenes": [
+  {
+   "narration": "If you dropped a fizzy tablet in space water, bubbles stay trapped.",
+   "emoji": "🫧",
+   "headline": "Bubbles Stay Trapped",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ISS water bubble effervescent tablet"
+  },
+  {
+   "narration": "Squeeze water out in space and it floats.",
+   "emoji": "💧",
+   "headline": "Water Floats",
+   "stat": "",
+   "sub": "",
+   "visual_query": "water blob ISS"
+  },
+  {
+   "narration": "It pulls itself into a perfect sphere.",
+   "emoji": "🔵",
+   "headline": "A Perfect Sphere",
+   "stat": "",
+   "sub": "",
+   "visual_query": "water sphere astronaut"
+  },
+  {
+   "narration": "The ball wobbles like jelly in mid-air.",
+   "emoji": "🌀",
+   "headline": "Wobbling Ball",
+   "stat": "",
+   "sub": "",
+   "visual_query": "floating water ball space station"
+  },
+  {
+   "narration": "Now drop in an effervescent tablet.",
+   "emoji": "💊",
+   "headline": "Drop The Tablet",
+   "stat": "",
+   "sub": "",
+   "visual_query": "effervescent tablet water"
+  },
+  {
+   "narration": "Bubbles fizz up but cannot rise out.",
+   "emoji": "🫧",
+   "headline": "Nowhere To Rise",
+   "stat": "",
+   "sub": "",
+   "visual_query": "bubbles inside water sphere"
+  },
+  {
+   "narration": "On Earth, gravity pushes bubbles to the top.",
+   "emoji": "⬆️",
+   "headline": "Earth Pushes Them Up",
+   "stat": "",
+   "sub": "",
+   "visual_query": "fizzy tablet glass water"
+  },
+  {
+   "narration": "In space, the bubbles stay inside the ball.",
+   "emoji": "🧑‍🚀",
+   "headline": "Trapped Inside",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut water ball bubbles"
+  },
+  {
+   "narration": "Tomorrow: your phone screen goes black.",
+   "emoji": "➡️",
+   "headline": "Next: Phone Goes Black",
+   "stat": "",
+   "sub": "",
+   "visual_query": "polarized sunglasses phone screen"
+  }
+ ]
+}

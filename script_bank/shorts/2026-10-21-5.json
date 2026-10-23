@@ -1,0 +1,93 @@
+{
+ "category": "technology",
+ "topic": "Water drop reveals phone pixels",
+ "hook": "Your phone screen turns into red, green and blue dots.",
+ "title": "One Water Drop Shows Your Phone's Pixels",
+ "description": "Put a tiny drop of water on your phone screen and look closely. The drop acts like a magnifying lens, so you can see the red, green and blue dots that build every picture. It works on any phone, and you can wipe it off after.\n\n#Shorts #Tech #PhoneTricks",
+ "tags": [
+  "phone trick",
+  "water drop",
+  "pixels",
+  "phone screen",
+  "tech facts",
+  "android",
+  "iphone",
+  "try this"
+ ],
+ "comment_prompt": "Did you see the dots? Yes or no",
+ "hook_banner": "TRY THIS NOW",
+ "scenes": [
+  {
+   "narration": "Your phone screen turns into red, green and blue dots.",
+   "emoji": "📱",
+   "headline": "SEE YOUR PIXELS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone screen pixels macro"
+  },
+  {
+   "narration": "All you need is one drop of water.",
+   "emoji": "💧",
+   "headline": "ONE WATER DROP",
+   "stat": "",
+   "sub": "",
+   "visual_query": "water drop phone screen"
+  },
+  {
+   "narration": "Open a white image on your screen.",
+   "emoji": "⬜",
+   "headline": "USE A WHITE SCREEN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "white phone screen"
+  },
+  {
+   "narration": "Place a tiny drop on the glass.",
+   "emoji": "👆",
+   "headline": "TINY DROP ONLY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "finger water droplet screen"
+  },
+  {
+   "narration": "The drop works like a magnifying glass.",
+   "emoji": "🔍",
+   "headline": "A TINY LENS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "magnifying glass screen"
+  },
+  {
+   "narration": "Look closely and the dots appear.",
+   "emoji": "🔴",
+   "headline": "RED GREEN BLUE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "RGB subpixels screen"
+  },
+  {
+   "narration": "Every picture you see is made of those.",
+   "emoji": "🖼️",
+   "headline": "ALL MADE OF DOTS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "smartphone display close up"
+  },
+  {
+   "narration": "So your whole screen is just dots.",
+   "emoji": "📱",
+   "headline": "SEE YOUR PIXELS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone pixels zoom"
+  },
+  {
+   "narration": "Next: a tree that looks fake.",
+   "emoji": "🌳",
+   "headline": "NEXT UP",
+   "stat": "",
+   "sub": "",
+   "visual_query": "dragon blood tree"
+  }
+ ]
+}

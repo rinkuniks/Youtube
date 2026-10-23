@@ -1,0 +1,644 @@
+{
+ "topic": "Why Canada Is Stranger Than You Think (Hans Island finale)",
+ "hook": "Your map of Hans Island shows a rock that Canada and Denmark split down the middle in 2022.",
+ "title": "Why Canada Is Stranger Than You Think",
+ "description": "Canada looks calm on the map, but it has a rock that was split after a whisky war, a French island off its coast, and a town you can only drive to through Canada. Seven true facts about its coastline, lakes, clocks and borders, ending with the story of Hans Island. Which one surprised you most?\n\n#Canada #Geography #StrangeFacts",
+ "tags": [
+  "Canada facts",
+  "Hans Island",
+  "whisky war",
+  "Canada Denmark border",
+  "strange geography",
+  "Point Roberts",
+  "Saint-Pierre and Miquelon",
+  "Newfoundland time zone",
+  "magnetic north pole",
+  "Manitoulin Island",
+  "weird borders",
+  "geography facts",
+  "Canada coastline",
+  "facts that sound fake"
+ ],
+ "comment_prompt": "Which of the seven was the strangest?",
+ "hook_banner": "A WAR FOUGHT WITH WHISKY",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "The longest coastline",
+   "scene": 6
+  },
+  {
+   "title": "A lake inside an island",
+   "scene": 14
+  },
+  {
+   "title": "The half-hour clock",
+   "scene": 21
+  },
+  {
+   "title": "The town you reach via Canada",
+   "scene": 28
+  },
+  {
+   "title": "France next door",
+   "scene": 36
+  },
+  {
+   "title": "The wandering north pole",
+   "scene": 44
+  },
+  {
+   "title": "Hans Island and the whisky war",
+   "scene": 52
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your map of Hans Island shows a rock that Canada and Denmark split down the middle in 2022.",
+   "emoji": "🗺️",
+   "headline": "A Rock Split in Two",
+   "stat": "2022",
+   "sub": "Canada and Denmark",
+   "visual_query": "Hans Island Arctic"
+  },
+  {
+   "narration": "That rock is the strangest thing in this video, so it is saved for last. But Canada has six other surprises first.",
+   "emoji": "🇨🇦",
+   "headline": "Canada Is Strange",
+   "stat": "",
+   "sub": "Seven true facts",
+   "visual_query": "Canada map"
+  },
+  {
+   "narration": "By the end, you'll know how two countries fought a war using bottles of alcohol, and why nobody got hurt.",
+   "emoji": "🥃",
+   "headline": "The Whisky War",
+   "stat": "",
+   "sub": "Fought with bottles",
+   "visual_query": "whisky bottle"
+  },
+  {
+   "narration": "On the way you'll see a French island next to Canada, an American town you reach only through Canada, and a moving compass target.",
+   "emoji": "🧭",
+   "headline": "What You'll See",
+   "stat": "",
+   "sub": "",
+   "visual_query": "compass map"
+  },
+  {
+   "narration": "Every fact here is true, and each one is stranger than the one before it.",
+   "emoji": "✅",
+   "headline": "All True",
+   "stat": "7",
+   "sub": "facts, getting stranger",
+   "visual_query": "Canada landscape"
+  },
+  {
+   "narration": "We start with something you can see on any map, which is the very edge of Canada.",
+   "emoji": "🌊",
+   "headline": "The Edge of Canada",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Canada coastline"
+  },
+  {
+   "narration": "First: Canada has more coastline than any other country on Earth.",
+   "emoji": "🏖️",
+   "headline": "Longest Coastline",
+   "stat": "#1",
+   "sub": "In the world",
+   "visual_query": "Canada coast ocean"
+  },
+  {
+   "narration": "Russia, Australia and Indonesia are all huge, yet none of them beat Canada. Its coastline is the longest in the world.",
+   "emoji": "📏",
+   "headline": "Beats Everyone",
+   "stat": "",
+   "sub": "Russia, Australia, Indonesia",
+   "visual_query": "world map coastline"
+  },
+  {
+   "narration": "The secret is the Arctic. The far north is not one solid block of land. It is a giant maze of islands.",
+   "emoji": "🧊",
+   "headline": "A Maze of Islands",
+   "stat": "",
+   "sub": "The Canadian Arctic",
+   "visual_query": "Arctic islands aerial"
+  },
+  {
+   "narration": "Baffin Island alone is about the size of Spain, and it is only one island among thousands.",
+   "emoji": "🏝️",
+   "headline": "One Island, Size of Spain",
+   "stat": "",
+   "sub": "Baffin Island",
+   "visual_query": "Baffin Island"
+  },
+  {
+   "narration": "Every bay and every island adds more shoreline, so the coast keeps growing the more carefully you measure it.",
+   "emoji": "📐",
+   "headline": "Coast That Keeps Growing",
+   "stat": "",
+   "sub": "",
+   "visual_query": "fjord coast Arctic"
+  },
+  {
+   "narration": "Imagine walking all of it. Most of that walk would be frozen, empty and very far from any road.",
+   "emoji": "🥶",
+   "headline": "A Frozen Walk",
+   "stat": "",
+   "sub": "",
+   "visual_query": "frozen shoreline"
+  },
+  {
+   "narration": "On a globe, the top of Canada looks like torn paper, with channels of water cutting between islands everywhere.",
+   "emoji": "🌍",
+   "headline": "Torn Paper Map",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Arctic archipelago satellite"
+  },
+  {
+   "narration": "Now go inland, because Canada has another record that sounds fake, and this one involves water everywhere.",
+   "emoji": "💧",
+   "headline": "Now Inland",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Canada lakes aerial"
+  },
+  {
+   "narration": "Second: Canada has more lakes than any other country.",
+   "emoji": "🏞️",
+   "headline": "Most Lakes on Earth",
+   "stat": "#1",
+   "sub": "Of any country",
+   "visual_query": "Canadian lake"
+  },
+  {
+   "narration": "From a plane, large parts of Canada look like someone spilled water across the map and walked away.",
+   "emoji": "✈️",
+   "headline": "Spilled Water Map",
+   "stat": "",
+   "sub": "",
+   "visual_query": "lakes from airplane"
+  },
+  {
+   "narration": "Many of these lakes are so small and remote that most maps never gave them a name.",
+   "emoji": "🏷️",
+   "headline": "Lakes With No Name",
+   "stat": "",
+   "sub": "",
+   "visual_query": "remote lake forest"
+  },
+  {
+   "narration": "Here is the odd one. Manitoulin Island sits in Lake Huron, and it is the largest island in a freshwater lake in the world.",
+   "emoji": "🏝️",
+   "headline": "Island in a Lake",
+   "stat": "",
+   "sub": "Manitoulin Island",
+   "visual_query": "Manitoulin Island"
+  },
+  {
+   "narration": "On that island is Lake Manitou, so you now have a lake inside an island that sits inside a lake.",
+   "emoji": "🔁",
+   "headline": "Lake in an Island",
+   "stat": "",
+   "sub": "Lake Manitou",
+   "visual_query": "Lake Manitou Ontario"
+  },
+  {
+   "narration": "Inside Lake Manitou sits Treasure Island, so you can stand on an island, in a lake, on an island, in a lake.",
+   "emoji": "🤯",
+   "headline": "Four Layers Deep",
+   "stat": "",
+   "sub": "Treasure Island",
+   "visual_query": "small island lake"
+  },
+  {
+   "narration": "Your brain needs a second to picture that. Take your time, because the next stop messes with your watch.",
+   "emoji": "⌚",
+   "headline": "Next: Your Watch",
+   "stat": "",
+   "sub": "",
+   "visual_query": "wristwatch clock"
+  },
+  {
+   "narration": "Third: in Newfoundland, the clock is set half an hour away from the zones next to it.",
+   "emoji": "🕰️",
+   "headline": "The Half-Hour Clock",
+   "stat": "30 min",
+   "sub": "Newfoundland",
+   "visual_query": "St John's Newfoundland"
+  },
+  {
+   "narration": "Indian viewers know this feeling. India also runs on a half-hour offset, so our time is never a clean hour.",
+   "emoji": "🇮🇳",
+   "headline": "Just Like India",
+   "stat": "",
+   "sub": "Half-hour offset",
+   "visual_query": "India clock tower"
+  },
+  {
+   "narration": "When the next province over says eleven thirty, St John's already says noon.",
+   "emoji": "🕛",
+   "headline": "Eleven Thirty vs Noon",
+   "stat": "",
+   "sub": "",
+   "visual_query": "clock noon"
+  },
+  {
+   "narration": "That means even a short flight to Newfoundland changes your watch by thirty minutes, not a full hour.",
+   "emoji": "🛫",
+   "headline": "A 30 Minute Jump",
+   "stat": "",
+   "sub": "",
+   "visual_query": "airport departures board"
+  },
+  {
+   "narration": "A small part of Labrador, in the same province, even follows the other clock, so the border of time gets messy.",
+   "emoji": "🗺️",
+   "headline": "Labrador Splits Too",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Labrador coast"
+  },
+  {
+   "narration": "Half-hour clocks are rare. Only a few places in the world use them, and Newfoundland is the famous one in North America.",
+   "emoji": "🌐",
+   "headline": "A Rare Clock",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world time zone map"
+  },
+  {
+   "narration": "Next, we leave the clocks and go to a place where the map and the road completely disagree.",
+   "emoji": "🛣️",
+   "headline": "Map vs Road",
+   "stat": "",
+   "sub": "",
+   "visual_query": "highway border sign"
+  },
+  {
+   "narration": "Fourth: there is an American town that you can only reach by land by driving through Canada.",
+   "emoji": "🇺🇸",
+   "headline": "A US Town Via Canada",
+   "stat": "",
+   "sub": "Point Roberts",
+   "visual_query": "Point Roberts Washington"
+  },
+  {
+   "narration": "Point Roberts, Washington, hangs off the coast like a tiny thumb pointing down from Canada.",
+   "emoji": "👍",
+   "headline": "A Tiny Thumb",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Point Roberts aerial"
+  },
+  {
+   "narration": "The border follows the forty-ninth parallel, a straight line, and that line cuts across the tip of a peninsula.",
+   "emoji": "📏",
+   "headline": "A Straight Line Cut",
+   "stat": "49°",
+   "sub": "North",
+   "visual_query": "49th parallel border"
+  },
+  {
+   "narration": "So the town belongs to the United States, but the rest of the United States is on the other side of Canada.",
+   "emoji": "🤔",
+   "headline": "US, But Cut Off",
+   "stat": "",
+   "sub": "",
+   "visual_query": "US Canada border sign"
+  },
+  {
+   "narration": "To drive to the rest of their own country, residents cross into Canada, travel through it, and cross back again.",
+   "emoji": "🚗",
+   "headline": "Two Border Crossings",
+   "stat": "2",
+   "sub": "Checks by road",
+   "visual_query": "border crossing cars"
+  },
+  {
+   "narration": "Two border checks just to reach the rest of your own country by road. Imagine that on a normal weekend.",
+   "emoji": "🛂",
+   "headline": "Passport Every Time",
+   "stat": "",
+   "sub": "",
+   "visual_query": "passport control"
+  },
+  {
+   "narration": "On three sides there is water, and on the fourth side there is Canada, so the town is almost an island.",
+   "emoji": "🌊",
+   "headline": "Water and Canada",
+   "stat": "",
+   "sub": "",
+   "visual_query": "peninsula water town"
+  },
+  {
+   "narration": "The next place sits in the sea just off Canada, and it is not Canadian at all.",
+   "emoji": "⛵",
+   "headline": "Not Canadian at All",
+   "stat": "",
+   "sub": "",
+   "visual_query": "fishing boats harbour"
+  },
+  {
+   "narration": "Fifth: just off Newfoundland, there are islands that belong to France.",
+   "emoji": "🇫🇷",
+   "headline": "France Off Canada",
+   "stat": "",
+   "sub": "Saint-Pierre and Miquelon",
+   "visual_query": "Saint-Pierre Miquelon"
+  },
+  {
+   "narration": "They are called Saint-Pierre and Miquelon, and they sit a short boat ride from the Canadian coast.",
+   "emoji": "🚤",
+   "headline": "A Short Boat Ride",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Saint-Pierre harbour"
+  },
+  {
+   "narration": "People there are French citizens, they vote in French elections, and they pay for things in euros.",
+   "emoji": "💶",
+   "headline": "French Citizens",
+   "stat": "€",
+   "sub": "Euros in North America",
+   "visual_query": "euro banknotes"
+  },
+  {
+   "narration": "So you can stand in North America, look at the Canadian shoreline, and still pay in European money.",
+   "emoji": "💱",
+   "headline": "Euros by Canada",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Saint-Pierre town houses"
+  },
+  {
+   "narration": "The bakeries sell baguettes, and the road signs are in French, just across the water from Newfoundland.",
+   "emoji": "🥖",
+   "headline": "Baguettes in Atlantic",
+   "stat": "",
+   "sub": "",
+   "visual_query": "baguette bakery"
+  },
+  {
+   "narration": "These islands are all that remains of a much larger French empire that once covered a huge part of North America.",
+   "emoji": "🏰",
+   "headline": "A Leftover Empire",
+   "stat": "",
+   "sub": "",
+   "visual_query": "New France map"
+  },
+  {
+   "narration": "If you enjoy strange places and facts like these, subscribe, because we find a new one every day.",
+   "emoji": "🔔",
+   "headline": "New Strange Fact Daily",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world globe"
+  },
+  {
+   "narration": "Now for something that cannot be fenced or taxed: the spot that your compass points to.",
+   "emoji": "🧭",
+   "headline": "Where Compass Points",
+   "stat": "",
+   "sub": "",
+   "visual_query": "compass needle"
+  },
+  {
+   "narration": "Sixth: your compass does not point to the North Pole at all.",
+   "emoji": "❌",
+   "headline": "Not the North Pole",
+   "stat": "",
+   "sub": "",
+   "visual_query": "compass close up"
+  },
+  {
+   "narration": "It points to the magnetic north pole, a spot that was once up in the Canadian Arctic.",
+   "emoji": "🧲",
+   "headline": "Magnetic North",
+   "stat": "",
+   "sub": "Once in Canada",
+   "visual_query": "Arctic ice landscape"
+  },
+  {
+   "narration": "And that spot never sits still. Liquid iron deep inside the Earth keeps moving, and the pole moves with it.",
+   "emoji": "🌋",
+   "headline": "Moving Iron Below",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Earth magnetic field diagram"
+  },
+  {
+   "narration": "In recent decades it has drifted away from Canada, heading across the Arctic Ocean toward Siberia.",
+   "emoji": "➡️",
+   "headline": "Drifting to Siberia",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Arctic Ocean ice"
+  },
+  {
+   "narration": "Scientists must update the world magnetic model regularly, because navigation systems depend on it.",
+   "emoji": "🔬",
+   "headline": "Models Need Updates",
+   "stat": "",
+   "sub": "",
+   "visual_query": "scientist magnetometer"
+  },
+  {
+   "narration": "Your phone's compass can use that model too, so a wandering spot in the Arctic can affect the arrow on your map.",
+   "emoji": "📱",
+   "headline": "Your Phone Compass",
+   "stat": "",
+   "sub": "",
+   "visual_query": "smartphone compass map"
+  },
+  {
+   "narration": "Picture a landmark that wanders across the Arctic by itself. That is the planet's magnetic pole.",
+   "emoji": "🌍",
+   "headline": "A Wandering Landmark",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Arctic aurora"
+  },
+  {
+   "narration": "And now the one I promised: a story with a rock, a flag, and a bottle of whisky.",
+   "emoji": "🥃",
+   "headline": "Now the Big One",
+   "stat": "",
+   "sub": "",
+   "visual_query": "whisky glass bottle"
+  },
+  {
+   "narration": "Seventh: Hans Island, a bare rock in the water between Canada and Greenland.",
+   "emoji": "🪨",
+   "headline": "Hans Island",
+   "stat": "#7",
+   "sub": "Canada and Greenland",
+   "visual_query": "Hans Island Nares Strait"
+  },
+  {
+   "narration": "It is about one square kilometre, with no trees and nobody living on it, just rock and ice.",
+   "emoji": "📍",
+   "headline": "Tiny Empty Rock",
+   "stat": "~1 km²",
+   "sub": "Nobody lives here",
+   "visual_query": "barren rocky island Arctic"
+  },
+  {
+   "narration": "It sits in a narrow channel of sea, and both Canada and Denmark, which Greenland belongs to, said it was theirs.",
+   "emoji": "🌊",
+   "headline": "Two Countries, One Rock",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nares Strait ice"
+  },
+  {
+   "narration": "The argument began in the 1970s, when the two countries drew their sea border and left this rock undecided.",
+   "emoji": "✏️",
+   "headline": "Left Undecided",
+   "stat": "1970s",
+   "sub": "",
+   "visual_query": "maritime boundary map"
+  },
+  {
+   "narration": "Nobody fired a shot. Instead, visiting officials played a very polite game of one-upmanship.",
+   "emoji": "🤝",
+   "headline": "Nobody Fired a Shot",
+   "stat": "",
+   "sub": "",
+   "visual_query": "soldiers Arctic flag"
+  },
+  {
+   "narration": "Canadian soldiers landed, raised a flag, and left a bottle of Canadian whisky behind.",
+   "emoji": "🇨🇦",
+   "headline": "Canada Leaves Whisky",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Canadian flag whisky"
+  },
+  {
+   "narration": "Then Danish visitors arrived, planted a Danish flag, and left a bottle of schnapps with a note: welcome to the Danish island.",
+   "emoji": "🇩🇰",
+   "headline": "Denmark Leaves Schnapps",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Danish flag schnapps"
+  },
+  {
+   "narration": "This went back and forth for years, and the media gave it a name: the Whisky War.",
+   "emoji": "📰",
+   "headline": "The Whisky War",
+   "stat": "",
+   "sub": "",
+   "visual_query": "whisky bottles"
+  },
+  {
+   "narration": "It is probably the friendliest war in history, because the only weapons were bottles.",
+   "emoji": "😄",
+   "headline": "Friendliest War Ever",
+   "stat": "",
+   "sub": "",
+   "visual_query": "bottles on rock"
+  },
+  {
+   "narration": "Over time there were more flags, more visits and more careful diplomats on both sides, all over a rock nobody lived on.",
+   "emoji": "🚩",
+   "headline": "More Flags, More Visits",
+   "stat": "",
+   "sub": "",
+   "visual_query": "flags Arctic island"
+  },
+  {
+   "narration": "Then in June 2022, after almost fifty years of this, the two countries finally signed a deal.",
+   "emoji": "✍️",
+   "headline": "The 2022 Deal",
+   "stat": "2022",
+   "sub": "After almost 50 years",
+   "visual_query": "treaty signing ceremony"
+  },
+  {
+   "narration": "They did not hand it to one side. They drew a line across the island, following a natural ridge.",
+   "emoji": "⛰️",
+   "headline": "A Line Along a Ridge",
+   "stat": "",
+   "sub": "",
+   "visual_query": "rocky ridge island"
+  },
+  {
+   "narration": "The island was divided almost in half, and both sides now own a piece of it.",
+   "emoji": "✂️",
+   "headline": "Split Almost in Half",
+   "stat": "",
+   "sub": "Both own a piece",
+   "visual_query": "island map divided"
+  },
+  {
+   "narration": "That also means Canada now shares a land border with a European country, which was never true before.",
+   "emoji": "🧱",
+   "headline": "A Land Border With Europe",
+   "stat": "",
+   "sub": "Canada and Denmark",
+   "visual_query": "Canada Denmark flags"
+  },
+  {
+   "narration": "Greenland's leaders and Inuit from both sides took part in the talks, and Inuit keep access for hunting and fishing.",
+   "emoji": "🎣",
+   "headline": "Inuit Keep Access",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Inuit hunters Arctic"
+  },
+  {
+   "narration": "So the biggest fact is this: a fight over a tiny rock ended with bottles, a ridge and a signature.",
+   "emoji": "🏁",
+   "headline": "Bottles to Treaty",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Arctic rock island"
+  },
+  {
+   "narration": "Greenlanders call the island Tartupaluk, and some in Canada want that to be its official name.",
+   "emoji": "📛",
+   "headline": "Also Called Tartupaluk",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Greenland landscape"
+  },
+  {
+   "narration": "Remember the first line? Your map of Hans Island shows a rock that Canada and Denmark split down the middle in 2022.",
+   "emoji": "🔄",
+   "headline": "Back to the Start",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hans Island map"
+  },
+  {
+   "narration": "Now you know the story behind that line, from the first bottle of whisky to the final signature.",
+   "emoji": "🥂",
+   "headline": "The Full Story",
+   "stat": "",
+   "sub": "",
+   "visual_query": "whisky toast"
+  },
+  {
+   "narration": "Seven facts, one country, and not a single one of them is made up. Canada really is stranger than you think.",
+   "emoji": "🇨🇦",
+   "headline": "Seven True Facts",
+   "stat": "7",
+   "sub": "",
+   "visual_query": "Canada flag"
+  },
+  {
+   "narration": "Tomorrow: another country that looks perfectly ordinary on the map, and isn't.",
+   "emoji": "➡️",
+   "headline": "Up Next",
+   "stat": "",
+   "sub": "Another strange country",
+   "visual_query": "world map globe"
+  }
+ ]
+}

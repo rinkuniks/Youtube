@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Falcon 9 first landing December 2015",
+ "hook": "Your rocket booster lands upright on its own legs.",
+ "title": "A Rocket Landed Itself Standing Upright",
+ "description": "In December 2015, SpaceX's Falcon 9 first stage touched down upright on a landing pad. It was the first orbital rocket booster to do it. Before that, boosters were thrown away after one flight.\n\n#Shorts #SpaceX #Rockets",
+ "tags": [
+  "SpaceX",
+  "Falcon 9",
+  "rocket landing",
+  "space facts",
+  "booster",
+  "reusable rocket",
+  "space",
+  "Shorts"
+ ],
+ "comment_prompt": "Rocket or jet, which is cooler?",
+ "hook_banner": "IT LANDED ITSELF",
+ "scenes": [
+  {
+   "narration": "Your rocket booster lands upright on its own legs.",
+   "emoji": "🚀",
+   "headline": "ROCKET STANDS UPRIGHT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Falcon 9 booster landing"
+  },
+  {
+   "narration": "In December 2015, Falcon 9 did exactly that.",
+   "emoji": "📅",
+   "headline": "DECEMBER 2015",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Falcon 9 landing zone 1"
+  },
+  {
+   "narration": "Its first stage touched down standing on a pad.",
+   "emoji": "🦵",
+   "headline": "TOUCHED DOWN STANDING",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Falcon 9 landing legs"
+  },
+  {
+   "narration": "First orbital rocket ever to manage it.",
+   "emoji": "🥇",
+   "headline": "FIRST EVER",
+   "stat": "",
+   "sub": "Orbital rocket booster",
+   "visual_query": "SpaceX landing pad Cape Canaveral"
+  },
+  {
+   "narration": "Before that, boosters were thrown away.",
+   "emoji": "🗑️",
+   "headline": "BEFORE: THROWN AWAY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "rocket launch stage separation"
+  },
+  {
+   "narration": "Imagine throwing away a jet after one flight.",
+   "emoji": "✈️",
+   "headline": "LIKE BINNING A JET",
+   "stat": "",
+   "sub": "",
+   "visual_query": "airplane takeoff"
+  },
+  {
+   "narration": "Now the same boosters fly again.",
+   "emoji": "♻️",
+   "headline": "NOW THEY REFLY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Falcon 9 reused booster"
+  },
+  {
+   "narration": "So yes, a rocket can park itself.",
+   "emoji": "🅿️",
+   "headline": "ROCKETS CAN PARK",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Falcon 9 landed"
+  },
+  {
+   "narration": "Tomorrow: a disc that floats on nothing.",
+   "emoji": "🧲",
+   "headline": "TOMORROW: FLOATING DISC",
+   "stat": "",
+   "sub": "",
+   "visual_query": "levitating superconductor magnet"
+  }
+ ]
+}

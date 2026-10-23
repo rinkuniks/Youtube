@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Burj Khalifa double sunset",
+ "hook": "Your sunset in Dubai can happen twice in one evening.",
+ "title": "Watch the Same Sunset Twice in Dubai",
+ "description": "At the Burj Khalifa in Dubai you can watch the sun set from the ground, ride the elevator up, and see it set again from the top. The tower is 828 metres tall, so the horizon drops as you rise. Part of the Places That Shouldn't Exist series.\n\n#Shorts #BurjKhalifa #Dubai",
+ "tags": [
+  "Burj Khalifa",
+  "Dubai",
+  "two sunsets",
+  "sunset twice",
+  "geography facts",
+  "tallest building",
+  "travel facts",
+  "places that shouldn't exist"
+ ],
+ "comment_prompt": "Would you try it? Yes or no",
+ "hook_banner": "SEE IT SET TWICE",
+ "scenes": [
+  {
+   "narration": "Your sunset in Dubai can happen twice.",
+   "emoji": "🌇",
+   "headline": "Two Sunsets",
+   "stat": "2",
+   "sub": "",
+   "visual_query": "Burj Khalifa sunset"
+  },
+  {
+   "narration": "Watch the sun set from the ground.",
+   "emoji": "🌅",
+   "headline": "Sunset One",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dubai sunset skyline"
+  },
+  {
+   "narration": "Then ride the elevator to the top.",
+   "emoji": "🛗",
+   "headline": "Ride To The Top",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Burj Khalifa elevator"
+  },
+  {
+   "narration": "The Burj Khalifa is 828 metres tall.",
+   "emoji": "🏙️",
+   "headline": "828 Metres Tall",
+   "stat": "828 m",
+   "sub": "",
+   "visual_query": "Burj Khalifa tower"
+  },
+  {
+   "narration": "From up there, you can see the sun again.",
+   "emoji": "☀️",
+   "headline": "The Sun Returns",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Burj Khalifa observation deck sun"
+  },
+  {
+   "narration": "You are higher, so the horizon drops.",
+   "emoji": "📉",
+   "headline": "Horizon Drops",
+   "stat": "",
+   "sub": "",
+   "visual_query": "view from Burj Khalifa top"
+  },
+  {
+   "narration": "The sun slips below it a second time.",
+   "emoji": "🌇",
+   "headline": "Sunset Two",
+   "stat": "",
+   "sub": "",
+   "visual_query": "sunset from skyscraper"
+  },
+  {
+   "narration": "Your sunset in Dubai happens twice.",
+   "emoji": "🌇",
+   "headline": "Same Sun, Twice",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dubai skyline dusk"
+  },
+  {
+   "narration": "Next: a drive that goes underground for twenty minutes.",
+   "emoji": "➡️",
+   "headline": "Next: Longest Tunnel",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Laerdal tunnel"
+  }
+ ]
+}

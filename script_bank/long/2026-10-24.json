@@ -1,0 +1,680 @@
+{
+ "topic": "Strange borders countdown: Haskell Library, Llívia, Northwest Angle, Gibraltar, Diomede, Wagah, Cooch Behar",
+ "hook": "Your library card can work in two countries at once, and a black line on the floor shows where one ends.",
+ "title": "Your Library Card Works in 2 Countries + 6 More Borders",
+ "description": "A library with a border across its reading room, a Spanish town trapped inside France, a runway that stops traffic, and India's own maze of land inside land inside land. We count down seven real borders that make no sense, from number seven to number one. Every place in this video is real, and you can find each one on a map.\n\n#borders #geography #factsyoudidntknow",
+ "tags": [
+  "strange borders",
+  "borders that make no sense",
+  "Haskell Free Library",
+  "Llivia",
+  "Northwest Angle",
+  "Gibraltar runway",
+  "Diomede Islands",
+  "Wagah border",
+  "Cooch Behar enclaves",
+  "India Bangladesh enclaves",
+  "geography facts",
+  "weird geography",
+  "unbelievable but true facts",
+  "countdown"
+ ],
+ "comment_prompt": "Which border would you most like to visit?",
+ "hook_banner": "A LIBRARY IN TWO COUNTRIES",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "7. The Library on the Border",
+   "scene": 5
+  },
+  {
+   "title": "6. The Spanish Town in France",
+   "scene": 13
+  },
+  {
+   "title": "5. America's Corner Inside Canada",
+   "scene": 20
+  },
+  {
+   "title": "4. The Road Across a Runway",
+   "scene": 28
+  },
+  {
+   "title": "3. Tomorrow Island, Yesterday Island",
+   "scene": 38
+  },
+  {
+   "title": "2. The Flag Show at Wagah",
+   "scene": 47
+  },
+  {
+   "title": "1. India's Land Inside Land Maze",
+   "scene": 57
+  },
+  {
+   "title": "The Full Picture",
+   "scene": 71
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your library card can work in two countries at once, and a black line on the floor shows where one ends.",
+   "emoji": "📚",
+   "headline": "A Library in Two Countries",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Haskell Free Library"
+  },
+  {
+   "narration": "Seven real borders that make no sense: a library, a runway, two islands a day apart, and a Spanish town trapped inside France.",
+   "emoji": "🗺️",
+   "headline": "7 Borders, All Real",
+   "stat": "7",
+   "sub": "",
+   "visual_query": "world map borders"
+  },
+  {
+   "narration": "Number one is in India, and a popular story says it began with two kings and a game of chess.",
+   "emoji": "♟️",
+   "headline": "India's Strangest",
+   "stat": "",
+   "sub": "Number one",
+   "visual_query": "chess board king"
+  },
+  {
+   "narration": "By the end you will see land inside land inside land, and people who once lived in a country they could not easily reach.",
+   "emoji": "🧩",
+   "headline": "Land Inside Land",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Bangladesh border fence"
+  },
+  {
+   "narration": "So let us count down, starting with a library you could walk into right now.",
+   "emoji": "⏳",
+   "headline": "The Countdown Begins",
+   "stat": "",
+   "sub": "",
+   "visual_query": "library building entrance"
+  },
+  {
+   "narration": "Number seven. Picture a reading room where the border runs straight across the floor, between the chairs.",
+   "emoji": "7️⃣",
+   "headline": "7. A Border in the Library",
+   "stat": "7",
+   "sub": "",
+   "visual_query": "library reading room"
+  },
+  {
+   "narration": "This is the Haskell Free Library, between Derby Line in Vermont, America, and Stanstead in Quebec, Canada.",
+   "emoji": "📍",
+   "headline": "Vermont Meets Quebec",
+   "stat": "",
+   "sub": "Haskell Free Library",
+   "visual_query": "Derby Line Vermont"
+  },
+  {
+   "narration": "A black line on the floor marks the border. One reader can sit in America while a friend sits in Canada.",
+   "emoji": "⚫",
+   "headline": "A Black Line on the Floor",
+   "stat": "",
+   "sub": "",
+   "visual_query": "library floor line border"
+  },
+  {
+   "narration": "The building opened in 1904, and it was built to serve the towns on both sides of the line.",
+   "emoji": "🏛️",
+   "headline": "Opened in 1904",
+   "stat": "1904",
+   "sub": "",
+   "visual_query": "Haskell Library building"
+  },
+  {
+   "narration": "Upstairs there is an opera house. The stage is in the United States, and most of the seats are in Canada.",
+   "emoji": "🎭",
+   "headline": "Stage in USA, Seats in Canada",
+   "stat": "",
+   "sub": "",
+   "visual_query": "opera house stage seats"
+  },
+  {
+   "narration": "You can stand with one foot in each country, and the bookshelves do not care which one you pick.",
+   "emoji": "🦶",
+   "headline": "One Foot in Each",
+   "stat": "",
+   "sub": "",
+   "visual_query": "bookshelves library"
+  },
+  {
+   "narration": "People sit, read and borrow books here, and a line on the floor is the only reminder of the border.",
+   "emoji": "📖",
+   "headline": "Just a Line",
+   "stat": "",
+   "sub": "",
+   "visual_query": "people reading library"
+  },
+  {
+   "narration": "That was the gentle one. Next, a whole Spanish town that is stuck inside France.",
+   "emoji": "➡️",
+   "headline": "Next: A Trapped Town",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pyrenees mountains village"
+  },
+  {
+   "narration": "Number six. Look at the French side of the Pyrenees mountains, and you will find a Spanish town.",
+   "emoji": "6️⃣",
+   "headline": "6. A Spanish Town in France",
+   "stat": "6",
+   "sub": "",
+   "visual_query": "Pyrenees mountains France"
+  },
+  {
+   "narration": "It is called Llívia. French land surrounds it on every side, so you cannot reach it from Spain without crossing France.",
+   "emoji": "🇪🇸",
+   "headline": "Llívia, Spain",
+   "stat": "",
+   "sub": "Surrounded by France",
+   "visual_query": "Llivia town Spain"
+  },
+  {
+   "narration": "The reason goes back to a treaty in 1659, when Spain gave France a group of villages.",
+   "emoji": "📜",
+   "headline": "The Treaty of 1659",
+   "stat": "1659",
+   "sub": "",
+   "visual_query": "old treaty document"
+  },
+  {
+   "narration": "But Llívia was officially a town, not a village. So the treaty never named it, and it stayed Spanish.",
+   "emoji": "🏘️",
+   "headline": "A Town, Not a Village",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Llivia old town"
+  },
+  {
+   "narration": "More than three hundred and fifty years later, it is still Spanish, still sitting alone inside French territory.",
+   "emoji": "⌛",
+   "headline": "Still Spanish Today",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Spanish flag village"
+  },
+  {
+   "narration": "Today a short road, called the neutral road, links Llívia to the Spanish town of Puigcerdà.",
+   "emoji": "🛣️",
+   "headline": "The Neutral Road",
+   "stat": "",
+   "sub": "",
+   "visual_query": "mountain road Pyrenees"
+  },
+  {
+   "narration": "That road runs over French land, but a special rule keeps it open, so a Spanish town stays joined to Spain.",
+   "emoji": "🔗",
+   "headline": "A Road Between Two Spains",
+   "stat": "",
+   "sub": "",
+   "visual_query": "road sign Spain France"
+  },
+  {
+   "narration": "Picture driving out of a Spanish town and having to pass through France to reach the next Spanish town.",
+   "emoji": "🚗",
+   "headline": "France in the Middle",
+   "stat": "",
+   "sub": "",
+   "visual_query": "car driving mountain road"
+  },
+  {
+   "narration": "Number five. There is a piece of America that you can only reach by land if you drive through Canada.",
+   "emoji": "5️⃣",
+   "headline": "5. America Inside Canada",
+   "stat": "5",
+   "sub": "",
+   "visual_query": "Lake of the Woods"
+  },
+  {
+   "narration": "It is called the Northwest Angle, in the state of Minnesota, on a huge lake named Lake of the Woods.",
+   "emoji": "🧭",
+   "headline": "The Northwest Angle",
+   "stat": "",
+   "sub": "Minnesota, USA",
+   "visual_query": "Northwest Angle Minnesota"
+  },
+  {
+   "narration": "On a map it looks like a little square of America stuck on top of Canada, cut off from the rest.",
+   "emoji": "🗺️",
+   "headline": "A Square Cut Off",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Northwest Angle map"
+  },
+  {
+   "narration": "The cause was a mapmaking mistake. A treaty in 1783 used a map that got the geography of the region wrong.",
+   "emoji": "❌",
+   "headline": "A Mapmaker's Mistake",
+   "stat": "1783",
+   "sub": "",
+   "visual_query": "old map treaty 1783"
+  },
+  {
+   "narration": "The treaty said the border should run to the Mississippi river, but the river does not reach that far north.",
+   "emoji": "🌊",
+   "headline": "The River Was Missing",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mississippi river source"
+  },
+  {
+   "narration": "Later treaties settled the line and left this corner on the American side, and it was never moved.",
+   "emoji": "🤝",
+   "headline": "The Line Stayed",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border survey marker"
+  },
+  {
+   "narration": "So to drive there from the rest of Minnesota, you have to go through Canada, or cross the lake by boat.",
+   "emoji": "⛵",
+   "headline": "Through Canada or by Boat",
+   "stat": "",
+   "sub": "",
+   "visual_query": "boat on lake"
+  },
+  {
+   "narration": "There are fishing lodges there, and in winter the frozen lake becomes a road across the ice.",
+   "emoji": "🎣",
+   "headline": "Fishing Lodges and Ice",
+   "stat": "",
+   "sub": "",
+   "visual_query": "frozen lake fishing"
+  },
+  {
+   "narration": "That is still ordinary compared to the next one, where the road itself crosses an airport runway.",
+   "emoji": "✈️",
+   "headline": "Next: A Runway Road",
+   "stat": "",
+   "sub": "",
+   "visual_query": "airport runway road"
+  },
+  {
+   "narration": "Number four. Your road here has to stop at a red light for airplanes, and the same road crosses a border.",
+   "emoji": "4️⃣",
+   "headline": "4. Stop for Airplanes",
+   "stat": "4",
+   "sub": "",
+   "visual_query": "Gibraltar airport runway"
+  },
+  {
+   "narration": "This is Gibraltar, a small British territory at the southern tip of Spain, right beside a giant rock.",
+   "emoji": "🪨",
+   "headline": "Gibraltar",
+   "stat": "",
+   "sub": "British territory",
+   "visual_query": "Rock of Gibraltar"
+  },
+  {
+   "narration": "To enter from Spain, you cross the border, and then you walk or drive straight onto the airport runway.",
+   "emoji": "🛂",
+   "headline": "Border, Then Runway",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar border crossing"
+  },
+  {
+   "narration": "A main road, Winston Churchill Avenue, runs across the runway. When a plane is due, barriers close the road.",
+   "emoji": "🚧",
+   "headline": "Barriers for Planes",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Winston Churchill Avenue Gibraltar"
+  },
+  {
+   "narration": "Cars, bikes and people all wait while a jet lands or takes off, only a short distance in front of them.",
+   "emoji": "🛬",
+   "headline": "Everyone Waits",
+   "stat": "",
+   "sub": "",
+   "visual_query": "plane landing road crossing"
+  },
+  {
+   "narration": "For people who live in Gibraltar, walking across a runway is a normal part of the day.",
+   "emoji": "🚶",
+   "headline": "A Normal Walk",
+   "stat": "",
+   "sub": "",
+   "visual_query": "pedestrians crossing runway"
+  },
+  {
+   "narration": "Gibraltar has belonged to Britain since a treaty in 1713, even though it sits on the Spanish coast.",
+   "emoji": "🇬🇧",
+   "headline": "British Since 1713",
+   "stat": "1713",
+   "sub": "",
+   "visual_query": "Gibraltar British flag"
+  },
+  {
+   "narration": "Spain still disputes that, and the argument is part of why this border matters so much.",
+   "emoji": "⚖️",
+   "headline": "Spain Disagrees",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar Spain border"
+  },
+  {
+   "narration": "If you like strange places and facts like these, subscribe, because there is another one coming tomorrow.",
+   "emoji": "🔔",
+   "headline": "More Strange Places",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world globe travel"
+  },
+  {
+   "narration": "And remember number one. It involves a game of chess, and it is even stranger than it sounds.",
+   "emoji": "👀",
+   "headline": "Number One Is Coming",
+   "stat": "",
+   "sub": "",
+   "visual_query": "chess pieces board"
+  },
+  {
+   "narration": "Number three. Two islands face each other across a narrow sea, and they are almost a whole day apart.",
+   "emoji": "3️⃣",
+   "headline": "3. A Day Apart",
+   "stat": "3",
+   "sub": "",
+   "visual_query": "Diomede Islands Bering Strait"
+  },
+  {
+   "narration": "They are the Diomede Islands, in the Bering Strait. Little Diomede belongs to America, and Big Diomede belongs to Russia.",
+   "emoji": "🏝️",
+   "headline": "The Diomede Islands",
+   "stat": "",
+   "sub": "USA and Russia",
+   "visual_query": "Little Diomede island"
+  },
+  {
+   "narration": "The gap between them is less than four kilometres. On a clear day, people on one island can see the other.",
+   "emoji": "🔭",
+   "headline": "Less Than 4 km",
+   "stat": "<4 km",
+   "sub": "",
+   "visual_query": "Bering Strait islands"
+  },
+  {
+   "narration": "The International Date Line runs between them. So Big Diomede is almost a whole day ahead of Little Diomede.",
+   "emoji": "🕐",
+   "headline": "The Date Line Between",
+   "stat": "",
+   "sub": "",
+   "visual_query": "international date line map"
+  },
+  {
+   "narration": "That is why people call them Tomorrow Island and Yesterday Island. Big Diomede is tomorrow, Little Diomede is yesterday.",
+   "emoji": "📅",
+   "headline": "Tomorrow and Yesterday",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Big Diomede island"
+  },
+  {
+   "narration": "Little Diomede is a tiny village, and its people have long looked at Russia from their own windows.",
+   "emoji": "🏠",
+   "headline": "A View of Russia",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Little Diomede village"
+  },
+  {
+   "narration": "In winter the sea can freeze between them, but crossing on foot is not allowed, because this is an international border.",
+   "emoji": "🧊",
+   "headline": "Frozen but Closed",
+   "stat": "",
+   "sub": "",
+   "visual_query": "frozen sea ice Alaska"
+  },
+  {
+   "narration": "In 1987, the American swimmer Lynne Cox swam between the two islands in freezing water, and made it across.",
+   "emoji": "🏊",
+   "headline": "A Swim Across Time",
+   "stat": "1987",
+   "sub": "",
+   "visual_query": "open water swimmer cold sea"
+  },
+  {
+   "narration": "A few kilometres of water, and a whole day of difference. Now we come home, to India.",
+   "emoji": "🇮🇳",
+   "headline": "Now, Home to India",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India map"
+  },
+  {
+   "narration": "Number two. Every evening, soldiers from two rival countries lower their flags together, while thousands of people cheer from both sides.",
+   "emoji": "2️⃣",
+   "headline": "2. The Flag Show",
+   "stat": "2",
+   "sub": "",
+   "visual_query": "Wagah border ceremony"
+  },
+  {
+   "narration": "This is Attari-Wagah, on the road between Amritsar in India and Lahore in Pakistan.",
+   "emoji": "📍",
+   "headline": "Attari-Wagah",
+   "stat": "",
+   "sub": "Amritsar to Lahore",
+   "visual_query": "Attari Wagah border gate"
+  },
+  {
+   "narration": "Before sunset, border guards from both sides march with high kicks, stare each other down, and slam the gates.",
+   "emoji": "🥾",
+   "headline": "High Kicks and Gates",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Wagah border guards march"
+  },
+  {
+   "narration": "Then the two flags are lowered at the same time, and the crowds on each side shout their own slogans.",
+   "emoji": "🚩",
+   "headline": "Flags Down Together",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Wagah flag lowering ceremony"
+  },
+  {
+   "narration": "Behind all the drama, the land on both sides is the same Punjab, with the same language and the same food.",
+   "emoji": "🍛",
+   "headline": "The Same Punjab",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Punjab wheat fields"
+  },
+  {
+   "narration": "The border was drawn in 1947, and families and farms were cut in two by a line on a map.",
+   "emoji": "✂️",
+   "headline": "Cut in 1947",
+   "stat": "1947",
+   "sub": "",
+   "visual_query": "Partition 1947 refugees"
+  },
+  {
+   "narration": "In recent times the usual handshake and the opening of the gates have been stopped, but the flags still come down together.",
+   "emoji": "🚪",
+   "headline": "Changed in Recent Times",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Wagah border closed gate"
+  },
+  {
+   "narration": "Many visitors travel to Amritsar just to watch it, and the stands fill up every evening.",
+   "emoji": "🏟️",
+   "headline": "A Packed Stadium",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Wagah border crowd stands"
+  },
+  {
+   "narration": "Two rival armies perform one shared show every evening. That is a border that makes no sense.",
+   "emoji": "🎬",
+   "headline": "One Shared Show",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Wagah border soldiers flag"
+  },
+  {
+   "narration": "But the strangest border of all is still ahead, and it hides in West Bengal, in India.",
+   "emoji": "👉",
+   "headline": "The Strangest Is Next",
+   "stat": "",
+   "sub": "",
+   "visual_query": "West Bengal village fields"
+  },
+  {
+   "narration": "Number one. Before 2015, one corner of India and Bangladesh looked like a bowl of scrambled puzzle pieces.",
+   "emoji": "1️⃣",
+   "headline": "1. The Border Maze",
+   "stat": "1",
+   "sub": "",
+   "visual_query": "Cooch Behar West Bengal"
+  },
+  {
+   "narration": "In and around Cooch Behar, 162 small patches of land sat inside the other country: 111 Indian ones inside Bangladesh, and 51 Bangladeshi ones inside India.",
+   "emoji": "🧩",
+   "headline": "162 Patches of Land",
+   "stat": "162",
+   "sub": "111 Indian, 51 Bangladeshi",
+   "visual_query": "India Bangladesh enclaves map"
+  },
+  {
+   "narration": "These were called enclaves. Each one was an island of one country, completely surrounded by the other country.",
+   "emoji": "🏝️",
+   "headline": "Islands on Land",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Bangladesh border village"
+  },
+  {
+   "narration": "A popular story says it started with a game. The king of Cooch Behar and a Mughal officer played chess, with villages as the stakes.",
+   "emoji": "♟️",
+   "headline": "The Chess Story",
+   "stat": "",
+   "sub": "",
+   "visual_query": "chess king pieces"
+  },
+  {
+   "narration": "Historians say the truth is messier, and came from old wars and treaties. But the maze was very real.",
+   "emoji": "📚",
+   "headline": "The Truth Is Messier",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old Bengal map"
+  },
+  {
+   "narration": "People inside an enclave lived in a country they could not easily reach, with their own government's land out of sight.",
+   "emoji": "🚫",
+   "headline": "A Country Out of Reach",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bangladesh village rice field"
+  },
+  {
+   "narration": "Getting a school, a hospital or electricity was very hard, because the country around them did not treat them as its own.",
+   "emoji": "💡",
+   "headline": "No School, No Power",
+   "stat": "",
+   "sub": "",
+   "visual_query": "village school Bangladesh"
+  },
+  {
+   "narration": "Imagine your house sitting inside another country, with no road that leads to your own.",
+   "emoji": "🏡",
+   "headline": "A House With No Road",
+   "stat": "",
+   "sub": "",
+   "visual_query": "village house dirt road"
+  },
+  {
+   "narration": "Reaching a doctor could mean crossing into a foreign country, and many families simply managed without.",
+   "emoji": "🩺",
+   "headline": "A Foreign Doctor Trip",
+   "stat": "",
+   "sub": "",
+   "visual_query": "rural clinic India"
+  },
+  {
+   "narration": "And one of them was a world record. A patch called Dahala Khagrabari was the only third-level enclave on Earth.",
+   "emoji": "🏆",
+   "headline": "A World Record Enclave",
+   "stat": "",
+   "sub": "Dahala Khagrabari",
+   "visual_query": "Dahala Khagrabari enclave"
+  },
+  {
+   "narration": "Think of it: an Indian patch, inside a Bangladeshi patch, inside an Indian patch, inside Bangladesh. Land inside land inside land.",
+   "emoji": "🪆",
+   "headline": "Land Inside Land Inside Land",
+   "stat": "",
+   "sub": "",
+   "visual_query": "nested enclave diagram"
+  },
+  {
+   "narration": "At midnight on 31 July 2015, India and Bangladesh finally swapped the enclaves and ended the maze.",
+   "emoji": "🕛",
+   "headline": "The Swap of 2015",
+   "stat": "2015",
+   "sub": "",
+   "visual_query": "India Bangladesh enclave exchange 2015"
+  },
+  {
+   "narration": "People were asked which country they wanted to belong to, and many got proper citizenship for the first time.",
+   "emoji": "🪪",
+   "headline": "Choose Your Country",
+   "stat": "",
+   "sub": "",
+   "visual_query": "villagers celebrating Indian flag"
+  },
+  {
+   "narration": "Tens of thousands of people lived in these pockets, and many say the swap finally gave them a country.",
+   "emoji": "🇮🇳",
+   "headline": "A Country at Last",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cooch Behar villagers"
+  },
+  {
+   "narration": "So that is seven real borders: a library, a Spanish town in France, and an American corner inside Canada.",
+   "emoji": "✅",
+   "headline": "Seven Real Borders",
+   "stat": "7",
+   "sub": "",
+   "visual_query": "world map pins"
+  },
+  {
+   "narration": "A runway across a road, two islands a day apart, a flag show between rivals, and land inside land inside land.",
+   "emoji": "🗺️",
+   "headline": "All of Them Real",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar runway Diomede map"
+  },
+  {
+   "narration": "Which brings us back to the start. Your library card really can work in two countries, and a line on the floor proves it.",
+   "emoji": "🔁",
+   "headline": "Back to the Library",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Haskell Library reading room"
+  },
+  {
+   "narration": "Next video: more places where the map and the ground do not agree. See you there.",
+   "emoji": "➡️",
+   "headline": "Next: Map vs Ground",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old map compass"
+  }
+ ]
+}

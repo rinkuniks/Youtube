@@ -1,0 +1,86 @@
+{
+ "category": "geography",
+ "topic": "France time zones",
+ "hook": "Your flight from Paris can land in a French island across the world.",
+ "title": "Fly From Paris, Land in France 12 Hours Away",
+ "description": "France has more time zones than any other country because of its overseas territories. Paris to French Polynesia is a 12 hour time difference in summer. Part of the series: Places That Shouldn't Exist.\n\n#Shorts #Geography #France",
+ "tags": [
+  "France",
+  "time zones",
+  "French Polynesia",
+  "Tahiti",
+  "Paris",
+  "geography facts",
+  "overseas territories",
+  "map facts",
+  "shorts"
+ ],
+ "comment_prompt": "Would you fly it? Yes or no",
+ "hook_banner": "STILL IN FRANCE",
+ "scenes": [
+  {
+   "narration": "Your flight from Paris can land in France again.",
+   "emoji": "✈️",
+   "headline": "STILL FRANCE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Paris airport plane"
+  },
+  {
+   "narration": "But the clock there is way off.",
+   "emoji": "🕒",
+   "headline": "CLOCK IS OFF",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world clocks time zones"
+  },
+  {
+   "narration": "Tahiti is French, on the other side of the world.",
+   "emoji": "🏝️",
+   "headline": "TAHITI IS FRANCE",
+   "stat": "",
+   "sub": "French Polynesia",
+   "visual_query": "Tahiti beach"
+  },
+  {
+   "narration": "In summer it's 12 hours behind Paris.",
+   "emoji": "⏰",
+   "headline": "12 HOURS BEHIND",
+   "stat": "12",
+   "sub": "hours in summer",
+   "visual_query": "Eiffel Tower Paris"
+  },
+  {
+   "narration": "France owns lands on many oceans.",
+   "emoji": "🌊",
+   "headline": "LANDS ON MANY OCEANS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map France territories"
+  },
+  {
+   "narration": "That gives it more time zones than any country.",
+   "emoji": "🗺️",
+   "headline": "MOST TIME ZONES",
+   "stat": "",
+   "sub": "of any country",
+   "visual_query": "time zone map"
+  },
+  {
+   "narration": "Leave Paris at night, land in someone's morning.",
+   "emoji": "🌅",
+   "headline": "NIGHT TO MORNING",
+   "stat": "",
+   "sub": "",
+   "visual_query": "airplane window sunrise"
+  },
+  {
+   "narration": "Same country, different day. Next: a town on the move.",
+   "emoji": "🇫🇷",
+   "headline": "SAME COUNTRY",
+   "stat": "",
+   "sub": "Next: a town on the move",
+   "visual_query": "French flag"
+  }
+ ]
+}

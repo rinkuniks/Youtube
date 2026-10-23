@@ -1,0 +1,85 @@
+{
+ "category": "geography",
+ "topic": "Wagah border ceremony",
+ "hook": "Your evening at Wagah shows two countries lowering flags face to face.",
+ "title": "India And Pakistan Face Off Every Evening",
+ "description": "Every evening at the Wagah border near Amritsar, Indian and Pakistani border forces perform a flag-lowering ceremony facing each other. Crowds gather on both sides to watch it.\n\n#Shorts #India #Geography",
+ "tags": [
+  "wagah border",
+  "amritsar",
+  "india pakistan",
+  "beating retreat",
+  "india facts",
+  "geography facts",
+  "punjab",
+  "shorts"
+ ],
+ "comment_prompt": "Have you been to Wagah? Yes or no",
+ "hook_banner": "REAL DAILY CEREMONY",
+ "scenes": [
+  {
+   "narration": "Your evening at Wagah shows two countries lowering flags together.",
+   "emoji": "🇮🇳",
+   "headline": "FLAGS LOWER TOGETHER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Wagah border ceremony"
+  },
+  {
+   "narration": "It happens near Amritsar, at sunset, every day.",
+   "emoji": "🌇",
+   "headline": "EVERY SUNSET",
+   "stat": "",
+   "sub": "near Amritsar",
+   "visual_query": "Wagah border gate sunset"
+  },
+  {
+   "narration": "Soldiers from both sides march toward the gate.",
+   "emoji": "🪖",
+   "headline": "MARCHING TO THE GATE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Wagah border soldiers march"
+  },
+  {
+   "narration": "They stamp, high-kick and stare each other down.",
+   "emoji": "🦵",
+   "headline": "THE HIGH KICK FACE-OFF",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Wagah border guards high kick"
+  },
+  {
+   "narration": "Crowds on both sides cheer and chant.",
+   "emoji": "📣",
+   "headline": "CROWDS ON BOTH SIDES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Wagah border crowd stands"
+  },
+  {
+   "narration": "Then the gates open and both flags come down.",
+   "emoji": "🚪",
+   "headline": "GATES OPEN, FLAGS DOWN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Wagah border flag lowering"
+  },
+  {
+   "narration": "The gates close again, until tomorrow evening.",
+   "emoji": "🔒",
+   "headline": "GATES CLOSE AGAIN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Wagah border gate closed"
+  },
+  {
+   "narration": "That's the daily flag face-off at Wagah.",
+   "emoji": "🔁",
+   "headline": "WAGAH FACE-OFF",
+   "stat": "",
+   "sub": "Tomorrow: walk between two continents",
+   "visual_query": "Wagah border India Pakistan flags"
+  }
+ ]
+}

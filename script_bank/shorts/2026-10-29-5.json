@@ -1,0 +1,85 @@
+{
+ "category": "technology",
+ "topic": "Chrome dinosaur offline game",
+ "hook": "Your Chrome browser hides a dinosaur game when you go offline.",
+ "title": "Chrome Hides A Dinosaur Game Offline",
+ "description": "Chrome has a built-in dinosaur game that shows up when you have no internet. Turn off your data, open any page, and tap the dinosaur to play.\n\n#Shorts #Chrome #Tech",
+ "tags": [
+  "chrome dino game",
+  "chrome tricks",
+  "offline game",
+  "phone tricks",
+  "tech facts",
+  "android",
+  "browser",
+  "shorts"
+ ],
+ "comment_prompt": "What's your best dino score? Type it",
+ "hook_banner": "TRY THIS NOW",
+ "scenes": [
+  {
+   "narration": "Your Chrome browser hides a dinosaur game offline.",
+   "emoji": "🦖",
+   "headline": "HIDDEN DINO GAME",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chrome dinosaur game"
+  },
+  {
+   "narration": "First, turn off your mobile data and Wi-Fi.",
+   "emoji": "📴",
+   "headline": "TURN OFF INTERNET",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone airplane mode"
+  },
+  {
+   "narration": "Now open any page in Chrome.",
+   "emoji": "🌐",
+   "headline": "OPEN ANY PAGE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chrome browser phone"
+  },
+  {
+   "narration": "You get the no internet screen.",
+   "emoji": "⚠️",
+   "headline": "NO INTERNET SCREEN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chrome no internet dinosaur"
+  },
+  {
+   "narration": "See the little dinosaur? Tap it.",
+   "emoji": "👆",
+   "headline": "TAP THE DINOSAUR",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tapping phone screen"
+  },
+  {
+   "narration": "It starts running, and you tap to jump.",
+   "emoji": "🏃",
+   "headline": "TAP TO JUMP",
+   "stat": "",
+   "sub": "",
+   "visual_query": "dinosaur game cactus"
+  },
+  {
+   "narration": "Dodge the cactuses and see how far you get.",
+   "emoji": "🌵",
+   "headline": "DODGE THE CACTUS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "chrome dino running desert"
+  },
+  {
+   "narration": "Next time you're offline, play the dinosaur.",
+   "emoji": "🔁",
+   "headline": "OFFLINE? PLAY DINO",
+   "stat": "",
+   "sub": "Next: more things that sound fake",
+   "visual_query": "person playing phone game"
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "category": "technology",
+ "topic": "Panorama mode duplicate person",
+ "hook": "Your phone can put one person in a photo twice.",
+ "title": "Your Phone Can Put You in a Photo Twice",
+ "description": "Panorama mode stitches slices taken over a few seconds, so a person who moves can appear twice. Have someone stand in the scene, sweep the phone past them, and let them run behind you to the far side. It works on any phone with panorama mode. Part of the Phone Tests series.\n\n#Shorts #PhoneTricks #Panorama",
+ "tags": [
+  "panorama mode",
+  "phone trick",
+  "phone camera",
+  "photo trick",
+  "clone photo",
+  "tech facts",
+  "android",
+  "iphone",
+  "shorts"
+ ],
+ "comment_prompt": "Did it work for you? Yes or no",
+ "hook_banner": "TRY THIS NOW",
+ "scenes": [
+  {
+   "narration": "Your phone can put one person in a photo twice.",
+   "emoji": "👯",
+   "headline": "TWO OF THE SAME PERSON",
+   "stat": "",
+   "sub": "",
+   "visual_query": "panorama photo smartphone"
+  },
+  {
+   "narration": "Open panorama mode and start sweeping.",
+   "emoji": "📱",
+   "headline": "OPEN PANORAMA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone panorama mode camera"
+  },
+  {
+   "narration": "Have a friend stand in the scene.",
+   "emoji": "🧍",
+   "headline": "FRIEND STANDS STILL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "person standing park"
+  },
+  {
+   "narration": "Once the camera passes them, they run.",
+   "emoji": "🏃",
+   "headline": "THEN THEY RUN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "person running behind camera"
+  },
+  {
+   "narration": "They sprint behind you to the far side.",
+   "emoji": "💨",
+   "headline": "SPRINT TO THE OTHER SIDE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "friends running outdoor"
+  },
+  {
+   "narration": "The camera finds them there again.",
+   "emoji": "🎥",
+   "headline": "CAMERA FINDS THEM AGAIN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "smartphone panorama sweep"
+  },
+  {
+   "narration": "Tap done, and the same person appears twice.",
+   "emoji": "✌️",
+   "headline": "SAME PERSON, TWICE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "panorama photo two people"
+  },
+  {
+   "narration": "Panorama is not one shot, it is many slices.",
+   "emoji": "🧩",
+   "headline": "MANY SLICES STITCHED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "panorama photo stitched"
+  },
+  {
+   "narration": "Your phone just stitched two moments together.",
+   "emoji": "🕐",
+   "headline": "TWO MOMENTS, ONE PHOTO",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone photo gallery"
+  },
+  {
+   "narration": "Try it, and your phone makes two of you.",
+   "emoji": "🤳",
+   "headline": "TRY IT YOURSELF",
+   "stat": "",
+   "sub": "",
+   "visual_query": "friends taking photo phone"
+  }
+ ]
+}

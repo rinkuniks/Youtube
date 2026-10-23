@@ -1,0 +1,101 @@
+{
+ "category": "technology",
+ "topic": "Ferrofluid spikes",
+ "hook": "Your magnet can make a black liquid grow spikes.",
+ "title": "Your Magnet Makes This Liquid Grow Spikes",
+ "description": "Ferrofluid is a liquid full of tiny magnetic particles. Bring a magnet close and it rises into spikes, then relaxes when the magnet moves away. NASA researchers developed it in the 1960s.\n\n#Shorts #Science #Technology",
+ "tags": [
+  "ferrofluid",
+  "magnet",
+  "liquid magnet",
+  "science",
+  "tech facts",
+  "satisfying",
+  "shorts",
+  "amazing facts"
+ ],
+ "comment_prompt": "Would you touch it? Yes or no",
+ "hook_banner": "WATCH THE SPIKES",
+ "scenes": [
+  {
+   "narration": "Your magnet can make a black liquid grow spikes.",
+   "emoji": "🧲",
+   "headline": "LIQUID WITH SPIKES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ferrofluid spikes magnet"
+  },
+  {
+   "narration": "Bring a magnet near, and spikes appear.",
+   "emoji": "⚡",
+   "headline": "MAGNET NEAR",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ferrofluid magnet close"
+  },
+  {
+   "narration": "This black liquid is called ferrofluid.",
+   "emoji": "🖤",
+   "headline": "FERROFLUID",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ferrofluid black liquid"
+  },
+  {
+   "narration": "It is oil full of tiny magnetic particles.",
+   "emoji": "🔬",
+   "headline": "TINY MAGNETS INSIDE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ferrofluid macro"
+  },
+  {
+   "narration": "The magnet pulls every particle toward it.",
+   "emoji": "🧲",
+   "headline": "PULLED TOGETHER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ferrofluid pattern"
+  },
+  {
+   "narration": "Together they form a spiky crown.",
+   "emoji": "👑",
+   "headline": "SPIKY CROWN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ferrofluid spikes closeup"
+  },
+  {
+   "narration": "Remove the magnet and the spikes melt away.",
+   "emoji": "💧",
+   "headline": "SPIKES MELT AWAY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ferrofluid dish"
+  },
+  {
+   "narration": "NASA researchers invented it in the 1960s.",
+   "emoji": "🚀",
+   "headline": "NASA MADE IT",
+   "stat": "1960s",
+   "sub": "",
+   "visual_query": "NASA 1960s laboratory"
+  },
+  {
+   "narration": "So yes, a liquid really grows spikes.",
+   "emoji": "🤯",
+   "headline": "TOTALLY REAL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ferrofluid sculpture"
+  },
+  {
+   "narration": "Tomorrow: a German town inside Switzerland.",
+   "emoji": "➡️",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "A German town in Switzerland",
+   "visual_query": "Büsingen village Switzerland"
+  }
+ ]
+}

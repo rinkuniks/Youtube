@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Olympus Mons vs Everest",
+ "hook": "If you stood on Mars, Mount Everest would look small.",
+ "title": "On Mars, Everest Would Look Small",
+ "description": "Olympus Mons on Mars is about 22 km high, roughly two and a half times Everest's height above sea level. It is the tallest known volcano in our solar system. Everest would look small next to it.\n\n#Shorts #Space #Mars",
+ "tags": [
+  "Olympus Mons",
+  "Mars",
+  "Mount Everest",
+  "space facts",
+  "tallest volcano",
+  "solar system",
+  "if you were in space",
+  "Shorts"
+ ],
+ "comment_prompt": "Would you climb it? Yes or no",
+ "hook_banner": "EVEREST LOOKS SMALL",
+ "scenes": [
+  {
+   "narration": "If you stood on Mars, Everest would look small.",
+   "emoji": "🔴",
+   "headline": "EVEREST LOOKS SMALL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mount Everest peak"
+  },
+  {
+   "narration": "This is Olympus Mons, a volcano on Mars.",
+   "emoji": "🌋",
+   "headline": "OLYMPUS MONS",
+   "stat": "",
+   "sub": "volcano on Mars",
+   "visual_query": "Olympus Mons Mars"
+  },
+  {
+   "narration": "It is about 22 kilometres high.",
+   "emoji": "📏",
+   "headline": "ABOUT 22 KM HIGH",
+   "stat": "22 km",
+   "sub": "",
+   "visual_query": "Olympus Mons Mars volcano"
+  },
+  {
+   "narration": "That is roughly two and a half Everests.",
+   "emoji": "🏔️",
+   "headline": "2.5 EVERESTS",
+   "stat": "2.5x",
+   "sub": "Everest's height",
+   "visual_query": "Mount Everest Himalaya"
+  },
+  {
+   "narration": "It is the tallest known volcano in our solar system.",
+   "emoji": "🚀",
+   "headline": "TALLEST KNOWN VOLCANO",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mars surface volcano"
+  },
+  {
+   "narration": "Its slopes rise gently, like a giant shield.",
+   "emoji": "🛡️",
+   "headline": "GIANT SHIELD",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mars volcano slope"
+  },
+  {
+   "narration": "You would need a spacesuit just to breathe.",
+   "emoji": "🧑‍🚀",
+   "headline": "SPACESUIT NEEDED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut Mars surface"
+  },
+  {
+   "narration": "Your Everest would look small up there.",
+   "emoji": "🔴",
+   "headline": "EVEREST LOOKS SMALL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mars Olympus Mons Everest comparison"
+  },
+  {
+   "narration": "Tomorrow: the lines on your car's back glass.",
+   "emoji": "🚗",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "lines on your car glass",
+   "visual_query": "car rear windshield lines"
+  }
+ ]
+}

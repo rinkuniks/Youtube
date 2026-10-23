@@ -1,0 +1,94 @@
+{
+ "category": "geography",
+ "topic": "Aral Sea ship graveyard",
+ "hook": "Your satellite map shows ships stuck in a desert.",
+ "title": "Ships Stranded In A Desert Where A Sea Was",
+ "description": "The Aral Sea in Central Asia, between Kazakhstan and Uzbekistan, was once a huge lake. Water from its rivers was diverted for farming and the lake shrank away. Rusting ships still sit on the dry ground near Moynaq.\n\n#Shorts #AralSea #Geography",
+ "tags": [
+  "aral sea",
+  "ship graveyard",
+  "moynaq",
+  "kazakhstan",
+  "uzbekistan",
+  "geography",
+  "satellite view",
+  "places that shouldn't exist",
+  "shorts"
+ ],
+ "comment_prompt": "Could this happen elsewhere? Yes or no",
+ "hook_banner": "SHIPS IN A DESERT",
+ "scenes": [
+  {
+   "narration": "Your satellite map shows ships stuck in a desert.",
+   "emoji": "🚢",
+   "headline": "SHIPS IN A DESERT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Aral Sea ship graveyard"
+  },
+  {
+   "narration": "This was once the Aral Sea.",
+   "emoji": "🌊",
+   "headline": "ONCE A HUGE SEA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Aral Sea satellite"
+  },
+  {
+   "narration": "It sat between Kazakhstan and Uzbekistan.",
+   "emoji": "🗺️",
+   "headline": "CENTRAL ASIA",
+   "stat": "",
+   "sub": "Kazakhstan and Uzbekistan",
+   "visual_query": "Central Asia map"
+  },
+  {
+   "narration": "Its rivers were diverted for farming.",
+   "emoji": "🌾",
+   "headline": "RIVERS DIVERTED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "irrigation canal cotton field"
+  },
+  {
+   "narration": "The water slowly vanished.",
+   "emoji": "💧",
+   "headline": "THE WATER VANISHED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "dry lakebed cracked"
+  },
+  {
+   "narration": "Fishing boats were left on dry sand.",
+   "emoji": "⚓",
+   "headline": "BOATS ON SAND",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Moynaq stranded boats"
+  },
+  {
+   "narration": "Rusting ships still sit there today.",
+   "emoji": "🏜️",
+   "headline": "STILL THERE TODAY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "rusting ships desert"
+  },
+  {
+   "narration": "A sea turned into a desert.",
+   "emoji": "😮",
+   "headline": "SEA BECAME DESERT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Aral Sea desert"
+  },
+  {
+   "narration": "Open your map and find those ships.",
+   "emoji": "📍",
+   "headline": "FIND THEM YOURSELF",
+   "stat": "",
+   "sub": "Tomorrow: a waterfall made of stone",
+   "visual_query": "Aral Sea map view"
+  }
+ ]
+}

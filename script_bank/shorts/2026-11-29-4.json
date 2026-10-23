@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Chang'e 6 far side samples",
+ "hook": "Your first far-side Moon soil arrived in 2024.",
+ "title": "Soil From the Side of the Moon We Never See",
+ "description": "In 2024, China's Chang'e 6 scooped up soil from the Moon's far side and brought it to Earth. It was the first time samples from that side ever came home. The capsule landed in Inner Mongolia. Part of the series If You Were in Space.\n\n#Shorts #Space #Moon",
+ "tags": [
+  "change 6",
+  "moon samples",
+  "far side of the moon",
+  "china space",
+  "space facts",
+  "moon soil",
+  "inner mongolia",
+  "if you were in space"
+ ],
+ "comment_prompt": "Would you visit the far side? Yes or no",
+ "hook_banner": "FIRST FAR SIDE SAMPLES",
+ "scenes": [
+  {
+   "narration": "Your first far-side Moon soil arrived in 2024.",
+   "emoji": "🌕",
+   "headline": "FAR SIDE SOIL",
+   "stat": "2024",
+   "sub": "",
+   "visual_query": "Chang'e 6 sample capsule"
+  },
+  {
+   "narration": "China's Chang'e 6 scooped it up.",
+   "emoji": "🤖",
+   "headline": "CHANG'E 6",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chang'e 6 lander Moon"
+  },
+  {
+   "narration": "The far side never faces Earth.",
+   "emoji": "🙈",
+   "headline": "NEVER FACES EARTH",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Moon far side crater"
+  },
+  {
+   "narration": "We only ever see one face of the Moon.",
+   "emoji": "👀",
+   "headline": "ONE FACE ONLY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "full Moon night sky"
+  },
+  {
+   "narration": "No one had brought samples back from there.",
+   "emoji": "🏆",
+   "headline": "A FIRST EVER",
+   "stat": "FIRST",
+   "sub": "",
+   "visual_query": "Moon rock sample"
+  },
+  {
+   "narration": "The capsule landed in China's Inner Mongolia.",
+   "emoji": "🪂",
+   "headline": "LANDED IN MONGOLIA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chang'e 6 capsule landing"
+  },
+  {
+   "narration": "Scientists are now studying that soil.",
+   "emoji": "🔬",
+   "headline": "UNDER THE MICROSCOPE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "scientist lab Moon sample"
+  },
+  {
+   "narration": "Soil from a place we never see.",
+   "emoji": "🌑",
+   "headline": "A HIDDEN SIDE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Moon far side surface"
+  },
+  {
+   "narration": "Tomorrow: blood delivered by drone.",
+   "emoji": "➡️",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "Blood by drone",
+   "visual_query": "Zipline drone Rwanda"
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Salar de Uyuni mirror",
+ "hook": "Your sky and ground become one at Salar de Uyuni in Bolivia.",
+ "title": "The Salt Flat That Turns Into A Mirror",
+ "description": "Salar de Uyuni in Bolivia is the world's largest salt flat. After rain, a thin layer of water covers the salt and reflects the sky like a giant mirror. Part of the Places That Shouldn't Exist series.\n\n#Shorts #Geography #PlacesThatShouldntExist",
+ "tags": [
+  "salar de uyuni",
+  "bolivia",
+  "salt flat",
+  "mirror",
+  "geography facts",
+  "travel",
+  "places that shouldn't exist",
+  "shorts"
+ ],
+ "comment_prompt": "Would you walk here? Yes or no",
+ "hook_banner": "SKY MEETS GROUND",
+ "scenes": [
+  {
+   "narration": "Your sky and ground become one in Bolivia.",
+   "emoji": "🪞",
+   "headline": "SKY MEETS GROUND",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Salar de Uyuni mirror"
+  },
+  {
+   "narration": "This is Salar de Uyuni.",
+   "emoji": "📍",
+   "headline": "SALAR DE UYUNI",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Salar de Uyuni"
+  },
+  {
+   "narration": "It is the largest salt flat in the world.",
+   "emoji": "🧂",
+   "headline": "WORLD'S BIGGEST SALT FLAT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Uyuni salt flat"
+  },
+  {
+   "narration": "Most days, it is flat white salt.",
+   "emoji": "⬜",
+   "headline": "FLAT WHITE SALT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Uyuni dry salt"
+  },
+  {
+   "narration": "Then rain covers it with a thin layer of water.",
+   "emoji": "🌧️",
+   "headline": "THEN IT RAINS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Uyuni rain water"
+  },
+  {
+   "narration": "The water reflects the sky like a giant mirror.",
+   "emoji": "☁️",
+   "headline": "A GIANT MIRROR",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Uyuni reflection sky"
+  },
+  {
+   "narration": "You cannot tell where the ground stops.",
+   "emoji": "🚙",
+   "headline": "NO HORIZON",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Uyuni jeep reflection"
+  },
+  {
+   "narration": "So here, you walk on the sky.",
+   "emoji": "🔁",
+   "headline": "WALK ON THE SKY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Uyuni mirror people"
+  },
+  {
+   "narration": "Tomorrow: another place that should not exist.",
+   "emoji": "➡️",
+   "headline": "NEXT: ANOTHER IMPOSSIBLE PLACE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map globe"
+  }
+ ]
+}

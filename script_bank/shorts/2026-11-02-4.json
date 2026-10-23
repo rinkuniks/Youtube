@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Hammer and feather drop on the Moon",
+ "hook": "Your hammer and feather would hit the Moon together.",
+ "title": "Hammer and Feather Fell Together on the Moon",
+ "description": "In 1971, Apollo 15 astronaut David Scott dropped a hammer and a feather at the same time on camera. They landed together because the Moon has almost no air to slow the feather. Series: Things That Sound Fake.\n\n#Shorts #Space #Apollo15",
+ "tags": [
+  "apollo 15",
+  "moon",
+  "david scott",
+  "hammer and feather",
+  "space facts",
+  "gravity",
+  "nasa",
+  "shorts"
+ ],
+ "comment_prompt": "Hammer or feather, which would you bet on? Hammer or feather",
+ "hook_banner": "SEEN ON CAMERA",
+ "scenes": [
+  {
+   "narration": "Your hammer and feather would hit the Moon together.",
+   "emoji": "🔨",
+   "headline": "HAMMER VS FEATHER",
+   "stat": "",
+   "sub": "On the Moon",
+   "visual_query": "hammer feather Moon"
+  },
+  {
+   "narration": "Apollo 15 astronaut David Scott actually did it.",
+   "emoji": "👨‍🚀",
+   "headline": "DAVID SCOTT",
+   "stat": "1971",
+   "sub": "Apollo 15",
+   "visual_query": "David Scott Apollo 15"
+  },
+  {
+   "narration": "They landed at the exact same moment.",
+   "emoji": "⏱️",
+   "headline": "SAME MOMENT",
+   "stat": "",
+   "sub": "Both hit together",
+   "visual_query": "astronaut dropping hammer"
+  },
+  {
+   "narration": "On Earth, air slows the feather down.",
+   "emoji": "🪶",
+   "headline": "AIR SLOWS IT",
+   "stat": "",
+   "sub": "On Earth",
+   "visual_query": "feather falling"
+  },
+  {
+   "narration": "The Moon has almost no air at all.",
+   "emoji": "🌑",
+   "headline": "ALMOST NO AIR",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Moon surface"
+  },
+  {
+   "narration": "So gravity pulls everything down equally fast.",
+   "emoji": "⬇️",
+   "headline": "EQUAL FALL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "lunar surface astronaut"
+  },
+  {
+   "narration": "It was 1971, and the camera caught it.",
+   "emoji": "🎥",
+   "headline": "CAUGHT ON CAMERA",
+   "stat": "1971",
+   "sub": "",
+   "visual_query": "Apollo 15 lunar module"
+  },
+  {
+   "narration": "Your hammer and feather fall together up there.",
+   "emoji": "🔨",
+   "headline": "FALL TOGETHER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "hammer feather"
+  },
+  {
+   "narration": "Tomorrow: copy text from a photo of a page.",
+   "emoji": "📱",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "Copy text from a page",
+   "visual_query": "phone scanning book"
+  }
+ ]
+}

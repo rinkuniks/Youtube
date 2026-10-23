@@ -1,0 +1,85 @@
+{
+ "category": "geography",
+ "topic": "Chile is a thin ribbon country",
+ "hook": "Your map of Chile shows a country shaped like a ribbon.",
+ "title": "Your Map of Chile Is a Ribbon Country",
+ "description": "Chile stretches about 4,300 km from north to south but is only about 177 km wide on average. The Andes and the Pacific squeeze it into a thin strip. Part of the Places That Shouldn't Exist series.\n\n#Shorts #Chile #Geography",
+ "tags": [
+  "chile",
+  "chile facts",
+  "geography facts",
+  "thinnest country",
+  "places that shouldn't exist",
+  "map facts",
+  "south america",
+  "did you know"
+ ],
+ "comment_prompt": "Would you live in Chile? Yes or no",
+ "hook_banner": "THIS PLACE IS REAL",
+ "scenes": [
+  {
+   "narration": "Your map of Chile shows a ribbon country.",
+   "emoji": "🇨🇱",
+   "headline": "A RIBBON COUNTRY",
+   "stat": "",
+   "sub": "Chile",
+   "visual_query": "Chile map"
+  },
+  {
+   "narration": "It stretches about 4,300 kilometres long.",
+   "emoji": "📏",
+   "headline": "SO LONG",
+   "stat": "4,300 km",
+   "sub": "North to south",
+   "visual_query": "Chile coastline aerial"
+  },
+  {
+   "narration": "But it is only about 177 wide on average.",
+   "emoji": "↔️",
+   "headline": "SO THIN",
+   "stat": "177 km",
+   "sub": "Average width",
+   "visual_query": "Chile Andes Pacific coast"
+  },
+  {
+   "narration": "The Andes mountains squeeze it from one side.",
+   "emoji": "🏔️",
+   "headline": "ANDES ON ONE SIDE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Andes mountains Chile"
+  },
+  {
+   "narration": "The Pacific Ocean squeezes it from the other.",
+   "emoji": "🌊",
+   "headline": "OCEAN ON THE OTHER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pacific coast Chile"
+  },
+  {
+   "narration": "Yet it runs from desert to glaciers.",
+   "emoji": "🧊",
+   "headline": "DESERT TO GLACIERS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Atacama desert Chile"
+  },
+  {
+   "narration": "Your map of Chile shows a ribbon.",
+   "emoji": "🗺️",
+   "headline": "THE RIBBON COUNTRY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Patagonia glacier Chile"
+  },
+  {
+   "narration": "Tomorrow: a lake split between India and China.",
+   "emoji": "🏞️",
+   "headline": "NEXT: PANGONG LAKE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pangong Lake Ladakh"
+  }
+ ]
+}

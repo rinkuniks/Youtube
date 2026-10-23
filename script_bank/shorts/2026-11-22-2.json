@@ -1,0 +1,85 @@
+{
+ "category": "geography",
+ "topic": "Hierve el Agua petrified waterfall",
+ "hook": "Your hike ends at a waterfall frozen in stone.",
+ "title": "A Waterfall Frozen In Solid Stone",
+ "description": "Hierve el Agua in Oaxaca, Mexico looks like a waterfall turned to rock. Mineral-rich spring water flows over the cliff and leaves minerals behind, slowly building the formations. It is not ice and it is not a statue.\n\n#Shorts #HierveElAgua #Mexico",
+ "tags": [
+  "hierve el agua",
+  "oaxaca",
+  "mexico",
+  "petrified waterfall",
+  "geography",
+  "travel",
+  "natural wonders",
+  "shorts"
+ ],
+ "comment_prompt": "Would you hike here? Yes or no",
+ "hook_banner": "WATERFALL MADE OF ROCK",
+ "scenes": [
+  {
+   "narration": "Your hike ends at a waterfall frozen in stone.",
+   "emoji": "🏞️",
+   "headline": "WATERFALL OF STONE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hierve el Agua"
+  },
+  {
+   "narration": "This is Hierve el Agua, in Oaxaca, Mexico.",
+   "emoji": "🇲🇽",
+   "headline": "OAXACA, MEXICO",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Oaxaca Mexico landscape"
+  },
+  {
+   "narration": "It is not ice, and it is not a statue.",
+   "emoji": "🪨",
+   "headline": "NOT ICE. ROCK.",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hierve el Agua cliff"
+  },
+  {
+   "narration": "Mineral-rich spring water flows over the cliff.",
+   "emoji": "💦",
+   "headline": "MINERAL SPRING WATER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "mineral spring water cliff"
+  },
+  {
+   "narration": "It leaves its minerals behind on the rock.",
+   "emoji": "🧂",
+   "headline": "MINERALS LEFT BEHIND",
+   "stat": "",
+   "sub": "",
+   "visual_query": "calcium deposit rock"
+  },
+  {
+   "narration": "Slowly, those minerals built the cliff formations.",
+   "emoji": "⏳",
+   "headline": "WATER BUILT THE CLIFF",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hierve el Agua formations"
+  },
+  {
+   "narration": "So the water made the waterfall of rock.",
+   "emoji": "🤯",
+   "headline": "WATER MADE ROCK",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hierve el Agua pools"
+  },
+  {
+   "narration": "Your hike ends at a waterfall made of stone.",
+   "emoji": "🥾",
+   "headline": "FROZEN IN STONE",
+   "stat": "",
+   "sub": "Tomorrow: a boat inside a marble cave",
+   "visual_query": "Hierve el Agua viewpoint"
+  }
+ ]
+}

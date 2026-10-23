@@ -1,0 +1,86 @@
+{
+ "category": "space",
+ "topic": "Mangalyaan first attempt",
+ "hook": "Your country reached Mars on its very first try.",
+ "title": "India Reached Mars on Its First Try",
+ "description": "ISRO's Mangalyaan reached Mars orbit in September 2014 on India's first attempt. That made India the first Asian country to reach Mars orbit. Part of the series: India In Space.\n\n#Shorts #Mangalyaan #ISRO",
+ "tags": [
+  "Mangalyaan",
+  "Mars Orbiter Mission",
+  "ISRO",
+  "Mars",
+  "India space",
+  "first Asian country",
+  "space facts",
+  "India",
+  "shorts"
+ ],
+ "comment_prompt": "Biggest ISRO win? Yes or no",
+ "hook_banner": "FIRST TRY ON MARS",
+ "scenes": [
+  {
+   "narration": "Your country reached Mars on its very first try.",
+   "emoji": "🔴",
+   "headline": "MARS, FIRST TRY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mars planet surface"
+  },
+  {
+   "narration": "Mangalyaan arrived in September 2014.",
+   "emoji": "🛰️",
+   "headline": "SEPTEMBER 2014",
+   "stat": "",
+   "sub": "Mangalyaan",
+   "visual_query": "Mangalyaan spacecraft"
+  },
+  {
+   "narration": "It was ISRO's first attempt at Mars.",
+   "emoji": "🇮🇳",
+   "headline": "ISRO'S FIRST ATTEMPT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ISRO control room"
+  },
+  {
+   "narration": "Many Mars missions by others had failed.",
+   "emoji": "💥",
+   "headline": "MANY HAVE FAILED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mars mission rocket"
+  },
+  {
+   "narration": "India's worked the first time.",
+   "emoji": "✅",
+   "headline": "IT WORKED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "scientists applauding"
+  },
+  {
+   "narration": "It became the first Asian country in Mars orbit.",
+   "emoji": "🌏",
+   "headline": "FIRST IN ASIA",
+   "stat": "",
+   "sub": "Mars orbit",
+   "visual_query": "Asia map globe"
+  },
+  {
+   "narration": "Mars looked down on Indian hardware.",
+   "emoji": "📸",
+   "headline": "SEEN FROM ORBIT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mars orbiter photo"
+  },
+  {
+   "narration": "Your country, Mars, first try. Tomorrow: another place that sounds fake.",
+   "emoji": "🚀",
+   "headline": "FIRST TRY",
+   "stat": "",
+   "sub": "Tomorrow: another fake-sounding fact",
+   "visual_query": "Mars red planet"
+  }
+ ]
+}

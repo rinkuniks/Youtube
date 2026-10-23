@@ -1,0 +1,85 @@
+{
+ "category": "technology",
+ "topic": "Shanghai maglev airport train",
+ "hook": "Your airport train in Shanghai floats.",
+ "title": "Your Airport Train Floats at 430 km/h",
+ "description": "Shanghai's maglev airport train floats above its track using magnets, so there are no wheels rolling on rails. On a commercial run it reaches about 430 km/h. Part of the Tech That Sounds Fake series.\n\n#Shorts #Maglev #TechFacts",
+ "tags": [
+  "maglev",
+  "Shanghai",
+  "magnetic levitation",
+  "fast train",
+  "430 km/h",
+  "tech facts",
+  "China",
+  "Tech That Sounds Fake"
+ ],
+ "comment_prompt": "Would you ride it? Yes or no",
+ "hook_banner": "TRAIN WITH NO WHEELS ON TRACK",
+ "scenes": [
+  {
+   "narration": "Your airport train in Shanghai floats.",
+   "emoji": "🚄",
+   "headline": "IT FLOATS",
+   "stat": "",
+   "sub": "Shanghai maglev",
+   "visual_query": "Shanghai maglev train"
+  },
+  {
+   "narration": "It never touches the track.",
+   "emoji": "🧲",
+   "headline": "NO TOUCHING",
+   "stat": "",
+   "sub": "",
+   "visual_query": "maglev track close"
+  },
+  {
+   "narration": "Magnets lift it just above the rail.",
+   "emoji": "🧲",
+   "headline": "MAGNETS LIFT IT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "magnetic levitation train"
+  },
+  {
+   "narration": "Magnets push and pull it forward.",
+   "emoji": "➡️",
+   "headline": "MAGNETS PUSH IT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "maglev guideway"
+  },
+  {
+   "narration": "On a commercial run, it hits about 430 km/h.",
+   "emoji": "⚡",
+   "headline": "430 KM/H",
+   "stat": "430 km/h",
+   "sub": "Commercial run",
+   "visual_query": "maglev speed display"
+  },
+  {
+   "narration": "That is far faster than Indian trains.",
+   "emoji": "🚆",
+   "headline": "FASTER THAN INDIA'S",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Indian train station"
+  },
+  {
+   "narration": "Your airport ride is a floating train.",
+   "emoji": "✈️",
+   "headline": "A FLOATING TRAIN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pudong airport maglev"
+  },
+  {
+   "narration": "Tomorrow: the only forest with wild Asiatic lions.",
+   "emoji": "🦁",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "Gir forest",
+   "visual_query": "Gir Asiatic lion"
+  }
+ ]
+}

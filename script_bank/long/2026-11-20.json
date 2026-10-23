@@ -1,0 +1,644 @@
+{
+ "topic": "Why Bhutan Is Stranger Than You Think",
+ "hook": "Your watch gains thirty minutes when you walk through one gate in Jaigaon, and nobody stops you.",
+ "title": "Why Bhutan Is Stranger Than You Think",
+ "description": "Walk through Bhutan Gate in Jaigaon and you step from India into Phuentsholing, Bhutan, with a 30-minute time jump and no wall in between. This video covers seven true facts about Bhutan: its time zone, its forests, Gross National Happiness, the late arrival of TV, a capital with no traffic lights, the Paro airport, and a mountain no one has climbed.\n\n#Bhutan #GeographyFacts #StrangePlaces",
+ "tags": [
+  "Bhutan",
+  "Bhutan facts",
+  "Why Bhutan is stranger than you think",
+  "Bhutan Gate",
+  "Jaigaon",
+  "Phuentsholing",
+  "India Bhutan border",
+  "Gross National Happiness",
+  "Gangkhar Puensum",
+  "Paro airport",
+  "Thimphu",
+  "strange countries",
+  "geography facts",
+  "amazing facts"
+ ],
+ "comment_prompt": "Which Bhutan fact surprised you most?",
+ "hook_banner": "ONE GATE, TWO COUNTRIES",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "The Gate in Jaigaon",
+   "scene": 5
+  },
+  {
+   "title": "A Half-Hour Time Jump",
+   "scene": 13
+  },
+  {
+   "title": "A Country That Absorbs Carbon",
+   "scene": 19
+  },
+  {
+   "title": "Happiness and Late TV",
+   "scene": 28
+  },
+  {
+   "title": "No Traffic Lights in Thimphu",
+   "scene": 45
+  },
+  {
+   "title": "The Hard Airport at Paro",
+   "scene": 53
+  },
+  {
+   "title": "The Mountain Nobody Climbs",
+   "scene": 61
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your watch gains thirty minutes when you walk through one gate in Jaigaon, and nobody stops you.",
+   "emoji": "⌚",
+   "headline": "One Gate, +30 Minutes",
+   "stat": "+30 min",
+   "sub": "",
+   "visual_query": "Bhutan Gate Jaigaon"
+  },
+  {
+   "narration": "That gate leads from India into Bhutan, a country with no traffic lights in its capital and a ban on climbing its mountains.",
+   "emoji": "🇧🇹",
+   "headline": "Welcome To Bhutan",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bhutan flag Himalayas"
+  },
+  {
+   "narration": "By the end, you will see a mountain nobody has ever climbed, and why the rule keeping it that way is so strict.",
+   "emoji": "🏔️",
+   "headline": "The Unclimbed Peak",
+   "stat": "",
+   "sub": "",
+   "visual_query": "snow mountain Bhutan"
+  },
+  {
+   "narration": "But first, we start at the gate, because it is one of the strangest border crossings you can walk in a minute.",
+   "emoji": "🚪",
+   "headline": "Start At The Gate",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border gate Bhutan"
+  },
+  {
+   "narration": "Stay with me, because every fact here is a little stranger than the one before it.",
+   "emoji": "👀",
+   "headline": "Each One Stranger",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bhutan monastery cliff"
+  },
+  {
+   "narration": "Chapter one. In West Bengal, the Indian town of Jaigaon sits right beside the Bhutanese town of Phuentsholing.",
+   "emoji": "🗺️",
+   "headline": "Jaigaon Meets Phuentsholing",
+   "stat": "",
+   "sub": "India | Bhutan",
+   "visual_query": "Jaigaon Phuentsholing town"
+  },
+  {
+   "narration": "The line between them is a gate, called Bhutan Gate. Walk through it on foot and you have left India.",
+   "emoji": "🚶",
+   "headline": "Walk Out Of India",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bhutan Gate Phuentsholing"
+  },
+  {
+   "narration": "There is no river and no wall. The streets and shops simply carry on, on the other side of the arch.",
+   "emoji": "🏘️",
+   "headline": "No Wall, No River",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Phuentsholing street market"
+  },
+  {
+   "narration": "Indian citizens do not need a visa for Bhutan. They need an entry permit, which can be collected at the border.",
+   "emoji": "🛂",
+   "headline": "No Visa For Indians",
+   "stat": "",
+   "sub": "Entry permit needed",
+   "visual_query": "Phuentsholing immigration office"
+  },
+  {
+   "narration": "Even your money works. Bhutan's ngultrum is tied one to one with the Indian rupee, and rupees are widely accepted.",
+   "emoji": "💱",
+   "headline": "Rupees Work Here",
+   "stat": "1 : 1",
+   "sub": "Ngultrum to rupee",
+   "visual_query": "Bhutan ngultrum notes"
+  },
+  {
+   "narration": "So you can pay in rupees, in a different country, a few steps from where you started.",
+   "emoji": "💰",
+   "headline": "Pay In Rupees Abroad",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Indian rupee notes"
+  },
+  {
+   "narration": "Phuentsholing is the main road gateway into Bhutan. From here, travellers begin the long drive up into the mountains to Thimphu.",
+   "emoji": "🚌",
+   "headline": "The Road Gateway",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bhutan mountain road"
+  },
+  {
+   "narration": "Many visitors say the Bhutanese side feels calmer and cleaner within minutes of crossing. Same street level, different feeling.",
+   "emoji": "🌿",
+   "headline": "Same Street, New Feel",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Phuentsholing Bhutan town"
+  },
+  {
+   "narration": "Chapter two. Bhutan runs on a time that is thirty minutes ahead of Indian Standard Time.",
+   "emoji": "🕐",
+   "headline": "Thirty Minutes Ahead",
+   "stat": "+30 min",
+   "sub": "",
+   "visual_query": "wall clock close"
+  },
+  {
+   "narration": "India sits at plus five thirty from universal time. Bhutan sits at plus six. One gate, one half hour.",
+   "emoji": "🌍",
+   "headline": "+5:30 vs +6:00",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world time zones map"
+  },
+  {
+   "narration": "So a phone that updates itself can jump forward by half an hour while you are buying a cup of tea.",
+   "emoji": "📱",
+   "headline": "Your Phone Jumps",
+   "stat": "",
+   "sub": "",
+   "visual_query": "smartphone clock screen"
+  },
+  {
+   "narration": "The same time on a wall clock can mean two different moments, depending on which side of the arch you stand.",
+   "emoji": "⏰",
+   "headline": "Two Moments, One Street",
+   "stat": "",
+   "sub": "",
+   "visual_query": "street clock tower"
+  },
+  {
+   "narration": "Nepal has its own odd offset too, forty-five minutes past the hour, but Bhutan's is a clean half hour.",
+   "emoji": "🇳🇵",
+   "headline": "Nepal Is +5:45",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kathmandu clock"
+  },
+  {
+   "narration": "That was the mild one. The next fact is about how Bhutan treats its forests.",
+   "emoji": "🌲",
+   "headline": "Next: The Forests",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bhutan forest valley"
+  },
+  {
+   "narration": "Chapter three. Bhutan takes in more carbon dioxide than it releases. It calls itself carbon negative.",
+   "emoji": "🌳",
+   "headline": "Carbon Negative",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bhutan green forest"
+  },
+  {
+   "narration": "Most countries cannot say that. Bhutan can, mainly because forests cover most of its land.",
+   "emoji": "🌲",
+   "headline": "Forest Covers Most",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Himalayan forest aerial"
+  },
+  {
+   "narration": "Its constitution says at least sixty percent of the country must stay under forest cover.",
+   "emoji": "📜",
+   "headline": "60% Must Stay Forest",
+   "stat": "60%",
+   "sub": "Written in the constitution",
+   "visual_query": "Bhutan constitution book"
+  },
+  {
+   "narration": "That is not a slogan on a poster. It is written into the highest law of the land.",
+   "emoji": "⚖️",
+   "headline": "Written Into Law",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bhutan parliament building"
+  },
+  {
+   "narration": "Those forests are home to tigers, red pandas and snow leopards, animals most people only meet in documentaries.",
+   "emoji": "🐯",
+   "headline": "Tigers And Red Pandas",
+   "stat": "",
+   "sub": "",
+   "visual_query": "red panda tree"
+  },
+  {
+   "narration": "Bhutan also makes electricity from hydropower, using fast rivers that rush down from the Himalayas.",
+   "emoji": "💧",
+   "headline": "Power From Rivers",
+   "stat": "",
+   "sub": "",
+   "visual_query": "hydropower dam Bhutan"
+  },
+  {
+   "narration": "It even sells extra power to India, so some lights in Indian homes run on Bhutanese rivers.",
+   "emoji": "💡",
+   "headline": "Bhutan Powers India",
+   "stat": "",
+   "sub": "",
+   "visual_query": "power transmission lines"
+  },
+  {
+   "narration": "A small mountain kingdom is helping to power its giant neighbour, and it all connects back to that little gate.",
+   "emoji": "🔌",
+   "headline": "Small Land, Big Help",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Himalayan river valley"
+  },
+  {
+   "narration": "Now something more personal. Bhutan measures how happy its people are, and it does so on purpose.",
+   "emoji": "😊",
+   "headline": "Counting Happiness",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bhutan people smiling"
+  },
+  {
+   "narration": "Chapter four. Most countries track money. Bhutan also tracks happiness, and calls it Gross National Happiness.",
+   "emoji": "😀",
+   "headline": "Gross National Happiness",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Thimphu people festival"
+  },
+  {
+   "narration": "The idea is linked to the fourth king of Bhutan, who talked about it in the 1970s.",
+   "emoji": "👑",
+   "headline": "A King's Idea",
+   "stat": "1970s",
+   "sub": "",
+   "visual_query": "Bhutan king portrait"
+  },
+  {
+   "narration": "He said happiness matters more than gross national product. That was a bold thing for a king to say.",
+   "emoji": "📈",
+   "headline": "Happiness Over GDP",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bhutan monarchy portrait"
+  },
+  {
+   "narration": "Today the government looks at health, education, time use, culture and a healthy environment, not only income.",
+   "emoji": "📋",
+   "headline": "More Than Income",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bhutan school children"
+  },
+  {
+   "narration": "Policies are meant to be checked against this idea, not just against how much money they make.",
+   "emoji": "🧾",
+   "headline": "Policies Get Checked",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bhutan government office"
+  },
+  {
+   "narration": "That does not make everyone happy. Many young Bhutanese leave to find work abroad, and the country knows it.",
+   "emoji": "✈️",
+   "headline": "Not A Perfect Story",
+   "stat": "",
+   "sub": "",
+   "visual_query": "young Bhutanese people"
+  },
+  {
+   "narration": "But the idea is real, and very few countries put it at the centre of their planning.",
+   "emoji": "🎯",
+   "headline": "A Rare Idea",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Thimphu city view"
+  },
+  {
+   "narration": "Even the national sport, archery, feels more like a festival, with teams, singing and dancing at the matches.",
+   "emoji": "🏹",
+   "headline": "Archery Is A Party",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bhutan archery"
+  },
+  {
+   "narration": "If you like strange places and facts that sound fake, subscribe, because there is plenty more like this coming.",
+   "emoji": "🔔",
+   "headline": "Subscribe For More",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map globe"
+  },
+  {
+   "narration": "Bhutan also opened up to the world very late. Until 1999, there was no television in the country at all.",
+   "emoji": "📺",
+   "headline": "No TV Until 1999",
+   "stat": "1999",
+   "sub": "TV and internet arrive",
+   "visual_query": "old television set"
+  },
+  {
+   "narration": "Think about that. India already had cable channels in the nineties, while Bhutan was still living without a screen.",
+   "emoji": "📡",
+   "headline": "India Had Cable",
+   "stat": "",
+   "sub": "",
+   "visual_query": "satellite dish rooftop"
+  },
+  {
+   "narration": "In 1999 the king allowed television and the internet, and Bhutan became one of the last countries to get TV.",
+   "emoji": "🌐",
+   "headline": "TV Finally Arrives",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bhutan village television"
+  },
+  {
+   "narration": "Leaders worried what a flood of foreign shows would do to local culture and old traditions.",
+   "emoji": "🎭",
+   "headline": "Worry About Culture",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bhutan mask dance"
+  },
+  {
+   "narration": "Imagine the first village evening when a glowing screen switched on in a room that had never seen one.",
+   "emoji": "🏠",
+   "headline": "The First Screen",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bhutan village house"
+  },
+  {
+   "narration": "Today many Bhutanese understand Hindi, partly thanks to Bollywood films and Indian channels.",
+   "emoji": "🎬",
+   "headline": "Bollywood In Bhutan",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bollywood film poster"
+  },
+  {
+   "narration": "Which makes the next fact feel even stranger, because it is about the roads of the capital.",
+   "emoji": "🚦",
+   "headline": "Next: The Roads",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Thimphu street traffic"
+  },
+  {
+   "narration": "Chapter five. Thimphu, the capital of Bhutan, has no traffic lights.",
+   "emoji": "🚫",
+   "headline": "Zero Traffic Lights",
+   "stat": "0",
+   "sub": "In the capital",
+   "visual_query": "Thimphu traffic police"
+  },
+  {
+   "narration": "Reports say lights were tried once in the late nineties, and people did not like them.",
+   "emoji": "🚦",
+   "headline": "Lights Were Tried",
+   "stat": "",
+   "sub": "",
+   "visual_query": "traffic light red"
+  },
+  {
+   "narration": "They were taken away, and a police officer went back to directing cars by hand.",
+   "emoji": "👮",
+   "headline": "Back To Hand Signals",
+   "stat": "",
+   "sub": "",
+   "visual_query": "traffic policeman gloves"
+  },
+  {
+   "narration": "An officer stands at a junction, raising his arms and turning his body to guide every car.",
+   "emoji": "🙌",
+   "headline": "A Human Signal",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Thimphu traffic officer"
+  },
+  {
+   "narration": "Visitors film it like a performance. It is a job, a tourist stop and a traffic system, all at once.",
+   "emoji": "📹",
+   "headline": "Tourists Film It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Thimphu junction"
+  },
+  {
+   "narration": "It works because Thimphu is small, with far fewer cars than cities like Delhi or Mumbai.",
+   "emoji": "🚗",
+   "headline": "Small City, Few Cars",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Thimphu city street"
+  },
+  {
+   "narration": "Picture your own city with no signals, no wall of honking, and one person in charge of the whole junction.",
+   "emoji": "🏙️",
+   "headline": "Imagine Your City",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Delhi busy junction"
+  },
+  {
+   "narration": "Bhutan also keeps tourism small with a daily fee, which has been 1,200 rupees per night for Indian visitors.",
+   "emoji": "🎟️",
+   "headline": "A Daily Visitor Fee",
+   "stat": "₹1,200",
+   "sub": "Per night, Indian visitors",
+   "visual_query": "Bhutan tourists monastery"
+  },
+  {
+   "narration": "Chapter six. Paro is Bhutan's only international airport, and it sits in a deep valley between high peaks.",
+   "emoji": "🛬",
+   "headline": "Paro Airport",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Paro airport valley"
+  },
+  {
+   "narration": "Pilots cannot simply line up and land as they do at Delhi. They must follow a curved path between mountains.",
+   "emoji": "⛰️",
+   "headline": "Curving Between Peaks",
+   "stat": "",
+   "sub": "",
+   "visual_query": "airplane mountain valley"
+  },
+  {
+   "narration": "Only a small group of specially trained pilots can land here, and it is known as one of the hardest airports.",
+   "emoji": "👨‍✈️",
+   "headline": "Special Pilots Only",
+   "stat": "",
+   "sub": "",
+   "visual_query": "airline pilot cockpit"
+  },
+  {
+   "narration": "Flights here depend on daylight and good weather, because there is almost no room for a mistake.",
+   "emoji": "☁️",
+   "headline": "Daylight And Clear Sky",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Paro valley clouds"
+  },
+  {
+   "narration": "From the window you can see houses, rice fields and monasteries close enough to count.",
+   "emoji": "🪟",
+   "headline": "Houses From The Window",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Paro valley houses"
+  },
+  {
+   "narration": "Bhutan's national airline is Drukair, and Druk means thunder dragon.",
+   "emoji": "🐉",
+   "headline": "Druk Means Dragon",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Drukair airplane"
+  },
+  {
+   "narration": "Bhutan's own name for itself is Druk Yul, the land of the thunder dragon.",
+   "emoji": "🏯",
+   "headline": "Land Of Thunder Dragon",
+   "stat": "",
+   "sub": "Druk Yul",
+   "visual_query": "Bhutan dzong fortress"
+  },
+  {
+   "narration": "Those peaks around the airport are high, but the biggest one in Bhutan is stranger than all of them.",
+   "emoji": "🏔️",
+   "headline": "The Biggest One",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Himalaya peaks Bhutan"
+  },
+  {
+   "narration": "Chapter seven, the one I promised. Bhutan has a mountain that no human has ever climbed.",
+   "emoji": "🧗",
+   "headline": "Never Climbed",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gangkhar Puensum"
+  },
+  {
+   "narration": "It is called Gangkhar Puensum, and at about seven thousand five hundred metres, it is the highest unclimbed mountain on Earth.",
+   "emoji": "❄️",
+   "headline": "Gangkhar Puensum",
+   "stat": "7,570 m",
+   "sub": "Highest unclimbed peak",
+   "visual_query": "Gangkhar Puensum snow"
+  },
+  {
+   "narration": "A few expeditions tried in the 1980s. None of them reached the top.",
+   "emoji": "🥾",
+   "headline": "Attempts Failed",
+   "stat": "1980s",
+   "sub": "",
+   "visual_query": "mountaineers expedition snow"
+  },
+  {
+   "narration": "Then in 1994 Bhutan banned climbing its highest peaks, and in 2003 it banned mountaineering altogether.",
+   "emoji": "⛔",
+   "headline": "Climbing Banned",
+   "stat": "2003",
+   "sub": "All mountaineering banned",
+   "visual_query": "no climbing sign"
+  },
+  {
+   "narration": "The reason is spiritual. Many Bhutanese believe mountains are homes of gods and spirits, and should not be stepped on.",
+   "emoji": "🙏",
+   "headline": "Homes Of Spirits",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bhutan prayer flags"
+  },
+  {
+   "narration": "That means no permits, no base camp and no summit photo, as long as the rule stands.",
+   "emoji": "🏕️",
+   "headline": "No Base Camp",
+   "stat": "",
+   "sub": "",
+   "visual_query": "base camp tents"
+  },
+  {
+   "narration": "Almost anywhere else, a peak this high would have a queue of climbers and a line of tents.",
+   "emoji": "🧗‍♂️",
+   "headline": "Elsewhere It Would Be Busy",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Everest climbers queue"
+  },
+  {
+   "narration": "Instead it sits in clean snow, with no flags and no footprints, because a whole country chose to say no.",
+   "emoji": "🤍",
+   "headline": "A Country Said No",
+   "stat": "",
+   "sub": "",
+   "visual_query": "untouched snow mountain"
+  },
+  {
+   "narration": "So look again at that gate in Jaigaon. A few steps, no wall, and you enter a country that bans climbing a mountain.",
+   "emoji": "🚪",
+   "headline": "Back To The Gate",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bhutan Gate arch"
+  },
+  {
+   "narration": "A capital with no traffic lights, a thirty minute time jump, and a constitution that protects its forests.",
+   "emoji": "📌",
+   "headline": "All Behind One Gate",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bhutan landscape dzong"
+  },
+  {
+   "narration": "All of it begins at a gate you can walk through in under a minute.",
+   "emoji": "⏱️",
+   "headline": "Under A Minute",
+   "stat": "",
+   "sub": "",
+   "visual_query": "people walking border gate"
+  },
+  {
+   "narration": "Your watch gains thirty minutes at the gate in Jaigaon, and a country that does things its own way is waiting beyond it.",
+   "emoji": "⌚",
+   "headline": "Your Watch Gains 30",
+   "stat": "+30 min",
+   "sub": "",
+   "visual_query": "wristwatch close up"
+  },
+  {
+   "narration": "Next in this series: another country that is stranger than you think. Follow along so you do not miss it.",
+   "emoji": "➡️",
+   "headline": "Up Next",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map pins"
+  }
+ ]
+}

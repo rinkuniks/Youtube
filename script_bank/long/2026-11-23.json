@@ -1,0 +1,649 @@
+{
+ "topic": "6 strange borders ending on Katchatheevu",
+ "hook": "Your fishing boat from Rameswaram can pass an island that India gave away, with a church Indians still sail to every year.",
+ "title": "6 Strange Borders, Ending on India's Gifted Island",
+ "description": "A countdown of six real borders that look like map mistakes: a German town inside Switzerland, a Spanish town inside France, a road through Canada, and a runway that stops cars. The last one is India's Katchatheevu, an island ceded to Sri Lanka in 1974 that still has a church fishermen sail to.\n\n#borders #katchatheevu #geography",
+ "tags": [
+  "strange borders",
+  "katchatheevu",
+  "katchatheevu island",
+  "india sri lanka border",
+  "rameswaram",
+  "weird borders",
+  "geography facts",
+  "enclaves",
+  "gibraltar runway",
+  "point roberts",
+  "northwest angle",
+  "busingen",
+  "llivia",
+  "facts that sound fake",
+  "st anthony church katchatheevu"
+ ],
+ "comment_prompt": "Which border was the strangest?",
+ "hook_banner": "6 REAL STRANGE BORDERS",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "6: Büsingen, Inside Switzerland",
+   "scene": 6
+  },
+  {
+   "title": "5: Llívia, Spain Inside France",
+   "scene": 14
+  },
+  {
+   "title": "4: Point Roberts, America via Canada",
+   "scene": 21
+  },
+  {
+   "title": "3: The Northwest Angle",
+   "scene": 28
+  },
+  {
+   "title": "2: Gibraltar's Runway Road",
+   "scene": 35
+  },
+  {
+   "title": "1: Katchatheevu, India's Gifted Island",
+   "scene": 44
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your fishing boat from Rameswaram can pass an island that India gave away, with a church Indians still sail to every year.",
+   "emoji": "⛵",
+   "headline": "India's Gifted Island",
+   "stat": "",
+   "sub": "Rameswaram to Katchatheevu",
+   "visual_query": "Rameswaram fishing boats"
+  },
+  {
+   "narration": "It sounds fake, but that island is real, and it is the strangest of the six borders in this video.",
+   "emoji": "🗺️",
+   "headline": "Six Real Borders",
+   "stat": "6",
+   "sub": "Each stranger than the last",
+   "visual_query": "world map borders"
+  },
+  {
+   "narration": "By the end, you'll see how one tiny rock holds a church, a fishing net and a signature from 1974.",
+   "emoji": "⛪",
+   "headline": "One Rock, Three Stories",
+   "stat": "1974",
+   "sub": "",
+   "visual_query": "Katchatheevu church island"
+  },
+  {
+   "narration": "But first we start in Europe, where a whole town sits inside the wrong country.",
+   "emoji": "🇪🇺",
+   "headline": "Start In Europe",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Europe map"
+  },
+  {
+   "narration": "Six borders, counted down. Each one is stranger than the last, and the final one belongs to India.",
+   "emoji": "🔢",
+   "headline": "Countdown Begins",
+   "stat": "6 → 1",
+   "sub": "",
+   "visual_query": "India map"
+  },
+  {
+   "narration": "Stay with me, because every border here is real, and every place I mention you can look up yourself.",
+   "emoji": "🔍",
+   "headline": "All Of It Is Real",
+   "stat": "",
+   "sub": "",
+   "visual_query": "globe atlas"
+  },
+  {
+   "narration": "Number six: Büsingen. Picture a German town with Swiss land on every single side of it.",
+   "emoji": "🇩🇪",
+   "headline": "Büsingen",
+   "stat": "6",
+   "sub": "German town in Switzerland",
+   "visual_query": "Büsingen am Hochrhein"
+  },
+  {
+   "narration": "It sits beside the Rhine, wrapped completely by Switzerland, with no German land touching it anywhere.",
+   "emoji": "🌊",
+   "headline": "Wrapped By Switzerland",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rhine river Switzerland"
+  },
+  {
+   "narration": "Shops there accept euros and Swiss francs, because the town is part of the Swiss customs area.",
+   "emoji": "💶",
+   "headline": "Two Currencies",
+   "stat": "",
+   "sub": "Euro and Swiss franc",
+   "visual_query": "euro and Swiss franc"
+  },
+  {
+   "narration": "Phone numbers follow the Swiss system, yet the cars still wear German number plates.",
+   "emoji": "📞",
+   "headline": "Swiss Phones, German Plates",
+   "stat": "",
+   "sub": "",
+   "visual_query": "German license plate"
+  },
+  {
+   "narration": "Residents vote in German elections, yet much of daily life follows Swiss rules.",
+   "emoji": "🗳️",
+   "headline": "German Votes",
+   "stat": "",
+   "sub": "Swiss daily life",
+   "visual_query": "ballot box voting"
+  },
+  {
+   "narration": "A vote in 1918 even asked to join Switzerland, but that never went through.",
+   "emoji": "📜",
+   "headline": "The 1918 Vote",
+   "stat": "1918",
+   "sub": "",
+   "visual_query": "old Swiss village"
+  },
+  {
+   "narration": "Old deals from centuries ago were never tidied up, so the odd shape just stayed.",
+   "emoji": "🧩",
+   "headline": "Never Tidied Up",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old border stone"
+  },
+  {
+   "narration": "That is strange. But the next place is a whole town hiding inside France.",
+   "emoji": "👀",
+   "headline": "A Town In France",
+   "stat": "",
+   "sub": "",
+   "visual_query": "French Pyrenees village"
+  },
+  {
+   "narration": "Number five: Llívia. A Spanish town surrounded by France, and it is there because of one word.",
+   "emoji": "🇪🇸",
+   "headline": "Llívia",
+   "stat": "5",
+   "sub": "Spain inside France",
+   "visual_query": "Llívia town Cerdanya"
+  },
+  {
+   "narration": "In 1659, Spain and France signed a treaty that handed France a list of villages in the Pyrenees.",
+   "emoji": "📜",
+   "headline": "Treaty Of 1659",
+   "stat": "1659",
+   "sub": "",
+   "visual_query": "Pyrenees mountains"
+  },
+  {
+   "narration": "But Llívia counted as a town, not a village, so the treaty's wording left it with Spain.",
+   "emoji": "✍️",
+   "headline": "Town, Not Village",
+   "stat": "",
+   "sub": "One word decided it",
+   "visual_query": "old treaty document"
+  },
+  {
+   "narration": "On the map, it is a small dot of Spain with the French border looping all the way around it.",
+   "emoji": "📍",
+   "headline": "A Dot Of Spain",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Llívia exclave map"
+  },
+  {
+   "narration": "A special neutral road links the town to Spain through French land, so locals can still drive home.",
+   "emoji": "🛣️",
+   "headline": "The Neutral Road",
+   "stat": "",
+   "sub": "",
+   "visual_query": "mountain road Pyrenees"
+  },
+  {
+   "narration": "People there speak Catalan, pay in euros, and look out at mountains on every side.",
+   "emoji": "⛰️",
+   "headline": "Catalan In France",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cerdanya valley mountains"
+  },
+  {
+   "narration": "A whole town saved by one word. Next, we cross the Atlantic, where an American road runs through Canada.",
+   "emoji": "✈️",
+   "headline": "Across The Atlantic",
+   "stat": "",
+   "sub": "",
+   "visual_query": "airplane over Atlantic"
+  },
+  {
+   "narration": "Number four: Point Roberts. It belongs to Washington state, yet to drive home you must cross into Canada.",
+   "emoji": "🇺🇸",
+   "headline": "Point Roberts",
+   "stat": "4",
+   "sub": "America via Canada",
+   "visual_query": "Point Roberts Washington"
+  },
+  {
+   "narration": "In 1846, a treaty drew the border along a straight line, the forty-ninth parallel.",
+   "emoji": "📏",
+   "headline": "A Straight Line",
+   "stat": "1846",
+   "sub": "The 49th parallel",
+   "visual_query": "49th parallel border"
+  },
+  {
+   "narration": "That straight line sliced the tip off a peninsula and left a small American piece stuck to Canada.",
+   "emoji": "✂️",
+   "headline": "The Sliced Peninsula",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Tsawwassen peninsula map"
+  },
+  {
+   "narration": "So people in Point Roberts live in the United States, but the only road to the rest of it runs through British Columbia.",
+   "emoji": "🚗",
+   "headline": "Road Through Canada",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Canada US border crossing"
+  },
+  {
+   "narration": "That means passport checks, queues and a drive through another country just to reach the next American town.",
+   "emoji": "🛂",
+   "headline": "Passports To Go Home",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border crossing queue"
+  },
+  {
+   "narration": "In 2020, when travel across the border was restricted, this odd shape made life there very hard.",
+   "emoji": "🚧",
+   "headline": "2020 Closure",
+   "stat": "2020",
+   "sub": "",
+   "visual_query": "closed border gate"
+  },
+  {
+   "narration": "If that sounds odd, wait until you hear about a corner of Minnesota that is cut off by a lake in Canada.",
+   "emoji": "🏞️",
+   "headline": "Even Stranger Next",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake of the Woods"
+  },
+  {
+   "narration": "Number three: the Northwest Angle. A corner of Minnesota that sits above the rest of the United States.",
+   "emoji": "📐",
+   "headline": "Northwest Angle",
+   "stat": "3",
+   "sub": "Minnesota's odd corner",
+   "visual_query": "Northwest Angle Minnesota"
+  },
+  {
+   "narration": "It lies on Lake of the Woods, and by road you can only reach it through Canada.",
+   "emoji": "🛶",
+   "headline": "Only Via Canada",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake of the Woods boat"
+  },
+  {
+   "narration": "The reason is a mapmaking mistake. The 1783 peace treaty relied on a map that got the rivers wrong.",
+   "emoji": "🗺️",
+   "headline": "A Map Mistake",
+   "stat": "1783",
+   "sub": "",
+   "visual_query": "old map 1783"
+  },
+  {
+   "narration": "Later agreements fixed most of the line, but they left this little piece of land on the American side.",
+   "emoji": "📏",
+   "headline": "Left Behind",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Minnesota Canada border"
+  },
+  {
+   "narration": "On the map, it looks like a small notch sticking up into Canada, mostly made of water and forest.",
+   "emoji": "🌲",
+   "headline": "A Notch In Canada",
+   "stat": "",
+   "sub": "",
+   "visual_query": "northern Minnesota forest lake"
+  },
+  {
+   "narration": "If you enjoy strange places like these, subscribe, because new ones are coming every day.",
+   "emoji": "🔔",
+   "headline": "More Strange Places",
+   "stat": "",
+   "sub": "Subscribe",
+   "visual_query": "world landmarks collage"
+  },
+  {
+   "narration": "Now for number two, where cars wait at a red light for airplanes.",
+   "emoji": "🚦",
+   "headline": "Red Light For Planes",
+   "stat": "",
+   "sub": "",
+   "visual_query": "traffic light airplane"
+  },
+  {
+   "narration": "Number two: Gibraltar. A British territory at the tip of Spain, with a road that crosses an airport runway.",
+   "emoji": "🇬🇮",
+   "headline": "Gibraltar",
+   "stat": "2",
+   "sub": "Road across a runway",
+   "visual_query": "Gibraltar airport runway"
+  },
+  {
+   "narration": "The road is called Winston Churchill Avenue, and it cuts straight across the runway.",
+   "emoji": "🛬",
+   "headline": "Churchill Avenue",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Winston Churchill Avenue Gibraltar"
+  },
+  {
+   "narration": "When a plane is about to land or take off, the barriers come down and cars have to stop.",
+   "emoji": "🚧",
+   "headline": "Barriers Come Down",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar runway barrier"
+  },
+  {
+   "narration": "So your car waits at a red light for an airplane. Cars stop, planes go.",
+   "emoji": "🚗",
+   "headline": "Cars Stop, Planes Go",
+   "stat": "",
+   "sub": "",
+   "visual_query": "plane landing over road"
+  },
+  {
+   "narration": "The runway sits on a narrow strip of land right beside the Spanish border.",
+   "emoji": "🛂",
+   "headline": "Beside Spain",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar Spain border"
+  },
+  {
+   "narration": "It is a real working airport, not a museum, and the road is part of everyday life.",
+   "emoji": "✈️",
+   "headline": "A Working Airport",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar airport aircraft"
+  },
+  {
+   "narration": "Walk a few minutes and you pass a border, a runway, and the huge Rock of Gibraltar.",
+   "emoji": "🪨",
+   "headline": "Border, Runway, Rock",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rock of Gibraltar"
+  },
+  {
+   "narration": "Britain has held Gibraltar since the early 1700s, though Spain still claims it, so this border is argued over.",
+   "emoji": "⚖️",
+   "headline": "Still Argued Over",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar flag"
+  },
+  {
+   "narration": "Locals treat the waiting planes as normal life. Now the last border is Indian, and it began with one signature in 1974.",
+   "emoji": "🇮🇳",
+   "headline": "India Is Next",
+   "stat": "1974",
+   "sub": "",
+   "visual_query": "Indian flag sea"
+  },
+  {
+   "narration": "Number one: Katchatheevu. A tiny island in the Palk Strait, between Rameswaram and Sri Lanka's Delft island.",
+   "emoji": "🏝️",
+   "headline": "Katchatheevu",
+   "stat": "1",
+   "sub": "India's strangest border",
+   "visual_query": "Katchatheevu island"
+  },
+  {
+   "narration": "It is less than two kilometres long, and no one lives there. There is no drinking water either.",
+   "emoji": "📏",
+   "headline": "Nobody Lives There",
+   "stat": "",
+   "sub": "",
+   "visual_query": "small island sea aerial"
+  },
+  {
+   "narration": "Look at where it sits. The Palk Strait is narrow, and fishermen on both sides have shared these waters for ages.",
+   "emoji": "🌊",
+   "headline": "The Palk Strait",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Palk Strait sea"
+  },
+  {
+   "narration": "Tamil fishermen on the Indian side and Tamil fishermen in Sri Lanka speak the same language.",
+   "emoji": "🗣️",
+   "headline": "Same Language",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Tamil fishermen boats"
+  },
+  {
+   "narration": "Yet the island has a church, St Anthony's, built in the early 1900s by a Tamil fisherman named Srinivasa Padaiyachi.",
+   "emoji": "⛪",
+   "headline": "St Anthony's Church",
+   "stat": "",
+   "sub": "Built early 1900s",
+   "visual_query": "St Anthony church Katchatheevu"
+  },
+  {
+   "narration": "St Anthony is the saint of fishermen, so sailors from both sides of the water have prayed there for generations.",
+   "emoji": "🙏",
+   "headline": "Saint Of Fishermen",
+   "stat": "",
+   "sub": "",
+   "visual_query": "fishermen praying church"
+  },
+  {
+   "narration": "For a long time, the island was linked to the Raja of Ramnad, in what is now Tamil Nadu.",
+   "emoji": "👑",
+   "headline": "The Raja Of Ramnad",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ramanathapuram palace"
+  },
+  {
+   "narration": "Then came 1974. Indira Gandhi's government and Sri Lanka's Sirimavo Bandaranaike signed an agreement drawing the sea border.",
+   "emoji": "✍️",
+   "headline": "The 1974 Agreement",
+   "stat": "1974",
+   "sub": "",
+   "visual_query": "Indira Gandhi Sirimavo Bandaranaike"
+  },
+  {
+   "narration": "That line put Katchatheevu on Sri Lanka's side, so India gave up the island without a shot being fired.",
+   "emoji": "🗺️",
+   "headline": "Given Away",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Sri Lanka map"
+  },
+  {
+   "narration": "The agreement even lets Indian fishermen rest there, dry their nets, and visit the church without a visa.",
+   "emoji": "🎣",
+   "headline": "Nets And No Visa",
+   "stat": "",
+   "sub": "",
+   "visual_query": "fishing nets drying"
+  },
+  {
+   "narration": "Two years later, a 1976 pact said fishing boats from each country must stay out of the other's waters.",
+   "emoji": "📜",
+   "headline": "The 1976 Pact",
+   "stat": "1976",
+   "sub": "",
+   "visual_query": "fishing boats sea border"
+  },
+  {
+   "narration": "Here is where the trouble starts. Fish do not read maps, and the sea has no painted line.",
+   "emoji": "🐟",
+   "headline": "No Line At Sea",
+   "stat": "",
+   "sub": "",
+   "visual_query": "fishermen catch fish"
+  },
+  {
+   "narration": "So fishermen from Rameswaram still sail out, cross the line by mistake or need, and meet the Sri Lankan navy.",
+   "emoji": "🚢",
+   "headline": "Meeting The Navy",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rameswaram fishermen harbour"
+  },
+  {
+   "narration": "Boats have been seized and fishermen arrested many times, which is why this island keeps coming up in Indian politics.",
+   "emoji": "⚓",
+   "headline": "Arrests At Sea",
+   "stat": "",
+   "sub": "",
+   "visual_query": "seized fishing boats"
+  },
+  {
+   "narration": "Remember, every other border here changed a road or a currency. This one changes where a fisherman can cast a net.",
+   "emoji": "🎣",
+   "headline": "Where You Cast A Net",
+   "stat": "",
+   "sub": "",
+   "visual_query": "fisherman casting net"
+  },
+  {
+   "narration": "Many Tamil Nadu leaders have demanded it back, and it became a talking point in the 2024 election.",
+   "emoji": "🗳️",
+   "headline": "Demand To Take It Back",
+   "stat": "2024",
+   "sub": "",
+   "visual_query": "Tamil Nadu election rally"
+  },
+  {
+   "narration": "Sri Lanka says the island is legally its own, so both sides feel strongly about this tiny rock.",
+   "emoji": "🇱🇰",
+   "headline": "Sri Lanka's Position",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sri Lanka flag"
+  },
+  {
+   "narration": "Now the part I promised. Look at what the island is truly famous for, and it is not the border.",
+   "emoji": "⛪",
+   "headline": "The Real Twist",
+   "stat": "",
+   "sub": "",
+   "visual_query": "church on island"
+  },
+  {
+   "narration": "Every year in February or March, pilgrims sail to St Anthony's for a weekend of prayer.",
+   "emoji": "🛥️",
+   "headline": "The Annual Festival",
+   "stat": "",
+   "sub": "February or March",
+   "visual_query": "St Anthony festival pilgrims boats"
+  },
+  {
+   "narration": "Priests from India and Sri Lanka lead the mass together, and no passport is needed to attend.",
+   "emoji": "🤝",
+   "headline": "Mass For Two Nations",
+   "stat": "",
+   "sub": "No passport needed",
+   "visual_query": "priests mass pilgrims"
+  },
+  {
+   "narration": "So one rock holds a gifted island, a fishing dispute, and a church that two countries share.",
+   "emoji": "🪨",
+   "headline": "One Rock, Two Nations",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Katchatheevu island aerial"
+  },
+  {
+   "narration": "The map can fool you. From Rameswaram it looks like a stepping stone, yet it is Sri Lankan land.",
+   "emoji": "🗺️",
+   "headline": "The Map Fools You",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rameswaram coast sea"
+  },
+  {
+   "narration": "Let us count them down. Six: Büsingen, a German town wrapped in Switzerland, using two currencies.",
+   "emoji": "6️⃣",
+   "headline": "6: Büsingen",
+   "stat": "6",
+   "sub": "",
+   "visual_query": "Büsingen am Hochrhein"
+  },
+  {
+   "narration": "Five: Llívia, a Spanish town saved inside France by one word in a treaty.",
+   "emoji": "5️⃣",
+   "headline": "5: Llívia",
+   "stat": "5",
+   "sub": "",
+   "visual_query": "Llívia town"
+  },
+  {
+   "narration": "Four: Point Roberts, where Americans must drive through Canada to get home.",
+   "emoji": "4️⃣",
+   "headline": "4: Point Roberts",
+   "stat": "4",
+   "sub": "",
+   "visual_query": "Point Roberts Washington"
+  },
+  {
+   "narration": "Three: the Northwest Angle, a piece of Minnesota left behind by a bad map.",
+   "emoji": "3️⃣",
+   "headline": "3: Northwest Angle",
+   "stat": "3",
+   "sub": "",
+   "visual_query": "Northwest Angle Minnesota"
+  },
+  {
+   "narration": "Two: Gibraltar, where cars stop at a red light for airplanes.",
+   "emoji": "2️⃣",
+   "headline": "2: Gibraltar",
+   "stat": "2",
+   "sub": "",
+   "visual_query": "Gibraltar airport runway"
+  },
+  {
+   "narration": "One: Katchatheevu, an island India gave away, with a church people from both countries still sail to.",
+   "emoji": "1️⃣",
+   "headline": "1: Katchatheevu",
+   "stat": "1",
+   "sub": "",
+   "visual_query": "Katchatheevu island"
+  },
+  {
+   "narration": "So the next time a map looks simple, remember that a boat from Rameswaram can pass an island India gave away.",
+   "emoji": "⛵",
+   "headline": "Maps Aren't Simple",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rameswaram fishing boats"
+  },
+  {
+   "narration": "Tomorrow: another place where one small step changes the country you stand in.",
+   "emoji": "👣",
+   "headline": "Tomorrow: One Step",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border line road"
+  }
+ ]
+}

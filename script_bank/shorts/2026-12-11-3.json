@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Apollo 11 silicon disc",
+ "hook": "Your planet left a message on the Moon.",
+ "title": "A Coin-Sized Disc of Messages Sits on the Moon",
+ "description": "Apollo 11 left a small silicon disc on the Moon in 1969. It carries goodwill messages from 73 countries, shrunk to microscopic size.\n\nSeries: If You Were in Space.\n\n#Shorts #Space #Apollo11",
+ "tags": [
+  "apollo 11",
+  "moon",
+  "nasa",
+  "silicon disc",
+  "space facts",
+  "1969",
+  "goodwill messages",
+  "shorts"
+ ],
+ "comment_prompt": "Would you read it? Yes or no",
+ "hook_banner": "IT'S STILL UP THERE",
+ "scenes": [
+  {
+   "narration": "Your planet left a message on the Moon.",
+   "emoji": "🌕",
+   "headline": "MESSAGE ON THE MOON",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Apollo 11 silicon disc"
+  },
+  {
+   "narration": "Apollo 11 left a small silicon disc there.",
+   "emoji": "💿",
+   "headline": "SILICON DISC",
+   "stat": "",
+   "sub": "Apollo 11",
+   "visual_query": "Apollo 11 goodwill disc NASA"
+  },
+  {
+   "narration": "It is about the size of a coin.",
+   "emoji": "🪙",
+   "headline": "COIN-SIZED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Apollo 11 disc hand"
+  },
+  {
+   "narration": "It holds goodwill messages from seventy-three countries.",
+   "emoji": "🌍",
+   "headline": "73 COUNTRIES",
+   "stat": "73",
+   "sub": "countries",
+   "visual_query": "Apollo 11 goodwill messages"
+  },
+  {
+   "narration": "The messages were shrunk to microscopic size.",
+   "emoji": "🔬",
+   "headline": "MICROSCOPIC TEXT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "microfilm disc closeup"
+  },
+  {
+   "narration": "It was left behind with the lander.",
+   "emoji": "🚀",
+   "headline": "LEFT WITH LANDER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Apollo 11 lunar module Moon"
+  },
+  {
+   "narration": "That was in 1969.",
+   "emoji": "📅",
+   "headline": "JULY 1969",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Apollo 11 Buzz Aldrin Moon"
+  },
+  {
+   "narration": "So your planet's words still sit on the Moon.",
+   "emoji": "🌕",
+   "headline": "STILL THERE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Moon surface Tranquility Base"
+  },
+  {
+   "narration": "Tomorrow: rockets fire right before a landing.",
+   "emoji": "👀",
+   "headline": "NEXT: SOYUZ",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Soyuz landing Kazakhstan"
+  }
+ ]
+}

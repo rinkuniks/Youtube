@@ -1,0 +1,86 @@
+{
+ "category": "technology",
+ "topic": "China EAST artificial sun",
+ "hook": "Your artificial sun is real, and it burned for 1,066 seconds.",
+ "title": "China Held an Artificial Sun for 1,066 Seconds",
+ "description": "China's EAST fusion reactor held superheated plasma for 1,066 seconds in January 2025. That is a record for this kind of reactor, and it is nicknamed the artificial sun. Fusion is the same process that powers the real Sun.\n\n#Shorts #Fusion #Technology",
+ "tags": [
+  "fusion",
+  "artificial sun",
+  "EAST reactor",
+  "China",
+  "plasma",
+  "tokamak",
+  "clean energy",
+  "science facts",
+  "technology"
+ ],
+ "comment_prompt": "Could fusion power your home? Yes or no",
+ "hook_banner": "AN ARTIFICIAL SUN",
+ "scenes": [
+  {
+   "narration": "Your artificial sun is real, and it burned for 1,066 seconds.",
+   "emoji": "☀️",
+   "headline": "ARTIFICIAL SUN",
+   "stat": "1,066 sec",
+   "sub": "January 2025",
+   "visual_query": "EAST tokamak plasma glow"
+  },
+  {
+   "narration": "China built it. It is called EAST.",
+   "emoji": "🇨🇳",
+   "headline": "CHINA'S EAST REACTOR",
+   "stat": "",
+   "sub": "",
+   "visual_query": "EAST fusion reactor China"
+  },
+  {
+   "narration": "Inside, plasma gets hotter than the Sun's core.",
+   "emoji": "🔥",
+   "headline": "HOTTER THAN THE SUN",
+   "stat": "",
+   "sub": "Superheated plasma",
+   "visual_query": "tokamak plasma inside"
+  },
+  {
+   "narration": "Nothing solid can touch it.",
+   "emoji": "🧲",
+   "headline": "NOTHING CAN TOUCH IT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tokamak magnetic coils"
+  },
+  {
+   "narration": "So giant magnets hold it floating in air.",
+   "emoji": "🌀",
+   "headline": "HELD BY MAGNETS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "fusion reactor magnets"
+  },
+  {
+   "narration": "That is the same power that lights our Sun.",
+   "emoji": "🌞",
+   "headline": "POWER OF THE SUN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "sun surface close up"
+  },
+  {
+   "narration": "It held that plasma for over seventeen minutes.",
+   "emoji": "⏱️",
+   "headline": "OVER 17 MINUTES",
+   "stat": "1,066 sec",
+   "sub": "",
+   "visual_query": "stopwatch close up"
+  },
+  {
+   "narration": "Your artificial sun is real, and it keeps getting longer.",
+   "emoji": "⚡",
+   "headline": "IT'S REAL",
+   "stat": "",
+   "sub": "Tomorrow: the biggest tides on Earth",
+   "visual_query": "fusion reactor plasma glow"
+  }
+ ]
+}

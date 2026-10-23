@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Comet 67P looks like a rubber duck",
+ "hook": "Your rubber duck has a twin floating in space.",
+ "title": "A Real Comet That Looks Like a Rubber Duck",
+ "description": "Comet 67P, visited by the European Space Agency's Rosetta probe in 2014, has two lobes joined by a thin neck, so it looks like a rubber duck. Rosetta orbited it for about two years and sent down a lander named Philae.\n\n#Shorts #Comet #Space",
+ "tags": [
+  "comet 67P",
+  "Rosetta",
+  "rubber duck comet",
+  "space facts",
+  "ESA",
+  "Philae",
+  "comet photos",
+  "weird space facts"
+ ],
+ "comment_prompt": "Duck or not? Yes or no",
+ "hook_banner": "A COMET OR A DUCK",
+ "scenes": [
+  {
+   "narration": "Your rubber duck has a twin in space.",
+   "emoji": "🦆",
+   "headline": "A Duck In Space",
+   "stat": "",
+   "sub": "",
+   "visual_query": "comet 67P Rosetta photo"
+  },
+  {
+   "narration": "It is a real comet called 67P.",
+   "emoji": "☄️",
+   "headline": "Comet 67P",
+   "stat": "",
+   "sub": "",
+   "visual_query": "comet 67P surface"
+  },
+  {
+   "narration": "Two lumps joined by a thin neck.",
+   "emoji": "🔗",
+   "headline": "Two Lobes",
+   "stat": "",
+   "sub": "",
+   "visual_query": "comet 67P two lobes"
+  },
+  {
+   "narration": "Scientists think two comets gently stuck together.",
+   "emoji": "🧲",
+   "headline": "Two Became One",
+   "stat": "",
+   "sub": "",
+   "visual_query": "comet 67P Churyumov"
+  },
+  {
+   "narration": "Europe's Rosetta probe reached it in 2014.",
+   "emoji": "🛰️",
+   "headline": "Rosetta, 2014",
+   "stat": "2014",
+   "sub": "",
+   "visual_query": "Rosetta spacecraft"
+  },
+  {
+   "narration": "It then orbited the comet for two years.",
+   "emoji": "🔄",
+   "headline": "Two Years Close",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rosetta orbit comet"
+  },
+  {
+   "narration": "It even sent down a lander, Philae.",
+   "emoji": "🚀",
+   "headline": "A Lander Too",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Philae lander comet"
+  },
+  {
+   "narration": "Your rubber duck has a twin in space.",
+   "emoji": "🦆",
+   "headline": "Space Duck",
+   "stat": "",
+   "sub": "",
+   "visual_query": "rubber duck comet"
+  },
+  {
+   "narration": "Next: sound that makes water float.",
+   "emoji": "➡️",
+   "headline": "Next: Floating Water",
+   "stat": "",
+   "sub": "",
+   "visual_query": "acoustic levitation droplet"
+  }
+ ]
+}

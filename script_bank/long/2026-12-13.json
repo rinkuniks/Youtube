@@ -1,0 +1,688 @@
+{
+ "topic": "Strange borders countdown: Thai-Lao bridge to India's four-layer enclave",
+ "hook": "Your car can swap sides of the road halfway across a bridge, and that is only border number seven in this countdown.",
+ "title": "7 Weird Borders, and India's Is the Strangest",
+ "description": "Cars swap sides of the road on the Thai-Lao Friendship Bridge, a Spanish town sits inside France, and a German town runs on Swiss francs. This countdown ends on India's strangest border, a patch of India inside Bangladesh inside India inside Bangladesh. Every place is real and you can find each one on a map.\n\n#borders #geography #facts",
+ "tags": [
+  "strange borders",
+  "weird borders",
+  "borders that make no sense",
+  "India Bangladesh enclaves",
+  "Dahala Khagrabari",
+  "Cooch Behar enclaves",
+  "Thai Lao Friendship Bridge",
+  "Llivia",
+  "Point Roberts",
+  "Busingen",
+  "Lake Constance border",
+  "Madha Nahwa",
+  "geography facts",
+  "facts that sound fake"
+ ],
+ "comment_prompt": "Which border surprised you most?",
+ "hook_banner": "BORDERS THAT BREAK MAPS",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "7: Thai-Lao Friendship Bridge",
+   "scene": 6
+  },
+  {
+   "title": "6: Llívia, Spain inside France",
+   "scene": 17
+  },
+  {
+   "title": "5: Point Roberts",
+   "scene": 26
+  },
+  {
+   "title": "4: Lake Constance",
+   "scene": 35
+  },
+  {
+   "title": "3: Büsingen, Germany in Switzerland",
+   "scene": 43
+  },
+  {
+   "title": "2: Madha and Nahwa",
+   "scene": 50
+  },
+  {
+   "title": "1: India's four-layer enclave",
+   "scene": 59
+  },
+  {
+   "title": "Wrap up",
+   "scene": 74
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your car can swap sides of the road halfway across a bridge, and that is only border number seven in this countdown.",
+   "emoji": "🌉",
+   "headline": "Cars Swap Sides",
+   "stat": "",
+   "sub": "Border number seven",
+   "visual_query": "Friendship Bridge Mekong"
+  },
+  {
+   "narration": "Today I will show you seven real borders that make no sense, each one stranger than the one before it.",
+   "emoji": "🗺️",
+   "headline": "7 Impossible Borders",
+   "stat": "7",
+   "sub": "",
+   "visual_query": "world map borders"
+  },
+  {
+   "narration": "By the end, you will see a patch of India inside Bangladesh, inside India, inside Bangladesh, all on a single map.",
+   "emoji": "🇮🇳",
+   "headline": "India Inside Bangladesh",
+   "stat": "",
+   "sub": "Inside India, inside Bangladesh",
+   "visual_query": "India Bangladesh border"
+  },
+  {
+   "narration": "Every place in this video is real, and you can search for each one on your phone tonight.",
+   "emoji": "📱",
+   "headline": "All Of It Is Real",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone map search"
+  },
+  {
+   "narration": "We start on a river bridge in Asia where drivers have to change which side of the road they use.",
+   "emoji": "🚗",
+   "headline": "Start: A River Bridge",
+   "stat": "",
+   "sub": "",
+   "visual_query": "cars on bridge"
+  },
+  {
+   "narration": "Stay until the very end, because number one took a treaty, a midnight handover and years of waiting to fix.",
+   "emoji": "⏳",
+   "headline": "Number One Is Wild",
+   "stat": "",
+   "sub": "A treaty and a midnight handover",
+   "visual_query": "border gate India"
+  },
+  {
+   "narration": "Number seven: the Thai-Lao Friendship Bridge, where your car swaps sides of the road right above a river.",
+   "emoji": "🌉",
+   "headline": "Thai-Lao Friendship Bridge",
+   "stat": "7",
+   "sub": "",
+   "visual_query": "Thai Lao Friendship Bridge"
+  },
+  {
+   "narration": "The bridge crosses the Mekong river, joining Nong Khai in Thailand with the Laotian capital Vientiane on the other bank.",
+   "emoji": "🏞️",
+   "headline": "Over The Mekong",
+   "stat": "",
+   "sub": "Nong Khai to Vientiane",
+   "visual_query": "Mekong river Vientiane"
+  },
+  {
+   "narration": "Thailand drives on the left side of the road, just like India does, so Indian viewers would feel at home.",
+   "emoji": "⬅️",
+   "headline": "Thailand: Left",
+   "stat": "",
+   "sub": "Same as India",
+   "visual_query": "Thailand road traffic"
+  },
+  {
+   "narration": "Laos drives on the right, like most of the world. So the two countries follow opposite rules.",
+   "emoji": "➡️",
+   "headline": "Laos: Right",
+   "stat": "",
+   "sub": "Opposite rule",
+   "visual_query": "Laos road traffic"
+  },
+  {
+   "narration": "Now think about the problem. A car arrives from one country and has to leave on the other country's side.",
+   "emoji": "🔄",
+   "headline": "Opposite Rules Meet",
+   "stat": "",
+   "sub": "",
+   "visual_query": "road lanes crossing"
+  },
+  {
+   "narration": "The switch happens on the bridge itself, not at some normal junction on land, which is why the bridge is famous.",
+   "emoji": "🌉",
+   "headline": "Swap On The Bridge",
+   "stat": "",
+   "sub": "",
+   "visual_query": "bridge traffic Thailand"
+  },
+  {
+   "narration": "Road signs and markings tell drivers when to change sides, and the whole stream of traffic moves across together.",
+   "emoji": "🚧",
+   "headline": "Signs Guide You",
+   "stat": "",
+   "sub": "",
+   "visual_query": "road markings signs"
+  },
+  {
+   "narration": "This bridge opened in 1994, and it was the first one built across the lower Mekong river.",
+   "emoji": "📅",
+   "headline": "Opened In 1994",
+   "stat": "1994",
+   "sub": "First across the lower Mekong",
+   "visual_query": "Mekong bridge aerial"
+  },
+  {
+   "narration": "Before that, people mostly crossed the water by boat. Later a short railway link was added as well.",
+   "emoji": "🚆",
+   "headline": "Boat, Then Bridge",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mekong ferry boat"
+  },
+  {
+   "narration": "Picture the drive: left side, then a swap, then right side, all in a few minutes over water.",
+   "emoji": "🚗",
+   "headline": "Left, Swap, Right",
+   "stat": "",
+   "sub": "",
+   "visual_query": "car driving bridge river"
+  },
+  {
+   "narration": "That one can be solved with paint and signs. The next border is stuck because of a treaty from 1659.",
+   "emoji": "📜",
+   "headline": "Paint Can't Fix This",
+   "stat": "1659",
+   "sub": "",
+   "visual_query": "old treaty document"
+  },
+  {
+   "narration": "Number six: Llívia, a Spanish town that sits inside France with French land on every side.",
+   "emoji": "🇪🇸",
+   "headline": "Llívia: Spain In France",
+   "stat": "6",
+   "sub": "",
+   "visual_query": "Llivia Spain town"
+  },
+  {
+   "narration": "On a map of the Pyrenees, you see France everywhere, and then one small patch that is still Spain.",
+   "emoji": "🗺️",
+   "headline": "A Spanish Island",
+   "stat": "",
+   "sub": "On French land",
+   "visual_query": "Pyrenees map"
+  },
+  {
+   "narration": "The reason goes back to 1659, when Spain handed a group of villages in this area over to France.",
+   "emoji": "📜",
+   "headline": "The 1659 Deal",
+   "stat": "1659",
+   "sub": "",
+   "visual_query": "Pyrenees mountains village"
+  },
+  {
+   "narration": "Llívia was counted as a town, not a village, so it was left out of the deal and stayed Spanish.",
+   "emoji": "🏘️",
+   "headline": "Town, Not Village",
+   "stat": "",
+   "sub": "So it stayed Spanish",
+   "visual_query": "Llivia town square"
+  },
+  {
+   "narration": "Today a road that was kept neutral under that old treaty links the town to the rest of Spain.",
+   "emoji": "🛣️",
+   "headline": "A Neutral Road",
+   "stat": "",
+   "sub": "",
+   "visual_query": "mountain road Pyrenees"
+  },
+  {
+   "narration": "So you can drive out of Llívia, and within a short distance you are surrounded by France.",
+   "emoji": "🚗",
+   "headline": "Spain, Then France",
+   "stat": "",
+   "sub": "",
+   "visual_query": "France Spain border road"
+  },
+  {
+   "narration": "A deal made more than three and a half centuries ago still decides which flag flies over this town.",
+   "emoji": "🚩",
+   "headline": "Old Deal, Same Flag",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Spanish flag town"
+  },
+  {
+   "narration": "It is a tiny place, but it is a perfect example of how one word in a treaty can change a map.",
+   "emoji": "✍️",
+   "headline": "One Word Changed It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "signing treaty pen"
+  },
+  {
+   "narration": "Next, a piece of America that you can only reach by road if you drive through Canada first.",
+   "emoji": "🇺🇸",
+   "headline": "America Via Canada",
+   "stat": "",
+   "sub": "",
+   "visual_query": "US Canada border sign"
+  },
+  {
+   "narration": "Number five: Point Roberts, a small American community that hangs off the bottom of Canada like a loose thread.",
+   "emoji": "📍",
+   "headline": "Point Roberts",
+   "stat": "5",
+   "sub": "",
+   "visual_query": "Point Roberts Washington"
+  },
+  {
+   "narration": "It sits on the tip of a peninsula, just south of the 49th parallel, which is the US and Canada border line.",
+   "emoji": "📏",
+   "headline": "South Of The 49th",
+   "stat": "49th",
+   "sub": "The border line",
+   "visual_query": "49th parallel border"
+  },
+  {
+   "narration": "Because the border follows that line on the map, the tip of the peninsula ended up cut off from America.",
+   "emoji": "✂️",
+   "headline": "Cut Off By A Line",
+   "stat": "",
+   "sub": "",
+   "visual_query": "peninsula map Canada"
+  },
+  {
+   "narration": "To drive from Point Roberts to the rest of Washington state, you must pass through Canada by road.",
+   "emoji": "🚗",
+   "headline": "Drive Through Canada",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border crossing cars"
+  },
+  {
+   "narration": "That means a border crossing into Canada, and another crossing back into the United States, just to reach an American city.",
+   "emoji": "🛂",
+   "headline": "Two Crossings",
+   "stat": "2",
+   "sub": "",
+   "visual_query": "passport border control"
+  },
+  {
+   "narration": "Locals live in the United States, but the road to the rest of their state runs through another country.",
+   "emoji": "🏡",
+   "headline": "Home, Via Canada",
+   "stat": "",
+   "sub": "",
+   "visual_query": "small town coast houses"
+  },
+  {
+   "narration": "On a map it looks like a mistake, but it is a real community with real homes and real people.",
+   "emoji": "🏘️",
+   "headline": "Looks Like A Mistake",
+   "stat": "",
+   "sub": "It isn't",
+   "visual_query": "Point Roberts beach"
+  },
+  {
+   "narration": "If you enjoy strange places like these, subscribe to the channel, because the next four get even weirder.",
+   "emoji": "🔔",
+   "headline": "Subscribe For More",
+   "stat": "",
+   "sub": "Four weirder ones ahead",
+   "visual_query": "world map pins"
+  },
+  {
+   "narration": "And the next one is a lake that three countries have never agreed how to divide.",
+   "emoji": "🌊",
+   "headline": "A Lake Without A Line",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake Constance aerial"
+  },
+  {
+   "narration": "Number four: Lake Constance, a huge lake where three countries never agreed on a final border line.",
+   "emoji": "🏞️",
+   "headline": "Lake Constance",
+   "stat": "4",
+   "sub": "",
+   "visual_query": "Lake Constance"
+  },
+  {
+   "narration": "The lake sits where Germany, Switzerland and Austria meet, and it is big enough to have ferries and ports.",
+   "emoji": "⛴️",
+   "headline": "Three Countries Meet",
+   "stat": "3",
+   "sub": "Germany, Switzerland, Austria",
+   "visual_query": "Lake Constance ferry"
+  },
+  {
+   "narration": "On the land around it, every border is clear. On the water, no one ever signed one agreed line.",
+   "emoji": "🚫",
+   "headline": "No Agreed Line",
+   "stat": "",
+   "sub": "",
+   "visual_query": "lake shoreline map"
+  },
+  {
+   "narration": "The three countries have never agreed whether the lake should be shared or divided.",
+   "emoji": "🤝",
+   "headline": "Shared Or Divided?",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake Constance map"
+  },
+  {
+   "narration": "So on a lake with boats, fishing and holiday homes, there is no agreed border in the open water.",
+   "emoji": "⛵",
+   "headline": "Open Water, No Border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "sailboats lake Germany"
+  },
+  {
+   "narration": "People still get along fine, because the countries have separate agreements for shipping, fishing and safety.",
+   "emoji": "📝",
+   "headline": "Rules For Boats",
+   "stat": "",
+   "sub": "",
+   "visual_query": "fishing boat lake"
+  },
+  {
+   "narration": "Swim out from the shore and nobody can say for sure which country you are floating in.",
+   "emoji": "🏊",
+   "headline": "Which Country Is This?",
+   "stat": "",
+   "sub": "",
+   "visual_query": "swimmer in lake"
+  },
+  {
+   "narration": "A lake with no border is odd, but a town that uses another country's money is even odder.",
+   "emoji": "💶",
+   "headline": "Odd Money Next",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss francs banknotes"
+  },
+  {
+   "narration": "Number three: Büsingen am Hochrhein, a small German town that is completely surrounded by Switzerland on every side.",
+   "emoji": "🇩🇪",
+   "headline": "Büsingen",
+   "stat": "3",
+   "sub": "German town inside Switzerland",
+   "visual_query": "Busingen Hochrhein"
+  },
+  {
+   "narration": "Its people are German citizens, they have a German address, and they vote in German elections.",
+   "emoji": "🗳️",
+   "headline": "Germans By Law",
+   "stat": "",
+   "sub": "",
+   "visual_query": "German flag village"
+  },
+  {
+   "narration": "But the town is inside the Swiss customs area, so Swiss francs are used there every day.",
+   "emoji": "🇨🇭",
+   "headline": "Paying In Swiss Francs",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss franc coins"
+  },
+  {
+   "narration": "Its car number plates start with the letters BÜS, a special code that only this one town has.",
+   "emoji": "🚘",
+   "headline": "Plates Start With BÜS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "German license plate"
+  },
+  {
+   "narration": "Old deals between rulers left this little town on the German side of the paperwork, and it never changed.",
+   "emoji": "📜",
+   "headline": "Old Deals, Still Here",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old map Germany Switzerland"
+  },
+  {
+   "narration": "Walk down a street there and you are in Germany, while the land and the money around you are Swiss.",
+   "emoji": "🚶",
+   "headline": "Germany, Swiss Money",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rhine river village"
+  },
+  {
+   "narration": "That is strange enough. But the next place has a village inside a village inside a country.",
+   "emoji": "🧩",
+   "headline": "A Village In A Village",
+   "stat": "",
+   "sub": "",
+   "visual_query": "desert village mountains"
+  },
+  {
+   "narration": "Number two: Madha, a patch of Oman that sits inside the United Arab Emirates.",
+   "emoji": "🇴🇲",
+   "headline": "Madha",
+   "stat": "2",
+   "sub": "Oman inside the UAE",
+   "visual_query": "Madha Oman"
+  },
+  {
+   "narration": "Madha belongs to Oman but is cut off from it, with UAE land surrounding it on every side.",
+   "emoji": "🏜️",
+   "headline": "Oman, Cut Off",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Oman UAE border map"
+  },
+  {
+   "narration": "Now comes the twist. Inside Madha there is a tiny village called Nahwa, and Nahwa belongs to the UAE.",
+   "emoji": "🏘️",
+   "headline": "Nahwa: UAE Again",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nahwa village"
+  },
+  {
+   "narration": "So you get UAE land, inside Omani land, inside UAE land. A country inside a country inside a country.",
+   "emoji": "🪆",
+   "headline": "Country In A Country",
+   "stat": "",
+   "sub": "Like a nesting doll",
+   "visual_query": "UAE Oman map"
+  },
+  {
+   "narration": "On satellite maps the shapes look like a puzzle piece, and the border lines wrap around the village.",
+   "emoji": "🛰️",
+   "headline": "A Puzzle On Satellite",
+   "stat": "",
+   "sub": "",
+   "visual_query": "satellite view desert"
+  },
+  {
+   "narration": "A short drive around this area can take you across the line between Oman and the UAE more than once.",
+   "emoji": "🚗",
+   "headline": "Cross The Line Twice",
+   "stat": "",
+   "sub": "",
+   "visual_query": "desert road UAE"
+  },
+  {
+   "narration": "Imagine your phone trying to decide which country you are in, every few minutes.",
+   "emoji": "📱",
+   "headline": "Phone Gets Confused",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone GPS map"
+  },
+  {
+   "narration": "It is a beautiful puzzle, but it is still not the strangest border on this list.",
+   "emoji": "🤯",
+   "headline": "Still Not Number One",
+   "stat": "",
+   "sub": "",
+   "visual_query": "puzzle map pieces"
+  },
+  {
+   "narration": "For the strangest one, we are going home to India, and to the border with Bangladesh.",
+   "emoji": "🇮🇳",
+   "headline": "Now, India",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Bangladesh border fence"
+  },
+  {
+   "narration": "Number one: the India and Bangladesh border near Cooch Behar in West Bengal, which was cut into tiny pieces.",
+   "emoji": "🧩",
+   "headline": "Cooch Behar Border",
+   "stat": "1",
+   "sub": "India and Bangladesh",
+   "visual_query": "Cooch Behar West Bengal"
+  },
+  {
+   "narration": "For decades, small patches of land belonging to one country sat inside the other country, with no land link back home.",
+   "emoji": "🗺️",
+   "headline": "Land Inside Land",
+   "stat": "",
+   "sub": "",
+   "visual_query": "enclave map India Bangladesh"
+  },
+  {
+   "narration": "There were Indian villages inside Bangladesh and Bangladeshi villages inside India. In all, there were 162 of these pockets.",
+   "emoji": "🏘️",
+   "headline": "162 Pockets",
+   "stat": "162",
+   "sub": "Enclaves on both sides",
+   "visual_query": "Bangladesh village fields"
+  },
+  {
+   "narration": "These are called enclaves, and the people living in them were surrounded by a different country on every side.",
+   "emoji": "🔒",
+   "headline": "Surrounded On All Sides",
+   "stat": "",
+   "sub": "",
+   "visual_query": "village rice fields Bengal"
+  },
+  {
+   "narration": "Many residents said it was hard to get schools, hospitals, and official papers, because their own country was not reachable.",
+   "emoji": "🏥",
+   "headline": "No Easy Access Home",
+   "stat": "",
+   "sub": "",
+   "visual_query": "rural village India school"
+  },
+  {
+   "narration": "And one of those pockets was stranger than all the rest. It was called Dahala Khagrabari.",
+   "emoji": "⭐",
+   "headline": "Dahala Khagrabari",
+   "stat": "",
+   "sub": "The strangest pocket",
+   "visual_query": "Dahala Khagrabari"
+  },
+  {
+   "narration": "It was a piece of India, inside a piece of Bangladesh, inside a piece of India, inside Bangladesh.",
+   "emoji": "🪆",
+   "headline": "India, Bangladesh, Repeat",
+   "stat": "4",
+   "sub": "Four layers",
+   "visual_query": "nested borders map"
+  },
+  {
+   "narration": "That is four layers of borders around one patch of land, and no other place on Earth had so many.",
+   "emoji": "4️⃣",
+   "headline": "Four Layers Deep",
+   "stat": "4",
+   "sub": "",
+   "visual_query": "farmland India aerial"
+  },
+  {
+   "narration": "If you stood in the middle of it, you would have had to cross several borders just to reach mainland India.",
+   "emoji": "🚶",
+   "headline": "Cross Borders To Go Home",
+   "stat": "",
+   "sub": "",
+   "visual_query": "villagers walking field"
+  },
+  {
+   "narration": "In 2015, India and Bangladesh finally signed off on a land deal to end all of these pockets.",
+   "emoji": "🤝",
+   "headline": "The 2015 Deal",
+   "stat": "2015",
+   "sub": "",
+   "visual_query": "India Bangladesh leaders handshake"
+  },
+  {
+   "narration": "At midnight on 31 July 2015, 111 Indian enclaves became part of Bangladesh, and 51 Bangladeshi ones became part of India.",
+   "emoji": "🕛",
+   "headline": "The Midnight Handover",
+   "stat": "111 + 51",
+   "sub": "31 July 2015",
+   "visual_query": "midnight flag ceremony border"
+  },
+  {
+   "narration": "Residents were allowed to choose which country they wanted to belong to, after decades of living in the middle of nowhere.",
+   "emoji": "✅",
+   "headline": "People Chose Their Country",
+   "stat": "",
+   "sub": "",
+   "visual_query": "villagers border ceremony"
+  },
+  {
+   "narration": "For many people, it meant a proper address, a vote, and a road to a school for the first time.",
+   "emoji": "🏫",
+   "headline": "An Address At Last",
+   "stat": "",
+   "sub": "",
+   "visual_query": "children school India village"
+  },
+  {
+   "narration": "So the strangest border in India was not a wall or a river. It was a puzzle drawn by history.",
+   "emoji": "🧩",
+   "headline": "A Puzzle By History",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Bangladesh border field"
+  },
+  {
+   "narration": "That is why it is number one: a place with four borders around it, finally fixed in a single night.",
+   "emoji": "🏆",
+   "headline": "Number One, Fixed",
+   "stat": "1",
+   "sub": "",
+   "visual_query": "India Bangladesh flags"
+  },
+  {
+   "narration": "That was seven borders that make no sense, from a bridge where cars swap sides to a puzzle with four layers.",
+   "emoji": "🗺️",
+   "headline": "All Seven Borders",
+   "stat": "7",
+   "sub": "",
+   "visual_query": "world map pins borders"
+  },
+  {
+   "narration": "Remember the start: your car can switch sides of the road halfway across a bridge between Thailand and Laos.",
+   "emoji": "🌉",
+   "headline": "Back To The Bridge",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Friendship Bridge Mekong"
+  },
+  {
+   "narration": "Tell me in the comments which border surprised you the most, and I will see you in the next video.",
+   "emoji": "💬",
+   "headline": "Your Pick?",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map globe"
+  },
+  {
+   "narration": "Tomorrow, in the next video: the country with no border at its own front door.",
+   "emoji": "➡️",
+   "headline": "Next Video",
+   "stat": "",
+   "sub": "No border at its front door",
+   "visual_query": "front door border line"
+  }
+ ]
+}

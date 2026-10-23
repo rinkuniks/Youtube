@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Egypt at night, the Nile",
+ "hook": "Your night satellite view of Egypt shows one glowing ribbon.",
+ "title": "Egypt From Space: One Glowing Ribbon",
+ "description": "Look at Egypt from space at night and you see one glowing ribbon in a black desert. That ribbon is the Nile, where most Egyptians live. The river decides where the lights are.\n\n#Shorts #Egypt #NileRiver",
+ "tags": [
+  "egypt",
+  "nile river",
+  "egypt at night",
+  "satellite view",
+  "geography facts",
+  "earth at night",
+  "space view",
+  "did you know"
+ ],
+ "comment_prompt": "Could you live in a desert? Yes or no",
+ "hook_banner": "SEE EGYPT FROM SPACE",
+ "scenes": [
+  {
+   "narration": "Your night satellite view of Egypt: one glowing ribbon.",
+   "emoji": "🛰️",
+   "headline": "One Glowing Ribbon",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Egypt at night satellite"
+  },
+  {
+   "narration": "Everything around it is black desert.",
+   "emoji": "🏜️",
+   "headline": "Black Desert",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Egypt desert aerial"
+  },
+  {
+   "narration": "That glowing ribbon is the Nile.",
+   "emoji": "🌊",
+   "headline": "The Nile",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nile river aerial"
+  },
+  {
+   "narration": "Cities and farms line its banks.",
+   "emoji": "🏙️",
+   "headline": "Cities and Farms",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cairo Nile city"
+  },
+  {
+   "narration": "The river feeds them with water.",
+   "emoji": "💧",
+   "headline": "Water In A Desert",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nile farmland green"
+  },
+  {
+   "narration": "Most Egyptians live right along it.",
+   "emoji": "👥",
+   "headline": "Most Live Here",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nile river Egypt people"
+  },
+  {
+   "narration": "Outside it, the desert is mostly empty.",
+   "emoji": "🌵",
+   "headline": "Empty Desert",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sahara desert Egypt"
+  },
+  {
+   "narration": "From space, you can see where people live.",
+   "emoji": "🌍",
+   "headline": "People Show From Space",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Earth at night lights"
+  },
+  {
+   "narration": "Egypt glows only where the Nile flows.",
+   "emoji": "✨",
+   "headline": "Glows Where Nile Flows",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nile delta night lights"
+  }
+ ]
+}

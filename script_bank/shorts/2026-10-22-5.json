@@ -1,0 +1,101 @@
+{
+ "category": "technology",
+ "topic": "Selfie camera mirror flip",
+ "hook": "Your selfie preview shows your face backwards.",
+ "title": "Your Selfie Preview Is Backwards",
+ "description": "Hold a shirt with words on it up to your front camera. The preview shows the text reversed, and the saved photo shows it normally. Try it on any phone. Part of the Phone Tests series.\n\n#Shorts #PhoneTricks #TechFacts",
+ "tags": [
+  "selfie camera",
+  "mirror image",
+  "phone tricks",
+  "front camera",
+  "tech facts",
+  "phone test",
+  "shorts",
+  "did you know"
+ ],
+ "comment_prompt": "Was your text reversed in the preview? Yes or no",
+ "hook_banner": "TRY THIS NOW",
+ "scenes": [
+  {
+   "narration": "Your selfie preview shows your face backwards.",
+   "emoji": "🤳",
+   "headline": "SELFIE PREVIEW",
+   "stat": "",
+   "sub": "Look at the words",
+   "visual_query": "selfie phone screen"
+  },
+  {
+   "narration": "Hold up a shirt with words.",
+   "emoji": "👕",
+   "headline": "TEXT ON SHIRT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "printed text t-shirt"
+  },
+  {
+   "narration": "The preview shows them reversed.",
+   "emoji": "🔄",
+   "headline": "REVERSED TEXT",
+   "stat": "",
+   "sub": "In the preview",
+   "visual_query": "mirrored text reflection"
+  },
+  {
+   "narration": "Tap the shutter and look again.",
+   "emoji": "📸",
+   "headline": "TAP THE SHUTTER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "smartphone camera shutter"
+  },
+  {
+   "narration": "The saved photo flips them back to normal.",
+   "emoji": "✅",
+   "headline": "PHOTO IS NORMAL",
+   "stat": "",
+   "sub": "Words read correctly",
+   "visual_query": "phone photo gallery"
+  },
+  {
+   "narration": "Your phone mirrors the preview on purpose.",
+   "emoji": "🪞",
+   "headline": "MIRRORED ON PURPOSE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "mirror reflection face"
+  },
+  {
+   "narration": "That way it feels like a mirror.",
+   "emoji": "😊",
+   "headline": "FEELS LIKE A MIRROR",
+   "stat": "",
+   "sub": "",
+   "visual_query": "woman bathroom mirror"
+  },
+  {
+   "narration": "But the photo shows how others see you.",
+   "emoji": "👀",
+   "headline": "HOW OTHERS SEE YOU",
+   "stat": "",
+   "sub": "",
+   "visual_query": "people taking selfie"
+  },
+  {
+   "narration": "So your preview is never your real face.",
+   "emoji": "🤯",
+   "headline": "NOT YOUR REAL FACE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "selfie smartphone portrait"
+  },
+  {
+   "narration": "Next: a mountain painted by minerals.",
+   "emoji": "🏔️",
+   "headline": "NEXT: REAL RAINBOW",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Vinicunca rainbow mountain"
+  }
+ ]
+}

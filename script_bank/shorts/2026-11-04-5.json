@@ -1,0 +1,85 @@
+{
+ "category": "technology",
+ "topic": "Newspaper photo made of dots",
+ "hook": "Your colour newspaper photo is secretly made of tiny dots.",
+ "title": "Your Newspaper Photo Is Made of Tiny Dots",
+ "description": "Colour photos in newspapers are printed using tiny dots of ink. Zoom your phone camera in close and the picture breaks apart into coloured dots. From far away, your eyes blend them into a smooth image.\n\n#Shorts #Technology #PhoneTricks",
+ "tags": [
+  "newspaper",
+  "halftone",
+  "printing dots",
+  "phone camera zoom",
+  "tech facts",
+  "optical illusion",
+  "try this",
+  "shorts"
+ ],
+ "comment_prompt": "What colours did you see? Name one",
+ "hook_banner": "TRY THIS NOW",
+ "scenes": [
+  {
+   "narration": "Your colour newspaper photo is secretly made of dots.",
+   "emoji": "📰",
+   "headline": "A PHOTO MADE OF DOTS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "newspaper photo close up"
+  },
+  {
+   "narration": "Grab any newspaper and open your camera.",
+   "emoji": "📱",
+   "headline": "OPEN YOUR CAMERA",
+   "stat": "",
+   "sub": "Any phone works",
+   "visual_query": "phone camera newspaper"
+  },
+  {
+   "narration": "Zoom in close on a colour picture.",
+   "emoji": "🔍",
+   "headline": "ZOOM IN CLOSE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "zoom phone camera print"
+  },
+  {
+   "narration": "The photo breaks apart into coloured dots.",
+   "emoji": "🔴",
+   "headline": "IT BREAKS INTO DOTS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "halftone dots print macro"
+  },
+  {
+   "narration": "Printers use just a few ink colours.",
+   "emoji": "🎨",
+   "headline": "JUST A FEW INKS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "printing ink cyan magenta"
+  },
+  {
+   "narration": "Your eyes blend the dots into smooth colour.",
+   "emoji": "👁️",
+   "headline": "YOUR EYES BLEND THEM",
+   "stat": "",
+   "sub": "",
+   "visual_query": "colour dots pattern"
+  },
+  {
+   "narration": "Move back and the dots disappear.",
+   "emoji": "🖼️",
+   "headline": "STEP BACK, DOTS VANISH",
+   "stat": "",
+   "sub": "",
+   "visual_query": "reading newspaper"
+  },
+  {
+   "narration": "Your newspaper photo is just tiny dots. Tomorrow: another place that shouldn't exist.",
+   "emoji": "🌍",
+   "headline": "TOMORROW: A WEIRD PLACE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map globe"
+  }
+ ]
+}

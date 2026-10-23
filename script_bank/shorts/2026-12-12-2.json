@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Mitad del Mundo equator monument",
+ "hook": "Your GPS says the Equator monument is misplaced.",
+ "title": "The Equator Monument Is Not on the Equator",
+ "description": "Near Quito, Ecuador, the Mitad del Mundo monument is famous as the Equator. A handheld GPS puts the real zero-latitude line a few hundred metres away. Part of the series Places That Shouldn't Exist.\n\n#Shorts #Geography #Ecuador",
+ "tags": [
+  "mitad del mundo",
+  "equator",
+  "ecuador",
+  "quito",
+  "gps",
+  "geography facts",
+  "places that shouldn't exist",
+  "shorts"
+ ],
+ "comment_prompt": "Would you visit the real Equator? Yes or no",
+ "hook_banner": "WRONG EQUATOR?",
+ "scenes": [
+  {
+   "narration": "Your GPS says the Equator monument is misplaced.",
+   "emoji": "📍",
+   "headline": "GPS Says It's Wrong",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mitad del Mundo monument"
+  },
+  {
+   "narration": "This is Mitad del Mundo, near Quito.",
+   "emoji": "🇪🇨",
+   "headline": "Mitad del Mundo",
+   "stat": "",
+   "sub": "Near Quito, Ecuador",
+   "visual_query": "Quito Ecuador monument"
+  },
+  {
+   "narration": "A big monument claims to mark zero latitude.",
+   "emoji": "🗿",
+   "headline": "Marks Zero Latitude",
+   "stat": "0°",
+   "sub": "",
+   "visual_query": "equator line monument"
+  },
+  {
+   "narration": "Surveyors measured it in the seventeen hundreds.",
+   "emoji": "🧭",
+   "headline": "Measured in the 1700s",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old surveying instruments"
+  },
+  {
+   "narration": "Walk a few hundred metres with GPS.",
+   "emoji": "🚶",
+   "headline": "Walk With GPS",
+   "stat": "",
+   "sub": "A few hundred metres",
+   "visual_query": "phone GPS map"
+  },
+  {
+   "narration": "Your phone hits the real Equator there.",
+   "emoji": "📱",
+   "headline": "The Real Equator",
+   "stat": "0.000°",
+   "sub": "",
+   "visual_query": "GPS coordinates phone screen"
+  },
+  {
+   "narration": "The famous monument is slightly off the line.",
+   "emoji": "😮",
+   "headline": "Slightly Off The Line",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ecuador equator line"
+  },
+  {
+   "narration": "So your GPS beats the monument.",
+   "emoji": "🛰️",
+   "headline": "GPS Beats Monument",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mitad del Mundo tourists"
+  },
+  {
+   "narration": "Tomorrow: a famous line that's also misplaced.",
+   "emoji": "➡️",
+   "headline": "Tomorrow: Another Line",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Greenwich meridian line"
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Floating post office Dal Lake Srinagar",
+ "hook": "Your Srinagar letter can be posted from a houseboat.",
+ "title": "India's Post Office That Floats on a Lake",
+ "description": "On Dal Lake in Srinagar, there's a post office housed on a houseboat. You can post letters and postcards from the water. It's India's floating post office. Part of the series: Places That Shouldn't Exist.\n\n#Shorts #Srinagar #DalLake",
+ "tags": [
+  "Dal Lake",
+  "Srinagar",
+  "floating post office",
+  "Kashmir",
+  "India facts",
+  "houseboat",
+  "geography facts",
+  "Shorts"
+ ],
+ "comment_prompt": "Would you post a card here? Yes or no",
+ "hook_banner": "POST OFFICE ON WATER",
+ "scenes": [
+  {
+   "narration": "Your Srinagar letter can be posted from a houseboat.",
+   "emoji": "📮",
+   "headline": "POST FROM A HOUSEBOAT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dal Lake floating post office"
+  },
+  {
+   "narration": "It's the floating post office on Dal Lake.",
+   "emoji": "🛶",
+   "headline": "FLOATING POST OFFICE",
+   "stat": "",
+   "sub": "Dal Lake, Srinagar",
+   "visual_query": "Dal Lake Srinagar houseboats"
+  },
+  {
+   "narration": "A real post office, built on a houseboat.",
+   "emoji": "🏠",
+   "headline": "A HOUSEBOAT POST OFFICE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "houseboat post office Kashmir"
+  },
+  {
+   "narration": "Yes, you can mail letters from the water.",
+   "emoji": "✉️",
+   "headline": "MAIL FROM THE WATER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "postcard letter post box"
+  },
+  {
+   "narration": "Tourists love sending postcards from it.",
+   "emoji": "🖼️",
+   "headline": "POSTCARDS FROM A LAKE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tourists Dal Lake shikara"
+  },
+  {
+   "narration": "Boats glide up to its counter.",
+   "emoji": "🚣",
+   "headline": "BOATS TO THE COUNTER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "shikara boat Dal Lake"
+  },
+  {
+   "narration": "India's only floating post office.",
+   "emoji": "🇮🇳",
+   "headline": "ONLY ONE IN INDIA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Srinagar Dal Lake India"
+  },
+  {
+   "narration": "So your letter starts its trip on water.",
+   "emoji": "💧",
+   "headline": "STARTS ON WATER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dal Lake sunrise"
+  },
+  {
+   "narration": "Tomorrow: more places that sound fake.",
+   "emoji": "🌍",
+   "headline": "TOMORROW: MORE PLACES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map globe"
+  }
+ ]
+}

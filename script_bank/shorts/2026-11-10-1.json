@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Kawah Ijen blue fire",
+ "hook": "Your night hike shows blue fire pouring down a volcano.",
+ "title": "Blue Fire Pours Down This Volcano",
+ "description": "At Kawah Ijen in Indonesia, hot sulfur gas leaks from cracks in the rock and catches fire when it meets air. It burns electric blue, and some of it flows down the slope. It looks like lava, but it is burning sulfur.\n\n#Shorts #Geography #Places",
+ "tags": [
+  "Kawah Ijen",
+  "blue fire",
+  "Indonesia",
+  "volcano",
+  "sulfur",
+  "geography facts",
+  "places that shouldn't exist",
+  "shorts"
+ ],
+ "comment_prompt": "Would you hike it at night? Yes or no",
+ "hook_banner": "THIS PLACE IS REAL",
+ "scenes": [
+  {
+   "narration": "Blue fire pours down this volcano at night.",
+   "emoji": "🔥",
+   "headline": "BLUE FIRE VOLCANO",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kawah Ijen blue fire"
+  },
+  {
+   "narration": "It looks like glowing lava, but it isn't.",
+   "emoji": "🌋",
+   "headline": "NOT LAVA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ijen crater night"
+  },
+  {
+   "narration": "This is Kawah Ijen, in Indonesia.",
+   "emoji": "🇮🇩",
+   "headline": "KAWAH IJEN, INDONESIA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ijen volcano Indonesia"
+  },
+  {
+   "narration": "Hot sulfur gas leaks from cracks in the rock.",
+   "emoji": "💨",
+   "headline": "HOT SULFUR GAS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ijen sulfur fumes"
+  },
+  {
+   "narration": "When it meets air, it catches fire.",
+   "emoji": "⚡",
+   "headline": "IT IGNITES IN AIR",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ijen blue flames"
+  },
+  {
+   "narration": "Sulfur burns blue, not orange.",
+   "emoji": "🔵",
+   "headline": "SULFUR BURNS BLUE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "burning sulfur blue flame"
+  },
+  {
+   "narration": "Some of it melts and flows, still burning.",
+   "emoji": "🌊",
+   "headline": "BURNING LIQUID SULFUR",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ijen molten sulfur"
+  },
+  {
+   "narration": "Miners still carry sulfur out of this crater.",
+   "emoji": "⛏️",
+   "headline": "MINERS WORK HERE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ijen sulfur miner"
+  },
+  {
+   "narration": "Blue fire you can only see after dark.",
+   "emoji": "🌌",
+   "headline": "ONLY AFTER DARK",
+   "stat": "",
+   "sub": "Tomorrow: a rainbow geyser made by accident",
+   "visual_query": "Ijen blue fire night"
+  }
+ ]
+}

@@ -1,0 +1,101 @@
+{
+ "category": "geography",
+ "topic": "Blood Falls Antarctica",
+ "hook": "Your hike in Antarctica ends at a blood-red waterfall.",
+ "title": "Antarctica Has a Blood-Red Waterfall",
+ "description": "Blood Falls flows out of the Taylor Glacier in Antarctica's McMurdo Dry Valleys. The red colour comes from iron in very salty water that rusts when it meets air. It looks like bleeding ice, but it is not blood.\n\n#Shorts #BloodFalls #Antarctica",
+ "tags": [
+  "blood falls",
+  "antarctica",
+  "taylor glacier",
+  "mcmurdo dry valleys",
+  "geography facts",
+  "places that shouldn't exist",
+  "shorts",
+  "red waterfall"
+ ],
+ "comment_prompt": "Would you visit it? Yes or no",
+ "hook_banner": "THIS PLACE IS REAL",
+ "scenes": [
+  {
+   "narration": "Your hike in Antarctica ends at a blood-red waterfall.",
+   "emoji": "🩸",
+   "headline": "BLOOD-RED WATERFALL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Blood Falls Antarctica"
+  },
+  {
+   "narration": "It flows out of the Taylor Glacier.",
+   "emoji": "🧊",
+   "headline": "TAYLOR GLACIER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Taylor Glacier Antarctica"
+  },
+  {
+   "narration": "It looks like the ice is bleeding.",
+   "emoji": "😨",
+   "headline": "BLEEDING ICE?",
+   "stat": "",
+   "sub": "",
+   "visual_query": "red stain glacier ice"
+  },
+  {
+   "narration": "But it is not blood.",
+   "emoji": "🚫",
+   "headline": "NOT BLOOD",
+   "stat": "",
+   "sub": "",
+   "visual_query": "red water on ice"
+  },
+  {
+   "narration": "Salty water trapped under the glacier has iron.",
+   "emoji": "🧂",
+   "headline": "SALTY, IRON-RICH",
+   "stat": "",
+   "sub": "",
+   "visual_query": "glacier meltwater iron"
+  },
+  {
+   "narration": "When that iron meets air, it rusts.",
+   "emoji": "🟥",
+   "headline": "IRON RUSTS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "rust red iron"
+  },
+  {
+   "narration": "Rusty red water spills onto white ice.",
+   "emoji": "❄️",
+   "headline": "RED ON WHITE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Blood Falls ice cliff"
+  },
+  {
+   "narration": "The place is called Blood Falls.",
+   "emoji": "📍",
+   "headline": "BLOOD FALLS",
+   "stat": "",
+   "sub": "McMurdo Dry Valleys",
+   "visual_query": "McMurdo Dry Valleys"
+  },
+  {
+   "narration": "Antarctica really has a blood-red waterfall.",
+   "emoji": "🩸",
+   "headline": "STILL REAL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Blood Falls Antarctica"
+  },
+  {
+   "narration": "Tomorrow: a country wider than the Moon.",
+   "emoji": "🌙",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "Wider than the Moon",
+   "visual_query": "Australia map"
+  }
+ ]
+}

@@ -1,0 +1,696 @@
+{
+ "topic": "Why Belgium Is Stranger Than You Think (Vennbahn)",
+ "hook": "Your bike path in Belgium runs through Germany, and every metre of it still belongs to Belgium.",
+ "title": "Why Belgium Is Stranger Than You Think",
+ "description": "A Belgian bike path cuts through Germany, and that is only the start. Six true facts about Belgium: three languages, 541 days without a government, the longest tram line in the world, Antwerp's diamonds, a land that belonged to nobody, and the Vennbahn railway strip inside Germany.\n\n#Belgium #Geography #FactsThatSoundFake",
+ "tags": [
+  "Belgium",
+  "Vennbahn",
+  "Belgium facts",
+  "strange places",
+  "geography facts",
+  "Europe geography",
+  "Neutral Moresnet",
+  "Kusttram",
+  "Antwerp diamonds",
+  "Belgium Germany border",
+  "weird borders",
+  "facts that sound fake",
+  "Belgium government 541 days",
+  "stranger than you think"
+ ],
+ "comment_prompt": "Which fact surprised you most: one to six?",
+ "hook_banner": "BELGIUM OWNS PART OF GERMANY",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "Three languages, one tiny country",
+   "scene": 6
+  },
+  {
+   "title": "541 days with no government",
+   "scene": 16
+  },
+  {
+   "title": "The longest tram line on Earth",
+   "scene": 28
+  },
+  {
+   "title": "Antwerp and the Indian diamond link",
+   "scene": 38
+  },
+  {
+   "title": "The land that belonged to nobody",
+   "scene": 48
+  },
+  {
+   "title": "The Belgian railway inside Germany",
+   "scene": 61
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your bike path in Belgium runs through Germany, and every metre of it still belongs to Belgium.",
+   "emoji": "🚲",
+   "headline": "Belgium Inside Germany",
+   "stat": "",
+   "sub": "A bike path with a secret",
+   "visual_query": "Vennbahn cycle path"
+  },
+  {
+   "narration": "Step off that path and you are in German villages. Stay on it and you never leave Belgium.",
+   "emoji": "🏡",
+   "headline": "Two Countries, One Path",
+   "stat": "",
+   "sub": "",
+   "visual_query": "German village Eifel"
+  },
+  {
+   "narration": "And this is just one oddity in a country that is smaller than the Indian state of Kerala.",
+   "emoji": "🗺️",
+   "headline": "Smaller Than Kerala",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Belgium map"
+  },
+  {
+   "narration": "Today I will show you six facts about Belgium that sound fake but are completely true.",
+   "emoji": "✅",
+   "headline": "6 True Facts",
+   "stat": "6",
+   "sub": "Sound fake. Are real.",
+   "visual_query": "Brussels Grand Place"
+  },
+  {
+   "narration": "And by the end, you will see exactly how a Belgian railway ended up cutting through Germany.",
+   "emoji": "🚂",
+   "headline": "The Big One Is Last",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old railway tracks"
+  },
+  {
+   "narration": "Let us start with a country that cannot even agree on how to say hello.",
+   "emoji": "👋",
+   "headline": "Let's Begin",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Belgium street"
+  },
+  {
+   "narration": "Chapter one. Belgium has three official languages, and one small country has to juggle all of them.",
+   "emoji": "🗣️",
+   "headline": "Three Languages",
+   "stat": "3",
+   "sub": "Official languages",
+   "visual_query": "Belgium bilingual sign"
+  },
+  {
+   "narration": "In the north, people speak Dutch. In the south, people speak French. In a small eastern corner, people speak German.",
+   "emoji": "🇧🇪",
+   "headline": "Dutch, French, German",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Belgium flag"
+  },
+  {
+   "narration": "Yes, German. A small part of eastern Belgium speaks German every day and even has its own government.",
+   "emoji": "🏛️",
+   "headline": "German Inside Belgium",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Eupen Belgium"
+  },
+  {
+   "narration": "Belgium covers about thirty thousand square kilometres. Kerala is bigger than that, yet Belgium fits three languages.",
+   "emoji": "📏",
+   "headline": "Smaller Than Kerala",
+   "stat": "30,000 km²",
+   "sub": "Belgium's area, roughly",
+   "visual_query": "Kerala backwaters"
+  },
+  {
+   "narration": "Even the capital, Brussels, uses two languages on its signs, so one road can have two different names.",
+   "emoji": "🪧",
+   "headline": "One Road, Two Names",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Brussels street sign"
+  },
+  {
+   "narration": "Think of a city sign in two languages, but with each language belonging to a different part of the country.",
+   "emoji": "🏙️",
+   "headline": "Signs In Two Languages",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Brussels city centre"
+  },
+  {
+   "narration": "There is even a language border across the country, fixed by law in the early nineteen sixties.",
+   "emoji": "➖",
+   "headline": "A Language Border",
+   "stat": "",
+   "sub": "Fixed by law",
+   "visual_query": "Belgium language border"
+  },
+  {
+   "narration": "Cross that line, and the official language of schools and government offices changes.",
+   "emoji": "🏫",
+   "headline": "Cross It, Language Changes",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Belgian school"
+  },
+  {
+   "narration": "Belgium even has six governments for under twelve million people. That is a lot of ministers.",
+   "emoji": "👔",
+   "headline": "Six Governments",
+   "stat": "6",
+   "sub": "For a small country",
+   "visual_query": "Belgian parliament"
+  },
+  {
+   "narration": "And all those governments lead us to chapter two, which is even stranger.",
+   "emoji": "➡️",
+   "headline": "It Gets Stranger",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Brussels parliament building"
+  },
+  {
+   "narration": "Chapter two. Imagine a country running for almost a year and a half without a real government.",
+   "emoji": "🏛️",
+   "headline": "No Government",
+   "stat": "",
+   "sub": "",
+   "visual_query": "empty parliament chamber"
+  },
+  {
+   "narration": "Belgium did exactly that. After elections in June 2010, the parties could not agree on a new government.",
+   "emoji": "🗳️",
+   "headline": "Election, June 2010",
+   "stat": "2010",
+   "sub": "",
+   "visual_query": "Belgium election"
+  },
+  {
+   "narration": "It took five hundred and forty one days before a new government was sworn in, in December 2011.",
+   "emoji": "📅",
+   "headline": "541 Days",
+   "stat": "541",
+   "sub": "Days without a new government",
+   "visual_query": "calendar pages"
+  },
+  {
+   "narration": "That is more than a year and four months. A full election, and nobody could form a team.",
+   "emoji": "⏳",
+   "headline": "Over 1.5 Years",
+   "stat": "",
+   "sub": "",
+   "visual_query": "waiting clock"
+  },
+  {
+   "narration": "The north and the south wanted very different things, and the talks kept breaking down.",
+   "emoji": "💬",
+   "headline": "Talks Kept Failing",
+   "stat": "",
+   "sub": "",
+   "visual_query": "politicians negotiating"
+  },
+  {
+   "narration": "Yet trains ran, schools opened, and salaries were paid, because a caretaker government kept daily work going.",
+   "emoji": "🚆",
+   "headline": "Life Went On",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Brussels train station"
+  },
+  {
+   "narration": "Some people joked that Belgium works fine without a government. Of course, that is only a joke.",
+   "emoji": "😄",
+   "headline": "Just A Joke",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Belgian people cafe"
+  },
+  {
+   "narration": "People held protests and demanded their leaders end the deadlock, and the long wait became world news.",
+   "emoji": "📢",
+   "headline": "World News",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Brussels protest"
+  },
+  {
+   "narration": "For Indian viewers, imagine no new Prime Minister for one and a half years after a general election.",
+   "emoji": "🇮🇳",
+   "headline": "Imagine This In India",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Parliament House Delhi"
+  },
+  {
+   "narration": "It is hard to picture, but it really happened in a rich European country.",
+   "emoji": "🤯",
+   "headline": "It Really Happened",
+   "stat": "",
+   "sub": "",
+   "visual_query": "European city skyline"
+  },
+  {
+   "narration": "Now let us leave politics and go to the coast, where a vehicle breaks a world record.",
+   "emoji": "🌊",
+   "headline": "To The Coast",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Belgian coast beach"
+  },
+  {
+   "narration": "Stay with me, because the biggest surprise is still waiting at the end.",
+   "emoji": "👀",
+   "headline": "Stay Till The End",
+   "stat": "",
+   "sub": "",
+   "visual_query": "North Sea coast"
+  },
+  {
+   "narration": "Chapter three. Belgium has a tram that runs along its whole coastline, and it is the longest tram line in the world.",
+   "emoji": "🚋",
+   "headline": "Longest Tram Line",
+   "stat": "",
+   "sub": "In the world",
+   "visual_query": "Kusttram Belgium"
+  },
+  {
+   "narration": "It is called the Kusttram, which simply means the coast tram.",
+   "emoji": "🚊",
+   "headline": "The Kusttram",
+   "stat": "",
+   "sub": "The coast tram",
+   "visual_query": "coast tram Ostend"
+  },
+  {
+   "narration": "It runs from De Panne near the French border all the way to Knokke-Heist near the Dutch border.",
+   "emoji": "📍",
+   "headline": "De Panne To Knokke",
+   "stat": "",
+   "sub": "",
+   "visual_query": "De Panne beach"
+  },
+  {
+   "narration": "That is about sixty-eight kilometres, which is more like a train journey than a city tram ride.",
+   "emoji": "📏",
+   "headline": "About 68 Kilometres",
+   "stat": "68 km",
+   "sub": "One tram line",
+   "visual_query": "tram along sea"
+  },
+  {
+   "narration": "A tram is usually a short city ride, but this one runs beside the sea for hours.",
+   "emoji": "🕐",
+   "headline": "A Tram By The Sea",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tram seaside promenade"
+  },
+  {
+   "narration": "You sit by the window with the North Sea on one side and beach towns on the other.",
+   "emoji": "🏖️",
+   "headline": "Sea Views All Way",
+   "stat": "",
+   "sub": "",
+   "visual_query": "North Sea beach Belgium"
+  },
+  {
+   "narration": "It stops at many small beach towns, so you can hop off for an ice cream and hop back on.",
+   "emoji": "🍦",
+   "headline": "Hop On, Hop Off",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Knokke beach town"
+  },
+  {
+   "narration": "Most countries use trams inside one city. Belgium stretched one along its entire coast.",
+   "emoji": "🗺️",
+   "headline": "A Whole Coast",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Belgian coastline"
+  },
+  {
+   "narration": "A tram that lasts for hours is odd, but the next chapter is about something that glitters.",
+   "emoji": "✨",
+   "headline": "Now Something Shiny",
+   "stat": "",
+   "sub": "",
+   "visual_query": "sparkling diamonds"
+  },
+  {
+   "narration": "Chapter four has an Indian connection that most people never hear about.",
+   "emoji": "💎",
+   "headline": "An Indian Connection",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Antwerp city"
+  },
+  {
+   "narration": "One Belgian city handles most of the world's rough diamonds, and it is not anywhere near a diamond mine.",
+   "emoji": "💎",
+   "headline": "Diamond Capital",
+   "stat": "",
+   "sub": "",
+   "visual_query": "rough diamonds"
+  },
+  {
+   "narration": "It is Antwerp. Rough stones arrive from mines, and traders there buy, sell, and send them out again.",
+   "emoji": "🏙️",
+   "headline": "Antwerp",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Antwerp Central Station"
+  },
+  {
+   "narration": "If you enjoy strange places and facts like these, this is a good moment to subscribe, because there is more coming.",
+   "emoji": "🔔",
+   "headline": "Subscribe For More",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map globe"
+  },
+  {
+   "narration": "Now here is the part Indian viewers will love. Many diamond traders in Antwerp come from Gujarati families.",
+   "emoji": "🇮🇳",
+   "headline": "Gujarat In Antwerp",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gujarat diamond trader"
+  },
+  {
+   "narration": "Families from places like Palanpur moved to Antwerp decades ago, and Indian businesses became a major force there.",
+   "emoji": "🤝",
+   "headline": "Indian Traders",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Antwerp diamond district"
+  },
+  {
+   "narration": "Surat, back in India, is where a huge share of the world's diamonds are cut and polished.",
+   "emoji": "💠",
+   "headline": "Surat Cuts The Stones",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Surat diamond polishing"
+  },
+  {
+   "narration": "So a stone can be traded in Belgium, polished in Gujarat, and worn at a wedding anywhere in the world.",
+   "emoji": "💍",
+   "headline": "From Mine To Wedding",
+   "stat": "",
+   "sub": "",
+   "visual_query": "diamond ring"
+  },
+  {
+   "narration": "A walk through the Antwerp diamond district shows shops and offices packed into just a few streets.",
+   "emoji": "🚶",
+   "headline": "A Few Busy Streets",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Antwerp diamond quarter"
+  },
+  {
+   "narration": "Big deals there have long been sealed with a handshake and a word of good luck.",
+   "emoji": "🍀",
+   "headline": "A Handshake Deal",
+   "stat": "",
+   "sub": "",
+   "visual_query": "handshake deal"
+  },
+  {
+   "narration": "Next is a place that was once a territory no single country owned, and it nearly spoke Esperanto.",
+   "emoji": "🌍",
+   "headline": "Nobody's Land",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old border stone"
+  },
+  {
+   "narration": "Chapter five. For about a hundred years, a tiny patch of land near Belgium belonged to no single country.",
+   "emoji": "🏳️",
+   "headline": "Land Of Nobody",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Neutral Moresnet"
+  },
+  {
+   "narration": "It was called Neutral Moresnet, and it was one of the smallest territories in Europe.",
+   "emoji": "📍",
+   "headline": "Neutral Moresnet",
+   "stat": "",
+   "sub": "1816 to 1920",
+   "visual_query": "Moresnet Kelmis"
+  },
+  {
+   "narration": "After Napoleon was defeated, Prussia and the Netherlands could not agree who should get this small zinc mine area.",
+   "emoji": "⚔️",
+   "headline": "Nobody Could Decide",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Napoleon Waterloo"
+  },
+  {
+   "narration": "So they did the simple thing. They agreed to share it, and it stayed that way for about a hundred years.",
+   "emoji": "🤝",
+   "headline": "They Shared It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old treaty map"
+  },
+  {
+   "narration": "Later, Belgium took the Dutch side after it became independent, so Belgium and Prussia shared it together.",
+   "emoji": "🇧🇪",
+   "headline": "Belgium Joins In",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Belgium independence 1830"
+  },
+  {
+   "narration": "The zinc mine made the land valuable, and workers and their families lived there under shared rule.",
+   "emoji": "⛏️",
+   "headline": "A Zinc Mine Town",
+   "stat": "",
+   "sub": "",
+   "visual_query": "zinc mine"
+  },
+  {
+   "narration": "It was so small that you could walk across it in a short time.",
+   "emoji": "🚶",
+   "headline": "Tiny Enough To Walk",
+   "stat": "",
+   "sub": "",
+   "visual_query": "small village border"
+  },
+  {
+   "narration": "Around 1908, a local doctor named Wilhelm Molly pushed a bold idea. He wanted it to become an Esperanto country.",
+   "emoji": "👨‍⚕️",
+   "headline": "Doctor Molly's Plan",
+   "stat": "1908",
+   "sub": "",
+   "visual_query": "Esperanto flag"
+  },
+  {
+   "narration": "Esperanto is a language invented so that people from every country could talk to each other.",
+   "emoji": "🌐",
+   "headline": "A Language For All",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Esperanto book"
+  },
+  {
+   "narration": "They even planned to rename the place Amikejo, which means place of friendship.",
+   "emoji": "💚",
+   "headline": "Amikejo",
+   "stat": "",
+   "sub": "Place of friendship",
+   "visual_query": "Esperanto green star"
+  },
+  {
+   "narration": "The plan never fully worked. After the First World War, the Treaty of Versailles gave Moresnet to Belgium.",
+   "emoji": "📜",
+   "headline": "Versailles Ends It",
+   "stat": "1919",
+   "sub": "",
+   "visual_query": "Treaty of Versailles"
+  },
+  {
+   "narration": "That same treaty is the key to our last chapter, so remember it.",
+   "emoji": "🔑",
+   "headline": "Remember This Treaty",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Versailles Hall of Mirrors"
+  },
+  {
+   "narration": "Because it also decided who got a railway, and that is where Belgium gets truly strange.",
+   "emoji": "🚂",
+   "headline": "A Railway Is Next",
+   "stat": "",
+   "sub": "",
+   "visual_query": "steam train"
+  },
+  {
+   "narration": "Chapter six, the biggest one. A railway that Belgium owns, running through German land.",
+   "emoji": "🚂",
+   "headline": "The Vennbahn",
+   "stat": "",
+   "sub": "A Belgian railway in Germany",
+   "visual_query": "Vennbahn railway"
+  },
+  {
+   "narration": "It is called the Vennbahn, and Germany built it long ago to carry coal and iron.",
+   "emoji": "⚙️",
+   "headline": "Built By Germany",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old coal train"
+  },
+  {
+   "narration": "After the First World War, the Treaty of Versailles in 1919 gave the railway line to Belgium.",
+   "emoji": "📜",
+   "headline": "Given To Belgium",
+   "stat": "1919",
+   "sub": "",
+   "visual_query": "railway treaty 1919"
+  },
+  {
+   "narration": "But the line did not stay inside Belgium. It kept crossing the border, in and out of Germany.",
+   "emoji": "↔️",
+   "headline": "In And Out Of Germany",
+   "stat": "",
+   "sub": "",
+   "visual_query": "railway crossing border"
+  },
+  {
+   "narration": "So Belgium did not just get a railway. It got the land under the tracks, even where that land was German.",
+   "emoji": "📐",
+   "headline": "The Land Under The Tracks",
+   "stat": "",
+   "sub": "",
+   "visual_query": "railway track countryside"
+  },
+  {
+   "narration": "Picture a thin strip of Belgium running through German countryside, like a ribbon laid across the map.",
+   "emoji": "🎀",
+   "headline": "A Ribbon Of Belgium",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Vennbahn map"
+  },
+  {
+   "narration": "German villages sit on both sides of that strip, with German homes close to a Belgian track.",
+   "emoji": "🏘️",
+   "headline": "German Villages Both Sides",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Roetgen Germany village"
+  },
+  {
+   "narration": "Trains stopped running long ago, and the old railway became a cycle path about a hundred and twenty five kilometres long.",
+   "emoji": "🚲",
+   "headline": "Now A Cycle Path",
+   "stat": "125 km",
+   "sub": "About",
+   "visual_query": "Vennbahn cycling"
+  },
+  {
+   "narration": "It is a popular cycle route, running through forests, hills and small towns.",
+   "emoji": "🌲",
+   "headline": "Forests And Hills",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hautes Fagnes forest"
+  },
+  {
+   "narration": "And yes, if you cycle it, you pass through Germany while staying on a path that belongs to Belgium.",
+   "emoji": "🇩🇪",
+   "headline": "Germany, But Belgian",
+   "stat": "",
+   "sub": "",
+   "visual_query": "cyclist railway path"
+  },
+  {
+   "narration": "There are no passport checks on the way, since Belgium, Germany and Luxembourg are all in the Schengen area.",
+   "emoji": "🛂",
+   "headline": "No Passport Checks",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Schengen border sign"
+  },
+  {
+   "narration": "The path even reaches Luxembourg, so one ride can touch three countries.",
+   "emoji": "3️⃣",
+   "headline": "Three Countries",
+   "stat": "3",
+   "sub": "On one ride",
+   "visual_query": "Luxembourg countryside"
+  },
+  {
+   "narration": "The route starts in Aachen, in Germany, and ends in Troisvierges, in Luxembourg.",
+   "emoji": "📍",
+   "headline": "Aachen To Troisvierges",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Aachen cathedral"
+  },
+  {
+   "narration": "The strip is Belgian, but the homes, shops and farms on either side are German.",
+   "emoji": "🏠",
+   "headline": "Belgian Strip, German Homes",
+   "stat": "",
+   "sub": "",
+   "visual_query": "German farm houses"
+  },
+  {
+   "narration": "So the opening line is true. Yes, you can cycle through Germany and never leave Belgium.",
+   "emoji": "✅",
+   "headline": "It Is True",
+   "stat": "",
+   "sub": "",
+   "visual_query": "cyclist forest path"
+  },
+  {
+   "narration": "That was Belgium: three languages, and a government that took five hundred and forty one days to form.",
+   "emoji": "🇧🇪",
+   "headline": "Belgium Recap",
+   "stat": "541",
+   "sub": "",
+   "visual_query": "Belgium landmarks"
+  },
+  {
+   "narration": "A record-breaking coast tram, a diamond city with Indian roots, and a land that belonged to nobody.",
+   "emoji": "💎",
+   "headline": "Tram, Diamonds, Nobody's Land",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Antwerp diamonds tram"
+  },
+  {
+   "narration": "And a railway strip Belgium owns, cutting through Germany. Your bike path in Belgium really does run through Germany.",
+   "emoji": "🚲",
+   "headline": "Belgium Inside Germany",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Vennbahn cycle path"
+  },
+  {
+   "narration": "Tomorrow: a country that sits on two continents at once.",
+   "emoji": "🌍",
+   "headline": "Tomorrow",
+   "stat": "",
+   "sub": "Two continents, one country",
+   "visual_query": "Istanbul Bosphorus bridge"
+  }
+ ]
+}

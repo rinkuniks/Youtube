@@ -1,0 +1,101 @@
+{
+ "category": "technology",
+ "topic": "Light flicker bands on phone camera",
+ "hook": "Your tube light shows dark bands when you film it on your phone.",
+ "title": "Film Your Tube Light, See Dark Bands",
+ "description": "Point your phone camera at a tube light or LED bulb and dark bands can roll across the screen. Many lights flicker faster than your eye can notice, and the camera catches it. Try it on any Android or iPhone.\n\n#Shorts #Tech #PhoneTricks",
+ "tags": [
+  "phone camera trick",
+  "tube light flicker",
+  "LED flicker",
+  "rolling shutter",
+  "tech facts",
+  "try this",
+  "phone test",
+  "shorts"
+ ],
+ "comment_prompt": "Did you see the bands? Yes or no",
+ "hook_banner": "TRY THIS NOW",
+ "scenes": [
+  {
+   "narration": "Open your phone camera and point it at a tube light.",
+   "emoji": "📱",
+   "headline": "TRY THIS NOW",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone filming tube light"
+  },
+  {
+   "narration": "Dark bands roll across your screen.",
+   "emoji": "🎞️",
+   "headline": "DARK BANDS APPEAR",
+   "stat": "",
+   "sub": "",
+   "visual_query": "camera light flicker bands"
+  },
+  {
+   "narration": "Your eyes see a steady light.",
+   "emoji": "👁️",
+   "headline": "EYES SEE STEADY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tube light room"
+  },
+  {
+   "narration": "But many lights flicker with the mains power.",
+   "emoji": "⚡",
+   "headline": "IT'S FLICKERING",
+   "stat": "",
+   "sub": "",
+   "visual_query": "LED bulb glowing"
+  },
+  {
+   "narration": "Your eye is too slow to notice.",
+   "emoji": "🐢",
+   "headline": "TOO FAST TO SEE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "eye closeup"
+  },
+  {
+   "narration": "Your camera reads the picture line by line.",
+   "emoji": "📷",
+   "headline": "LINE BY LINE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "smartphone camera lens"
+  },
+  {
+   "narration": "Each line catches a different brightness.",
+   "emoji": "🌗",
+   "headline": "DIFFERENT BRIGHTNESS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone screen stripes"
+  },
+  {
+   "narration": "Those lines become the bands.",
+   "emoji": "📊",
+   "headline": "LINES BECOME BANDS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone filming light bulb"
+  },
+  {
+   "narration": "So your steady light is really flickering.",
+   "emoji": "🔁",
+   "headline": "NOT STEADY AT ALL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tube light ceiling"
+  },
+  {
+   "narration": "Tomorrow: land lower than any other.",
+   "emoji": "➡️",
+   "headline": "NEXT: LOWEST LAND",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dead Sea shore"
+  }
+ ]
+}

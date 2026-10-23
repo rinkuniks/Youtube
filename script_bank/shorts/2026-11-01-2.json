@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Liechtenstein doubly landlocked",
+ "hook": "Your map hides a country that is landlocked twice.",
+ "title": "The country that is landlocked twice",
+ "description": "Liechtenstein only touches Switzerland and Austria, and both of them are landlocked too. That makes it doubly landlocked: you cross two borders to reach a country with a coast. Only one other country is in the same position, Uzbekistan. Series: Places That Shouldn't Exist.\n\n#Shorts #Liechtenstein #Geography",
+ "tags": [
+  "Liechtenstein",
+  "doubly landlocked",
+  "Uzbekistan",
+  "landlocked countries",
+  "geography facts",
+  "border facts",
+  "places that shouldn't exist",
+  "Shorts"
+ ],
+ "comment_prompt": "Could you live landlocked? Yes or no",
+ "hook_banner": "NO COAST ANYWHERE",
+ "scenes": [
+  {
+   "narration": "Your map hides a country that is landlocked twice.",
+   "emoji": "🗺️",
+   "headline": "Landlocked Twice",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Liechtenstein map Europe"
+  },
+  {
+   "narration": "Liechtenstein has no coast, and neither do its neighbours.",
+   "emoji": "🏔️",
+   "headline": "No Coast Anywhere",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Liechtenstein Vaduz castle"
+  },
+  {
+   "narration": "It touches only Switzerland and Austria.",
+   "emoji": "📍",
+   "headline": "Two Neighbours",
+   "stat": "2",
+   "sub": "Switzerland, Austria",
+   "visual_query": "Liechtenstein border sign"
+  },
+  {
+   "narration": "Both of those are landlocked too.",
+   "emoji": "🚫",
+   "headline": "Both Landlocked",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Switzerland Austria Alps"
+  },
+  {
+   "narration": "Reaching a coastal country means crossing two borders.",
+   "emoji": "🛂",
+   "headline": "Two Borders To A Coast",
+   "stat": "2",
+   "sub": "",
+   "visual_query": "border crossing road Europe"
+  },
+  {
+   "narration": "Only one other country is like this: Uzbekistan.",
+   "emoji": "🇺🇿",
+   "headline": "Only One Other",
+   "stat": "",
+   "sub": "Uzbekistan",
+   "visual_query": "Samarkand Registan Uzbekistan"
+  },
+  {
+   "narration": "Nepal needs just one border to reach India's coast.",
+   "emoji": "🇳🇵",
+   "headline": "Nepal Is Easier",
+   "stat": "1",
+   "sub": "",
+   "visual_query": "Nepal India border"
+  },
+  {
+   "narration": "So Liechtenstein is landlocked, twice.",
+   "emoji": "🏞️",
+   "headline": "Landlocked, Twice",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Liechtenstein mountains valley"
+  },
+  {
+   "narration": "Tomorrow: another place that shouldn't exist.",
+   "emoji": "❓",
+   "headline": "Tomorrow",
+   "stat": "",
+   "sub": "Places That Shouldn't Exist",
+   "visual_query": "world map borders"
+  }
+ ]
+}

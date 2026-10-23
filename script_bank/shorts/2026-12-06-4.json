@@ -1,0 +1,102 @@
+{
+ "category": "space",
+ "topic": "Iapetus two-toned moon of Saturn",
+ "hook": "Your trip to Saturn would show a two-toned moon.",
+ "title": "Saturn's Moon: Coal Black and Snow White",
+ "description": "Iapetus, a moon of Saturn, is dark on one side and bright on the other. Cassini photos show it clearly, along with a huge ridge running around its equator that makes it look like a walnut. Part of the series If You Were in Space.\n\n#Shorts #Space #Saturn",
+ "tags": [
+  "iapetus",
+  "saturn moon",
+  "cassini",
+  "space facts",
+  "two-toned moon",
+  "walnut moon",
+  "saturn",
+  "astronomy",
+  "if you were in space"
+ ],
+ "comment_prompt": "Coal side or snow side? Pick one",
+ "hook_banner": "REAL NASA PHOTOS",
+ "scenes": [
+  {
+   "narration": "Your trip to Saturn would show a two-toned moon.",
+   "emoji": "🪐",
+   "headline": "A Two-Toned Moon",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Iapetus Cassini photo"
+  },
+  {
+   "narration": "One side is dark as coal.",
+   "emoji": "⚫",
+   "headline": "Dark As Coal",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Iapetus dark hemisphere"
+  },
+  {
+   "narration": "The other side is bright as snow.",
+   "emoji": "⚪",
+   "headline": "Bright As Snow",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Iapetus bright hemisphere"
+  },
+  {
+   "narration": "This moon is called Iapetus.",
+   "emoji": "🌑",
+   "headline": "Meet Iapetus",
+   "stat": "",
+   "sub": "Moon of Saturn",
+   "visual_query": "Iapetus moon Saturn"
+  },
+  {
+   "narration": "Cassini photographed it up close.",
+   "emoji": "🛰️",
+   "headline": "Cassini Saw It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cassini spacecraft Saturn"
+  },
+  {
+   "narration": "A huge ridge circles its equator.",
+   "emoji": "⛰️",
+   "headline": "Equator Ridge",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Iapetus equatorial ridge"
+  },
+  {
+   "narration": "It makes the moon look like a walnut.",
+   "emoji": "🌰",
+   "headline": "Walnut Seam",
+   "stat": "",
+   "sub": "",
+   "visual_query": "walnut shell closeup"
+  },
+  {
+   "narration": "Black on one side, white on the other.",
+   "emoji": "🌗",
+   "headline": "Black And White",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Iapetus Cassini image"
+  },
+  {
+   "narration": "A two-toned walnut orbiting Saturn.",
+   "emoji": "🪐",
+   "headline": "Orbiting Saturn",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Saturn rings Cassini"
+  },
+  {
+   "narration": "Tomorrow: a train with nobody driving.",
+   "emoji": "➡️",
+   "headline": "Tomorrow: Delhi Metro",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Delhi Metro train"
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Pluto's heart Tombaugh Regio",
+ "hook": "Your photo of Pluto shows a giant heart.",
+ "title": "Your Photo of Pluto Shows a Giant Heart",
+ "description": "In 2015, NASA's New Horizons flew past Pluto and photographed a heart-shaped region called Tombaugh Regio. Its left side is a plain of nitrogen ice. Part of the series If You Were in Space.\n\n#Shorts #Pluto #Space",
+ "tags": [
+  "Pluto",
+  "Pluto heart",
+  "Tombaugh Regio",
+  "New Horizons",
+  "NASA",
+  "space facts",
+  "solar system",
+  "Shorts"
+ ],
+ "comment_prompt": "Love it or not? One word",
+ "hook_banner": "PLUTO HAS A HEART",
+ "scenes": [
+  {
+   "narration": "Your photo of Pluto shows a giant heart.",
+   "emoji": "💖",
+   "headline": "PLUTO'S GIANT HEART",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pluto heart New Horizons"
+  },
+  {
+   "narration": "NASA's New Horizons flew past in 2015.",
+   "emoji": "🛰️",
+   "headline": "NEW HORIZONS, 2015",
+   "stat": "2015",
+   "sub": "",
+   "visual_query": "New Horizons spacecraft"
+  },
+  {
+   "narration": "It photographed a bright, heart-shaped region.",
+   "emoji": "📸",
+   "headline": "A HEART-SHAPED REGION",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pluto surface close-up"
+  },
+  {
+   "narration": "That region is named Tombaugh Regio.",
+   "emoji": "🏷️",
+   "headline": "TOMBAUGH REGIO",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Tombaugh Regio Pluto"
+  },
+  {
+   "narration": "Its left side is a plain of nitrogen ice.",
+   "emoji": "🧊",
+   "headline": "A PLAIN OF NITROGEN ICE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pluto nitrogen ice plain"
+  },
+  {
+   "narration": "Nitrogen is also most of the air you breathe.",
+   "emoji": "🌬️",
+   "headline": "AIR, FROZEN SOLID",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pluto Charon space"
+  },
+  {
+   "narration": "On Pluto, it is frozen solid.",
+   "emoji": "❄️",
+   "headline": "FROZEN SOLID",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pluto icy mountains"
+  },
+  {
+   "narration": "A heart drawn in ice, billions of kilometres away.",
+   "emoji": "🔁",
+   "headline": "A HEART IN ICE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pluto dwarf planet"
+  },
+  {
+   "narration": "Tomorrow: a man who flew across the sea.",
+   "emoji": "➡️",
+   "headline": "NEXT: FLYING ACROSS THE SEA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Franky Zapata Flyboard Air"
+  }
+ ]
+}

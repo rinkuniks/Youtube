@@ -1,0 +1,102 @@
+{
+ "category": "space",
+ "topic": "Parmitano helmet flooded 2013",
+ "hook": "Your spacesuit helmet can fill with water in space.",
+ "title": "An Astronaut's Helmet Filled With Water",
+ "description": "In 2013, water flooded the helmet of astronaut Luca Parmitano during a spacewalk outside the International Space Station. It pooled around his head and covered his eyes and nose, and he had to rush back inside. He made it back safely. Part of the If You Were in Space series.\n\n#Shorts #Space #Astronaut",
+ "tags": [
+  "luca parmitano",
+  "spacewalk",
+  "iss",
+  "astronaut",
+  "helmet water",
+  "space facts",
+  "if you were in space",
+  "nasa",
+  "esa"
+ ],
+ "comment_prompt": "Would you spacewalk? Yes or no",
+ "hook_banner": "IT REALLY HAPPENED",
+ "scenes": [
+  {
+   "narration": "Your spacesuit helmet can fill with water in space.",
+   "emoji": "👨‍🚀",
+   "headline": "HELMET FILLS WITH WATER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut spacewalk helmet"
+  },
+  {
+   "narration": "It happened to Luca Parmitano in 2013.",
+   "emoji": "📅",
+   "headline": "LUCA PARMITANO",
+   "stat": "2013",
+   "sub": "",
+   "visual_query": "Luca Parmitano astronaut"
+  },
+  {
+   "narration": "He was spacewalking outside the space station.",
+   "emoji": "🛰️",
+   "headline": "OUTSIDE THE ISS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "spacewalk international space station"
+  },
+  {
+   "narration": "Water pooled around his head.",
+   "emoji": "💧",
+   "headline": "WATER AROUND HIS HEAD",
+   "stat": "",
+   "sub": "",
+   "visual_query": "water bubble floating space"
+  },
+  {
+   "narration": "In weightlessness, it clings to your face.",
+   "emoji": "🫧",
+   "headline": "IT CLINGS TO YOU",
+   "stat": "",
+   "sub": "",
+   "visual_query": "floating water sphere astronaut"
+  },
+  {
+   "narration": "It covered his eyes and his nose.",
+   "emoji": "😨",
+   "headline": "EYES AND NOSE COVERED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut helmet visor close"
+  },
+  {
+   "narration": "He could not see well.",
+   "emoji": "🙈",
+   "headline": "HE COULD NOT SEE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut spacesuit helmet"
+  },
+  {
+   "narration": "He had to rush back inside.",
+   "emoji": "🚪",
+   "headline": "RUSH BACK INSIDE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "space station airlock"
+  },
+  {
+   "narration": "He made it, and he was okay.",
+   "emoji": "✅",
+   "headline": "HE MADE IT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut space station smile"
+  },
+  {
+   "narration": "Your helmet should never fill with water.",
+   "emoji": "🪖",
+   "headline": "NEVER IN A HELMET",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut helmet portrait"
+  }
+ ]
+}

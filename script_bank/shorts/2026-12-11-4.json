@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Soyuz landing rockets",
+ "hook": "Your capsule fires rockets right before it lands.",
+ "title": "Soyuz Fires Rockets Just Before Touchdown",
+ "description": "A Soyuz capsule slows under a parachute, then fires small rockets just above the Kazakh steppe. The burst kicks up a cloud of dust and softens the landing.\n\nSeries: If You Were in Space.\n\n#Shorts #Space #Soyuz",
+ "tags": [
+  "soyuz",
+  "landing",
+  "kazakhstan",
+  "space capsule",
+  "rocket",
+  "iss",
+  "space facts",
+  "shorts"
+ ],
+ "comment_prompt": "Would you ride it? Yes or no",
+ "hook_banner": "WATCH THE DUST BURST",
+ "scenes": [
+  {
+   "narration": "Your capsule fires rockets right before it lands.",
+   "emoji": "🚀",
+   "headline": "ROCKETS AT LANDING",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Soyuz landing dust burst"
+  },
+  {
+   "narration": "This is a Soyuz coming home to Kazakhstan.",
+   "emoji": "🇰🇿",
+   "headline": "SOYUZ RETURNS",
+   "stat": "",
+   "sub": "Kazakh steppe",
+   "visual_query": "Soyuz capsule Kazakhstan steppe"
+  },
+  {
+   "narration": "First, a parachute slows the fall.",
+   "emoji": "🪂",
+   "headline": "PARACHUTE FIRST",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Soyuz capsule parachute"
+  },
+  {
+   "narration": "It is still too fast for comfort.",
+   "emoji": "⚠️",
+   "headline": "STILL TOO FAST",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Soyuz capsule descending"
+  },
+  {
+   "narration": "So small rockets fire just above the ground.",
+   "emoji": "🔥",
+   "headline": "ROCKETS FIRE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Soyuz landing engines fire"
+  },
+  {
+   "narration": "They blast a cloud of dust across the steppe.",
+   "emoji": "💨",
+   "headline": "DUST CLOUD",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Soyuz landing dust cloud"
+  },
+  {
+   "narration": "That burst softens the landing.",
+   "emoji": "🛬",
+   "headline": "SOFT LANDING",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Soyuz capsule landed"
+  },
+  {
+   "narration": "Your capsule touches down gently, wrapped in dust.",
+   "emoji": "🚀",
+   "headline": "GENTLE TOUCHDOWN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Soyuz capsule recovery team"
+  },
+  {
+   "narration": "Tomorrow: your phone shows what eyes cannot see.",
+   "emoji": "👀",
+   "headline": "NEXT: YOUR PHONE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone slow motion camera"
+  }
+ ]
+}

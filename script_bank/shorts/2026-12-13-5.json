@@ -1,0 +1,101 @@
+{
+ "category": "technology",
+ "topic": "CD rainbow through phone camera",
+ "hook": "Your phone camera turns a CD into a rainbow.",
+ "title": "Your phone camera turns a CD into a rainbow",
+ "description": "Tilt any old CD or DVD in sunlight and look at it through your phone camera. The tiny tracks on the disc act as a diffraction grating and split light into a rainbow. Try it with any phone.\n\n#Shorts #PhoneTricks #Science",
+ "tags": [
+  "cd rainbow",
+  "diffraction grating",
+  "phone camera trick",
+  "science experiment",
+  "dvd rainbow",
+  "try this at home",
+  "physics",
+  "shorts"
+ ],
+ "comment_prompt": "Did the rainbow show up? Yes or no",
+ "hook_banner": "TRY THIS NOW",
+ "scenes": [
+  {
+   "narration": "Your phone camera turns a CD into rainbows.",
+   "emoji": "🌈",
+   "headline": "CD = RAINBOW",
+   "stat": "",
+   "sub": "",
+   "visual_query": "CD rainbow colors"
+  },
+  {
+   "narration": "Tilt any CD or DVD in sunlight.",
+   "emoji": "💿",
+   "headline": "TILT A DISC",
+   "stat": "",
+   "sub": "",
+   "visual_query": "hand holding CD sunlight"
+  },
+  {
+   "narration": "Point your phone camera at its shiny side.",
+   "emoji": "📱",
+   "headline": "FILM IT",
+   "stat": "",
+   "sub": "any phone works",
+   "visual_query": "phone filming CD"
+  },
+  {
+   "narration": "Colors spread across the screen like a spectrum.",
+   "emoji": "🌈",
+   "headline": "A FULL SPECTRUM",
+   "stat": "",
+   "sub": "",
+   "visual_query": "rainbow spectrum disc"
+  },
+  {
+   "narration": "The disc has tiny tracks packed super close.",
+   "emoji": "🔬",
+   "headline": "TINY TRACKS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "CD surface microscope"
+  },
+  {
+   "narration": "They split sunlight into its separate colors.",
+   "emoji": "☀️",
+   "headline": "LIGHT SPLITS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "light diffraction rainbow"
+  },
+  {
+   "narration": "That effect is called diffraction.",
+   "emoji": "💡",
+   "headline": "DIFFRACTION",
+   "stat": "",
+   "sub": "",
+   "visual_query": "diffraction grating light"
+  },
+  {
+   "narration": "Try it now with any old disc.",
+   "emoji": "🧪",
+   "headline": "TRY IT NOW",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old DVD discs"
+  },
+  {
+   "narration": "Your phone camera just found a rainbow.",
+   "emoji": "🌈",
+   "headline": "RAINBOW FOUND",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone screen rainbow CD"
+  },
+  {
+   "narration": "Tomorrow: icebergs on a black beach.",
+   "emoji": "🧊",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "Places That Shouldn't Exist",
+   "visual_query": "Diamond Beach Iceland"
+  }
+ ]
+}

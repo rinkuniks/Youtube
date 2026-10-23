@@ -1,0 +1,648 @@
+{
+ "topic": "Strange borders countdown ending on the Radcliffe Line",
+ "hook": "Your Punjab and your Bengal were split by a stranger who had never seen either.",
+ "title": "6 Borders That Make No Sense, and India's Is Worst",
+ "description": "Six real borders that make no sense, counting down from a Spanish town inside France to the Radcliffe Line, which was drawn in about five weeks by a British lawyer who had never been to India. You will see Llívia, Büsingen, Lesotho, Point Roberts and the Durand Line before the biggest one. Watch to the end for what happened to Punjab and Bengal in 1947.\n\n#borders #india #geography",
+ "tags": [
+  "strange borders",
+  "borders that make no sense",
+  "radcliffe line",
+  "partition of india",
+  "india pakistan border",
+  "punjab and bengal partition",
+  "cyril radcliffe",
+  "weird geography",
+  "enclaves",
+  "lesotho",
+  "point roberts",
+  "durand line",
+  "geography facts",
+  "facts that sound fake"
+ ],
+ "comment_prompt": "Which border shocked you most?",
+ "hook_banner": "5 WEEKS. ONE LAWYER.",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "6. Llívia: Spain inside France",
+   "scene": 6
+  },
+  {
+   "title": "5. Büsingen: Germany inside Swiss land",
+   "scene": 12
+  },
+  {
+   "title": "4. Lesotho: a country inside a country",
+   "scene": 18
+  },
+  {
+   "title": "3. Point Roberts: cut-off America",
+   "scene": 24
+  },
+  {
+   "title": "2. The Durand Line",
+   "scene": 30
+  },
+  {
+   "title": "1. The Radcliffe Line",
+   "scene": 38
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your Punjab and your Bengal were split by a stranger who had never seen either.",
+   "emoji": "🗺️",
+   "headline": "One Stranger, One Line",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Radcliffe Line map"
+  },
+  {
+   "narration": "A British lawyer drew India's biggest border in about five weeks, and he had never been to India before.",
+   "emoji": "⚖️",
+   "headline": "Five Weeks",
+   "stat": "5 WEEKS",
+   "sub": "Never been to India",
+   "visual_query": "Cyril Radcliffe"
+  },
+  {
+   "narration": "By the end, you'll see how that line was drawn, and why it is the strangest border on Earth.",
+   "emoji": "🌏",
+   "headline": "The Strangest Border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Pakistan border"
+  },
+  {
+   "narration": "Stay till the last one, because that line still shapes the lives of well over a billion people.",
+   "emoji": "👀",
+   "headline": "Last One Matters",
+   "stat": "",
+   "sub": "",
+   "visual_query": "crowd India"
+  },
+  {
+   "narration": "But first, five more borders that make no sense, each one stranger than the last.",
+   "emoji": "🧭",
+   "headline": "Five More First",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map borders"
+  },
+  {
+   "narration": "Some are towns stuck inside other countries. One is a whole country stuck inside another. Let's count down from six.",
+   "emoji": "⏳",
+   "headline": "Countdown From Six",
+   "stat": "6",
+   "sub": "Borders that make no sense",
+   "visual_query": "countdown clock"
+  },
+  {
+   "narration": "Number six: a Spanish town sitting inside France, and it exists because of a single word in an old treaty.",
+   "emoji": "🇪🇸",
+   "headline": "Llívia",
+   "stat": "6",
+   "sub": "Spain inside France",
+   "visual_query": "Llivia Spain"
+  },
+  {
+   "narration": "In 1659, Spain gave France a list of villages. Llívia was called a town, not a village, so it stayed Spanish.",
+   "emoji": "📜",
+   "headline": "One Word, One Town",
+   "stat": "1659",
+   "sub": "Treaty of the Pyrenees",
+   "visual_query": "Pyrenees treaty"
+  },
+  {
+   "narration": "Today it is a Spanish town ringed on every side by France.",
+   "emoji": "📍",
+   "headline": "Ringed By France",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pyrenees village"
+  },
+  {
+   "narration": "To reach the rest of Spain, people drive along a short road through France that is kept neutral.",
+   "emoji": "🛣️",
+   "headline": "The Neutral Road",
+   "stat": "",
+   "sub": "",
+   "visual_query": "mountain road Pyrenees"
+  },
+  {
+   "narration": "On the map it looks like a mistake, a small Spanish island floating in a French sea.",
+   "emoji": "🗺️",
+   "headline": "A Spanish Island",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Spain France map"
+  },
+  {
+   "narration": "One word in one treaty put a Spanish town inside France. And that is the mildest border on this list.",
+   "emoji": "😮",
+   "headline": "The Mildest One",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old treaty document"
+  },
+  {
+   "narration": "Number five: a German town where shops take Swiss francs, even though you are standing in Germany.",
+   "emoji": "🇩🇪",
+   "headline": "Büsingen",
+   "stat": "5",
+   "sub": "Germany inside Switzerland",
+   "visual_query": "Busingen Rhine"
+  },
+  {
+   "narration": "Büsingen am Hochrhein is a German town completely surrounded by Switzerland, with Swiss land between it and the rest of Germany.",
+   "emoji": "📍",
+   "headline": "Surrounded By Swiss Land",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rhine river town"
+  },
+  {
+   "narration": "It sits inside the Swiss customs area, so everyday life there mixes Swiss money, Swiss rules and German law.",
+   "emoji": "💶",
+   "headline": "Three Rules At Once",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss francs coins"
+  },
+  {
+   "narration": "The people are German citizens, and their cars even carry their own special BÜS number plates.",
+   "emoji": "🚗",
+   "headline": "Its Own Number Plate",
+   "stat": "",
+   "sub": "",
+   "visual_query": "German license plate"
+  },
+  {
+   "narration": "Just beyond the town sign, a few steps in any direction, you are standing in Switzerland.",
+   "emoji": "🚶",
+   "headline": "Steps From Switzerland",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss village"
+  },
+  {
+   "narration": "A town that lives by two countries' rules. But what if it was a whole country? Number four is exactly that.",
+   "emoji": "🤯",
+   "headline": "A Whole Country Next",
+   "stat": "",
+   "sub": "",
+   "visual_query": "mountains Africa"
+  },
+  {
+   "narration": "Number four: Lesotho, a whole country with South Africa on every single side.",
+   "emoji": "🇱🇸",
+   "headline": "Lesotho",
+   "stat": "4",
+   "sub": "Country inside a country",
+   "visual_query": "Lesotho mountains"
+  },
+  {
+   "narration": "Imagine a separate country in the middle of India, with Indian land on every side. That is Lesotho and South Africa.",
+   "emoji": "🇮🇳",
+   "headline": "Imagine It In India",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India map"
+  },
+  {
+   "narration": "Its lowest point is over a kilometre above sea level, the highest lowest point of any country in the world.",
+   "emoji": "⛰️",
+   "headline": "Highest Low Point",
+   "stat": "1,000+ m",
+   "sub": "Above sea level",
+   "visual_query": "Lesotho highlands"
+  },
+  {
+   "narration": "That is why Lesotho is nicknamed the Kingdom in the Sky, and why people there wear thick blankets as everyday clothes.",
+   "emoji": "🧣",
+   "headline": "Kingdom In The Sky",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Basotho blanket"
+  },
+  {
+   "narration": "It even sells water to South Africa, sent through huge tunnels under its mountains.",
+   "emoji": "💧",
+   "headline": "It Sells Water",
+   "stat": "",
+   "sub": "",
+   "visual_query": "dam reservoir mountains"
+  },
+  {
+   "narration": "That is strange. But number three is a piece of America you can only reach by passing through another country.",
+   "emoji": "🚧",
+   "headline": "Next: Cut-Off America",
+   "stat": "",
+   "sub": "",
+   "visual_query": "US Canada border sign"
+  },
+  {
+   "narration": "Number three: Point Roberts, a piece of the United States that hangs off the end of a Canadian peninsula.",
+   "emoji": "🇺🇸",
+   "headline": "Point Roberts",
+   "stat": "3",
+   "sub": "American land, Canadian peninsula",
+   "visual_query": "Point Roberts Washington"
+  },
+  {
+   "narration": "On a map it looks like a small thumb of America stuck onto Canada.",
+   "emoji": "👍",
+   "headline": "America's Thumb",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Washington Canada map"
+  },
+  {
+   "narration": "In 1846 a treaty drew the border along one line of latitude, and the tip of this peninsula ended up American.",
+   "emoji": "📏",
+   "headline": "One Straight Line",
+   "stat": "1846",
+   "sub": "The 49th parallel",
+   "visual_query": "49th parallel border"
+  },
+  {
+   "narration": "It has American houses, American shops and American flags, but the only land road out goes through Canada.",
+   "emoji": "🏠",
+   "headline": "Only Road Is Canadian",
+   "stat": "",
+   "sub": "",
+   "visual_query": "American flag houses"
+  },
+  {
+   "narration": "To drive to the rest of Washington state, residents must cross into Canada, then show their papers again to re-enter America.",
+   "emoji": "🛂",
+   "headline": "Cross Twice",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border checkpoint"
+  },
+  {
+   "narration": "All because of a straight line on a map. And lines drawn from far away cause the next border too.",
+   "emoji": "📐",
+   "headline": "Lines From Far Away",
+   "stat": "",
+   "sub": "",
+   "visual_query": "map ruler"
+  },
+  {
+   "narration": "Number two: a line that cuts through families, and one country has never fully accepted it.",
+   "emoji": "✂️",
+   "headline": "The Durand Line",
+   "stat": "2",
+   "sub": "Cuts through families",
+   "visual_query": "Khyber Pass"
+  },
+  {
+   "narration": "In 1893, Sir Mortimer Durand, a British official, agreed a boundary with the ruler of Afghanistan. It is called the Durand Line.",
+   "emoji": "🖊️",
+   "headline": "1893 Agreement",
+   "stat": "1893",
+   "sub": "British official, Afghan ruler",
+   "visual_query": "Afghanistan mountains"
+  },
+  {
+   "narration": "It runs through the land of the Pashtun people, so cousins, markets and grazing paths ended up split between two countries.",
+   "emoji": "👨‍👩‍👧",
+   "headline": "Families Split",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pashtun village"
+  },
+  {
+   "narration": "The famous Khyber Pass sits right on this line, between Pakistan and Afghanistan.",
+   "emoji": "🏔️",
+   "headline": "Khyber Pass",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Khyber Pass"
+  },
+  {
+   "narration": "Today it is the border between Pakistan and Afghanistan, and Afghan governments have long refused to formally accept it.",
+   "emoji": "🚫",
+   "headline": "Never Fully Accepted",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pakistan Afghanistan border"
+  },
+  {
+   "narration": "A line drawn by a British official more than a century ago still decides who lives in which country.",
+   "emoji": "⏰",
+   "headline": "A Century Later",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old British map"
+  },
+  {
+   "narration": "Notice the pattern: a line drawn far from the land, by someone who does not live there, and it lasts for generations.",
+   "emoji": "🔁",
+   "headline": "The Pattern",
+   "stat": "",
+   "sub": "",
+   "visual_query": "surveyor map"
+  },
+  {
+   "narration": "And now the biggest one, from our own story. If you enjoy strange places and facts like these, do subscribe.",
+   "emoji": "🔔",
+   "headline": "Subscribe If You Like This",
+   "stat": "",
+   "sub": "",
+   "visual_query": "subscribe button"
+  },
+  {
+   "narration": "Number one: the Radcliffe Line, India's strangest border, because of who drew it and how fast.",
+   "emoji": "📍",
+   "headline": "The Radcliffe Line",
+   "stat": "1",
+   "sub": "India's strangest border",
+   "visual_query": "Radcliffe Line map"
+  },
+  {
+   "narration": "In 1947 Britain was leaving India, and independence was fixed for the fifteenth of August.",
+   "emoji": "🇮🇳",
+   "headline": "Independence Day 1947",
+   "stat": "15 Aug 1947",
+   "sub": "",
+   "visual_query": "Indian independence 1947"
+  },
+  {
+   "narration": "The country would split into India and Pakistan, and someone had to draw the line through Punjab and Bengal.",
+   "emoji": "✂️",
+   "headline": "Punjab And Bengal",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Punjab Bengal map"
+  },
+  {
+   "narration": "The man chosen was Cyril Radcliffe, a London lawyer. He had never been to India before.",
+   "emoji": "⚖️",
+   "headline": "Cyril Radcliffe",
+   "stat": "",
+   "sub": "",
+   "visual_query": "British barrister 1940s"
+  },
+  {
+   "narration": "He arrived in early July 1947. That left about five weeks to cut two huge provinces in half.",
+   "emoji": "📅",
+   "headline": "About Five Weeks",
+   "stat": "5 WEEKS",
+   "sub": "",
+   "visual_query": "calendar July 1947"
+  },
+  {
+   "narration": "There was no time to walk the land or meet the villages he was splitting.",
+   "emoji": "🚶",
+   "headline": "No Time To Look",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Punjab village fields"
+  },
+  {
+   "narration": "Two commissions helped, one for Punjab and one for Bengal, each with four judges from Congress and the Muslim League.",
+   "emoji": "👨‍⚖️",
+   "headline": "Eight Judges",
+   "stat": "4 + 4",
+   "sub": "Congress and Muslim League",
+   "visual_query": "judges courtroom"
+  },
+  {
+   "narration": "The judges could not agree on the key questions, so the final decision fell to Radcliffe alone.",
+   "emoji": "🤷",
+   "headline": "One Man Decides",
+   "stat": "",
+   "sub": "",
+   "visual_query": "boundary commission"
+  },
+  {
+   "narration": "The date for independence was fixed, so the deadline could not move, whatever the map looked like.",
+   "emoji": "⏱️",
+   "headline": "The Deadline",
+   "stat": "",
+   "sub": "",
+   "visual_query": "wall calendar"
+  },
+  {
+   "narration": "His instructions were to follow areas where Muslims or non-Muslims were the majority, and to consider \"other factors\" too.",
+   "emoji": "📋",
+   "headline": "The Instructions",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old documents"
+  },
+  {
+   "narration": "Those other factors included canals, railways and roads, and they pulled the line in different directions.",
+   "emoji": "🚂",
+   "headline": "Canals And Railways",
+   "stat": "",
+   "sub": "",
+   "visual_query": "railway track Punjab"
+  },
+  {
+   "narration": "But the biggest problem was the calendar. Independence arrived before the map did.",
+   "emoji": "📆",
+   "headline": "Map Came Late",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Independence Day flag"
+  },
+  {
+   "narration": "Pakistan and India were born on the fourteenth and fifteenth of August. The line was published on the seventeenth.",
+   "emoji": "📰",
+   "headline": "Published 17 August",
+   "stat": "17 Aug",
+   "sub": "",
+   "visual_query": "1947 newspaper"
+  },
+  {
+   "narration": "For two days, millions of people did not know which country their own village belonged to.",
+   "emoji": "❓",
+   "headline": "Which Country Am I In",
+   "stat": "2 DAYS",
+   "sub": "",
+   "visual_query": "village India"
+  },
+  {
+   "narration": "In Punjab, Lahore, a city with many Hindus and Sikhs, went to Pakistan. Amritsar, roughly fifty kilometres away, stayed in India.",
+   "emoji": "🏙️",
+   "headline": "Lahore And Amritsar",
+   "stat": "~50 km",
+   "sub": "Apart",
+   "visual_query": "Lahore Amritsar"
+  },
+  {
+   "narration": "Nankana Sahib, the birthplace of Guru Nanak, also went to Pakistan, along with many other places sacred to Sikhs.",
+   "emoji": "🙏",
+   "headline": "Nankana Sahib",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nankana Sahib gurdwara"
+  },
+  {
+   "narration": "The line also cut through the canals that watered Punjab's farms, so fields were separated from the water they depended on.",
+   "emoji": "🌾",
+   "headline": "Fields Cut From Water",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Punjab canal farm"
+  },
+  {
+   "narration": "In Bengal, Murshidabad had a Muslim majority yet went to India, while Khulna had a Hindu majority yet went to Pakistan.",
+   "emoji": "🔄",
+   "headline": "Murshidabad And Khulna",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Murshidabad Bengal"
+  },
+  {
+   "narration": "People in Murshidabad flew the Pakistani flag for two days, until the map arrived and they had to take it down.",
+   "emoji": "🏳️",
+   "headline": "Wrong Flag, Two Days",
+   "stat": "",
+   "sub": "",
+   "visual_query": "flag hoisting 1947"
+  },
+  {
+   "narration": "Pakistan was born in two pieces, West and East, with more than a thousand kilometres of India in between.",
+   "emoji": "🗺️",
+   "headline": "Two Halves, One Gap",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pakistan 1947 map"
+  },
+  {
+   "narration": "Twenty-four years later, in 1971, the eastern piece broke away and became the country we now call Bangladesh.",
+   "emoji": "🇧🇩",
+   "headline": "Bangladesh, 1971",
+   "stat": "1971",
+   "sub": "",
+   "visual_query": "Bangladesh flag"
+  },
+  {
+   "narration": "In the Chittagong Hill Tracts, people raised the Indian flag on the fifteenth of August, then learned their land had gone to Pakistan.",
+   "emoji": "🚩",
+   "headline": "Chittagong Hill Tracts",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chittagong Hill Tracts"
+  },
+  {
+   "narration": "Today the India-Bangladesh border runs for over four thousand kilometres, the longest land border India shares with any country.",
+   "emoji": "📏",
+   "headline": "India-Bangladesh Border",
+   "stat": "4,000+ km",
+   "sub": "Longest land border",
+   "visual_query": "India Bangladesh border"
+  },
+  {
+   "narration": "It twists through rivers, rice fields and villages, and pockets of one country inside the other were only swapped in 2015.",
+   "emoji": "🌾",
+   "headline": "Swapped In 2015",
+   "stat": "2015",
+   "sub": "",
+   "visual_query": "Bengal rice fields"
+  },
+  {
+   "narration": "The human cost was enormous. Millions crossed the new line on foot, by train and by bullock cart.",
+   "emoji": "🚆",
+   "headline": "Millions On The Move",
+   "stat": "",
+   "sub": "",
+   "visual_query": "partition refugees train"
+  },
+  {
+   "narration": "Estimates of the dead run from hundreds of thousands to over a million, in one of the largest migrations in history.",
+   "emoji": "🕯️",
+   "headline": "A Huge Human Cost",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Partition memorial museum"
+  },
+  {
+   "narration": "Many families in India, Pakistan and Bangladesh still tell the story of a home, a field or a neighbour left behind in 1947.",
+   "emoji": "🏚️",
+   "headline": "Stories Left Behind",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old house village"
+  },
+  {
+   "narration": "Radcliffe left India within days of finishing. Reports say he turned down his fee and burned his working papers.",
+   "emoji": "🔥",
+   "headline": "He Left In Days",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ship 1947"
+  },
+  {
+   "narration": "The poet W. H. Auden later wrote a poem called Partition about him, a stranger who decided the fate of millions.",
+   "emoji": "✍️",
+   "headline": "Auden's Poem",
+   "stat": "",
+   "sub": "",
+   "visual_query": "W H Auden"
+  },
+  {
+   "narration": "Wagah sits on the old Grand Trunk Road between Amritsar and Lahore, and the border cuts straight across it.",
+   "emoji": "🛣️",
+   "headline": "The Old Road",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Grand Trunk Road"
+  },
+  {
+   "narration": "Go to Wagah every evening and you can see it: soldiers on both sides lower flags and close the gates while crowds cheer.",
+   "emoji": "🎖️",
+   "headline": "Wagah Border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Wagah border ceremony"
+  },
+  {
+   "narration": "That line at the gate comes from about five weeks of work in 1947.",
+   "emoji": "🚪",
+   "headline": "Five Weeks, Still Here",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Wagah Attari gate"
+  },
+  {
+   "narration": "That is why it beats every other border here. The others came from old treaties. This one split living regions, and it still shapes the news today.",
+   "emoji": "🏆",
+   "headline": "Why It Wins",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Pakistan flags"
+  },
+  {
+   "narration": "Look at India's map again and remember: the land, the rivers and the people did not draw this line.",
+   "emoji": "🗺️",
+   "headline": "Look At The Map Again",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India political map"
+  },
+  {
+   "narration": "Your Punjab and your Bengal were split by a stranger who had never seen either.",
+   "emoji": "🔁",
+   "headline": "Back To The Hook",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Radcliffe Line map"
+  },
+  {
+   "narration": "Next video: more places where the map says one thing and the ground says another.",
+   "emoji": "➡️",
+   "headline": "Next Video",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map pins"
+  }
+ ]
+}

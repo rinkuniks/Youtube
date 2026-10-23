@@ -1,0 +1,94 @@
+{
+ "category": "technology",
+ "topic": "Rolling shutter fan test",
+ "hook": "Your phone makes a spinning fan look bent.",
+ "title": "Your Phone Bends Spinning Fan Blades",
+ "description": "Film a ceiling fan with any phone and the blades look bent. The camera reads the picture line by line, called rolling shutter, so the fan moves between lines. The real blades are straight.\n\n#Shorts #phonetricks #tech",
+ "tags": [
+  "rolling shutter",
+  "phone camera trick",
+  "tech facts",
+  "ceiling fan",
+  "camera test",
+  "try this at home",
+  "phone hacks",
+  "smartphone camera",
+  "shorts"
+ ],
+ "comment_prompt": "Did your fan look bent? Yes or no",
+ "hook_banner": "TRY THIS NOW",
+ "scenes": [
+  {
+   "narration": "Your phone makes a spinning fan look bent.",
+   "emoji": "📱",
+   "headline": "BENT FAN BLADES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ceiling fan phone video"
+  },
+  {
+   "narration": "Film your ceiling fan on high speed.",
+   "emoji": "🌀",
+   "headline": "FILM YOUR FAN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ceiling fan spinning"
+  },
+  {
+   "narration": "The blades look warped and wobbly.",
+   "emoji": "😵",
+   "headline": "WARPED BLADES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "airplane propeller rolling shutter"
+  },
+  {
+   "narration": "But the real blades are perfectly straight.",
+   "emoji": "📏",
+   "headline": "REALLY STRAIGHT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ceiling fan blades"
+  },
+  {
+   "narration": "Your camera reads the picture line by line.",
+   "emoji": "📷",
+   "headline": "LINE BY LINE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "smartphone camera lens"
+  },
+  {
+   "narration": "This is called rolling shutter.",
+   "emoji": "🎞️",
+   "headline": "ROLLING SHUTTER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "camera sensor closeup"
+  },
+  {
+   "narration": "The blade moves between each line.",
+   "emoji": "➡️",
+   "headline": "BLADE KEEPS MOVING",
+   "stat": "",
+   "sub": "",
+   "visual_query": "propeller spinning"
+  },
+  {
+   "narration": "So try it now. Your fan is not bent.",
+   "emoji": "✅",
+   "headline": "TRY IT NOW",
+   "stat": "",
+   "sub": "",
+   "visual_query": "person filming ceiling fan"
+  },
+  {
+   "narration": "Tomorrow: a lake that looks edited, but is not.",
+   "emoji": "🩷",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "Pink lake",
+   "visual_query": "Lake Hillier pink"
+  }
+ ]
+}

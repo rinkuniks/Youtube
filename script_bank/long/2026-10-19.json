@@ -1,0 +1,536 @@
+{
+ "topic": "Why India Is Stranger Than You Think",
+ "hook": "Your sunrise in Arunachal comes long before Mumbai, yet both use the same clock.",
+ "title": "Why India Is Stranger Than You Think",
+ "description": "India has one clock for a country so wide that the sun rises almost two hours earlier in the east. This video shows seven true facts: Assam's tea-garden time, Kanyakumari's two seas, rice farming below sea level in Kuttanad, living root bridges, a floating national park and a coal fire that has burned since 1916.\n\n#India #IndiaFacts #StrangePlaces",
+ "tags": [
+  "india facts",
+  "strange india",
+  "why india is stranger than you think",
+  "india geography",
+  "bagan time assam",
+  "kanyakumari sunrise sunset",
+  "kuttanad below sea level",
+  "living root bridges meghalaya",
+  "loktak floating national park",
+  "jharia coal fire",
+  "indian standard time",
+  "amazing facts about india",
+  "places in india",
+  "weird geography"
+ ],
+ "comment_prompt": "Which place would you visit first?",
+ "hook_banner": "7 TRUE INDIA FACTS",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "One clock, two different times",
+   "scene": 5
+  },
+  {
+   "title": "Kanyakumari's sunrise and sunset",
+   "scene": 18
+  },
+  {
+   "title": "Rice farms below sea level",
+   "scene": 25
+  },
+  {
+   "title": "Bridges that are alive",
+   "scene": 33
+  },
+  {
+   "title": "The floating national park",
+   "scene": 41
+  },
+  {
+   "title": "The fire that never went out",
+   "scene": 49
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your sunrise in Arunachal comes long before Mumbai, yet both use the same clock.",
+   "emoji": "🌅",
+   "headline": "One Clock, Two Suns",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Arunachal Pradesh sunrise"
+  },
+  {
+   "narration": "That is the first of seven strange facts about India, and every single one is true.",
+   "emoji": "🇮🇳",
+   "headline": "Seven True Facts",
+   "stat": "7",
+   "sub": "",
+   "visual_query": "India map"
+  },
+  {
+   "narration": "By the end, you will see ground that has been on fire for more than a hundred years.",
+   "emoji": "🔥",
+   "headline": "Ground On Fire",
+   "stat": "",
+   "sub": "Since 1916",
+   "visual_query": "Jharia coal fire smoke"
+  },
+  {
+   "narration": "Then you will meet a bridge that is alive, and a national park that floats on water.",
+   "emoji": "🌉",
+   "headline": "Alive And Floating",
+   "stat": "",
+   "sub": "",
+   "visual_query": "living root bridge"
+  },
+  {
+   "narration": "Stay until the last one, because the strangest place is the one with smoke rising from the ground.",
+   "emoji": "💨",
+   "headline": "Save The Best",
+   "stat": "",
+   "sub": "",
+   "visual_query": "smoke rising ground"
+  },
+  {
+   "narration": "First, look at how wide India is, from Gujarat in the west to Arunachal Pradesh in the far east.",
+   "emoji": "🗺️",
+   "headline": "A Very Wide Country",
+   "stat": "",
+   "sub": "Gujarat to Arunachal",
+   "visual_query": "India political map"
+  },
+  {
+   "narration": "The whole country runs on one clock, Indian Standard Time, even though the sun rises almost two hours earlier in the east.",
+   "emoji": "🕒",
+   "headline": "One Time Zone",
+   "stat": "1",
+   "sub": "Indian Standard Time",
+   "visual_query": "Indian clock tower"
+  },
+  {
+   "narration": "In Arunachal, it can be bright morning while people in Gujarat are still waiting for first light.",
+   "emoji": "☀️",
+   "headline": "Bright In The East",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Arunachal morning sun"
+  },
+  {
+   "narration": "Offices and schools in both places open at nearly the same clock time, so the east loses daylight every morning.",
+   "emoji": "🏫",
+   "headline": "Same Opening Time",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Indian school morning"
+  },
+  {
+   "narration": "The sun also sets earlier in the east, so evenings there turn dark while the clock still says afternoon.",
+   "emoji": "🌇",
+   "headline": "Early Sunsets",
+   "stat": "",
+   "sub": "",
+   "visual_query": "northeast India sunset"
+  },
+  {
+   "narration": "A separate time zone for the north-east has been suggested for years, but the whole country still follows one clock.",
+   "emoji": "🧭",
+   "headline": "A Second Zone?",
+   "stat": "",
+   "sub": "",
+   "visual_query": "northeast India hills"
+  },
+  {
+   "narration": "Now here is the twist. Some places in India quietly decided to run on their own time.",
+   "emoji": "🤫",
+   "headline": "Their Own Time",
+   "stat": "",
+   "sub": "",
+   "visual_query": "wall clock"
+  },
+  {
+   "narration": "In Assam's tea gardens, the clock is one hour ahead of the rest of India.",
+   "emoji": "🍵",
+   "headline": "Assam Tea Time",
+   "stat": "+1 hour",
+   "sub": "",
+   "visual_query": "Assam tea garden"
+  },
+  {
+   "narration": "It is called Bagan time, and it started in British days so workers could use the early daylight.",
+   "emoji": "⏰",
+   "headline": "Bagan Time",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tea garden workers Assam"
+  },
+  {
+   "narration": "Garden workers begin and end their day by that clock, while the town nearby follows Indian Standard Time.",
+   "emoji": "🧺",
+   "headline": "Two Clocks, One District",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tea pickers"
+  },
+  {
+   "narration": "So two people in the same district can both say ten o'clock and mean different moments.",
+   "emoji": "🤝",
+   "headline": "Ten O'Clock Twice",
+   "stat": "10:00",
+   "sub": "",
+   "visual_query": "two clocks"
+  },
+  {
+   "narration": "Ask for a time in Assam, and you may have to ask which clock they mean.",
+   "emoji": "🤔",
+   "headline": "Which Clock?",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Assam tea plantation"
+  },
+  {
+   "narration": "That is strange enough, but the next place is where India itself runs out of land.",
+   "emoji": "🌊",
+   "headline": "Where India Ends",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kanyakumari coast"
+  },
+  {
+   "narration": "At Kanyakumari, the southern tip of India, you can watch the sun rise and set over the sea from the same shore.",
+   "emoji": "🌅",
+   "headline": "Kanyakumari",
+   "stat": "",
+   "sub": "Rise and set over water",
+   "visual_query": "Kanyakumari sunrise"
+  },
+  {
+   "narration": "The Bay of Bengal lies on one side, the Arabian Sea on the other, and the Indian Ocean in front.",
+   "emoji": "🌐",
+   "headline": "Three Waters Meet",
+   "stat": "3",
+   "sub": "",
+   "visual_query": "Kanyakumari sea"
+  },
+  {
+   "narration": "In the morning the sun climbs out of the water, and in the evening it drops back into water.",
+   "emoji": "🌄",
+   "headline": "Sun In, Sun Out",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Vivekananda Rock Memorial"
+  },
+  {
+   "narration": "On the full moon day of Chaitra, crowds gather because the sun sets and the moon rises almost together.",
+   "emoji": "🌕",
+   "headline": "Sun And Moon",
+   "stat": "",
+   "sub": "Chaitra full moon",
+   "visual_query": "full moon over sea"
+  },
+  {
+   "narration": "The meeting of the waters also makes it a famous spot for pilgrims and tourists from across the country.",
+   "emoji": "🙏",
+   "headline": "A Famous Meeting Point",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kanyakumari tourists"
+  },
+  {
+   "narration": "Most coastlines give you a sunrise or a sunset over the sea, but rarely both from one place.",
+   "emoji": "🏖️",
+   "headline": "Rare On Any Coast",
+   "stat": "",
+   "sub": "",
+   "visual_query": "beach sunset"
+  },
+  {
+   "narration": "So the country ends with an ocean at its feet, and the next fact is about farming below the sea.",
+   "emoji": "🌾",
+   "headline": "Below The Sea",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kerala backwaters"
+  },
+  {
+   "narration": "In Kuttanad in Kerala, farmers grow rice in fields that sit below sea level.",
+   "emoji": "🌾",
+   "headline": "Kuttanad, Kerala",
+   "stat": "",
+   "sub": "Rice below sea level",
+   "visual_query": "Kuttanad paddy fields"
+  },
+  {
+   "narration": "Very few places in the world farm rice this way, and it only works because of long earth walls.",
+   "emoji": "🧱",
+   "headline": "Walls Hold Back Water",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kuttanad bund"
+  },
+  {
+   "narration": "In some places the water in the canal sits higher than the fields next to it.",
+   "emoji": "💧",
+   "headline": "Water Above Fields",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Alappuzha canal"
+  },
+  {
+   "narration": "Boats move between homes and rice fields here, and the backwaters work like roads for the villagers.",
+   "emoji": "🛶",
+   "headline": "Roads Made Of Water",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kerala houseboat backwaters"
+  },
+  {
+   "narration": "A barrage keeps salt water from the sea out of the fields, so the rice can grow.",
+   "emoji": "🚧",
+   "headline": "Keeping Salt Out",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Thanneermukkom bund"
+  },
+  {
+   "narration": "Fields are drained before planting, and farmers here work on land that is wet for much of the year.",
+   "emoji": "🚜",
+   "headline": "Wet Farm Life",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kerala farmers paddy"
+  },
+  {
+   "narration": "If you like strange places like this, subscribe, because there are more of them coming.",
+   "emoji": "🔔",
+   "headline": "More Strange Places",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India landscape"
+  },
+  {
+   "narration": "Next, a bridge that nobody built with bricks, because its builder was a tree.",
+   "emoji": "🌳",
+   "headline": "A Tree Builds A Bridge",
+   "stat": "",
+   "sub": "",
+   "visual_query": "rubber fig tree roots"
+  },
+  {
+   "narration": "In Meghalaya, there are living bridges, grown from the roots of rubber fig trees.",
+   "emoji": "🌉",
+   "headline": "Living Bridges",
+   "stat": "",
+   "sub": "Meghalaya",
+   "visual_query": "Meghalaya living root bridge"
+  },
+  {
+   "narration": "The Khasi people guide the roots across a river and tie them in place, then wait for them to thicken.",
+   "emoji": "🪢",
+   "headline": "Roots Guided Across",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Khasi root bridge river"
+  },
+  {
+   "narration": "It takes many years, and in some places decades, before a living bridge is strong enough to walk on.",
+   "emoji": "⏳",
+   "headline": "Decades To Grow",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Meghalaya jungle bridge"
+  },
+  {
+   "narration": "A wooden or steel bridge can rot or rust in the heavy rain there, but a living one keeps growing stronger.",
+   "emoji": "💪",
+   "headline": "Stronger With Age",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tree roots bridge"
+  },
+  {
+   "narration": "Some of these bridges are said to be hundreds of years old, and people still use them today.",
+   "emoji": "👣",
+   "headline": "Still In Use",
+   "stat": "",
+   "sub": "",
+   "visual_query": "people walking root bridge"
+  },
+  {
+   "narration": "Near Nongriat, there is even a double-decker root bridge, with two living bridges stacked over one stream.",
+   "emoji": "🪜",
+   "headline": "Double-Decker Bridge",
+   "stat": "2",
+   "sub": "Nongriat",
+   "visual_query": "Nongriat double decker root bridge"
+  },
+  {
+   "narration": "Cherrapunji is nearby, one of the wettest places on earth, and that rain is why these roots grow so well.",
+   "emoji": "🌧️",
+   "headline": "Cherrapunji Rain",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cherrapunji rain"
+  },
+  {
+   "narration": "Now imagine a national park that floats. That one is in Manipur, and it has a rare deer.",
+   "emoji": "🦌",
+   "headline": "A Park That Floats",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Loktak Lake"
+  },
+  {
+   "narration": "Loktak Lake in Manipur has floating islands called phumdis, made of soil, plants and rotting plant matter.",
+   "emoji": "🏝️",
+   "headline": "Floating Islands",
+   "stat": "",
+   "sub": "Phumdis",
+   "visual_query": "Loktak phumdi"
+  },
+  {
+   "narration": "Some are thick enough to hold huts, and fishing families live and work on them.",
+   "emoji": "🛖",
+   "headline": "Homes On Water",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Loktak fisherman hut"
+  },
+  {
+   "narration": "One large phumdi forms Keibul Lamjao National Park, the only floating national park in the world.",
+   "emoji": "🏞️",
+   "headline": "Only One On Earth",
+   "stat": "1",
+   "sub": "Floating national park",
+   "visual_query": "Keibul Lamjao National Park"
+  },
+  {
+   "narration": "It is home to the sangai, a rare deer that lives in the wild only in this park.",
+   "emoji": "🦌",
+   "headline": "The Sangai Deer",
+   "stat": "",
+   "sub": "",
+   "visual_query": "sangai deer"
+  },
+  {
+   "narration": "Its hooves are suited to soft, marshy ground, so it can walk on the floating land.",
+   "emoji": "🐾",
+   "headline": "Made For Marsh",
+   "stat": "",
+   "sub": "",
+   "visual_query": "brow-antlered deer marsh"
+  },
+  {
+   "narration": "The park rises and sinks with the changing water level, so the ground is never fixed.",
+   "emoji": "🌊",
+   "headline": "Ground That Moves",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Loktak Lake water"
+  },
+  {
+   "narration": "Fishermen paddle small boats between the floating patches, and the lake is their main source of living.",
+   "emoji": "🎣",
+   "headline": "A Fishing Lake",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Loktak fishermen boat"
+  },
+  {
+   "narration": "Floating land is strange, but the last place is stranger, because the ground there is burning.",
+   "emoji": "🔥",
+   "headline": "Now It Gets Worse",
+   "stat": "",
+   "sub": "",
+   "visual_query": "burning coal"
+  },
+  {
+   "narration": "In Jharia, Jharkhand, coal under the ground has been burning since 1916.",
+   "emoji": "🔥",
+   "headline": "Jharia Burns",
+   "stat": "1916",
+   "sub": "Jharkhand",
+   "visual_query": "Jharia coal fire"
+  },
+  {
+   "narration": "That is more than a hundred years of fire, and it still has not been put out.",
+   "emoji": "📅",
+   "headline": "100+ Years Of Fire",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Jharia smoke fire"
+  },
+  {
+   "narration": "Smoke rises from cracks in the earth, and in some places you can feel the heat from the ground.",
+   "emoji": "💨",
+   "headline": "Smoke From Cracks",
+   "stat": "",
+   "sub": "",
+   "visual_query": "smoke from ground cracks coal"
+  },
+  {
+   "narration": "Mining opened the coal to air, and air getting in through cracks and old workings keeps the fire alive.",
+   "emoji": "⛏️",
+   "headline": "Air Feeds The Fire",
+   "stat": "",
+   "sub": "",
+   "visual_query": "coal mine Jharkhand"
+  },
+  {
+   "narration": "Families live close to the smoke, and the ground can sink as the coal underneath burns away.",
+   "emoji": "🏠",
+   "headline": "Homes Near The Smoke",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Jharia colliery village"
+  },
+  {
+   "narration": "People have talked about moving residents for years, but many stay because their work and homes are right there.",
+   "emoji": "👨‍👩‍👧",
+   "headline": "Why People Stay",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Jharia town"
+  },
+  {
+   "narration": "So here is a place where a fire has outlived generations, and the ground itself still smokes.",
+   "emoji": "🌋",
+   "headline": "A Fire Older Than Many",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dhanbad coalfield"
+  },
+  {
+   "narration": "Now go back to the start. Arunachal's sun rises before Mumbai's, yet one clock rules both.",
+   "emoji": "🌅",
+   "headline": "Back To The Start",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Arunachal sunrise mountains"
+  },
+  {
+   "narration": "One clock, tea on its own time, an ocean sunrise, rice below the sea, living bridges, floating land, burning ground.",
+   "emoji": "🧩",
+   "headline": "The Full List",
+   "stat": "7",
+   "sub": "",
+   "visual_query": "India landscape collage"
+  },
+  {
+   "narration": "All seven are real, and all seven are on the Indian map.",
+   "emoji": "✅",
+   "headline": "All Seven Are Real",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India map"
+  },
+  {
+   "narration": "Tomorrow: the Indian river island that is slowly disappearing into the water around it.",
+   "emoji": "🏝️",
+   "headline": "Tomorrow: Majuli",
+   "stat": "",
+   "sub": "River island of Assam",
+   "visual_query": "Majuli island Brahmaputra"
+  }
+ ]
+}

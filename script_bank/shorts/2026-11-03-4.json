@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Three lunar rovers left on the Moon",
+ "hook": "Your Moon visit would find three parked cars.",
+ "title": "Three Cars Are Still Parked on the Moon",
+ "description": "Apollo 15, 16 and 17 each left a lunar rover on the Moon where the crews drove it last. They are still up there today. Series: If You Were in Space.\n\n#Shorts #Space #Apollo",
+ "tags": [
+  "lunar rover",
+  "apollo 15",
+  "apollo 16",
+  "apollo 17",
+  "moon cars",
+  "space facts",
+  "nasa",
+  "shorts"
+ ],
+ "comment_prompt": "Would you drive one? Yes or no",
+ "hook_banner": "STILL UP THERE",
+ "scenes": [
+  {
+   "narration": "Your Moon visit would find three parked cars.",
+   "emoji": "🚙",
+   "headline": "PARKED ON THE MOON",
+   "stat": "3",
+   "sub": "Lunar rovers",
+   "visual_query": "lunar rover Moon"
+  },
+  {
+   "narration": "They're lunar rovers from Apollo 15, 16 and 17.",
+   "emoji": "🌕",
+   "headline": "APOLLO 15, 16, 17",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Apollo lunar roving vehicle"
+  },
+  {
+   "narration": "Astronauts drove them across the surface.",
+   "emoji": "👨‍🚀",
+   "headline": "DRIVEN BY ASTRONAUTS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut driving lunar rover"
+  },
+  {
+   "narration": "Then they left them right where they stopped.",
+   "emoji": "🅿️",
+   "headline": "LEFT WHERE STOPPED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "lunar rover parked"
+  },
+  {
+   "narration": "Nobody brought them home.",
+   "emoji": "🚫",
+   "headline": "NEVER BROUGHT HOME",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Apollo 17 rover"
+  },
+  {
+   "narration": "No rain or air means no rust.",
+   "emoji": "🌑",
+   "headline": "NO RAIN, NO RUST",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Moon surface"
+  },
+  {
+   "narration": "They've been sitting there since the early 1970s.",
+   "emoji": "⏳",
+   "headline": "SINCE THE 1970s",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Apollo 16 rover Moon"
+  },
+  {
+   "narration": "So yes, three cars are parked on the Moon.",
+   "emoji": "🚙",
+   "headline": "STILL PARKED",
+   "stat": "3",
+   "sub": "",
+   "visual_query": "lunar rover astronaut"
+  },
+  {
+   "narration": "Tomorrow: more facts that sound fake.",
+   "emoji": "🤯",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "More true facts",
+   "visual_query": "Earth from space"
+  }
+ ]
+}

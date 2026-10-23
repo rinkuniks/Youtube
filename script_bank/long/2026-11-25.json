@@ -1,0 +1,669 @@
+{
+ "topic": "Sir Creek and six more borders that make no sense",
+ "hook": "Your map of Gujarat ends in a border that runs through mud, and two countries still cannot agree where it is.",
+ "title": "Sir Creek and 6 Borders That Make No Sense",
+ "description": "Seven real borders that make no sense, counted down from a lake with no line to a rocket city that Russia rents. The last one is India's Sir Creek, a border in a tidal marsh where the water keeps moving and India and Pakistan still disagree on where the line lies. Open any map and check them yourself.\n\n#borders #geography #India",
+ "tags": [
+  "strange borders",
+  "borders that make no sense",
+  "Sir Creek",
+  "Sir Creek dispute",
+  "India Pakistan border",
+  "Rann of Kutch",
+  "Gujarat border",
+  "Llivia",
+  "Busingen",
+  "Gibraltar runway",
+  "Point Roberts",
+  "Baikonur",
+  "Lake Constance",
+  "geography facts",
+  "weird geography"
+ ],
+ "comment_prompt": "Which border was the strangest?",
+ "hook_banner": "THE BORDER IN THE MUD",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "7: A lake with no border",
+   "scene": 6
+  },
+  {
+   "title": "6: Llívia, Spain inside France",
+   "scene": 13
+  },
+  {
+   "title": "5: Büsingen, Germany in Switzerland",
+   "scene": 20
+  },
+  {
+   "title": "4: Gibraltar's runway border",
+   "scene": 27
+  },
+  {
+   "title": "3: Point Roberts",
+   "scene": 34
+  },
+  {
+   "title": "2: Baikonur, the rented city",
+   "scene": 41
+  },
+  {
+   "title": "1: Sir Creek, India's muddy line",
+   "scene": 49
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your map of Gujarat ends in a border that runs through mud, and two countries still cannot agree where it is.",
+   "emoji": "🗺️",
+   "headline": "A Border In Mud",
+   "stat": "",
+   "sub": "Gujarat, India",
+   "visual_query": "Sir Creek marsh Gujarat"
+  },
+  {
+   "narration": "That is Sir Creek, India's strangest border, and we will get there last. But six others come first, and each is stranger.",
+   "emoji": "🇮🇳",
+   "headline": "Sir Creek Comes Last",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rann of Kutch salt flats"
+  },
+  {
+   "narration": "By the end, you will see a line on a map that the water itself keeps moving.",
+   "emoji": "🌊",
+   "headline": "A Line That Moves",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tidal creek mudflats"
+  },
+  {
+   "narration": "Here are seven real borders that make no sense, counted down from seven to one, starting with a lake that has no line.",
+   "emoji": "🔢",
+   "headline": "7 Real Borders",
+   "stat": "7",
+   "sub": "Counting down",
+   "visual_query": "world map borders"
+  },
+  {
+   "narration": "Every place in this video is real, and every one is on a map you can open right now.",
+   "emoji": "📍",
+   "headline": "All Real, All On Maps",
+   "stat": "",
+   "sub": "",
+   "visual_query": "person holding phone map"
+  },
+  {
+   "narration": "So let us start with a border that was simply never drawn, in the middle of rich, careful Europe.",
+   "emoji": "🇪🇺",
+   "headline": "Never Drawn",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Europe map Alps"
+  },
+  {
+   "narration": "Number seven: a lake with no agreed border. Lake Constance touches three countries, Germany, Austria and Switzerland, all careful and well organised.",
+   "emoji": "🏞️",
+   "headline": "Lake With No Border",
+   "stat": "7",
+   "sub": "Lake Constance",
+   "visual_query": "Lake Constance"
+  },
+  {
+   "narration": "On land, their borders are clear. But out on the water, the three have never agreed on one shared line.",
+   "emoji": "🗺️",
+   "headline": "No Line On Water",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake Constance map"
+  },
+  {
+   "narration": "Their views differ, so for decades the lake has been used by all three without a fixed line.",
+   "emoji": "⚖️",
+   "headline": "Three Views",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bodensee shoreline"
+  },
+  {
+   "narration": "Ferries cross it all day, boats of all three nations sail it, and nobody checks a passport in the middle of the water.",
+   "emoji": "⛴️",
+   "headline": "No Passport Checks",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake Constance ferry"
+  },
+  {
+   "narration": "Think about that. An entire lake, in the middle of Europe, with the border left as a blank on the map.",
+   "emoji": "❓",
+   "headline": "A Blank On The Map",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake Constance aerial"
+  },
+  {
+   "narration": "Fishing and shipping rules there are agreed between the neighbours, even without a border line.",
+   "emoji": "🎣",
+   "headline": "Rules, No Line",
+   "stat": "",
+   "sub": "",
+   "visual_query": "fishing boat lake"
+  },
+  {
+   "narration": "That one is just a blank. Number six is much stranger: a whole town stuck in the wrong country.",
+   "emoji": "👀",
+   "headline": "Next: Wrong Country",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pyrenees village"
+  },
+  {
+   "narration": "Number six: Llívia. It is a Spanish town that sits completely inside French land, with France on every side.",
+   "emoji": "🇪🇸",
+   "headline": "Spain Inside France",
+   "stat": "6",
+   "sub": "Llívia",
+   "visual_query": "Llivia town"
+  },
+  {
+   "narration": "Walk out of the town in any direction and you step onto French soil. Spain is only a short drive away.",
+   "emoji": "🚶",
+   "headline": "Step Out, Step Into France",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Llivia Cerdanya"
+  },
+  {
+   "narration": "The reason goes back to 1659, when Spain handed France a set of villages after a long war, in the Treaty of the Pyrenees.",
+   "emoji": "📜",
+   "headline": "The 1659 Treaty",
+   "stat": "1659",
+   "sub": "Treaty of the Pyrenees",
+   "visual_query": "Treaty of the Pyrenees painting"
+  },
+  {
+   "narration": "But Llívia was counted as a town, not a village. So it was not handed over, and it stayed Spanish.",
+   "emoji": "🏘️",
+   "headline": "Town, Not Village",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Llivia old town"
+  },
+  {
+   "narration": "One word on a piece of paper left a Spanish town stranded inside France, and it is still there.",
+   "emoji": "✍️",
+   "headline": "One Word Did It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old treaty document"
+  },
+  {
+   "narration": "Today a special road joins Llívia to the rest of Spain, and that road runs through French land.",
+   "emoji": "🛣️",
+   "headline": "A Road Through France",
+   "stat": "",
+   "sub": "",
+   "visual_query": "mountain road Pyrenees"
+  },
+  {
+   "narration": "That is a town inside the wrong country. Number five is a village, and it is surrounded by Switzerland.",
+   "emoji": "🇨🇭",
+   "headline": "Next: A Swiss Island",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss village Rhine"
+  },
+  {
+   "narration": "Number five: Büsingen. It is a village in Germany, but it is completely surrounded by Switzerland.",
+   "emoji": "🇩🇪",
+   "headline": "Germany Inside Switzerland",
+   "stat": "5",
+   "sub": "Büsingen",
+   "visual_query": "Busingen am Hochrhein"
+  },
+  {
+   "narration": "Its people live under German law, yet it sits inside the Swiss customs area, so goods move there much like in Switzerland.",
+   "emoji": "🛃",
+   "headline": "German Law, Swiss Customs",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss German border sign"
+  },
+  {
+   "narration": "Shops there often take both euros and Swiss francs, because both currencies are part of daily life.",
+   "emoji": "💶",
+   "headline": "Euros And Francs",
+   "stat": "",
+   "sub": "",
+   "visual_query": "euro Swiss franc notes"
+  },
+  {
+   "narration": "Its cars have their own special number plate code, BÜS, so you can spot a Büsingen car at a glance.",
+   "emoji": "🚗",
+   "headline": "Plate Code: BÜS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "German number plate"
+  },
+  {
+   "narration": "Old land deals and old wars left it behind, and nobody ever tidied it away. It still sits on the map as a German island in Swiss land.",
+   "emoji": "🏝️",
+   "headline": "A German Island",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rhine river village"
+  },
+  {
+   "narration": "Imagine your home address being German, while everything you can see from your window is Switzerland.",
+   "emoji": "🏠",
+   "headline": "German Address, Swiss View",
+   "stat": "",
+   "sub": "",
+   "visual_query": "village houses Switzerland"
+  },
+  {
+   "narration": "That one was about land. Number four is about a runway, and what happens when a plane wants to land.",
+   "emoji": "✈️",
+   "headline": "Next: A Runway",
+   "stat": "",
+   "sub": "",
+   "visual_query": "airport runway"
+  },
+  {
+   "narration": "Number four: Gibraltar. A British territory on Spain's southern tip, with a border that runs right across its airport.",
+   "emoji": "🇬🇮",
+   "headline": "Border Over A Runway",
+   "stat": "4",
+   "sub": "Gibraltar",
+   "visual_query": "Gibraltar airport runway"
+  },
+  {
+   "narration": "To walk or drive from Spain into Gibraltar, you often have to cross the airport runway itself.",
+   "emoji": "🚶",
+   "headline": "You Cross The Runway",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar road runway crossing"
+  },
+  {
+   "narration": "When a plane is about to land or take off, the road is closed. Barriers come down, just like at a railway crossing.",
+   "emoji": "🚧",
+   "headline": "Barriers Come Down",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar runway barrier"
+  },
+  {
+   "narration": "Cars, bikes and people simply wait, while a jet lands or lifts off right in front of them.",
+   "emoji": "🛬",
+   "headline": "Wait For The Jet",
+   "stat": "",
+   "sub": "",
+   "visual_query": "plane landing Gibraltar"
+  },
+  {
+   "narration": "Few places on Earth have a border crossing where the plane has the right of way.",
+   "emoji": "🛩️",
+   "headline": "Planes Go First",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar rock airport"
+  },
+  {
+   "narration": "Spain does not even accept that the land under the runway belongs to Gibraltar, so the argument is literally on the tarmac.",
+   "emoji": "⚔️",
+   "headline": "A Dispute On Tarmac",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar Spain border"
+  },
+  {
+   "narration": "Number three is a place that is American, but to drive there, you must first pass through another country.",
+   "emoji": "🇺🇸",
+   "headline": "Next: Drive Through Canada",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Canada US border road"
+  },
+  {
+   "narration": "Number three: Point Roberts, in Washington state. It is part of the United States, but it hangs off the coast of Canada.",
+   "emoji": "📍",
+   "headline": "America Cut Off",
+   "stat": "3",
+   "sub": "Point Roberts",
+   "visual_query": "Point Roberts Washington"
+  },
+  {
+   "narration": "The border follows the 49th parallel, a perfectly straight line, and that line sliced the tip of a peninsula off from America.",
+   "emoji": "📏",
+   "headline": "The 49th Parallel",
+   "stat": "49°",
+   "sub": "A straight line",
+   "visual_query": "49th parallel border marker"
+  },
+  {
+   "narration": "So to reach the rest of the United States by road, you must drive through Canada and cross the border twice.",
+   "emoji": "🚗",
+   "headline": "Cross Twice To Get Home",
+   "stat": "2",
+   "sub": "Border crossings",
+   "visual_query": "border crossing booth car"
+  },
+  {
+   "narration": "On the map it looks like a small cut-out of America, sitting just below Canada, with the sea on its other sides.",
+   "emoji": "🗺️",
+   "headline": "A Small Cut-Out",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Point Roberts map peninsula"
+  },
+  {
+   "narration": "Its shops, its mail and many of its visitors all depend on a single crossing. When the border closed in 2020, the town felt it badly.",
+   "emoji": "🏪",
+   "headline": "One Crossing Matters",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Point Roberts shops"
+  },
+  {
+   "narration": "A straight line drawn on a map long ago, by people who never needed to drive that road.",
+   "emoji": "✏️",
+   "headline": "A Line On Paper",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old map ruler"
+  },
+  {
+   "narration": "Now, number two is a city that is not in Russia, though Russia runs it, and it sends people into space.",
+   "emoji": "🚀",
+   "headline": "Next: A Rented City",
+   "stat": "",
+   "sub": "",
+   "visual_query": "rocket launch pad"
+  },
+  {
+   "narration": "Number two: Baikonur. It is a city inside Kazakhstan that is leased to and run by Russia.",
+   "emoji": "🇰🇿",
+   "headline": "A City Russia Rents",
+   "stat": "2",
+   "sub": "Baikonur",
+   "visual_query": "Baikonur Cosmodrome"
+  },
+  {
+   "narration": "It is where Yuri Gagarin's rocket lifted off in 1961, and it is still a working launch site today.",
+   "emoji": "👨‍🚀",
+   "headline": "Gagarin Started Here",
+   "stat": "1961",
+   "sub": "",
+   "visual_query": "Yuri Gagarin Vostok"
+  },
+  {
+   "narration": "The land belongs to Kazakhstan, but Russia pays rent to use it, and the Russian space programme runs the launches.",
+   "emoji": "💰",
+   "headline": "Russia Pays Rent",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Soyuz rocket launch"
+  },
+  {
+   "narration": "So you can stand in Kazakhstan, and watch a Russian rocket carry astronauts to the space station.",
+   "emoji": "🛰️",
+   "headline": "Kazakh Soil, Russian Rocket",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Soyuz launch astronauts"
+  },
+  {
+   "narration": "Entering the city comes with its own rules, and visitors need permission, even though it sits inside Kazakhstan.",
+   "emoji": "🛂",
+   "headline": "Permission Needed",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baikonur city street"
+  },
+  {
+   "narration": "If you like strange places like these, subscribe, because we find a new one every single day.",
+   "emoji": "🔔",
+   "headline": "New Strange Place Daily",
+   "stat": "",
+   "sub": "",
+   "visual_query": "globe map pins"
+  },
+  {
+   "narration": "A whole city, rented out like a flat, and rockets leave from it. Strange, but there is one left.",
+   "emoji": "🏙️",
+   "headline": "Rented Like A Flat",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baikonur steppe launch"
+  },
+  {
+   "narration": "Number one is in India, close to home, and it is a border where you cannot even see the line.",
+   "emoji": "🇮🇳",
+   "headline": "Number One Is Indian",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Pakistan border Gujarat"
+  },
+  {
+   "narration": "Number one: Sir Creek. On your map of Gujarat's far west, a border runs straight into a tidal marsh.",
+   "emoji": "🗺️",
+   "headline": "Sir Creek",
+   "stat": "1",
+   "sub": "India's strangest border",
+   "visual_query": "Sir Creek Kutch"
+  },
+  {
+   "narration": "Sir Creek is a long, narrow channel of water, where the Rann of Kutch meets the Arabian Sea.",
+   "emoji": "🌊",
+   "headline": "Where Marsh Meets Sea",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rann of Kutch creek"
+  },
+  {
+   "narration": "On one side is Gujarat, in India. On the other side is Sindh, in Pakistan.",
+   "emoji": "↔️",
+   "headline": "Gujarat Meets Sindh",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kutch Sindh map"
+  },
+  {
+   "narration": "But this is not a neat river with two clear banks. It is a maze of mud flats, reeds and salt water.",
+   "emoji": "🌿",
+   "headline": "No Clear Banks",
+   "stat": "",
+   "sub": "",
+   "visual_query": "mangrove mudflats creek"
+  },
+  {
+   "narration": "Twice a day the tide floods the marsh, then drains it, and the shape of the channels keeps changing.",
+   "emoji": "🌗",
+   "headline": "Tide In, Tide Out",
+   "stat": "2x",
+   "sub": "a day",
+   "visual_query": "tidal marsh high tide"
+  },
+  {
+   "narration": "Silt builds up, channels shift, and a patch of mud can appear in one season and vanish in another.",
+   "emoji": "🏝️",
+   "headline": "Mud Appears, Vanishes",
+   "stat": "",
+   "sub": "",
+   "visual_query": "silt channels aerial"
+  },
+  {
+   "narration": "Now try drawing a permanent line through that. That is the whole problem, and it has lasted for decades.",
+   "emoji": "✏️",
+   "headline": "A Permanent Line?",
+   "stat": "",
+   "sub": "",
+   "visual_query": "surveyor map marsh"
+  },
+  {
+   "narration": "The story starts before 1947. This land was split between Kutch, a princely state, and Sindh, a province of British India.",
+   "emoji": "👑",
+   "headline": "Kutch And Sindh",
+   "stat": "",
+   "sub": "Before 1947",
+   "visual_query": "Kutch princely state palace"
+  },
+  {
+   "narration": "In 1914 the Bombay government settled a dispute between them, with a resolution, and maps to go with it.",
+   "emoji": "📜",
+   "headline": "The 1914 Resolution",
+   "stat": "1914",
+   "sub": "",
+   "visual_query": "old British India map"
+  },
+  {
+   "narration": "Pakistan reads those papers as putting the line on the eastern edge of the creek, which would make the whole channel Pakistani.",
+   "emoji": "🇵🇰",
+   "headline": "Pakistan: East Bank",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pakistan Sindh coast creek"
+  },
+  {
+   "narration": "India reads them differently. It says the line runs down the middle of the channel, and points to a 1925 map with pillars set along it.",
+   "emoji": "🇮🇳",
+   "headline": "India: Mid-Channel",
+   "stat": "1925",
+   "sub": "Map with pillars",
+   "visual_query": "border pillar India"
+  },
+  {
+   "narration": "There is even a name for that idea, the thalweg: a border that follows the middle of the main channel.",
+   "emoji": "📐",
+   "headline": "The Thalweg Rule",
+   "stat": "",
+   "sub": "",
+   "visual_query": "river channel aerial"
+  },
+  {
+   "narration": "Pakistan argues that rule applies only to waterways that ships really use, and says this creek is not one of them.",
+   "emoji": "🚢",
+   "headline": "Is It Navigable?",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ship in narrow channel"
+  },
+  {
+   "narration": "Both sides have a serious argument. It all comes down to which part of a muddy channel the line sits in.",
+   "emoji": "⚖️",
+   "headline": "Which Side Of Mud?",
+   "stat": "",
+   "sub": "",
+   "visual_query": "scales of justice"
+  },
+  {
+   "narration": "In 1965 the two countries clashed in the nearby Rann of Kutch, and a tribunal later ruled on that area in 1968.",
+   "emoji": "🏛️",
+   "headline": "The 1968 Ruling",
+   "stat": "1968",
+   "sub": "",
+   "visual_query": "Rann of Kutch desert"
+  },
+  {
+   "narration": "But Sir Creek was not settled by that ruling, so it stayed open, and it is still open today.",
+   "emoji": "📂",
+   "headline": "Still Not Settled",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kutch border landscape"
+  },
+  {
+   "narration": "Talks have gone on for decades, and the line has still not been agreed by both countries.",
+   "emoji": "🤝",
+   "headline": "Decades Of Talks",
+   "stat": "",
+   "sub": "",
+   "visual_query": "diplomats meeting table"
+  },
+  {
+   "narration": "And because the channels shift, the question gets harder every year. Which channel was the creek, and where is its middle now?",
+   "emoji": "🔄",
+   "headline": "Where Is The Middle?",
+   "stat": "",
+   "sub": "",
+   "visual_query": "shifting river channels"
+  },
+  {
+   "narration": "Fishermen feel it most. These waters are full of fish, and boats from both sides can drift across a line nobody can see.",
+   "emoji": "🎣",
+   "headline": "Fishermen Feel It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gujarat fishing boats"
+  },
+  {
+   "narration": "Gujarat fishermen have often been arrested by Pakistan, and Pakistani fishermen by India, for crossing a line that was never clear.",
+   "emoji": "⛓️",
+   "headline": "Arrested Over A Line",
+   "stat": "",
+   "sub": "",
+   "visual_query": "fishermen boats arrest sea"
+  },
+  {
+   "narration": "Border guards patrol in boats, through salt flats and tidal water where there is very little except mud and sky.",
+   "emoji": "🚤",
+   "headline": "Patrols In Mud",
+   "stat": "",
+   "sub": "",
+   "visual_query": "BSF boat patrol creek"
+  },
+  {
+   "narration": "And it matters far beyond mud. Where the creek line ends helps decide where the sea border starts.",
+   "emoji": "🧭",
+   "headline": "It Sets The Sea Border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Arabian Sea coast map"
+  },
+  {
+   "narration": "That means one muddy bend, barely visible on a map, shapes who controls a large patch of the Arabian Sea.",
+   "emoji": "🌐",
+   "headline": "One Bend, Big Sea",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Arabian Sea satellite"
+  },
+  {
+   "narration": "That is why this is India's strangest border. It is not a wall or a fence, just a line that moves with the water.",
+   "emoji": "🌊",
+   "headline": "A Line That Moves",
+   "stat": "",
+   "sub": "",
+   "visual_query": "marsh creek sunset"
+  },
+  {
+   "narration": "So remember where we started: your map of Gujarat ends in a border that runs through mud.",
+   "emoji": "🗺️",
+   "headline": "A Border In Mud",
+   "stat": "",
+   "sub": "Sir Creek",
+   "visual_query": "Sir Creek Gujarat marsh"
+  },
+  {
+   "narration": "Seven borders, and not one of them makes sense. But the last one cannot even sit still.",
+   "emoji": "🔁",
+   "headline": "Seven Borders, Zero Sense",
+   "stat": "7",
+   "sub": "",
+   "visual_query": "world map border lines"
+  },
+  {
+   "narration": "Next video: a place where your phone picks up a signal from the wrong country.",
+   "emoji": "📱",
+   "headline": "Next: Wrong Signal",
+   "stat": "",
+   "sub": "Coming up",
+   "visual_query": "phone signal bars"
+  }
+ ]
+}

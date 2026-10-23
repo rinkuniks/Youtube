@@ -1,0 +1,86 @@
+{
+ "category": "space",
+ "topic": "ISS zero-gravity coffee cup",
+ "hook": "Your coffee crawls up its own cup in space.",
+ "title": "Coffee That Climbs Up Its Own Cup In Space",
+ "description": "On the International Space Station, coffee does not stay at the bottom of a normal cup. A special cup with a sharp inner corner, tested in 2015, lets surface tension pull the coffee along the corner toward the astronaut's mouth. No straw, no pouch.\n\n#Shorts #Space #ISS",
+ "tags": [
+  "space coffee",
+  "iss",
+  "zero gravity cup",
+  "surface tension",
+  "astronaut",
+  "space station",
+  "science",
+  "if you were in space",
+  "shorts"
+ ],
+ "comment_prompt": "Would you drink space coffee? Yes or no",
+ "hook_banner": "COFFEE DEFIES GRAVITY",
+ "scenes": [
+  {
+   "narration": "Your coffee crawls up its own cup in space.",
+   "emoji": "☕",
+   "headline": "COFFEE CLIMBS ITSELF",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut space coffee cup"
+  },
+  {
+   "narration": "On the space station, nothing stays at the bottom.",
+   "emoji": "🛰️",
+   "headline": "NO GRAVITY HERE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "International Space Station interior"
+  },
+  {
+   "narration": "So astronauts got a cup with a sharp corner.",
+   "emoji": "📐",
+   "headline": "THE SHARP CORNER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "zero gravity cup ISS"
+  },
+  {
+   "narration": "Surface tension pulls coffee along that corner.",
+   "emoji": "💧",
+   "headline": "SURFACE TENSION",
+   "stat": "",
+   "sub": "",
+   "visual_query": "liquid floating space station"
+  },
+  {
+   "narration": "It crawls upward all by itself.",
+   "emoji": "⬆️",
+   "headline": "IT CRAWLS UP",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut drinking coffee ISS"
+  },
+  {
+   "narration": "This cup was tested on the ISS in 2015.",
+   "emoji": "📅",
+   "headline": "TESTED IN 2015",
+   "stat": "2015",
+   "sub": "",
+   "visual_query": "astronaut cup ISS 2015"
+  },
+  {
+   "narration": "No straw and no pouch needed.",
+   "emoji": "🚫",
+   "headline": "NO STRAW NEEDED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut drink pouch straw"
+  },
+  {
+   "narration": "Your coffee crawls up the cup in space.",
+   "emoji": "🚀",
+   "headline": "SPACE COFFEE WORKS",
+   "stat": "",
+   "sub": "Tomorrow: a robot that flips",
+   "visual_query": "astronaut floating coffee"
+  }
+ ]
+}

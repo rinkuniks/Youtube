@@ -1,0 +1,85 @@
+{
+ "category": "geography",
+ "topic": "Pangong Lake spans India and China, freezes in winter",
+ "hook": "Your photo at Pangong Lake is taken on two countries at once.",
+ "title": "Your Pangong Lake Photo Is in Two Countries",
+ "description": "Pangong Lake in Ladakh spans India and China. Its water is salty, yet it freezes over in winter. Part of the Places That Shouldn't Exist series.\n\n#Shorts #PangongLake #Ladakh",
+ "tags": [
+  "pangong lake",
+  "ladakh",
+  "india china border",
+  "geography facts",
+  "places that shouldn't exist",
+  "salt water lake",
+  "frozen lake",
+  "did you know"
+ ],
+ "comment_prompt": "Have you visited Ladakh? Yes or no",
+ "hook_banner": "THIS PLACE IS REAL",
+ "scenes": [
+  {
+   "narration": "Your Pangong Lake photo shows two countries.",
+   "emoji": "📸",
+   "headline": "ONE LAKE, TWO COUNTRIES",
+   "stat": "",
+   "sub": "India and China",
+   "visual_query": "Pangong Lake Ladakh"
+  },
+  {
+   "narration": "This Ladakh lake spans India and China.",
+   "emoji": "🇮🇳",
+   "headline": "INDIA AND CHINA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pangong Tso lake mountains"
+  },
+  {
+   "narration": "The border runs through the water itself.",
+   "emoji": "🌊",
+   "headline": "BORDER IN THE WATER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pangong Lake blue water"
+  },
+  {
+   "narration": "The water is salty, not fresh.",
+   "emoji": "🧂",
+   "headline": "IT IS SALTY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pangong Lake shore"
+  },
+  {
+   "narration": "Salty water is harder to freeze.",
+   "emoji": "🥶",
+   "headline": "HARDER TO FREEZE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "salt water ice"
+  },
+  {
+   "narration": "Yet in winter the lake freezes over.",
+   "emoji": "🧊",
+   "headline": "IT FREEZES OVER",
+   "stat": "",
+   "sub": "Winter",
+   "visual_query": "Pangong Lake frozen winter"
+  },
+  {
+   "narration": "Your Pangong photo shows two countries.",
+   "emoji": "🏔️",
+   "headline": "TWO COUNTRIES, ONE LAKE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ladakh landscape lake"
+  },
+  {
+   "narration": "Tomorrow: rice grown below sea level.",
+   "emoji": "🌾",
+   "headline": "NEXT: BELOW SEA LEVEL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kuttanad rice field"
+  }
+ ]
+}

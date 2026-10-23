@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Easter Island moai bodies",
+ "hook": "Your photo of Easter Island's heads misses their bodies.",
+ "title": "Easter Island's Giant Heads Have Buried Bodies",
+ "description": "The famous Easter Island moai are often called heads, but excavations found full torsos buried underground. Soil built up around many of them over time. Part of the Places That Shouldn't Exist series.\n\n#Shorts #EasterIsland #Geography",
+ "tags": [
+  "Easter Island",
+  "moai",
+  "Rapa Nui",
+  "statues",
+  "archaeology",
+  "geography facts",
+  "Chile",
+  "shorts"
+ ],
+ "comment_prompt": "Did you know this? Yes or no",
+ "hook_banner": "THEY HAVE BODIES",
+ "scenes": [
+  {
+   "narration": "Your photo of Easter Island's heads misses their bodies.",
+   "emoji": "🗿",
+   "headline": "Heads With Bodies",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Easter Island moai heads grass"
+  },
+  {
+   "narration": "They're called heads, but they're full statues.",
+   "emoji": "🗿",
+   "headline": "Full Statues",
+   "stat": "",
+   "sub": "Called moai",
+   "visual_query": "moai statue full body"
+  },
+  {
+   "narration": "Soil slowly buried them up to the shoulders.",
+   "emoji": "🌱",
+   "headline": "Buried By Soil",
+   "stat": "",
+   "sub": "",
+   "visual_query": "buried moai Rano Raraku"
+  },
+  {
+   "narration": "Excavations dug down and found torsos below.",
+   "emoji": "⛏️",
+   "headline": "Dug Up Torsos",
+   "stat": "",
+   "sub": "",
+   "visual_query": "moai excavation torso"
+  },
+  {
+   "narration": "Some even have carvings on their backs.",
+   "emoji": "✍️",
+   "headline": "Carvings On Backs",
+   "stat": "",
+   "sub": "",
+   "visual_query": "moai back carvings"
+  },
+  {
+   "narration": "There are nearly 900 of these statues.",
+   "emoji": "🔢",
+   "headline": "Nearly 900 Statues",
+   "stat": "~900",
+   "sub": "",
+   "visual_query": "Easter Island moai row"
+  },
+  {
+   "narration": "Most were carved in one volcano's quarry.",
+   "emoji": "🌋",
+   "headline": "Carved In A Crater",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rano Raraku quarry"
+  },
+  {
+   "narration": "So your photo shows only the top.",
+   "emoji": "📷",
+   "headline": "Only The Top",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Easter Island statues"
+  },
+  {
+   "narration": "Tomorrow: monkeys drawn in the Peruvian desert.",
+   "emoji": "➡️",
+   "headline": "Tomorrow: Desert Monkey",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nazca lines monkey"
+  }
+ ]
+}

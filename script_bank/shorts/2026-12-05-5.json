@@ -1,0 +1,102 @@
+{
+ "category": "technology",
+ "topic": "Agnikul single-piece 3D-printed engine",
+ "hook": "Your rocket engine can be one single 3D-printed piece.",
+ "title": "India launched a rocket with a printed engine",
+ "description": "India's Agnikul builds rocket engines that are 3D-printed as a single piece. Its Agnibaan SOrTeD flew in 2024 from Agnikul's own private launchpad at Sriharikota. A rocket engine that starts as a printer file is now a real launch.\n\n#Shorts #Technology #ISRO",
+ "tags": [
+  "agnikul",
+  "agnibaan",
+  "3d printed rocket",
+  "sriharikota",
+  "india space",
+  "private launchpad",
+  "rocket engine",
+  "tech facts",
+  "shorts"
+ ],
+ "comment_prompt": "Would you ride a 3D-printed rocket? Yes or no",
+ "hook_banner": "ENGINE PRINTED AS ONE",
+ "scenes": [
+  {
+   "narration": "A rocket engine can be one 3D-printed piece.",
+   "emoji": "🖨️",
+   "headline": "ONE PRINTED PIECE",
+   "stat": "1",
+   "sub": "Single piece",
+   "visual_query": "3D printed rocket engine"
+  },
+  {
+   "narration": "India's Agnikul built exactly that.",
+   "emoji": "🇮🇳",
+   "headline": "AGNIKUL, INDIA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Agnikul Cosmos"
+  },
+  {
+   "narration": "Printed as one piece, with no assembly.",
+   "emoji": "🔧",
+   "headline": "NO ASSEMBLY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "metal 3D printing"
+  },
+  {
+   "narration": "Its rocket Agnibaan SOrTeD flew in 2024.",
+   "emoji": "🚀",
+   "headline": "FLEW IN 2024",
+   "stat": "2024",
+   "sub": "",
+   "visual_query": "Agnibaan launch"
+  },
+  {
+   "narration": "It launched from Sriharikota.",
+   "emoji": "📍",
+   "headline": "SRIHARIKOTA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sriharikota launch centre"
+  },
+  {
+   "narration": "From Agnikul's own private launchpad.",
+   "emoji": "🏗️",
+   "headline": "PRIVATE LAUNCHPAD",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Agnikul Dhanush launchpad"
+  },
+  {
+   "narration": "A private pad, built by a private company.",
+   "emoji": "🏢",
+   "headline": "PRIVATE COMPANY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Agnikul launchpad"
+  },
+  {
+   "narration": "The engine started as a printer file.",
+   "emoji": "💻",
+   "headline": "STARTED AS A FILE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "3D printer metal engine"
+  },
+  {
+   "narration": "One printed piece, now flying.",
+   "emoji": "🔥",
+   "headline": "PRINTED, THEN FLYING",
+   "stat": "",
+   "sub": "",
+   "visual_query": "rocket engine firing"
+  },
+  {
+   "narration": "Tomorrow: a capital city cut in two.",
+   "emoji": "🏙️",
+   "headline": "NEXT: DIVIDED CAPITAL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nicosia buffer zone"
+  }
+ ]
+}

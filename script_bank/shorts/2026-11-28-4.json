@@ -1,0 +1,72 @@
+{
+ "category": "space",
+ "topic": "ISRO Vyommitra robot",
+ "hook": "Your first Indian astronaut crew member may be a robot.",
+ "title": "India Is Sending a Robot Woman to Space",
+ "description": "ISRO plans to fly Vyommitra, a female-looking humanoid robot, on an uncrewed Gaganyaan test flight. She can talk and acts as a stand-in for a human crew member. It is a rehearsal for sending Indians to space.\n\n#Shorts #Space #ISRO",
+ "tags": [
+  "Vyommitra",
+  "ISRO",
+  "Gaganyaan",
+  "India space",
+  "humanoid robot",
+  "space facts",
+  "Indian astronaut",
+  "shorts"
+ ],
+ "comment_prompt": "Robot or human first? Robot or human",
+ "hook_banner": "INDIA'S ROBOT ASTRONAUT",
+ "scenes": [
+  {
+   "narration": "Your first Indian astronaut crew member may be a robot.",
+   "emoji": "🤖",
+   "headline": "A ROBOT ASTRONAUT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Vyommitra robot ISRO"
+  },
+  {
+   "narration": "Her name is Vyommitra.",
+   "emoji": "👩‍🚀",
+   "headline": "MEET VYOMMITRA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Vyommitra humanoid"
+  },
+  {
+   "narration": "ISRO built her to look female and human.",
+   "emoji": "🇮🇳",
+   "headline": "BUILT BY ISRO",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ISRO humanoid robot"
+  },
+  {
+   "narration": "She can talk to the mission team.",
+   "emoji": "🗣️",
+   "headline": "SHE CAN TALK",
+   "stat": "",
+   "sub": "",
+   "visual_query": "humanoid robot speaking"
+  },
+  {
+   "narration": "On Gaganyaan's test flight, she is the crew.",
+   "emoji": "🚀",
+   "headline": "THE TEST FLIGHT CREW",
+   "stat": "",
+   "sub": "Gaganyaan",
+   "visual_query": "Gaganyaan capsule"
+  },
+  {
+   "narration": "She acts as a stand-in for a human.",
+   "emoji": "🧑‍🚀",
+   "headline": "A HUMAN STAND-IN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gaganyaan crew module"
+  },
+  {
+   "narration": "A robot goes first so people can follow. Tomorrow: windows with no shades."
+  }
+ ]
+}

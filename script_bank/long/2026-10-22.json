@@ -1,0 +1,608 @@
+{
+ "topic": "Strange borders countdown: Pheasant Island and India's enclaves",
+ "hook": "Your calendar decides which country owns this tiny island.",
+ "title": "The Island That Changes Country Every 6 Months",
+ "description": "A tiny island on the Bidasoa river is Spanish for six months and French for the other six. It is number two in our countdown of six real borders that make no sense, and number one is in India. Watch to the end to see the border where a village sat inside a village inside a village.\n\n#borders #geography #facts",
+ "tags": [
+  "strange borders",
+  "Pheasant Island",
+  "Isla de los Faisanes",
+  "Spain France border",
+  "enclaves",
+  "Cooch Behar enclaves",
+  "India Bangladesh enclaves",
+  "Gibraltar airport road",
+  "Llivia",
+  "Busingen",
+  "Point Roberts",
+  "geography facts",
+  "weird borders",
+  "facts that sound fake"
+ ],
+ "comment_prompt": "Which border was the strangest: 1 to 6?",
+ "hook_banner": "AN ISLAND THAT SWITCHES COUNTRY",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "6: Point Roberts",
+   "scene": 6
+  },
+  {
+   "title": "5: Büsingen",
+   "scene": 17
+  },
+  {
+   "title": "4: Gibraltar's runway road",
+   "scene": 28
+  },
+  {
+   "title": "3: Llívia",
+   "scene": 40
+  },
+  {
+   "title": "2: Pheasant Island",
+   "scene": 51
+  },
+  {
+   "title": "1: India's village in a village",
+   "scene": 65
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your calendar decides who owns a tiny island in Europe. For six months it is Spanish, then it quietly turns French.",
+   "emoji": "🏝️",
+   "headline": "Spain Or France?",
+   "stat": "",
+   "sub": "Depends on the month",
+   "visual_query": "Pheasant Island Bidasoa river"
+  },
+  {
+   "narration": "That is real, and it has worked this way for more than 360 years.",
+   "emoji": "📅",
+   "headline": "Over 360 Years",
+   "stat": "1659",
+   "sub": "Still the rule today",
+   "visual_query": "Bidasoa river border bridge"
+  },
+  {
+   "narration": "But that island is only number two on today's list of borders that make no sense.",
+   "emoji": "2️⃣",
+   "headline": "Only Number Two",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map borders"
+  },
+  {
+   "narration": "Number one is in India, and it is a place inside a place inside a place inside another place.",
+   "emoji": "🇮🇳",
+   "headline": "Number One Is Indian",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cooch Behar village India"
+  },
+  {
+   "narration": "Stay to the end and you will see a village that sat inside a village, inside a village, inside another country.",
+   "emoji": "🗺️",
+   "headline": "A Village In A Village",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Bangladesh border fence"
+  },
+  {
+   "narration": "We count down from six. Every border is stranger than the one before it. Let's start with a town you can only reach through Canada.",
+   "emoji": "⬇️",
+   "headline": "Countdown Begins",
+   "stat": "6",
+   "sub": "Six borders",
+   "visual_query": "countdown map"
+  },
+  {
+   "narration": "Number six. Imagine a piece of America that you cannot drive to from the rest of America.",
+   "emoji": "6️⃣",
+   "headline": "Point Roberts",
+   "stat": "",
+   "sub": "Washington State, USA",
+   "visual_query": "Point Roberts Washington"
+  },
+  {
+   "narration": "It is called Point Roberts, a small town hanging off the coast just south of Vancouver.",
+   "emoji": "📍",
+   "headline": "A Town On A Hook",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Point Roberts peninsula aerial"
+  },
+  {
+   "narration": "In 1846 the United States and Britain agreed that the border would follow the forty-ninth parallel, a straight line on the map.",
+   "emoji": "📏",
+   "headline": "A Straight Line",
+   "stat": "49°",
+   "sub": "The 49th parallel",
+   "visual_query": "49th parallel border sign"
+  },
+  {
+   "narration": "A straight line does not care about coastlines. It sliced the tip of this peninsula off, and left it on the American side.",
+   "emoji": "✂️",
+   "headline": "The Line Cut It Off",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Point Roberts map border"
+  },
+  {
+   "narration": "So if you live there and want to drive to any other American town, you must first drive through Canada.",
+   "emoji": "🚗",
+   "headline": "Drive Through Canada",
+   "stat": "",
+   "sub": "",
+   "visual_query": "US Canada border crossing"
+  },
+  {
+   "narration": "That means a passport check going out, and another passport check coming back, just to reach your own country.",
+   "emoji": "🛂",
+   "headline": "Two Checks Each Way",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border passport check"
+  },
+  {
+   "narration": "It is a bit odd, but it is not even close to the strangest one. Next is a village that uses two currencies.",
+   "emoji": "🪙",
+   "headline": "It Gets Stranger",
+   "stat": "",
+   "sub": "",
+   "visual_query": "euro and Swiss franc"
+  },
+  {
+   "narration": "Number five is Büsingen, a German village that sits entirely inside Switzerland.",
+   "emoji": "5️⃣",
+   "headline": "Büsingen",
+   "stat": "",
+   "sub": "German village in Switzerland",
+   "visual_query": "Büsingen am Hochrhein"
+  },
+  {
+   "narration": "Look at the map and you see the Swiss border wrapping around it on almost every side, with the Rhine river nearby.",
+   "emoji": "🗺️",
+   "headline": "Wrapped By Switzerland",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rhine river Schaffhausen"
+  },
+  {
+   "narration": "The people there are German citizens, and they follow German law, but shops and businesses also use Swiss francs.",
+   "emoji": "🇩🇪",
+   "headline": "German, But Swiss Money",
+   "stat": "",
+   "sub": "Euro and franc both used",
+   "visual_query": "Swiss francs banknotes"
+  },
+  {
+   "narration": "It sits inside the Swiss customs area, so goods move easily one way and the paperwork gets complicated the other way.",
+   "emoji": "📦",
+   "headline": "Swiss Customs Area",
+   "stat": "",
+   "sub": "",
+   "visual_query": "customs border post Switzerland"
+  },
+  {
+   "narration": "Imagine paying your phone bill in euros and your grocery bill in francs, in the same street.",
+   "emoji": "💶",
+   "headline": "Two Currencies",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss village shop"
+  },
+  {
+   "narration": "Now let's go somewhere where the border is in the middle of a road, and a plane can close it.",
+   "emoji": "✈️",
+   "headline": "Next: A Runway",
+   "stat": "",
+   "sub": "",
+   "visual_query": "airport runway aerial"
+  },
+  {
+   "narration": "Number four. Your car has to stop at a red light for airplanes at Gibraltar.",
+   "emoji": "4️⃣",
+   "headline": "Gibraltar",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar airport runway road"
+  },
+  {
+   "narration": "Gibraltar is a small British territory at the southern tip of Spain, with a huge rock on the map.",
+   "emoji": "🪨",
+   "headline": "The Rock",
+   "stat": "",
+   "sub": "British territory",
+   "visual_query": "Rock of Gibraltar"
+  },
+  {
+   "narration": "There is almost no flat land there, so the airport runway was built straight across the main road.",
+   "emoji": "🛬",
+   "headline": "Road Across A Runway",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Winston Churchill Avenue Gibraltar"
+  },
+  {
+   "narration": "When a plane is about to land or take off, barriers come down, and every car, bike and walker waits.",
+   "emoji": "🚧",
+   "headline": "Barriers Come Down",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar runway barrier cars"
+  },
+  {
+   "narration": "Then the plane passes right in front of you, and the road opens again like nothing happened.",
+   "emoji": "🛫",
+   "headline": "Plane Passes By",
+   "stat": "",
+   "sub": "",
+   "visual_query": "plane landing Gibraltar"
+  },
+  {
+   "narration": "And to reach this road from Spain, you cross a border on foot or by car, right next to the runway.",
+   "emoji": "🚶",
+   "headline": "Border Next To Runway",
+   "stat": "",
+   "sub": "Spain to Gibraltar",
+   "visual_query": "Gibraltar Spain border crossing"
+  },
+  {
+   "narration": "Few places in the world make you cross a border and a runway on the same short walk.",
+   "emoji": "🧭",
+   "headline": "Border Plus Runway",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar border walk"
+  },
+  {
+   "narration": "If you enjoy strange places like these, subscribe, because tomorrow's video has another set of places that sound fake but are true.",
+   "emoji": "🔔",
+   "headline": "Like Strange Places?",
+   "stat": "",
+   "sub": "Subscribe",
+   "visual_query": "world map globe"
+  },
+  {
+   "narration": "Now stay with me, because the next one has a Spanish town sitting deep inside France.",
+   "emoji": "🇪🇸",
+   "headline": "Spanish Town In France",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pyrenees mountains road"
+  },
+  {
+   "narration": "Number three is Llívia, a Spanish town that is completely surrounded by French land.",
+   "emoji": "3️⃣",
+   "headline": "Llívia",
+   "stat": "",
+   "sub": "Spain inside France",
+   "visual_query": "Llívia Spain town"
+  },
+  {
+   "narration": "It sits in the Pyrenees mountains, and if you leave town in any direction, you are in France within minutes.",
+   "emoji": "🏔️",
+   "headline": "Spain, Surrounded",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pyrenees mountains village"
+  },
+  {
+   "narration": "To drive to the rest of Spain, you follow a road through French territory, and then you reach Spanish land again.",
+   "emoji": "🛣️",
+   "headline": "A Road Through France",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pyrenees border road"
+  },
+  {
+   "narration": "The reason goes back to 1659, when Spain and France signed the Treaty of the Pyrenees.",
+   "emoji": "📜",
+   "headline": "The 1659 Treaty",
+   "stat": "1659",
+   "sub": "Treaty of the Pyrenees",
+   "visual_query": "Treaty of the Pyrenees painting"
+  },
+  {
+   "narration": "France was given a list of villages, but Llívia was a town, not a village, so it stayed with Spain.",
+   "emoji": "📖",
+   "headline": "A Town, Not A Village",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old treaty map Pyrenees"
+  },
+  {
+   "narration": "A single word in an old treaty is why a Spanish town still sits inside France today.",
+   "emoji": "✍️",
+   "headline": "One Word Did It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old treaty document"
+  },
+  {
+   "narration": "Keep that treaty in mind, because the very same agreement is behind the island at number two.",
+   "emoji": "🔗",
+   "headline": "Same Treaty, Next Stop",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bidasoa river estuary"
+  },
+  {
+   "narration": "Number two. The Bidasoa river runs between Spain and France and flows out to the sea.",
+   "emoji": "2️⃣",
+   "headline": "Pheasant Island",
+   "stat": "",
+   "sub": "Bidasoa river",
+   "visual_query": "Bidasoa river Hondarribia Hendaye"
+  },
+  {
+   "narration": "In the middle of that river there is a small island, about the size of a couple of football pitches.",
+   "emoji": "🏝️",
+   "headline": "A Tiny River Island",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pheasant Island aerial"
+  },
+  {
+   "narration": "It is called Pheasant Island in English, Île des Faisans in French, and Isla de los Faisanes in Spanish.",
+   "emoji": "🦚",
+   "headline": "Pheasant Island",
+   "stat": "",
+   "sub": "Three names, one island",
+   "visual_query": "Isla de los Faisanes"
+  },
+  {
+   "narration": "Nobody lives there. It is mostly grass and trees, with a monument, and the public is not allowed to visit.",
+   "emoji": "🌳",
+   "headline": "Nobody Lives There",
+   "stat": "0",
+   "sub": "No residents",
+   "visual_query": "Pheasant Island monument"
+  },
+  {
+   "narration": "From the first of February to the end of July, the island belongs to Spain.",
+   "emoji": "🇪🇸",
+   "headline": "Feb To July: Spain",
+   "stat": "6",
+   "sub": "Months",
+   "visual_query": "Spain flag Hondarribia"
+  },
+  {
+   "narration": "From the first of August to the end of January, the same island belongs to France.",
+   "emoji": "🇫🇷",
+   "headline": "Aug To Jan: France",
+   "stat": "6",
+   "sub": "Months",
+   "visual_query": "France flag Hendaye"
+  },
+  {
+   "narration": "No one packs a bag or moves a single soldier. On the stroke of the date, ownership simply passes over.",
+   "emoji": "🔄",
+   "headline": "Ownership Just Flips",
+   "stat": "",
+   "sub": "",
+   "visual_query": "calendar pages flipping"
+  },
+  {
+   "narration": "In practice, the naval commanders of two nearby ports, one Spanish and one French, take charge in turn.",
+   "emoji": "⚓",
+   "headline": "Two Navy Commanders",
+   "stat": "",
+   "sub": "",
+   "visual_query": "navy ship harbour France"
+  },
+  {
+   "narration": "So why does this island exist as a shared border at all? Because of a royal wedding.",
+   "emoji": "💍",
+   "headline": "A Royal Wedding",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Louis XIV Maria Theresa wedding"
+  },
+  {
+   "narration": "After the war between Spain and France, the two kings met on this island in 1659 to settle the peace.",
+   "emoji": "👑",
+   "headline": "Kings Met Here",
+   "stat": "1659",
+   "sub": "",
+   "visual_query": "Treaty of the Pyrenees island painting"
+  },
+  {
+   "narration": "The peace was sealed with a marriage between Louis the Fourteenth of France and Maria Theresa, a Spanish princess.",
+   "emoji": "💒",
+   "headline": "Peace By Marriage",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Louis XIV portrait"
+  },
+  {
+   "narration": "The island was neutral ground for the talks, and over time, it became shared ground that nobody wanted to give up.",
+   "emoji": "🤝",
+   "headline": "Neutral Ground",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bidasoa river island"
+  },
+  {
+   "narration": "Today that old arrangement still stands, and it is one of the oldest border deals in Europe that is still in use.",
+   "emoji": "🕰️",
+   "headline": "Still In Use",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pheasant Island sign"
+  },
+  {
+   "narration": "So the next time you check a calendar, remember that on this island, the date decides the country.",
+   "emoji": "📆",
+   "headline": "Date Decides Country",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pheasant Island Spain France"
+  },
+  {
+   "narration": "Now for number one. It is in India, and it makes even this island look simple.",
+   "emoji": "🇮🇳",
+   "headline": "Number One: India",
+   "stat": "1",
+   "sub": "",
+   "visual_query": "India Bangladesh map"
+  },
+  {
+   "narration": "In West Bengal, near Cooch Behar, there were tiny pockets of land that belonged to the wrong country.",
+   "emoji": "🗺️",
+   "headline": "Cooch Behar Pockets",
+   "stat": "",
+   "sub": "India and Bangladesh",
+   "visual_query": "Cooch Behar West Bengal"
+  },
+  {
+   "narration": "Some were Indian villages sitting inside Bangladesh, and some were Bangladeshi villages sitting inside India.",
+   "emoji": "🏘️",
+   "headline": "Villages In Wrong Country",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bangladesh village fields"
+  },
+  {
+   "narration": "Old agreements between local rulers had mixed up the land, and the mix stayed on the map for decades.",
+   "emoji": "📜",
+   "headline": "Old Deals, Messy Map",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cooch Behar palace"
+  },
+  {
+   "narration": "A person might have to cross a foreign country just to reach their own nearest market, school or hospital.",
+   "emoji": "🚶",
+   "headline": "Foreign Land To Market",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Bangladesh border villagers"
+  },
+  {
+   "narration": "Then it got stranger. Some enclaves held smaller enclaves, and one of them held another one inside it.",
+   "emoji": "🪆",
+   "headline": "Layers Inside Layers",
+   "stat": "",
+   "sub": "",
+   "visual_query": "enclave map diagram"
+  },
+  {
+   "narration": "There was an Indian patch inside a Bangladeshi patch, inside an Indian patch, inside Bangladesh.",
+   "emoji": "🧩",
+   "headline": "A Patch In A Patch",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dahala Khagrabari enclave map"
+  },
+  {
+   "narration": "It was called Dahala Khagrabari, and it was the only place on Earth with that many layers of country inside country.",
+   "emoji": "🌍",
+   "headline": "Dahala Khagrabari",
+   "stat": "",
+   "sub": "One of a kind",
+   "visual_query": "Dahala Khagrabari"
+  },
+  {
+   "narration": "Picture standing in a field there. Step in one direction and you cross a border, step again and you cross another.",
+   "emoji": "👣",
+   "headline": "Border Every Few Steps",
+   "stat": "",
+   "sub": "",
+   "visual_query": "farm field border pillar"
+  },
+  {
+   "narration": "People in these enclaves often had trouble getting proper papers, schools, electricity or even simple medical help.",
+   "emoji": "🏥",
+   "headline": "Hard To Get Help",
+   "stat": "",
+   "sub": "",
+   "visual_query": "village India electricity pole"
+  },
+  {
+   "narration": "They were officially citizens of one country, but stuck on land surrounded by another, and cut off from both.",
+   "emoji": "😟",
+   "headline": "Cut Off From Both",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bangladesh India border village"
+  },
+  {
+   "narration": "In 2015, India and Bangladesh finally signed a deal to swap these enclaves and end the confusion.",
+   "emoji": "✍️",
+   "headline": "The 2015 Swap",
+   "stat": "2015",
+   "sub": "",
+   "visual_query": "India Bangladesh land boundary agreement"
+  },
+  {
+   "narration": "At midnight on the thirty-first of July, 2015, the old enclaves were handed over, and the map was finally tidied up.",
+   "emoji": "🕛",
+   "headline": "Midnight, 31 July",
+   "stat": "",
+   "sub": "2015",
+   "visual_query": "midnight celebration India Bangladesh border"
+  },
+  {
+   "narration": "In total, 162 enclaves changed hands, and residents were allowed to choose which country they wanted to live in.",
+   "emoji": "📊",
+   "headline": "162 Enclaves Swapped",
+   "stat": "162",
+   "sub": "",
+   "visual_query": "Bangladesh flag India flag border"
+  },
+  {
+   "narration": "People celebrated with flags and sweets, because many of them were getting their country's address for the first time.",
+   "emoji": "🎉",
+   "headline": "A New Address",
+   "stat": "",
+   "sub": "",
+   "visual_query": "villagers celebrating flag"
+  },
+  {
+   "narration": "So the strangest border on this list was the one where a village sat inside a village inside a village.",
+   "emoji": "1️⃣",
+   "headline": "Village Inside Village",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cooch Behar map enclaves"
+  },
+  {
+   "narration": "And the best part is that it happened in our own backyard, in West Bengal, not on some faraway island.",
+   "emoji": "🇮🇳",
+   "headline": "In Our Backyard",
+   "stat": "",
+   "sub": "",
+   "visual_query": "West Bengal countryside"
+  },
+  {
+   "narration": "Today it is history, but for decades you could stand on a map that looked like a puzzle gone wrong.",
+   "emoji": "🧩",
+   "headline": "A Puzzle Gone Wrong",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cooch Behar rice fields"
+  },
+  {
+   "narration": "Remember where we started: a tiny island that changes country every six months, just because a calendar says so.",
+   "emoji": "🏝️",
+   "headline": "Back To The Island",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pheasant Island Bidasoa"
+  },
+  {
+   "narration": "Your calendar really does decide who owns Pheasant Island. Tomorrow: a country that has no border at its own front door.",
+   "emoji": "➡️",
+   "headline": "Tomorrow: No Front Door Border",
+   "stat": "",
+   "sub": "Next video",
+   "visual_query": "world map country"
+  }
+ ]
+}

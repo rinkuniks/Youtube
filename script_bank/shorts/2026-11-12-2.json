@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Mawsynram rainfall",
+ "hook": "Your rain gauge here would never stay empty.",
+ "title": "Your Rain Gauge Overflows in Meghalaya",
+ "description": "Mawsynram in Meghalaya, India is among the wettest places on Earth. Monsoon clouds hit the Khasi Hills and dump rain on this village. Locals even wear bamboo rain shields called knups.\n\n#Shorts #Meghalaya #Geography",
+ "tags": [
+  "Mawsynram",
+  "Meghalaya",
+  "wettest place on earth",
+  "India facts",
+  "monsoon",
+  "geography facts",
+  "Khasi Hills",
+  "Shorts"
+ ],
+ "comment_prompt": "Would you live here? Yes or no",
+ "hook_banner": "INDIA'S RAIN CAPITAL",
+ "scenes": [
+  {
+   "narration": "Your rain gauge here would never stay empty.",
+   "emoji": "🌧️",
+   "headline": "NEVER EMPTY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "rain gauge heavy rain"
+  },
+  {
+   "narration": "This is Mawsynram, a village in Meghalaya.",
+   "emoji": "📍",
+   "headline": "MAWSYNRAM, INDIA",
+   "stat": "",
+   "sub": "Meghalaya",
+   "visual_query": "Mawsynram village Meghalaya"
+  },
+  {
+   "narration": "It is among the wettest places on Earth.",
+   "emoji": "🌍",
+   "headline": "WETTEST ON EARTH",
+   "stat": "",
+   "sub": "among the wettest",
+   "visual_query": "Meghalaya monsoon rain"
+  },
+  {
+   "narration": "Monsoon clouds crash into the Khasi Hills.",
+   "emoji": "⛰️",
+   "headline": "CLOUDS HIT HILLS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Khasi Hills clouds"
+  },
+  {
+   "narration": "Locals wear woven bamboo shields called knups.",
+   "emoji": "🎋",
+   "headline": "BAMBOO RAIN SHIELD",
+   "stat": "",
+   "sub": "the knup",
+   "visual_query": "Khasi knup rain shield"
+  },
+  {
+   "narration": "It covers the whole back, like a wearable umbrella.",
+   "emoji": "☔",
+   "headline": "WEARABLE UMBRELLA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "woman wearing knup rain"
+  },
+  {
+   "narration": "Meghalaya even means abode of clouds.",
+   "emoji": "☁️",
+   "headline": "ABODE OF CLOUDS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Meghalaya cloud valley"
+  },
+  {
+   "narration": "So your rain gauge would never stay empty.",
+   "emoji": "🌧️",
+   "headline": "NEVER EMPTY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "heavy monsoon rainfall village"
+  },
+  {
+   "narration": "Tomorrow: a forest that died standing up.",
+   "emoji": "🌳",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "a forest that died standing",
+   "visual_query": "dead trees desert"
+  }
+ ]
+}

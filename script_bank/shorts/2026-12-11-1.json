@@ -1,0 +1,94 @@
+{
+ "category": "geography",
+ "topic": "Hong Kong-Zhuhai-Macau Bridge side switch",
+ "hook": "Your car switches sides of the road on this bridge.",
+ "title": "Your Car Switches Road Sides on This Bridge",
+ "description": "The Hong Kong-Zhuhai-Macau Bridge links places that drive on opposite sides. Hong Kong and Macau drive on the left, mainland China on the right, so ramps near the ends move your car across.\n\nSeries: Places That Shouldn't Exist.\n\n#Shorts #Geography #China",
+ "tags": [
+  "hong kong",
+  "macau",
+  "zhuhai",
+  "bridge",
+  "driving",
+  "left side driving",
+  "geography facts",
+  "china",
+  "shorts"
+ ],
+ "comment_prompt": "Left or right side driving? Pick one",
+ "hook_banner": "THIS BRIDGE IS REAL",
+ "scenes": [
+  {
+   "narration": "Your car switches sides of the road on this bridge.",
+   "emoji": "🌉",
+   "headline": "THE ROAD FLIPS",
+   "stat": "",
+   "sub": "Hong Kong-Zhuhai-Macau Bridge",
+   "visual_query": "Hong Kong Zhuhai Macau Bridge"
+  },
+  {
+   "narration": "Hong Kong and Macau drive on the left.",
+   "emoji": "⬅️",
+   "headline": "LEFT SIDE",
+   "stat": "",
+   "sub": "Hong Kong and Macau",
+   "visual_query": "Hong Kong traffic left"
+  },
+  {
+   "narration": "Mainland China drives on the right.",
+   "emoji": "➡️",
+   "headline": "RIGHT SIDE",
+   "stat": "",
+   "sub": "Mainland China",
+   "visual_query": "Zhuhai road traffic"
+  },
+  {
+   "narration": "So the bridge has to swap your side.",
+   "emoji": "🔄",
+   "headline": "SWAP NEEDED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "bridge road interchange aerial"
+  },
+  {
+   "narration": "Long ramps at each end move your car across.",
+   "emoji": "🛣️",
+   "headline": "RAMPS DO IT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Macau bridge ramp"
+  },
+  {
+   "narration": "It links three cities across open sea.",
+   "emoji": "🌊",
+   "headline": "THREE CITIES",
+   "stat": "",
+   "sub": "Hong Kong, Zhuhai, Macau",
+   "visual_query": "Hong Kong Zhuhai Macau Bridge sea"
+  },
+  {
+   "narration": "Drivers follow a different rule at each end.",
+   "emoji": "🚗",
+   "headline": "DIFFERENT RULES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "cars on sea bridge"
+  },
+  {
+   "narration": "That is how one bridge flips your car.",
+   "emoji": "🌉",
+   "headline": "ONE BRIDGE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hong Kong Zhuhai Macau Bridge aerial"
+  },
+  {
+   "narration": "Tomorrow: a country that switched sides overnight.",
+   "emoji": "👀",
+   "headline": "NEXT: OVERNIGHT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Stockholm street 1967"
+  }
+ ]
+}

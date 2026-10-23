@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Sleeping in space",
+ "hook": "If you slept in space, you would sleep in a bag on the wall.",
+ "title": "Astronauts Sleep Strapped To A Wall",
+ "description": "On the space station there is no up or down, so astronauts sleep in a bag fixed to the wall. Their arms float up in front of them while they rest. Part of the If You Were in Space series.\n\n#Shorts #Space #IfYouWereInSpace",
+ "tags": [
+  "sleeping in space",
+  "astronaut",
+  "space facts",
+  "ISS",
+  "weightlessness",
+  "if you were in space",
+  "space station",
+  "shorts"
+ ],
+ "comment_prompt": "Could you sleep like this? Yes or no",
+ "hook_banner": "SLEEPING IN SPACE",
+ "scenes": [
+  {
+   "narration": "If you slept in space, you would sleep in a bag.",
+   "emoji": "🛌",
+   "headline": "SLEEP IN A BAG",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut sleeping bag"
+  },
+  {
+   "narration": "That bag is strapped to the wall.",
+   "emoji": "🧷",
+   "headline": "STRAPPED TO THE WALL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "space station sleeping quarters"
+  },
+  {
+   "narration": "There is no up or down up there.",
+   "emoji": "🌀",
+   "headline": "NO UP OR DOWN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut floating station"
+  },
+  {
+   "narration": "Without a tether, you would drift around the cabin.",
+   "emoji": "🎈",
+   "headline": "YOU WOULD DRIFT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut floating cabin"
+  },
+  {
+   "narration": "And your arms float up in front of you.",
+   "emoji": "🙌",
+   "headline": "ARMS FLOAT UP",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut arms floating"
+  },
+  {
+   "narration": "That is how a relaxed body rests in weightlessness.",
+   "emoji": "😴",
+   "headline": "RELAXED, WEIGHTLESS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut sleeping ISS"
+  },
+  {
+   "narration": "The station circles Earth about every 90 minutes.",
+   "emoji": "🌍",
+   "headline": "EARTH EVERY 90 MIN",
+   "stat": "~90 MIN",
+   "sub": "",
+   "visual_query": "ISS orbit Earth"
+  },
+  {
+   "narration": "So sleeping in space means a bag on the wall.",
+   "emoji": "🔁",
+   "headline": "BAG ON THE WALL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut sleeping bag"
+  },
+  {
+   "narration": "Tomorrow: the light that flickers on camera.",
+   "emoji": "➡️",
+   "headline": "NEXT: FLICKERING LIGHT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tube light ceiling"
+  }
+ ]
+}

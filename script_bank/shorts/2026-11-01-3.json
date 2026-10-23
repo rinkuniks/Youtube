@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Apollo footprints last millions of years",
+ "hook": "Your footprints on the Moon could last millions of years.",
+ "title": "Your Moon Footprints Could Last Millions of Years",
+ "description": "The Moon has no wind and no flowing water, so Apollo boot prints are still sitting in the dust. Only tiny space dust slowly wears them down. Part of the If You Were in Space series.\n\n#Shorts #Moon #Space",
+ "tags": [
+  "moon facts",
+  "apollo",
+  "footprints on the moon",
+  "space facts",
+  "if you were in space",
+  "nasa",
+  "did you know",
+  "science facts"
+ ],
+ "comment_prompt": "Would you leave a footprint on the Moon? Yes or no",
+ "hook_banner": "STILL THERE TODAY",
+ "scenes": [
+  {
+   "narration": "Your Moon footprints could last millions of years.",
+   "emoji": "👣",
+   "headline": "MOON FOOTPRINTS",
+   "stat": "",
+   "sub": "Still there",
+   "visual_query": "Apollo bootprint lunar soil"
+  },
+  {
+   "narration": "On Earth, wind and rain erase footprints fast.",
+   "emoji": "🌧️",
+   "headline": "EARTH ERASES THEM",
+   "stat": "",
+   "sub": "",
+   "visual_query": "footprints beach wave"
+  },
+  {
+   "narration": "The Moon has no wind at all.",
+   "emoji": "🌬️",
+   "headline": "NO WIND",
+   "stat": "0",
+   "sub": "",
+   "visual_query": "Moon surface astronaut"
+  },
+  {
+   "narration": "It has no flowing water either.",
+   "emoji": "💧",
+   "headline": "NO WATER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "dry lunar surface"
+  },
+  {
+   "narration": "So Apollo boot prints are still sitting there.",
+   "emoji": "🥾",
+   "headline": "STILL SITTING THERE",
+   "stat": "",
+   "sub": "Apollo boot prints",
+   "visual_query": "Buzz Aldrin bootprint"
+  },
+  {
+   "narration": "Only tiny space dust slowly wears them down.",
+   "emoji": "☄️",
+   "headline": "SPACE DUST WEARS THEM",
+   "stat": "",
+   "sub": "Very slowly",
+   "visual_query": "micrometeorite dust impact"
+  },
+  {
+   "narration": "Those prints are over fifty years old.",
+   "emoji": "🕰️",
+   "headline": "OVER 50 YEARS OLD",
+   "stat": "50+",
+   "sub": "years",
+   "visual_query": "Apollo 11 astronaut Moon"
+  },
+  {
+   "narration": "Your Moon footprints could last millions of years.",
+   "emoji": "🌕",
+   "headline": "MILLIONS OF YEARS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "full moon craters"
+  },
+  {
+   "narration": "Tomorrow: the flag that did not survive.",
+   "emoji": "🚩",
+   "headline": "NEXT: THE FLAG",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Apollo flag Moon"
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "category": "space",
+ "topic": "Puffy face in space",
+ "hook": "Your face would puff up the moment you reach space.",
+ "title": "Your Face Puffs Up in Space",
+ "description": "In space, body fluids shift toward the head. The face swells while the legs get thinner, which astronauts joke about as chicken legs. Part of the If You Were in Space series.\n\n#Shorts #space #astronaut",
+ "tags": [
+  "space facts",
+  "astronaut",
+  "ISS",
+  "microgravity",
+  "if you were in space",
+  "human body in space",
+  "puffy face",
+  "space science",
+  "shorts"
+ ],
+ "comment_prompt": "Would you go to space? Yes or no",
+ "hook_banner": "SPACE DOES THIS",
+ "scenes": [
+  {
+   "narration": "Your face would puff up in space.",
+   "emoji": "🚀",
+   "headline": "PUFFY SPACE FACE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut puffy face"
+  },
+  {
+   "narration": "On Earth, gravity pulls your fluids downward.",
+   "emoji": "⬇️",
+   "headline": "GRAVITY PULLS DOWN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "person standing legs"
+  },
+  {
+   "narration": "In space, those fluids drift toward your head.",
+   "emoji": "💧",
+   "headline": "FLUID RISES UP",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut floating ISS"
+  },
+  {
+   "narration": "Astronauts get puffy cheeks and swollen eyes.",
+   "emoji": "😳",
+   "headline": "SWOLLEN FACES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut smiling space station"
+  },
+  {
+   "narration": "Meanwhile, their legs actually get thinner.",
+   "emoji": "🦵",
+   "headline": "THINNER LEGS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut legs floating"
+  },
+  {
+   "narration": "Astronauts joke about having chicken legs.",
+   "emoji": "🍗",
+   "headline": "CHICKEN LEGS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut crew portrait"
+  },
+  {
+   "narration": "It fades once they are back on Earth.",
+   "emoji": "🌍",
+   "headline": "BACK TO NORMAL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut landing capsule"
+  },
+  {
+   "narration": "So that is your puffy face, floating in space.",
+   "emoji": "🧑‍🚀",
+   "headline": "YOUR FACE IN SPACE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut helmet visor"
+  },
+  {
+   "narration": "Tomorrow: the workout astronauts cannot skip.",
+   "emoji": "🏋️",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "Space workout",
+   "visual_query": "ISS treadmill astronaut"
+  }
+ ]
+}

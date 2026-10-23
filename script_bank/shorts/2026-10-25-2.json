@@ -1,0 +1,85 @@
+{
+ "category": "geography",
+ "topic": "Adam's Bridge / Ram Setu",
+ "hook": "Your satellite map shows India reaching toward Sri Lanka.",
+ "title": "Your Map Shows a 48 km Chain to Sri Lanka",
+ "description": "Adam's Bridge, also called Ram Setu, is a chain of shoals between India and Sri Lanka. It runs about 48 km between Pamban Island and Mannar Island. Open your satellite map and zoom in yourself. Series: Places That Shouldn't Exist.\n\n#Shorts #RamSetu #Geography",
+ "tags": [
+  "Adam's Bridge",
+  "Ram Setu",
+  "India",
+  "Sri Lanka",
+  "satellite view",
+  "geography facts",
+  "Places That Shouldn't Exist",
+  "shorts"
+ ],
+ "comment_prompt": "Have you seen it on satellite? Yes or no",
+ "hook_banner": "CHECK YOUR MAP",
+ "scenes": [
+  {
+   "narration": "Your satellite map shows India reaching toward Sri Lanka.",
+   "emoji": "🛰️",
+   "headline": "India Reaches Sri Lanka",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Adam's Bridge satellite"
+  },
+  {
+   "narration": "It's a chain of shoals, about 48 kilometres long.",
+   "emoji": "📏",
+   "headline": "A Chain Of Shoals",
+   "stat": "48 km",
+   "sub": "",
+   "visual_query": "Ram Setu aerial"
+  },
+  {
+   "narration": "Zoom in and it looks like a bridge.",
+   "emoji": "🌉",
+   "headline": "It Looks Like A Bridge",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Adam's Bridge shoals"
+  },
+  {
+   "narration": "It's called Adam's Bridge, or Ram Setu.",
+   "emoji": "🗺️",
+   "headline": "Adam's Bridge, Ram Setu",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ram Setu sea"
+  },
+  {
+   "narration": "It runs between Pamban Island and Mannar Island.",
+   "emoji": "🏝️",
+   "headline": "Pamban To Mannar",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pamban bridge sea"
+  },
+  {
+   "narration": "The water over it is very shallow.",
+   "emoji": "🌊",
+   "headline": "Very Shallow Water",
+   "stat": "",
+   "sub": "",
+   "visual_query": "shallow turquoise sea"
+  },
+  {
+   "narration": "Your satellite map shows that chain right now.",
+   "emoji": "📱",
+   "headline": "Check It Yourself",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone satellite map"
+  },
+  {
+   "narration": "Tomorrow: a capital city with no traffic lights.",
+   "emoji": "🚦",
+   "headline": "Tomorrow: No Lights",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Thimphu street"
+  }
+ ]
+}

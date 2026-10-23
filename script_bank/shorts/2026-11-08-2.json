@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Lake Natron Tanzania",
+ "hook": "Your photo of Lake Natron can show blood-red water.",
+ "title": "Tanzania's lake with blood-red water",
+ "description": "Lake Natron in northern Tanzania can look blood red. The water is very salty and alkaline, and dead birds and animals can get coated in crusty mineral deposits. Flamingos still nest there. Part of the series 'Places That Shouldn't Exist'.\n\n#Shorts #LakeNatron #Geography",
+ "tags": [
+  "lake natron",
+  "tanzania",
+  "red lake",
+  "geography facts",
+  "alkaline lake",
+  "flamingos",
+  "places that shouldnt exist",
+  "shorts"
+ ],
+ "comment_prompt": "Would you visit? Yes or no",
+ "hook_banner": "THIS LAKE IS REAL",
+ "scenes": [
+  {
+   "narration": "Your photo of Lake Natron can show blood-red water.",
+   "emoji": "🩸",
+   "headline": "BLOOD-RED LAKE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake Natron red water"
+  },
+  {
+   "narration": "It's real, in northern Tanzania.",
+   "emoji": "📍",
+   "headline": "TANZANIA, AFRICA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake Natron Tanzania aerial"
+  },
+  {
+   "narration": "The red comes from tiny microorganisms.",
+   "emoji": "🔬",
+   "headline": "TINY RED LIFE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake Natron shoreline red"
+  },
+  {
+   "narration": "The water is extremely salty and alkaline.",
+   "emoji": "🧪",
+   "headline": "SALTY AND ALKALINE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake Natron salt crust"
+  },
+  {
+   "narration": "Dead birds can get coated in crusty minerals.",
+   "emoji": "🪦",
+   "headline": "COATED IN MINERALS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "calcified bird Lake Natron"
+  },
+  {
+   "narration": "In photos, they look like statues.",
+   "emoji": "🗿",
+   "headline": "LIKE STATUES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake Natron dead animal crust"
+  },
+  {
+   "narration": "Yet flamingos nest on this lake.",
+   "emoji": "🦩",
+   "headline": "FLAMINGOS NEST HERE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "flamingos Lake Natron"
+  },
+  {
+   "narration": "Red water, crusty statues, all real.",
+   "emoji": "🌅",
+   "headline": "ALL OF IT IS REAL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake Natron sunset"
+  },
+  {
+   "narration": "Tomorrow: a sky full of balloons.",
+   "emoji": "➡️",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "A sky full of balloons",
+   "visual_query": "Cappadocia hot air balloons"
+  }
+ ]
+}

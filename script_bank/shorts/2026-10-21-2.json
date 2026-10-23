@@ -1,0 +1,94 @@
+{
+ "category": "geography",
+ "topic": "Darvaza gas crater",
+ "hook": "Your night view here is a giant pit of fire.",
+ "title": "A Desert Pit That Burns All Night",
+ "description": "The Darvaza gas crater in Turkmenistan is a pit of fire in the desert. Locals call it the Door to Hell. It is reportedly burning since 1971, though authorities have tried to reduce the flames in recent years.\n\n#Shorts #geography #Turkmenistan",
+ "tags": [
+  "Darvaza gas crater",
+  "Door to Hell",
+  "Turkmenistan",
+  "geography facts",
+  "places that shouldn't exist",
+  "weird places",
+  "fire pit",
+  "desert",
+  "shorts"
+ ],
+ "comment_prompt": "Would you visit at night? Yes or no",
+ "hook_banner": "A REAL PIT OF FIRE",
+ "scenes": [
+  {
+   "narration": "Your night view here is a pit of fire.",
+   "emoji": "🔥",
+   "headline": "PIT OF FIRE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Darvaza gas crater night"
+  },
+  {
+   "narration": "This is the Darvaza gas crater, Turkmenistan.",
+   "emoji": "🇹🇲",
+   "headline": "DARVAZA CRATER",
+   "stat": "",
+   "sub": "Turkmenistan",
+   "visual_query": "Darvaza crater Turkmenistan"
+  },
+  {
+   "narration": "It is a hole in the desert, burning.",
+   "emoji": "🏜️",
+   "headline": "BURNING DESERT HOLE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Karakum desert fire crater"
+  },
+  {
+   "narration": "Locals call it the Door to Hell.",
+   "emoji": "🚪",
+   "headline": "DOOR TO HELL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Door to Hell crater"
+  },
+  {
+   "narration": "Natural gas keeps feeding the flames.",
+   "emoji": "⛽",
+   "headline": "GAS FEEDS THE FIRE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "natural gas flames"
+  },
+  {
+   "narration": "It was reportedly lit back in 1971.",
+   "emoji": "📅",
+   "headline": "LIT IN 1971",
+   "stat": "1971",
+   "sub": "reportedly",
+   "visual_query": "Darvaza crater flames"
+  },
+  {
+   "narration": "That is more than fifty years of fire.",
+   "emoji": "⏳",
+   "headline": "50+ YEARS",
+   "stat": "50+",
+   "sub": "years",
+   "visual_query": "Darvaza crater night glow"
+  },
+  {
+   "narration": "A pit of fire, in the middle of a desert.",
+   "emoji": "🌌",
+   "headline": "FIRE IN THE DESERT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Darvaza crater stars"
+  },
+  {
+   "narration": "Tomorrow: acid pools on a hot salt desert.",
+   "emoji": "🌋",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "Acid pools",
+   "visual_query": "Danakil Depression Dallol"
+  }
+ ]
+}

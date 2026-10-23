@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Devil's Pool at Victoria Falls",
+ "hook": "Your selfie here can be on the edge.",
+ "title": "Your Selfie Can Be on a Waterfall's Edge",
+ "description": "At Victoria Falls on the Zambia-Zimbabwe border, the Devil's Pool is a natural rock pool right at the edge of the drop. It is only reachable when the river runs low. Part of the Places That Shouldn't Exist series.\n\n#Shorts #VictoriaFalls #PlacesThatShouldntExist",
+ "tags": [
+  "victoria falls",
+  "devil's pool",
+  "zambia",
+  "zimbabwe",
+  "waterfall",
+  "geography facts",
+  "places that shouldn't exist",
+  "travel facts"
+ ],
+ "comment_prompt": "Would you swim here? Yes or no",
+ "hook_banner": "ON THE EDGE",
+ "scenes": [
+  {
+   "narration": "Your selfie here can be on the edge.",
+   "emoji": "🤳",
+   "headline": "SELFIE ON THE EDGE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Devil's Pool Victoria Falls swimmer"
+  },
+  {
+   "narration": "This is Victoria Falls, on the Zambia-Zimbabwe border.",
+   "emoji": "🌍",
+   "headline": "VICTORIA FALLS",
+   "stat": "",
+   "sub": "Zambia-Zimbabwe border",
+   "visual_query": "Victoria Falls aerial"
+  },
+  {
+   "narration": "The Devil's Pool is a natural rock pool.",
+   "emoji": "🪨",
+   "headline": "DEVIL'S POOL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Devil's Pool rock pool"
+  },
+  {
+   "narration": "It sits right at the edge of the drop.",
+   "emoji": "😨",
+   "headline": "RIGHT AT THE DROP",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Devil's Pool waterfall edge"
+  },
+  {
+   "narration": "A rock lip keeps swimmers from going over.",
+   "emoji": "🧱",
+   "headline": "A ROCK LIP",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Devil's Pool rock lip"
+  },
+  {
+   "narration": "It only opens when the river runs low.",
+   "emoji": "💧",
+   "headline": "ONLY AT LOW WATER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Zambezi river low water"
+  },
+  {
+   "narration": "Then people swim up and look straight down.",
+   "emoji": "👀",
+   "headline": "LOOK STRAIGHT DOWN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Devil's Pool looking over edge"
+  },
+  {
+   "narration": "That is your selfie, right on the edge.",
+   "emoji": "📸",
+   "headline": "RIGHT ON THE EDGE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Victoria Falls Devil's Pool selfie"
+  },
+  {
+   "narration": "Tomorrow: the world's tallest statue.",
+   "emoji": "🗿",
+   "headline": "NEXT: TALLEST STATUE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Statue of Unity Gujarat"
+  }
+ ]
+}

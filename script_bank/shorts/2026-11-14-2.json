@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Dawki Umngot river clear water",
+ "hook": "Your boat in Meghalaya looks like it floats in the air.",
+ "title": "India's River So Clear Boats Seem to Fly",
+ "description": "The Umngot river at Dawki, Meghalaya, is so clear that you can see the riverbed through the water. From the right angle, boats look like they are floating in mid-air.\n\nSeries: Places That Shouldn't Exist.",
+ "tags": [
+  "Dawki",
+  "Umngot river",
+  "Meghalaya",
+  "clearest river",
+  "India",
+  "geography",
+  "incredible India",
+  "travel"
+ ],
+ "comment_prompt": "Would you ride it? Yes or no",
+ "hook_banner": "NO FILTER, REAL",
+ "scenes": [
+  {
+   "narration": "Your boat in Meghalaya looks like it floats in air.",
+   "emoji": "🛶",
+   "headline": "BOAT IN MID-AIR?",
+   "stat": "",
+   "sub": "Dawki, Meghalaya",
+   "visual_query": "Dawki river boat"
+  },
+  {
+   "narration": "But that is water under it.",
+   "emoji": "💧",
+   "headline": "IT'S ALL WATER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Umngot river clear water"
+  },
+  {
+   "narration": "The Umngot river is that clear.",
+   "emoji": "✨",
+   "headline": "THE UMNGOT RIVER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Umngot river Dawki"
+  },
+  {
+   "narration": "You can see every stone on the riverbed.",
+   "emoji": "🪨",
+   "headline": "SEE THE RIVERBED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dawki riverbed stones"
+  },
+  {
+   "narration": "The boat's shadow lies on the bottom.",
+   "emoji": "🌤️",
+   "headline": "SHADOW ON THE BED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dawki boat shadow"
+  },
+  {
+   "narration": "Your eyes lose track of the water surface.",
+   "emoji": "👀",
+   "headline": "WATER DISAPPEARS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dawki transparent water"
+  },
+  {
+   "narration": "So the boat seems to hang in the air.",
+   "emoji": "🛶",
+   "headline": "BOAT SEEMS TO FLY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Meghalaya river boat"
+  },
+  {
+   "narration": "Your boat floats in air, and it is water.",
+   "emoji": "🌊",
+   "headline": "AIR? NO, WATER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dawki Meghalaya"
+  },
+  {
+   "narration": "Next: a post office high in the Himalayas.",
+   "emoji": "📮",
+   "headline": "NEXT: HIGHEST POST OFFICE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hikkim post office Spiti"
+  }
+ ]
+}

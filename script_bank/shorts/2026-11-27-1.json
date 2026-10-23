@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Ceuta and Melilla",
+ "hook": "Your short walk here crosses from Africa into the EU.",
+ "title": "Your Walk Here Enters Europe From Africa",
+ "description": "Ceuta and Melilla are Spanish cities on Africa's northern coast, surrounded by Morocco. They are the EU's only land borders with Africa, marked by tall fences. Series: Places That Shouldn't Exist.\n\n#Shorts #Geography #PlacesThatShouldntExist",
+ "tags": [
+  "ceuta",
+  "melilla",
+  "spain",
+  "morocco",
+  "eu border",
+  "geography facts",
+  "places that shouldnt exist",
+  "shorts"
+ ],
+ "comment_prompt": "Europe or Africa? One word",
+ "hook_banner": "THIS PLACE IS REAL",
+ "scenes": [
+  {
+   "narration": "Your short walk here crosses from Africa into the EU.",
+   "emoji": "🧭",
+   "headline": "AFRICA INTO EUROPE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ceuta border fence"
+  },
+  {
+   "narration": "Ceuta and Melilla sit on Africa's coast.",
+   "emoji": "🗺️",
+   "headline": "ON AFRICA'S COAST",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ceuta map Morocco"
+  },
+  {
+   "narration": "Both belong to Spain, not Morocco.",
+   "emoji": "🇪🇸",
+   "headline": "SPANISH CITIES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Spanish flag Ceuta"
+  },
+  {
+   "narration": "Moroccan land surrounds both cities.",
+   "emoji": "🏜️",
+   "headline": "SURROUNDED BY MOROCCO",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Melilla aerial view"
+  },
+  {
+   "narration": "A tall fence marks the border.",
+   "emoji": "🚧",
+   "headline": "THE FENCE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Melilla border fence"
+  },
+  {
+   "narration": "They are the EU's only land borders with Africa.",
+   "emoji": "🇪🇺",
+   "headline": "ONLY EU LAND BORDER",
+   "stat": "",
+   "sub": "with Africa",
+   "visual_query": "Ceuta Morocco border crossing"
+  },
+  {
+   "narration": "Spain has held Melilla since 1497.",
+   "emoji": "🏰",
+   "headline": "SPANISH SINCE 1497",
+   "stat": "1497",
+   "sub": "Melilla",
+   "visual_query": "Melilla old city walls"
+  },
+  {
+   "narration": "So you can stand in Africa, yet be in the EU.",
+   "emoji": "🤯",
+   "headline": "AFRICA, BUT EU",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ceuta waterfront"
+  },
+  {
+   "narration": "Tomorrow: a German town inside Switzerland.",
+   "emoji": "➡️",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "German town in Switzerland",
+   "visual_query": "Büsingen village Switzerland"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "category": "geography",
+ "topic": "Antelope Canyon light beam",
+ "hook": "Your camera here catches light cutting through solid rock.",
+ "title": "Light Beams Cut Through This Canyon",
+ "description": "Antelope Canyon in Arizona is a slot canyon of smooth, wave-like orange sandstone. Flash floods carved it over time, and sunlight drops in as bright beams. It looks like a different planet, but it's in the US Southwest.\n\n#Shorts #AntelopeCanyon #PlacesThatShouldntExist",
+ "tags": [
+  "antelope canyon",
+  "arizona",
+  "slot canyon",
+  "light beam",
+  "flash flood",
+  "geography facts",
+  "travel",
+  "shorts"
+ ],
+ "comment_prompt": "Would you go inside? Yes or no",
+ "hook_banner": "CARVED BY WATER",
+ "scenes": [
+  {
+   "narration": "Your camera here catches light cutting through solid rock.",
+   "emoji": "📸",
+   "headline": "LIGHT CUTS THE ROCK",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Antelope Canyon light beam"
+  },
+  {
+   "narration": "This is Antelope Canyon in Arizona.",
+   "emoji": "📍",
+   "headline": "ANTELOPE CANYON",
+   "stat": "",
+   "sub": "Arizona, USA",
+   "visual_query": "Antelope Canyon Arizona"
+  },
+  {
+   "narration": "A beam drops down into the dark.",
+   "emoji": "🔦",
+   "headline": "BEAM IN THE DARK",
+   "stat": "",
+   "sub": "",
+   "visual_query": "slot canyon sunbeam"
+  },
+  {
+   "narration": "The walls look like frozen orange waves.",
+   "emoji": "🌊",
+   "headline": "FROZEN ORANGE WAVES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Antelope Canyon wavy walls"
+  },
+  {
+   "narration": "Flash floods carved every curve.",
+   "emoji": "💧",
+   "headline": "CARVED BY FLOODS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "flash flood canyon"
+  },
+  {
+   "narration": "Rain far away can send water rushing in.",
+   "emoji": "🌧️",
+   "headline": "RAIN FAR AWAY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "desert storm rain canyon"
+  },
+  {
+   "narration": "Over time, that water polished the sandstone smooth.",
+   "emoji": "🪨",
+   "headline": "POLISHED SMOOTH",
+   "stat": "",
+   "sub": "",
+   "visual_query": "smooth sandstone curves"
+  },
+  {
+   "narration": "A beam of light on rock water carved.",
+   "emoji": "✨",
+   "headline": "WATER-CARVED ROCK",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lower Antelope Canyon"
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Pale Blue Dot photo",
+ "hook": "Your whole world is less than one pixel.",
+ "title": "Your Whole World Is Less Than One Pixel",
+ "description": "In 1990, Voyager 1 turned its camera back toward Earth from about 6 billion km away. In the photo, our whole planet is less than one pixel. It is called the Pale Blue Dot.\n\n#Shorts #PaleBlueDot #Voyager1",
+ "tags": [
+  "pale blue dot",
+  "voyager 1",
+  "nasa",
+  "space facts",
+  "earth from space",
+  "carl sagan",
+  "1990",
+  "solar system"
+ ],
+ "comment_prompt": "Does this make you feel small? Yes or no",
+ "hook_banner": "THAT SPECK IS EARTH",
+ "scenes": [
+  {
+   "narration": "Your whole world is less than one pixel.",
+   "emoji": "🔵",
+   "headline": "Less Than One Pixel",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pale Blue Dot Earth"
+  },
+  {
+   "narration": "Voyager 1 took this photo in 1990.",
+   "emoji": "📷",
+   "headline": "Voyager 1, 1990",
+   "stat": "1990",
+   "sub": "",
+   "visual_query": "Voyager 1 spacecraft"
+  },
+  {
+   "narration": "It was about six billion kilometres away.",
+   "emoji": "🚀",
+   "headline": "6 Billion Km Away",
+   "stat": "~6 BILLION KM",
+   "sub": "",
+   "visual_query": "deep space solar system"
+  },
+  {
+   "narration": "Earth is that tiny speck of light.",
+   "emoji": "✨",
+   "headline": "A Speck Of Light",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pale Blue Dot light beam"
+  },
+  {
+   "narration": "Every person you know is inside it.",
+   "emoji": "👨‍👩‍👧",
+   "headline": "Everyone Is In It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "crowd of people"
+  },
+  {
+   "narration": "Every city, every border, every ocean.",
+   "emoji": "🌏",
+   "headline": "Every City, Every Ocean",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Earth from space India"
+  },
+  {
+   "narration": "It is called the Pale Blue Dot.",
+   "emoji": "💙",
+   "headline": "The Pale Blue Dot",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Carl Sagan"
+  },
+  {
+   "narration": "So your whole world is under one pixel.",
+   "emoji": "🔵",
+   "headline": "Under One Pixel",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Earth tiny dot space"
+  },
+  {
+   "narration": "Tomorrow: Voyager's message takes almost a day.",
+   "emoji": "📡",
+   "headline": "Tomorrow",
+   "stat": "",
+   "sub": "Voyager 1 signal",
+   "visual_query": "Voyager 1 antenna"
+  }
+ ]
+}

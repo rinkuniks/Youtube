@@ -1,0 +1,93 @@
+{
+ "category": "technology",
+ "topic": "Aerogel frozen smoke flower and flame",
+ "hook": "Your flame cannot burn this flower.",
+ "title": "A Flame Can't Burn This Flower on Aerogel",
+ "description": "Aerogel, nicknamed frozen smoke, is mostly air and is one of the best insulators known. A flower on top stays safe while a flame heats the underside. NASA used aerogel to catch comet dust.\n\n#Shorts #Science #Aerogel",
+ "tags": [
+  "aerogel",
+  "frozen smoke",
+  "nasa",
+  "comet dust",
+  "stardust mission",
+  "science facts",
+  "insulation",
+  "tech facts"
+ ],
+ "comment_prompt": "Would you touch it? Yes or no",
+ "hook_banner": "FLAME VS FLOWER",
+ "scenes": [
+  {
+   "narration": "Your flame cannot burn this flower.",
+   "emoji": "🔥",
+   "headline": "FLAME VS FLOWER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "flower on aerogel flame"
+  },
+  {
+   "narration": "It sits on aerogel, called frozen smoke.",
+   "emoji": "🌫️",
+   "headline": "FROZEN SMOKE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "aerogel block"
+  },
+  {
+   "narration": "Flame below, flower above, and the petals stay safe.",
+   "emoji": "🌸",
+   "headline": "PETALS STAY SAFE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "aerogel flower bunsen burner"
+  },
+  {
+   "narration": "Aerogel is mostly air, trapped in tiny pores.",
+   "emoji": "💨",
+   "headline": "MOSTLY AIR",
+   "stat": "",
+   "sub": "",
+   "visual_query": "aerogel close up"
+  },
+  {
+   "narration": "That makes it one of the best insulators.",
+   "emoji": "🧊",
+   "headline": "TOP INSULATOR",
+   "stat": "",
+   "sub": "",
+   "visual_query": "aerogel insulation"
+  },
+  {
+   "narration": "NASA even used it to catch comet dust.",
+   "emoji": "☄️",
+   "headline": "CATCHES COMET DUST",
+   "stat": "",
+   "sub": "",
+   "visual_query": "NASA Stardust aerogel collector"
+  },
+  {
+   "narration": "Dust from a comet, caught in frozen smoke.",
+   "emoji": "✨",
+   "headline": "COMET DUST CAUGHT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Stardust spacecraft comet Wild 2"
+  },
+  {
+   "narration": "That is why the flower never burns.",
+   "emoji": "🌼",
+   "headline": "FLOWER NEVER BURNS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "flower aerogel heat"
+  },
+  {
+   "narration": "Tomorrow: a pool on the edge of a waterfall.",
+   "emoji": "🌊",
+   "headline": "NEXT: EDGE OF A FALLS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Devil's Pool Victoria Falls"
+  }
+ ]
+}

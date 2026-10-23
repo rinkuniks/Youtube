@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Great Blue Hole, Belize",
+ "hook": "Your drone view of Belize shows a perfectly round hole in the ocean.",
+ "title": "Your Drone Sees a Perfect Hole in the Sea",
+ "description": "The Great Blue Hole off Belize is a giant marine sinkhole, about 300 m across, set inside a reef. It formed on land long ago and was flooded as sea levels rose. Part of the series Places That Shouldn't Exist.\n\n#Shorts #Belize #PlacesThatShouldntExist",
+ "tags": [
+  "Great Blue Hole",
+  "Belize",
+  "sinkhole",
+  "drone view",
+  "reef",
+  "geography facts",
+  "places that shouldn't exist",
+  "Shorts"
+ ],
+ "comment_prompt": "Would you dive in? Yes or no",
+ "hook_banner": "A HOLE IN THE OCEAN",
+ "scenes": [
+  {
+   "narration": "Your drone sees a perfect dark circle in the sea.",
+   "emoji": "🕳️",
+   "headline": "A PERFECT CIRCLE",
+   "stat": "",
+   "sub": "Belize",
+   "visual_query": "Great Blue Hole Belize aerial"
+  },
+  {
+   "narration": "It is called the Great Blue Hole.",
+   "emoji": "🔵",
+   "headline": "THE GREAT BLUE HOLE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Great Blue Hole drone"
+  },
+  {
+   "narration": "It is about 300 metres across.",
+   "emoji": "📏",
+   "headline": "ABOUT 300 M ACROSS",
+   "stat": "300 m",
+   "sub": "about",
+   "visual_query": "Belize Blue Hole reef"
+  },
+  {
+   "narration": "It sits inside a reef, in shallow turquoise water.",
+   "emoji": "🏝️",
+   "headline": "INSIDE A REEF",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Belize barrier reef turquoise"
+  },
+  {
+   "narration": "It is a sinkhole, flooded by the sea.",
+   "emoji": "🌊",
+   "headline": "A FLOODED SINKHOLE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "marine sinkhole aerial"
+  },
+  {
+   "narration": "It formed on land, before the ocean rose.",
+   "emoji": "⏳",
+   "headline": "IT WAS ONCE DRY LAND",
+   "stat": "",
+   "sub": "",
+   "visual_query": "limestone cave stalactites"
+  },
+  {
+   "narration": "Divers say it is over 120 metres deep.",
+   "emoji": "🤿",
+   "headline": "OVER 120 M DEEP",
+   "stat": "120 m+",
+   "sub": "",
+   "visual_query": "scuba diver Blue Hole"
+  },
+  {
+   "narration": "A perfect circle, hiding in the sea.",
+   "emoji": "🔁",
+   "headline": "A CIRCLE IN THE SEA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Great Blue Hole from above"
+  },
+  {
+   "narration": "Tomorrow: another place that shouldn't exist.",
+   "emoji": "➡️",
+   "headline": "NEXT: ANOTHER IMPOSSIBLE PLACE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "strange places on earth aerial"
+  }
+ ]
+}

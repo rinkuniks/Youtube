@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Space toilet suction and restraints",
+ "hook": "Your toilet in space would strap you down.",
+ "title": "Your Space Toilet Straps You Down",
+ "description": "Astronaut toilets on the ISS use moving air instead of gravity. Fans create suction, and thigh restraints keep the astronaut in place. Nothing falls on its own in orbit, so the airflow does the work.\n\n#Shorts #Space #ISS",
+ "tags": [
+  "space toilet",
+  "ISS",
+  "astronaut life",
+  "space facts",
+  "zero gravity",
+  "if you were in space",
+  "NASA",
+  "did you know"
+ ],
+ "comment_prompt": "Would you use it? Yes or no",
+ "hook_banner": "SPACE TOILET REALITY",
+ "scenes": [
+  {
+   "narration": "Your toilet in space would strap you down.",
+   "emoji": "🚽",
+   "headline": "STRAPPED IN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "space station toilet"
+  },
+  {
+   "narration": "Without that, you would float right off.",
+   "emoji": "🧑‍🚀",
+   "headline": "YOU'D FLOAT OFF",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut floating ISS"
+  },
+  {
+   "narration": "Bars hold your thighs against the seat.",
+   "emoji": "🔒",
+   "headline": "THIGH BARS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ISS toilet thigh restraint"
+  },
+  {
+   "narration": "There is no flush with water.",
+   "emoji": "🚫",
+   "headline": "NO WATER FLUSH",
+   "stat": "",
+   "sub": "",
+   "visual_query": "space toilet NASA"
+  },
+  {
+   "narration": "Fans pull everything away with moving air.",
+   "emoji": "💨",
+   "headline": "AIR SUCTION",
+   "stat": "",
+   "sub": "",
+   "visual_query": "toilet fan suction"
+  },
+  {
+   "narration": "Nothing falls on its own up there.",
+   "emoji": "🌀",
+   "headline": "NOTHING FALLS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "floating objects ISS"
+  },
+  {
+   "narration": "Suction does the job gravity can't.",
+   "emoji": "🛰️",
+   "headline": "SUCTION > GRAVITY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "International Space Station interior"
+  },
+  {
+   "narration": "So yes, your toilet would hold you down.",
+   "emoji": "🚽",
+   "headline": "STRAPPED IN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut seat belt"
+  },
+  {
+   "narration": "Next: the sandwich space forbids.",
+   "emoji": "🥪",
+   "headline": "NEXT UP",
+   "stat": "",
+   "sub": "",
+   "visual_query": "sandwich"
+  }
+ ]
+}

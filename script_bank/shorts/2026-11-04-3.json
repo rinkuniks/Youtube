@@ -1,0 +1,86 @@
+{
+ "category": "geography",
+ "topic": "Svalbard Global Seed Vault",
+ "hook": "Your breakfast has a backup copy inside a frozen mountain.",
+ "title": "The Vault Inside a Frozen Arctic Mountain",
+ "description": "The Svalbard Global Seed Vault in Norway stores backup seeds from around the world inside a mountain in the Arctic. The cold helps keep them safe for the long term. It works like an insurance policy for the world's food crops.\n\n#Shorts #Geography #Norway",
+ "tags": [
+  "Svalbard",
+  "seed vault",
+  "Norway",
+  "Arctic",
+  "frozen mountain",
+  "food security",
+  "geography facts",
+  "places that shouldn't exist",
+  "shorts"
+ ],
+ "comment_prompt": "Which seed would you save? Rice or wheat",
+ "hook_banner": "BACKUP FOR YOUR FOOD",
+ "scenes": [
+  {
+   "narration": "Your food has a backup inside a frozen mountain.",
+   "emoji": "🏔️",
+   "headline": "BACKUP INSIDE A MOUNTAIN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Svalbard seed vault entrance"
+  },
+  {
+   "narration": "It's called the Svalbard Global Seed Vault.",
+   "emoji": "🔒",
+   "headline": "SVALBARD SEED VAULT",
+   "stat": "",
+   "sub": "Norway",
+   "visual_query": "Svalbard Norway Arctic"
+  },
+  {
+   "narration": "It sits deep in the Arctic, near the North Pole.",
+   "emoji": "🧊",
+   "headline": "DEEP IN THE ARCTIC",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Arctic snow landscape"
+  },
+  {
+   "narration": "Inside, seeds from around the world are stored.",
+   "emoji": "🌾",
+   "headline": "SEEDS FROM EVERYWHERE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "seed packets storage"
+  },
+  {
+   "narration": "Crops like rice and wheat are kept safe there.",
+   "emoji": "🍚",
+   "headline": "RICE AND WHEAT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "rice wheat grains"
+  },
+  {
+   "narration": "The cold keeps them preserved for the long term.",
+   "emoji": "❄️",
+   "headline": "FROZEN ON PURPOSE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "frozen mountain tunnel"
+  },
+  {
+   "narration": "If a crop is ever lost, the backup exists.",
+   "emoji": "🛡️",
+   "headline": "A FOOD INSURANCE POLICY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "farmer field crops"
+  },
+  {
+   "narration": "Your food has a backup in the ice. Tomorrow: a white spacesuit that turned black.",
+   "emoji": "🚀",
+   "headline": "TOMORROW: BLACK SPACESUIT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Apollo astronaut moon"
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Campione d'Italia Italian enclave in Switzerland",
+ "hook": "Your walk here stays in Italy, inside Switzerland.",
+ "title": "An Italian town completely inside Switzerland",
+ "description": "Campione d'Italia is an Italian town that sits entirely inside Swiss territory, right on Lake Lugano. To drive there from Italy you have to cross Switzerland. Places That Shouldn't Exist, part of a series.\n\n#Shorts #Geography #Enclave",
+ "tags": [
+  "campione d'italia",
+  "enclave",
+  "italy switzerland border",
+  "lake lugano",
+  "places that shouldn't exist",
+  "geography facts",
+  "border facts",
+  "shorts"
+ ],
+ "comment_prompt": "Italy or Swiss? One word",
+ "hook_banner": "ITALY INSIDE SWISS LAND",
+ "scenes": [
+  {
+   "narration": "Your walk here stays in Italy, inside Switzerland.",
+   "emoji": "🇮🇹",
+   "headline": "ITALY IN SWITZERLAND",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Campione d'Italia town"
+  },
+  {
+   "narration": "This town is Campione d'Italia.",
+   "emoji": "📍",
+   "headline": "CAMPIONE D'ITALIA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Campione d'Italia sign"
+  },
+  {
+   "narration": "It sits fully inside Swiss territory.",
+   "emoji": "🇨🇭",
+   "headline": "SURROUNDED BY SWISS LAND",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Campione d'Italia map Switzerland"
+  },
+  {
+   "narration": "It sits right on Lake Lugano.",
+   "emoji": "🏞️",
+   "headline": "ON LAKE LUGANO",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake Lugano Campione waterfront"
+  },
+  {
+   "narration": "To drive there from Italy, you cross Switzerland.",
+   "emoji": "🚗",
+   "headline": "CROSS SWITZERLAND FIRST",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Italy Switzerland border road"
+  },
+  {
+   "narration": "Its people are Italian, but Swiss land surrounds them.",
+   "emoji": "🗺️",
+   "headline": "AN ENCLAVE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Campione d'Italia aerial"
+  },
+  {
+   "narration": "India once had enclaves like this too.",
+   "emoji": "🇮🇳",
+   "headline": "INDIA HAD THEM TOO",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Bangladesh border enclave"
+  },
+  {
+   "narration": "Your walk stays Italian, inside Switzerland.",
+   "emoji": "🚶",
+   "headline": "ITALY INSIDE SWISS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Campione d'Italia street"
+  },
+  {
+   "narration": "Tomorrow: another place that shouldn't exist.",
+   "emoji": "🌍",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "Places That Shouldn't Exist",
+   "visual_query": "world map borders"
+  }
+ ]
+}

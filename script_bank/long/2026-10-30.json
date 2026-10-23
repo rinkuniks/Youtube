@@ -1,0 +1,665 @@
+{
+ "topic": "Strange borders countdown: Hans Island whisky war split in 2022, plus five more real borders",
+ "hook": "Your bottle of whisky once started a border war, and in 2022 Canada and Denmark finally split an island in half.",
+ "title": "The Whisky War Island and 5 Stranger Borders",
+ "description": "A countdown of six real borders that look like mistakes on the map: a Spanish town inside France, a piece of America you reach through Canada, a country inside another country, the Hans Island whisky war, Russia's cut-off Baltic region, and the tangled India-Bangladesh enclaves. Every border here is real, and the last one is in India.\n\n#borders #geography #factsyoucantbelieve",
+ "tags": [
+  "strange borders",
+  "borders that make no sense",
+  "Hans Island",
+  "whisky war",
+  "Canada Denmark",
+  "Llivia",
+  "Point Roberts",
+  "Lesotho",
+  "Kaliningrad",
+  "Cooch Behar enclaves",
+  "India Bangladesh border",
+  "geography facts",
+  "weird maps",
+  "enclaves",
+  "facts that sound fake"
+ ],
+ "comment_prompt": "Which border was strangest: 1 to 6?",
+ "hook_banner": "SIX BORDERS, ALL REAL",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "6: Spain's town inside France",
+   "scene": 5
+  },
+  {
+   "title": "5: America through Canada",
+   "scene": 14
+  },
+  {
+   "title": "4: A country inside a country",
+   "scene": 24
+  },
+  {
+   "title": "3: The Whisky War island",
+   "scene": 34
+  },
+  {
+   "title": "2: Russia's cut-off region",
+   "scene": 49
+  },
+  {
+   "title": "1: India's tangled border",
+   "scene": 59
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your bottle of whisky once started a border war, and in 2022 Canada and Denmark finally split an island in half.",
+   "emoji": "🥃",
+   "headline": "The Whisky War",
+   "stat": "2022",
+   "sub": "An island split in half",
+   "visual_query": "Hans Island Arctic rock"
+  },
+  {
+   "narration": "By the end, you will have seen six borders that look like mistakes on the map, and every one of them is real.",
+   "emoji": "🗺️",
+   "headline": "Six Real Borders",
+   "stat": "6",
+   "sub": "All of them true",
+   "visual_query": "world map borders"
+  },
+  {
+   "narration": "The last one is in India, and it was so tangled that two countries had to swap land to fix it.",
+   "emoji": "🇮🇳",
+   "headline": "Number One Is Indian",
+   "stat": "",
+   "sub": "Two countries swapped land",
+   "visual_query": "India Bangladesh border fence"
+  },
+  {
+   "narration": "The whisky island is number three, so stay for the story of the bottles.",
+   "emoji": "🏝️",
+   "headline": "Number Three",
+   "stat": "3",
+   "sub": "The bottles story",
+   "visual_query": "Arctic island Nares Strait"
+  },
+  {
+   "narration": "We count down from six to one, and each border is stranger than the one before.",
+   "emoji": "⏳",
+   "headline": "Countdown Starts",
+   "stat": "6 to 1",
+   "sub": "",
+   "visual_query": "countdown clock map"
+  },
+  {
+   "narration": "Number six: a small Spanish town called Llívia sits completely inside France, with French land on every side.",
+   "emoji": "🇪🇸",
+   "headline": "Spain Inside France",
+   "stat": "6",
+   "sub": "Llívia",
+   "visual_query": "Llivia Spain town"
+  },
+  {
+   "narration": "Drive through the Pyrenees mountains and you will pass Spanish town signs while every field around you belongs to France.",
+   "emoji": "🚗",
+   "headline": "Spanish Signs, French Fields",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pyrenees mountain road"
+  },
+  {
+   "narration": "The reason is an old treaty from 1659, when Spain handed France a list of villages.",
+   "emoji": "📜",
+   "headline": "A Treaty From 1659",
+   "stat": "1659",
+   "sub": "A list of villages",
+   "visual_query": "old treaty parchment"
+  },
+  {
+   "narration": "Llívia was officially a town, not a village, so it was never on the list, and it stayed Spanish.",
+   "emoji": "🏘️",
+   "headline": "Town, Not Village",
+   "stat": "",
+   "sub": "So it stayed Spanish",
+   "visual_query": "Llivia old town"
+  },
+  {
+   "narration": "People there speak Spanish and Catalan, pay in euros, and vote in Spain, even though France surrounds the whole town.",
+   "emoji": "💶",
+   "headline": "Spanish Life, French Land",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Llivia street euros"
+  },
+  {
+   "narration": "A short road over French land links it to Spain, and Europe's open borders mean nobody stops you.",
+   "emoji": "🛣️",
+   "headline": "The Road Home",
+   "stat": "",
+   "sub": "Open borders in Europe",
+   "visual_query": "Cerdanya road France Spain"
+  },
+  {
+   "narration": "Try this on your map app: search for Llívia and zoom out. You will see Spain floating inside France.",
+   "emoji": "📱",
+   "headline": "Try It On Your Phone",
+   "stat": "",
+   "sub": "Search: Llívia",
+   "visual_query": "phone map app zoom"
+  },
+  {
+   "narration": "So one word in a 1659 treaty left a Spanish town trapped inside France, and it is still there.",
+   "emoji": "✍️",
+   "headline": "One Word Did It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "treaty signing pen"
+  },
+  {
+   "narration": "But a town is small. Next is a piece of America that you can only reach by driving through Canada.",
+   "emoji": "➡️",
+   "headline": "Next: America Via Canada",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Canada US border sign"
+  },
+  {
+   "narration": "Number five: Point Roberts, a small corner of Washington state in the USA that hangs off the bottom of Canada.",
+   "emoji": "🇺🇸",
+   "headline": "A Piece Of America",
+   "stat": "5",
+   "sub": "Point Roberts",
+   "visual_query": "Point Roberts Washington"
+  },
+  {
+   "narration": "Open your map app near Vancouver and zoom in. You will see a tiny American shape hanging below Canada's coast.",
+   "emoji": "🔍",
+   "headline": "Zoom In Near Vancouver",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Vancouver coast map"
+  },
+  {
+   "narration": "The border follows a straight line, the 49th parallel, and this little peninsula falls just south of it.",
+   "emoji": "📏",
+   "headline": "The 49th Parallel",
+   "stat": "49°",
+   "sub": "A straight line",
+   "visual_query": "49th parallel border marker"
+  },
+  {
+   "narration": "So it belongs to America, but the only road out of it goes into Canada.",
+   "emoji": "🛑",
+   "headline": "Only Road Is Canadian",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border crossing road sign"
+  },
+  {
+   "narration": "To reach the rest of the USA by road, residents must cross into Canada, then cross back out again.",
+   "emoji": "🔁",
+   "headline": "In, Then Out",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border checkpoint cars"
+  },
+  {
+   "narration": "That means passing through border control twice, just to drive to another American town.",
+   "emoji": "🪪",
+   "headline": "Two Border Checks",
+   "stat": "2",
+   "sub": "Just to stay in the USA",
+   "visual_query": "passport border officer"
+  },
+  {
+   "narration": "Many Canadians own holiday homes there, but they can only reach them by crossing the border too.",
+   "emoji": "🏡",
+   "headline": "Canadian Holiday Homes",
+   "stat": "",
+   "sub": "",
+   "visual_query": "beach houses Point Roberts"
+  },
+  {
+   "narration": "The people who live there still hold American passports, vote in American elections, and use American money.",
+   "emoji": "🗳️",
+   "headline": "Fully American",
+   "stat": "",
+   "sub": "",
+   "visual_query": "American passport dollars"
+  },
+  {
+   "narration": "On a map it looks like a typo: a piece of one country cut off by the shape of another.",
+   "emoji": "🧩",
+   "headline": "A Typo On The Map",
+   "stat": "",
+   "sub": "",
+   "visual_query": "map peninsula border"
+  },
+  {
+   "narration": "A straight line trapped those people. The next country is trapped by another country on every single side.",
+   "emoji": "🔒",
+   "headline": "Trapped On All Sides",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lesotho mountains"
+  },
+  {
+   "narration": "Number four: Lesotho, a whole country with no coast and only one neighbour, and that neighbour wraps all the way around it.",
+   "emoji": "🇱🇸",
+   "headline": "A Country Inside A Country",
+   "stat": "4",
+   "sub": "Lesotho",
+   "visual_query": "Lesotho landscape"
+  },
+  {
+   "narration": "Look at southern Africa on any map. Lesotho is a country-shaped hole inside South Africa.",
+   "emoji": "🌍",
+   "headline": "A Hole In South Africa",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lesotho South Africa map"
+  },
+  {
+   "narration": "It is one of only a few countries in the world that are completely surrounded by another.",
+   "emoji": "⭕",
+   "headline": "Only A Few Like It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "San Marino Vatican Lesotho"
+  },
+  {
+   "narration": "Even its lowest point is high: the whole country sits more than one thousand metres above sea level.",
+   "emoji": "⛰️",
+   "headline": "All Of It Is High",
+   "stat": "1,000 m+",
+   "sub": "Above sea level",
+   "visual_query": "Lesotho highlands mountains"
+  },
+  {
+   "narration": "People call it the Kingdom in the Sky, and its border with South Africa runs along rivers and mountains.",
+   "emoji": "👑",
+   "headline": "Kingdom In The Sky",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Drakensberg Lesotho border"
+  },
+  {
+   "narration": "Many people there wear thick woollen blankets, because the mountains get cold and snow does fall.",
+   "emoji": "🧣",
+   "headline": "Blankets And Snow",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Basotho blanket horseman"
+  },
+  {
+   "narration": "The capital, Maseru, sits so close to the border that you can see South Africa from the city.",
+   "emoji": "🏙️",
+   "headline": "Capital On The Border",
+   "stat": "",
+   "sub": "Maseru",
+   "visual_query": "Maseru Lesotho city"
+  },
+  {
+   "narration": "At Maseru Bridge, a short bridge over the Caledon River is where you cross between the two countries.",
+   "emoji": "🌉",
+   "headline": "A Short Bridge",
+   "stat": "",
+   "sub": "Caledon River",
+   "visual_query": "Maseru Bridge border"
+  },
+  {
+   "narration": "If you like strange places and facts like these, subscribe, because we find more of them every day.",
+   "emoji": "🔔",
+   "headline": "More Strange Places",
+   "stat": "",
+   "sub": "Subscribe",
+   "visual_query": "world map pins"
+  },
+  {
+   "narration": "Now the one that started this video: two countries, one tiny rock, and a war fought with bottles.",
+   "emoji": "🥃",
+   "headline": "Now: The Bottle War",
+   "stat": "",
+   "sub": "",
+   "visual_query": "whisky bottle on rock"
+  },
+  {
+   "narration": "Number three: Hans Island, a bare rock in the freezing water between Canada and Greenland.",
+   "emoji": "🧊",
+   "headline": "Hans Island",
+   "stat": "3",
+   "sub": "Canada and Greenland",
+   "visual_query": "Hans Island Kennedy Channel"
+  },
+  {
+   "narration": "It is just over one square kilometre in size, with no trees, no people and no town.",
+   "emoji": "🪨",
+   "headline": "A Bare Rock",
+   "stat": "1.3 km²",
+   "sub": "No trees, no town",
+   "visual_query": "barren Arctic island ice"
+  },
+  {
+   "narration": "It is named after Hans Hendrik, a Greenlandic Arctic traveller who helped early expeditions in the area.",
+   "emoji": "🧭",
+   "headline": "Named After Hans",
+   "stat": "",
+   "sub": "Hans Hendrik",
+   "visual_query": "Arctic expedition sled"
+  },
+  {
+   "narration": "In 1973 Canada and Denmark drew their sea border, but they left this one rock undecided.",
+   "emoji": "📐",
+   "headline": "One Rock Left Out",
+   "stat": "1973",
+   "sub": "",
+   "visual_query": "Nares Strait map"
+  },
+  {
+   "narration": "Both said it was theirs. Greenland belongs to the Kingdom of Denmark, so Denmark claimed it too.",
+   "emoji": "🇩🇰",
+   "headline": "Both Said Mine",
+   "stat": "",
+   "sub": "Canada vs Denmark",
+   "visual_query": "Greenland Canada flags"
+  },
+  {
+   "narration": "In 1984, Canadian soldiers landed, planted a flag, and left a bottle of Canadian whisky behind.",
+   "emoji": "🇨🇦",
+   "headline": "Canada's Whisky",
+   "stat": "1984",
+   "sub": "Flag and a bottle",
+   "visual_query": "Canadian Club whisky bottle"
+  },
+  {
+   "narration": "Soon a Danish minister landed, planted a Danish flag, and left schnapps with a note saying welcome to the Danish island.",
+   "emoji": "🍶",
+   "headline": "Denmark's Reply",
+   "stat": "",
+   "sub": "Schnapps and a note",
+   "visual_query": "Danish schnapps bottle"
+  },
+  {
+   "narration": "For years, visitors kept swapping flags and bottles. People called it the Whisky War, and nobody ever fired a shot.",
+   "emoji": "🚫",
+   "headline": "No Shots Fired",
+   "stat": "0",
+   "sub": "Shots fired",
+   "visual_query": "soldiers Arctic flag"
+  },
+  {
+   "narration": "Both sides stayed friendly the whole time. Canada and Denmark are close partners, so it was always a polite fight.",
+   "emoji": "🤝",
+   "headline": "A Polite Fight",
+   "stat": "",
+   "sub": "",
+   "visual_query": "handshake diplomats flags"
+  },
+  {
+   "narration": "Getting there means crossing icy water, so the people who visited were mostly soldiers, officials and scientists.",
+   "emoji": "🚢",
+   "headline": "Hard To Reach",
+   "stat": "",
+   "sub": "",
+   "visual_query": "icebreaker ship Arctic"
+  },
+  {
+   "narration": "Finally, on 14 June 2022, both countries agreed to share the rock and split it down the middle.",
+   "emoji": "✂️",
+   "headline": "Split In 2022",
+   "stat": "14 June 2022",
+   "sub": "",
+   "visual_query": "Canada Denmark agreement ministers"
+  },
+  {
+   "narration": "The new border on the island is just over a kilometre long, and follows a natural ridge in the rock.",
+   "emoji": "📏",
+   "headline": "A Border On A Ridge",
+   "stat": "1.2 km",
+   "sub": "Follows the rock",
+   "visual_query": "Hans Island aerial"
+  },
+  {
+   "narration": "That gave Canada a second land border, and its first one with a European country.",
+   "emoji": "🌐",
+   "headline": "Canada's New Border",
+   "stat": "2nd",
+   "sub": "Land border",
+   "visual_query": "Canada Greenland map"
+  },
+  {
+   "narration": "Two countries chose friendship over a fight, and ended a war that ran for almost forty years.",
+   "emoji": "🕊️",
+   "headline": "Ended After 38 Years",
+   "stat": "38",
+   "sub": "Years",
+   "visual_query": "peace dove flags"
+  },
+  {
+   "narration": "Next is a Russian region on the Baltic Sea that no road from Russia can reach without crossing other countries.",
+   "emoji": "➡️",
+   "headline": "Next: Cut-Off Russia",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baltic Sea coast"
+  },
+  {
+   "narration": "Number two: Kaliningrad, a Russian region that is not connected to the rest of Russia.",
+   "emoji": "🇷🇺",
+   "headline": "Russia's Cut-Off Region",
+   "stat": "2",
+   "sub": "Kaliningrad",
+   "visual_query": "Kaliningrad city"
+  },
+  {
+   "narration": "Poland sits on one side of it and Lithuania on the other, and both are in the European Union.",
+   "emoji": "🇪🇺",
+   "headline": "Surrounded By The EU",
+   "stat": "",
+   "sub": "Poland and Lithuania",
+   "visual_query": "Poland Lithuania map"
+  },
+  {
+   "narration": "So Russian land sits on the European map like a missing puzzle piece, far from Russia's main territory.",
+   "emoji": "🧩",
+   "headline": "A Missing Piece",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kaliningrad map Europe"
+  },
+  {
+   "narration": "The area used to be German, a city called Königsberg, until it was handed to the Soviet Union after World War Two.",
+   "emoji": "🏰",
+   "headline": "Once Königsberg",
+   "stat": "",
+   "sub": "German until WWII",
+   "visual_query": "Konigsberg old city"
+  },
+  {
+   "narration": "The famous philosopher Immanuel Kant lived his whole life in that city, when it was still called Königsberg.",
+   "emoji": "📚",
+   "headline": "Kant Lived Here",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Immanuel Kant statue"
+  },
+  {
+   "narration": "Most Germans left or were forced out, Russians moved in, and the city got a new name.",
+   "emoji": "🧳",
+   "headline": "A New People, New Name",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kaliningrad cathedral"
+  },
+  {
+   "narration": "In 1946 it was named Kaliningrad, after a Soviet leader called Mikhail Kalinin.",
+   "emoji": "🪧",
+   "headline": "Named For Kalinin",
+   "stat": "1946",
+   "sub": "",
+   "visual_query": "Kaliningrad sign"
+  },
+  {
+   "narration": "Today, to get there by land, Russian citizens must pass through other countries, because no direct route exists.",
+   "emoji": "🚆",
+   "headline": "No Direct Route",
+   "stat": "",
+   "sub": "",
+   "visual_query": "train border crossing Lithuania"
+  },
+  {
+   "narration": "On a map it looks like a mistake, yet around a million people live there.",
+   "emoji": "👥",
+   "headline": "A Million People",
+   "stat": "~1 million",
+   "sub": "Live there",
+   "visual_query": "Kaliningrad waterfront"
+  },
+  {
+   "narration": "But the strangest border of all is right here in India, and it was only fixed in 2015.",
+   "emoji": "🇮🇳",
+   "headline": "Now, India's Turn",
+   "stat": "2015",
+   "sub": "",
+   "visual_query": "India map West Bengal"
+  },
+  {
+   "narration": "Number one: the Cooch Behar enclaves on the India and Bangladesh border, often called the strangest border on Earth.",
+   "emoji": "🏆",
+   "headline": "India's Strangest Border",
+   "stat": "1",
+   "sub": "Cooch Behar",
+   "visual_query": "Cooch Behar West Bengal"
+  },
+  {
+   "narration": "Our own backyard hides it, in north Bengal, in the district of Cooch Behar, right by the Bangladesh border.",
+   "emoji": "📍",
+   "headline": "North Bengal",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cooch Behar palace"
+  },
+  {
+   "narration": "More than a hundred and fifty tiny islands of land, each belonging to one country but sitting inside the other.",
+   "emoji": "🏝️",
+   "headline": "Islands Of Land",
+   "stat": "150+",
+   "sub": "Tiny enclaves",
+   "visual_query": "India Bangladesh enclave map"
+  },
+  {
+   "narration": "In total, 111 Indian pieces of land sat inside Bangladesh, and 51 Bangladeshi pieces sat inside India.",
+   "emoji": "🔢",
+   "headline": "111 And 51",
+   "stat": "111 + 51",
+   "sub": "Enclaves",
+   "visual_query": "enclave map India Bangladesh"
+  },
+  {
+   "narration": "Some were just a few farm fields. People could walk out of their front door and into another country.",
+   "emoji": "🌾",
+   "headline": "A Few Farm Fields",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bengal rice fields village"
+  },
+  {
+   "narration": "The tangle goes back centuries to local rulers whose lands were mixed together, long before India and Bangladesh existed.",
+   "emoji": "🏯",
+   "headline": "Centuries Old",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cooch Behar Palace"
+  },
+  {
+   "narration": "When Britain divided India in 1947, the land stayed mixed, and the new border had to run around every single piece.",
+   "emoji": "✏️",
+   "headline": "Partition, 1947",
+   "stat": "1947",
+   "sub": "",
+   "visual_query": "partition 1947 map"
+  },
+  {
+   "narration": "Villagers often struggled to get roads, schools, hospitals or electricity, because neither government could easily reach them.",
+   "emoji": "🏥",
+   "headline": "Cut Off From Help",
+   "stat": "",
+   "sub": "",
+   "visual_query": "village dirt road Bengal"
+  },
+  {
+   "narration": "And it gets worse. One plot, called Dahala Khagrabari, was Indian land inside Bangladeshi land inside Indian land inside Bangladesh.",
+   "emoji": "🪆",
+   "headline": "Land Inside Land",
+   "stat": "",
+   "sub": "Dahala Khagrabari",
+   "visual_query": "nested enclave diagram"
+  },
+  {
+   "narration": "That is four layers of countries in one small farm field, the only one of its kind in the world.",
+   "emoji": "4️⃣",
+   "headline": "Four Layers",
+   "stat": "4",
+   "sub": "Only one on Earth",
+   "visual_query": "farm field border markers"
+  },
+  {
+   "narration": "Then on the night of 31 July 2015, India and Bangladesh finally swapped the land.",
+   "emoji": "🌙",
+   "headline": "Midnight Swap",
+   "stat": "31 July 2015",
+   "sub": "",
+   "visual_query": "India Bangladesh flag ceremony"
+  },
+  {
+   "narration": "Many residents celebrated that night, as the flags of their new country went up over their villages.",
+   "emoji": "🎉",
+   "headline": "Flags Go Up",
+   "stat": "",
+   "sub": "",
+   "visual_query": "villagers celebrating flag"
+  },
+  {
+   "narration": "People living there were allowed to choose which country they wanted to belong to.",
+   "emoji": "🗳️",
+   "headline": "People Chose",
+   "stat": "",
+   "sub": "",
+   "visual_query": "villagers citizenship Bangladesh India"
+  },
+  {
+   "narration": "Thousands of people changed their country overnight without moving an inch from their own homes.",
+   "emoji": "🏠",
+   "headline": "New Country, Same Home",
+   "stat": "",
+   "sub": "",
+   "visual_query": "village house Bengal"
+  },
+  {
+   "narration": "It took a treaty from 1974 and many years of delay, but the tangle was finally cleared.",
+   "emoji": "📜",
+   "headline": "Cleared After 41 Years",
+   "stat": "1974",
+   "sub": "Land Boundary Agreement",
+   "visual_query": "India Bangladesh leaders handshake"
+  },
+  {
+   "narration": "And that is how a border war once fought with bottles of whisky became one of the calmest endings on any map.",
+   "emoji": "🥃",
+   "headline": "From Bottles To Peace",
+   "stat": "",
+   "sub": "",
+   "visual_query": "whisky bottle Arctic rock"
+  },
+  {
+   "narration": "Tomorrow: the country that has no border at its own front door.",
+   "emoji": "🚪",
+   "headline": "Tomorrow",
+   "stat": "",
+   "sub": "A front door with no border",
+   "visual_query": "front door country map"
+  }
+ ]
+}

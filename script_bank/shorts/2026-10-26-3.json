@@ -1,0 +1,85 @@
+{
+ "category": "space",
+ "topic": "Aryabhata on the 2 rupee note",
+ "hook": "Your old 2 rupee note had a satellite on the back.",
+ "title": "Your 2 Rupee Note Carried a Satellite",
+ "description": "India's first satellite, Aryabhata, launched in 1975. It was printed on the back of the 2 rupee note. Check an old note and you can see it yourself.\n\n#Shorts #ISRO #Aryabhata",
+ "tags": [
+  "Aryabhata",
+  "ISRO",
+  "2 rupee note",
+  "India first satellite",
+  "Indian currency",
+  "space facts",
+  "India facts",
+  "Shorts"
+ ],
+ "comment_prompt": "Ever held one of these notes? Yes or no",
+ "hook_banner": "CHECK YOUR WALLET",
+ "scenes": [
+  {
+   "narration": "Your old 2 rupee note had a satellite on the back.",
+   "emoji": "💵",
+   "headline": "A SATELLITE ON MONEY",
+   "stat": "",
+   "sub": "Look at the back",
+   "visual_query": "2 rupee note Aryabhata"
+  },
+  {
+   "narration": "That satellite is Aryabhata, India's very first.",
+   "emoji": "🛰️",
+   "headline": "ARYABHATA",
+   "stat": "",
+   "sub": "India's first satellite",
+   "visual_query": "Aryabhata satellite"
+  },
+  {
+   "narration": "It launched in 1975, from a Soviet rocket.",
+   "emoji": "🚀",
+   "headline": "LAUNCHED 1975",
+   "stat": "1975",
+   "sub": "",
+   "visual_query": "Aryabhata launch 1975"
+  },
+  {
+   "narration": "India built the satellite itself, at ISRO.",
+   "emoji": "🇮🇳",
+   "headline": "BUILT IN INDIA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ISRO Aryabhata model"
+  },
+  {
+   "narration": "Then it was printed on everyday pocket money.",
+   "emoji": "👛",
+   "headline": "PRINTED ON CASH",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old Indian banknote"
+  },
+  {
+   "narration": "Millions of people held a satellite without knowing.",
+   "emoji": "🤯",
+   "headline": "IN YOUR HAND",
+   "stat": "",
+   "sub": "",
+   "visual_query": "hand holding rupee note"
+  },
+  {
+   "narration": "Check your old notes. It might still be there.",
+   "emoji": "🔍",
+   "headline": "CHECK YOUR NOTES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old currency notes collection"
+  },
+  {
+   "narration": "Tomorrow: ISRO rocket parts carried by bicycle.",
+   "emoji": "🚲",
+   "headline": "NEXT: ROCKET ON A BIKE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ISRO bicycle rocket"
+  }
+ ]
+}

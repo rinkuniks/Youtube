@@ -1,0 +1,93 @@
+{
+ "category": "technology",
+ "topic": "QR code error correction",
+ "hook": "Your QR code still scans after a scribble.",
+ "title": "Your QR Code Still Scans After You Scribble",
+ "description": "QR codes carry built-in error correction, so a damaged code can still be read. At the highest setting, up to about 30% of a code can be lost. Try it with a pen and your phone camera, but heavy damage will break it.\n\n#Shorts #QRCode #TechFacts",
+ "tags": [
+  "qr code",
+  "error correction",
+  "upi",
+  "phone test",
+  "tech facts",
+  "scan",
+  "life hack",
+  "technology"
+ ],
+ "comment_prompt": "Did your scribbled code still scan? Yes or no",
+ "hook_banner": "TRY THIS NOW",
+ "scenes": [
+  {
+   "narration": "Your QR code still scans after a scribble.",
+   "emoji": "📱",
+   "headline": "Scribble, Still Scans",
+   "stat": "",
+   "sub": "",
+   "visual_query": "scanning QR code phone"
+  },
+  {
+   "narration": "Draw a few lines across a QR code.",
+   "emoji": "✏️",
+   "headline": "Draw On It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "pen drawing on QR code"
+  },
+  {
+   "narration": "Now point your phone camera at it.",
+   "emoji": "📷",
+   "headline": "Point Your Camera",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone camera scanning"
+  },
+  {
+   "narration": "It still opens, as if nothing happened.",
+   "emoji": "✅",
+   "headline": "It Still Opens",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone scan success"
+  },
+  {
+   "narration": "UPI-style QR codes carry extra backup data.",
+   "emoji": "💾",
+   "headline": "Hidden Backup Data",
+   "stat": "",
+   "sub": "",
+   "visual_query": "UPI QR code payment"
+  },
+  {
+   "narration": "That lets damaged parts be rebuilt.",
+   "emoji": "🧩",
+   "headline": "Damage Gets Rebuilt",
+   "stat": "",
+   "sub": "",
+   "visual_query": "QR code close up"
+  },
+  {
+   "narration": "At the highest setting, about 30% can be lost.",
+   "emoji": "📊",
+   "headline": "Up To About 30%",
+   "stat": "~30%",
+   "sub": "highest setting",
+   "visual_query": "damaged QR code"
+  },
+  {
+   "narration": "Too much damage will still break it.",
+   "emoji": "⚠️",
+   "headline": "Limits Exist",
+   "stat": "",
+   "sub": "",
+   "visual_query": "torn QR code"
+  },
+  {
+   "narration": "Tomorrow: white terraces filled with warm blue water.",
+   "emoji": "💧",
+   "headline": "Tomorrow",
+   "stat": "",
+   "sub": "Pamukkale, Turkey",
+   "visual_query": "Pamukkale terraces"
+  }
+ ]
+}

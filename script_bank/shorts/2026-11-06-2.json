@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Rann of Kutch salt desert",
+ "hook": "Your feet can stand on snow that is really salt.",
+ "title": "Your Gujarat snow is really salt",
+ "description": "The Great Rann of Kutch in Gujarat is a huge white salt desert that looks like snow. In the monsoon it fills with water and becomes a shallow lake. Then the salt comes back. Part of the Places That Shouldn't Exist series.",
+ "tags": [
+  "rann of kutch",
+  "gujarat",
+  "salt desert",
+  "india geography",
+  "kutch",
+  "geography facts",
+  "places that shouldnt exist",
+  "white desert"
+ ],
+ "comment_prompt": "Would you visit? Yes or no",
+ "hook_banner": "THIS IS NOT SNOW",
+ "scenes": [
+  {
+   "narration": "Your feet can stand on snow that is really salt.",
+   "emoji": "❄️",
+   "headline": "Snow Made Of Salt",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rann of Kutch white desert"
+  },
+  {
+   "narration": "This is the Great Rann of Kutch, Gujarat.",
+   "emoji": "📍",
+   "headline": "Kutch, Gujarat",
+   "stat": "",
+   "sub": "India",
+   "visual_query": "Kutch Gujarat salt flats"
+  },
+  {
+   "narration": "It is a vast white salt desert.",
+   "emoji": "🏜️",
+   "headline": "White Salt Desert",
+   "stat": "",
+   "sub": "",
+   "visual_query": "white salt desert horizon"
+  },
+  {
+   "narration": "Then the monsoon arrives.",
+   "emoji": "🌧️",
+   "headline": "Monsoon Arrives",
+   "stat": "",
+   "sub": "",
+   "visual_query": "monsoon rain clouds India"
+  },
+  {
+   "narration": "Rain turns the whole desert into a shallow lake.",
+   "emoji": "🌊",
+   "headline": "Desert Becomes Lake",
+   "stat": "",
+   "sub": "",
+   "visual_query": "flooded Rann of Kutch"
+  },
+  {
+   "narration": "The white ground vanishes under water.",
+   "emoji": "💧",
+   "headline": "Ground Disappears",
+   "stat": "",
+   "sub": "",
+   "visual_query": "shallow water salt marsh"
+  },
+  {
+   "narration": "Months later, the salt is back.",
+   "emoji": "🧂",
+   "headline": "The Salt Returns",
+   "stat": "",
+   "sub": "",
+   "visual_query": "dried salt crust cracks"
+  },
+  {
+   "narration": "So your Gujarat snow is really salt.",
+   "emoji": "🧂",
+   "headline": "Snow? Really Salt",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rann Utsav white salt"
+  },
+  {
+   "narration": "Tomorrow: the tallest waterfall on Earth.",
+   "emoji": "➡️",
+   "headline": "Up Next",
+   "stat": "",
+   "sub": "Tallest waterfall",
+   "visual_query": "Angel Falls Venezuela"
+  }
+ ]
+}

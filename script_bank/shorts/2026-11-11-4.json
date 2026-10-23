@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Blue sunset on Mars",
+ "hook": "On Mars, your sunset would be blue.",
+ "title": "On Mars, the sunset turns blue",
+ "description": "Rover cameras have photographed sunsets on Mars where the sky around the setting Sun glows blue. Fine dust in the air scatters light differently from Earth's air, flipping the colours we know. Part of the If You Were in Space series.\n\n#Shorts #Mars #IfYouWereInSpace",
+ "tags": [
+  "mars",
+  "mars sunset",
+  "blue sunset",
+  "space facts",
+  "if you were in space",
+  "nasa rover",
+  "curiosity rover",
+  "science facts"
+ ],
+ "comment_prompt": "Would you watch it live? Yes or no",
+ "hook_banner": "REAL ROVER PHOTOS",
+ "scenes": [
+  {
+   "narration": "On Mars, your sunset would be blue.",
+   "emoji": "🌅",
+   "headline": "A Blue Sunset",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mars blue sunset rover"
+  },
+  {
+   "narration": "Rovers have photographed it themselves.",
+   "emoji": "🤖",
+   "headline": "Photographed By Rovers",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Curiosity rover Mars"
+  },
+  {
+   "narration": "On Earth, sunsets turn red and orange.",
+   "emoji": "🟠",
+   "headline": "Earth: Red Sunsets",
+   "stat": "",
+   "sub": "",
+   "visual_query": "sunset over India beach"
+  },
+  {
+   "narration": "On Mars, the glow around the Sun is blue.",
+   "emoji": "🔵",
+   "headline": "Mars: Blue Sunsets",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mars sunset Spirit rover"
+  },
+  {
+   "narration": "Fine dust in the air causes this.",
+   "emoji": "🌫️",
+   "headline": "Dust Does This",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mars dust storm sky"
+  },
+  {
+   "narration": "Dust scatters blue light toward your eyes.",
+   "emoji": "💨",
+   "headline": "Dust Scatters Blue",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mars dusty atmosphere"
+  },
+  {
+   "narration": "Its daytime sky is butterscotch, not blue.",
+   "emoji": "🟤",
+   "headline": "Daytime Sky: Tan",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mars daytime sky panorama"
+  },
+  {
+   "narration": "A blue sunset on a dusty red world.",
+   "emoji": "🔴",
+   "headline": "Flipped From Home",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mars surface sunset"
+  },
+  {
+   "narration": "Next: why your chips packet is puffed.",
+   "emoji": "🥔",
+   "headline": "Next: Puffed Chips Bag",
+   "stat": "",
+   "sub": "",
+   "visual_query": "chips packet puffed"
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "category": "geography",
+ "topic": "Nicosia, the last divided capital",
+ "hook": "Your walk through Nicosia can cross a border.",
+ "title": "You can walk across the last divided capital",
+ "description": "Nicosia, the capital of Cyprus, is the last divided capital in the world. A UN buffer zone runs through the city, and you can see the barriers on the streets. Berlin was once split too, but it reunited, and Nicosia is still divided.\n\n#Shorts #Cyprus #Geography",
+ "tags": [
+  "nicosia",
+  "cyprus",
+  "divided capital",
+  "buffer zone",
+  "green line",
+  "ledra street",
+  "geography facts",
+  "places that shouldn't exist",
+  "shorts"
+ ],
+ "comment_prompt": "Would you walk across it? Yes or no",
+ "hook_banner": "A CAPITAL CUT IN TWO",
+ "scenes": [
+  {
+   "narration": "Your walk through Nicosia can cross a border.",
+   "emoji": "🚶",
+   "headline": "WALK ACROSS A BORDER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nicosia Ledra Street"
+  },
+  {
+   "narration": "Cyprus's capital is split in two.",
+   "emoji": "✂️",
+   "headline": "CAPITAL SPLIT IN TWO",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nicosia aerial"
+  },
+  {
+   "narration": "A UN buffer zone runs through the city.",
+   "emoji": "🇺🇳",
+   "headline": "UN BUFFER ZONE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nicosia UN buffer zone"
+  },
+  {
+   "narration": "Barriers block some of the streets.",
+   "emoji": "🚧",
+   "headline": "STREETS BLOCKED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nicosia street barrier"
+  },
+  {
+   "narration": "You can still cross on foot at Ledra Street.",
+   "emoji": "👣",
+   "headline": "CROSS ON FOOT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ledra Street checkpoint"
+  },
+  {
+   "narration": "Nicosia is the last divided capital in the world.",
+   "emoji": "🌍",
+   "headline": "LAST DIVIDED CAPITAL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nicosia old town"
+  },
+  {
+   "narration": "Berlin was divided too, but it reunited.",
+   "emoji": "🧱",
+   "headline": "BERLIN REUNITED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Berlin Wall"
+  },
+  {
+   "narration": "Nicosia is still split today.",
+   "emoji": "📍",
+   "headline": "STILL SPLIT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nicosia green line"
+  },
+  {
+   "narration": "So your walk crosses a divided capital.",
+   "emoji": "🚶",
+   "headline": "A DIVIDED CAPITAL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nicosia street"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "category": "space",
+ "topic": "Saturn floats on water",
+ "hook": "Your bathtub water could float the planet Saturn.",
+ "title": "Saturn Is Light Enough to Float",
+ "description": "Saturn is less dense than water, because it's mostly hydrogen and helium. So in a giant enough ocean, the whole planet would float. Of course, no such ocean exists.\n\n#Shorts #Saturn #Space",
+ "tags": [
+  "saturn",
+  "planet",
+  "density",
+  "space facts",
+  "float on water",
+  "astronomy",
+  "science",
+  "shorts"
+ ],
+ "comment_prompt": "Believe it? Yes or no",
+ "hook_banner": "SATURN WOULD FLOAT",
+ "scenes": [
+  {
+   "narration": "Your bathtub water could float the planet Saturn.",
+   "emoji": "🛁",
+   "headline": "SATURN WOULD FLOAT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Saturn rings planet"
+  },
+  {
+   "narration": "Saturn is less dense than water.",
+   "emoji": "💧",
+   "headline": "LIGHTER THAN WATER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "object floating in water"
+  },
+  {
+   "narration": "It's mostly hydrogen and helium gas.",
+   "emoji": "🎈",
+   "headline": "MOSTLY GAS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Saturn clouds atmosphere"
+  },
+  {
+   "narration": "Yet it's about ninety-five times Earth's mass.",
+   "emoji": "⚖️",
+   "headline": "95× EARTH'S MASS",
+   "stat": "95×",
+   "sub": "Earth's mass",
+   "visual_query": "Saturn Earth size comparison"
+  },
+  {
+   "narration": "Find a giant enough ocean, and it floats.",
+   "emoji": "🌊",
+   "headline": "IN A GIANT OCEAN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ocean waves horizon"
+  },
+  {
+   "narration": "Of course, no such ocean exists.",
+   "emoji": "🚫",
+   "headline": "NO SUCH OCEAN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "empty space stars"
+  },
+  {
+   "narration": "It would bob like a giant beach ball.",
+   "emoji": "🏖️",
+   "headline": "LIKE A BEACH BALL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "beach ball floating water"
+  },
+  {
+   "narration": "Your bathtub water could float a whole planet.",
+   "emoji": "🪐",
+   "headline": "A WHOLE PLANET",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Saturn Cassini rings"
+  }
+ ]
+}

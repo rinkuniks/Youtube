@@ -1,0 +1,93 @@
+{
+ "category": "technology",
+ "topic": "Induction cooktop with paper",
+ "hook": "Your cooktop can boil water with paper under the pan.",
+ "title": "Boiling Water on Paper Without Burning It",
+ "description": "An induction cooktop does not heat itself. It makes a magnetic field that heats the metal pan directly, so a sheet of paper under the pan does not catch fire.\n\nSeries: Tech That Sounds Fake.",
+ "tags": [
+  "induction cooktop",
+  "induction cooking",
+  "science",
+  "physics",
+  "kitchen hacks",
+  "tech facts",
+  "magnetic field",
+  "did you know"
+ ],
+ "comment_prompt": "Would you try this? Yes or no",
+ "hook_banner": "PAPER WON'T BURN",
+ "scenes": [
+  {
+   "narration": "Put paper under a pan on an induction cooktop.",
+   "emoji": "📄",
+   "headline": "PAPER UNDER THE PAN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "induction cooktop paper pan"
+  },
+  {
+   "narration": "The water boils. The paper does not catch fire.",
+   "emoji": "💧",
+   "headline": "WATER BOILS",
+   "stat": "",
+   "sub": "paper survives",
+   "visual_query": "boiling water pan"
+  },
+  {
+   "narration": "The cooktop does not make heat itself.",
+   "emoji": "❄️",
+   "headline": "COOKTOP STAYS COOL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "induction hob glass"
+  },
+  {
+   "narration": "It makes a magnetic field instead.",
+   "emoji": "🧲",
+   "headline": "A MAGNETIC FIELD",
+   "stat": "",
+   "sub": "",
+   "visual_query": "magnetic field coil"
+  },
+  {
+   "narration": "That field heats the metal pan directly.",
+   "emoji": "🔥",
+   "headline": "THE PAN HEATS ITSELF",
+   "stat": "",
+   "sub": "",
+   "visual_query": "steel pan stove"
+  },
+  {
+   "narration": "The pan heats the water.",
+   "emoji": "♨️",
+   "headline": "PAN HEATS WATER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "water boiling steam"
+  },
+  {
+   "narration": "The paper just sits there, unburnt.",
+   "emoji": "📄",
+   "headline": "PAPER JUST SITS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "paper sheet kitchen"
+  },
+  {
+   "narration": "Your cooktop boils water on paper.",
+   "emoji": "🍳",
+   "headline": "WATER ON PAPER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "induction cooking"
+  },
+  {
+   "narration": "Next: a lake with floating islands.",
+   "emoji": "🌿",
+   "headline": "NEXT: FLOATING LAKE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Loktak Lake phumdi"
+  }
+ ]
+}

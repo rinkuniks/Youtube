@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Kiribati UTC+14 earliest time zone",
+ "hook": "Your New Year arrives first in Kiribati.",
+ "title": "Kiribati's islands see New Year first on Earth",
+ "description": "Kiribati's Line Islands run on UTC+14, the earliest time zone on Earth. That means the New Year reaches them before anywhere else. India is about eight and a half hours behind.\n\nSeries: Places That Shouldn't Exist.",
+ "tags": [
+  "Kiribati",
+  "time zones",
+  "New Year",
+  "UTC+14",
+  "Kiritimati",
+  "geography facts",
+  "shorts",
+  "did you know"
+ ],
+ "comment_prompt": "Would you spend New Year there? Yes or no",
+ "hook_banner": "FIRST NEW YEAR",
+ "scenes": [
+  {
+   "narration": "Your New Year arrives first in Kiribati.",
+   "emoji": "🎆",
+   "headline": "New Year Starts Here",
+   "stat": "UTC+14",
+   "sub": "Earliest time zone",
+   "visual_query": "Kiritimati island beach"
+  },
+  {
+   "narration": "Its Line Islands run on UTC plus fourteen.",
+   "emoji": "🕐",
+   "headline": "UTC Plus 14",
+   "stat": "+14",
+   "sub": "",
+   "visual_query": "world time zones map"
+  },
+  {
+   "narration": "That is the earliest time zone on Earth.",
+   "emoji": "🌍",
+   "headline": "Earliest On Earth",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pacific Ocean island aerial"
+  },
+  {
+   "narration": "India is eight and a half hours behind.",
+   "emoji": "🇮🇳",
+   "headline": "India Is Behind",
+   "stat": "8.5 HRS",
+   "sub": "IST vs Kiribati",
+   "visual_query": "India Gate Delhi"
+  },
+  {
+   "narration": "Kiribati was once split across two dates.",
+   "emoji": "✂️",
+   "headline": "Split In Two Dates",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kiribati map"
+  },
+  {
+   "narration": "So in 1995 it moved the date line.",
+   "emoji": "🗺️",
+   "headline": "It Moved The Line",
+   "stat": "1995",
+   "sub": "",
+   "visual_query": "International Date Line map"
+  },
+  {
+   "narration": "Now the whole country shares one date.",
+   "emoji": "📆",
+   "headline": "One Date Now",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kiribati lagoon"
+  },
+  {
+   "narration": "Your New Year starts first in Kiribati.",
+   "emoji": "🥳",
+   "headline": "First To Celebrate",
+   "stat": "",
+   "sub": "",
+   "visual_query": "New Year fireworks"
+  },
+  {
+   "narration": "Tomorrow: a camera that survived Venus.",
+   "emoji": "🔥",
+   "headline": "Tomorrow: Venus",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Venus planet"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+# ==========================================
+# YouTube Automation Project - .gitignore
+# ==========================================
+
+# Secrets and OAuth credentials (CRITICAL - NEVER COMMIT)
+secrets/
+*.env
+*.env.*
+client_secret*.json
+youtube_token*.json
+token.json
+oauth_*.json
+
+# Rendered video jobs and heavy media (GBs of output files)
+jobs/
+test-render/
+inbox/
+
+# Large model binaries (>100MB exceeds GitHub hard limit)
+voices/*.onnx
+
+# Python Virtual Environments & Bytecode
+.venv/
+*/.venv/
+__pycache__/
+*/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Node.js & Composer dependencies
+node_modules/
+*/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+OpenMontage/remotion-composer/out/
+
+# Logs and runtime caches
+logs/
+*.log
+*.tmp
+test.tmp
+.freebuff/
+.claude/
+.git_backup
+*/.git_backup
+.DS_Store
+Thumbs.db

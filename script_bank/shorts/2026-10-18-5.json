@@ -1,0 +1,93 @@
+{
+ "category": "technology",
+ "topic": "Polarized sunglasses vs LCD screen",
+ "hook": "Your phone screen can go completely black through your sunglasses.",
+ "title": "Your Screen Goes Black Through Sunglasses",
+ "description": "Try this in 10 seconds. Hold polarized sunglasses in front of an LCD screen and slowly tilt them sideways. Many LCDs emit polarized light, so at one angle the glasses block it and the screen goes dark. It works best on LCD screens, and some phone screens will only dim.\n\n#Shorts #Tech #PhoneTricks",
+ "tags": [
+  "polarized sunglasses",
+  "lcd screen",
+  "phone trick",
+  "screen goes black",
+  "tech facts",
+  "try this",
+  "polarization",
+  "science experiment"
+ ],
+ "comment_prompt": "Did yours go black? Yes or no",
+ "hook_banner": "TRY THIS NOW",
+ "scenes": [
+  {
+   "narration": "Your phone screen can go black through sunglasses.",
+   "emoji": "🕶️",
+   "headline": "Screen Goes Black",
+   "stat": "",
+   "sub": "",
+   "visual_query": "polarized sunglasses phone screen black"
+  },
+  {
+   "narration": "Grab polarized sunglasses and any LCD screen.",
+   "emoji": "📱",
+   "headline": "Try This Now",
+   "stat": "",
+   "sub": "Polarized glasses + LCD",
+   "visual_query": "sunglasses and smartphone"
+  },
+  {
+   "narration": "Hold the glasses up to the screen.",
+   "emoji": "🕶️",
+   "headline": "Hold Them Up",
+   "stat": "",
+   "sub": "",
+   "visual_query": "looking through sunglasses at screen"
+  },
+  {
+   "narration": "Now slowly tilt them sideways.",
+   "emoji": "🔄",
+   "headline": "Tilt Slowly",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tilting sunglasses lens"
+  },
+  {
+   "narration": "The screen fades to completely black.",
+   "emoji": "⬛",
+   "headline": "Fades To Black",
+   "stat": "",
+   "sub": "",
+   "visual_query": "LCD screen polarizer dark"
+  },
+  {
+   "narration": "An LCD screen sends out polarized light.",
+   "emoji": "💡",
+   "headline": "Polarized Light",
+   "stat": "",
+   "sub": "",
+   "visual_query": "LCD display closeup"
+  },
+  {
+   "narration": "Your lenses block it at one angle.",
+   "emoji": "🚫",
+   "headline": "Lenses Block It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "polarizing filter light"
+  },
+  {
+   "narration": "The camera sees the black-out too.",
+   "emoji": "📸",
+   "headline": "Camera Sees It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone camera sunglasses screen"
+  },
+  {
+   "narration": "Tomorrow: a country locked inside another.",
+   "emoji": "➡️",
+   "headline": "Next: Locked Country",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lesotho South Africa map"
+  }
+ ]
+}

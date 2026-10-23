@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Matera Sassi cave homes, Italy",
+ "hook": "Your hotel room in Italy could be a cave.",
+ "title": "Your Hotel Room in Italy Could Be a Cave",
+ "description": "Matera in southern Italy has an old town called the Sassi, carved into the rock. It is a UNESCO World Heritage Site, and some of the caves are now hotels. Part of the Places That Shouldn't Exist series.\n\n#Shorts #Italy #PlacesThatShouldntExist",
+ "tags": [
+  "matera",
+  "sassi di matera",
+  "italy",
+  "cave hotel",
+  "unesco",
+  "geography facts",
+  "places that shouldn't exist",
+  "shorts"
+ ],
+ "comment_prompt": "Would you sleep in a cave hotel? Yes or no",
+ "hook_banner": "SLEEP INSIDE ROCK",
+ "scenes": [
+  {
+   "narration": "Your hotel room in Italy could be a cave.",
+   "emoji": "🏨",
+   "headline": "A Cave Hotel",
+   "stat": "",
+   "sub": "Italy",
+   "visual_query": "Matera cave hotel"
+  },
+  {
+   "narration": "This is Matera, in southern Italy.",
+   "emoji": "🇮🇹",
+   "headline": "Matera, Italy",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Matera Italy skyline"
+  },
+  {
+   "narration": "Its old town, the Sassi, is carved into rock.",
+   "emoji": "🪨",
+   "headline": "Carved Into Rock",
+   "stat": "",
+   "sub": "The Sassi",
+   "visual_query": "Sassi di Matera"
+  },
+  {
+   "narration": "Homes, churches and streets, dug into the hillside.",
+   "emoji": "⛪",
+   "headline": "Dug Into A Hill",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Matera rock church"
+  },
+  {
+   "narration": "People lived in these caves for ages.",
+   "emoji": "🏠",
+   "headline": "Lived In For Ages",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Matera cave dwellings"
+  },
+  {
+   "narration": "Today it is a UNESCO World Heritage Site.",
+   "emoji": "🏛️",
+   "headline": "UNESCO Site",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Matera UNESCO"
+  },
+  {
+   "narration": "And some caves are now real hotels.",
+   "emoji": "🛏️",
+   "headline": "Caves Are Hotels",
+   "stat": "",
+   "sub": "",
+   "visual_query": "cave hotel room Matera"
+  },
+  {
+   "narration": "Yes, your room really could be a cave.",
+   "emoji": "✅",
+   "headline": "It Is Real",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Matera night view"
+  },
+  {
+   "narration": "Next: a wing nut that flips itself in space.",
+   "emoji": "➡️",
+   "headline": "Next Up",
+   "stat": "",
+   "sub": "A flipping wing nut",
+   "visual_query": "wing nut"
+  }
+ ]
+}

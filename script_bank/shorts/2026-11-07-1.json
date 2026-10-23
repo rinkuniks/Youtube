@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Siliguri Corridor",
+ "hook": "Your map of India hangs on a strip about 22 km wide.",
+ "title": "India's map hangs on a 22 km strip",
+ "description": "The Siliguri Corridor in West Bengal is only about 22 km wide at its narrowest. It links India's northeast to the rest of the country. Nepal, Bhutan and Bangladesh squeeze in around it, which is why it is nicknamed the Chicken's Neck.",
+ "tags": [
+  "siliguri corridor",
+  "chickens neck",
+  "india geography",
+  "northeast india",
+  "west bengal",
+  "india map",
+  "geography facts",
+  "borders"
+ ],
+ "comment_prompt": "Surprised? Yes or no",
+ "hook_banner": "LOOK AT YOUR MAP",
+ "scenes": [
+  {
+   "narration": "Your map of India hangs on a thin strip.",
+   "emoji": "🗺️",
+   "headline": "India's Thin Strip",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India map northeast"
+  },
+  {
+   "narration": "This is the Siliguri Corridor in West Bengal.",
+   "emoji": "📍",
+   "headline": "Siliguri Corridor",
+   "stat": "",
+   "sub": "West Bengal",
+   "visual_query": "Siliguri West Bengal"
+  },
+  {
+   "narration": "At its narrowest, it is about 22 kilometres wide.",
+   "emoji": "📏",
+   "headline": "About 22 km Wide",
+   "stat": "22 km",
+   "sub": "at its narrowest",
+   "visual_query": "Siliguri Corridor map"
+  },
+  {
+   "narration": "Nepal, Bhutan and Bangladesh squeeze around it.",
+   "emoji": "🧭",
+   "headline": "Squeezed By Borders",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nepal Bhutan Bangladesh map"
+  },
+  {
+   "narration": "It links India's northeast to the rest of the country.",
+   "emoji": "🔗",
+   "headline": "Links The Northeast",
+   "stat": "",
+   "sub": "",
+   "visual_query": "northeast India landscape"
+  },
+  {
+   "narration": "Trains and highways all squeeze through here.",
+   "emoji": "🚆",
+   "headline": "Everything Passes Here",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Siliguri highway train"
+  },
+  {
+   "narration": "It is often called the Chicken's Neck.",
+   "emoji": "🐔",
+   "headline": "The Chicken's Neck",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Siliguri Corridor aerial"
+  },
+  {
+   "narration": "One thin strip holds your map together.",
+   "emoji": "🇮🇳",
+   "headline": "One Strip, One Map",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India map flag"
+  },
+  {
+   "narration": "Tomorrow: stand in four states at once.",
+   "emoji": "➡️",
+   "headline": "Up Next",
+   "stat": "",
+   "sub": "Four Corners",
+   "visual_query": "Four Corners Monument"
+  }
+ ]
+}

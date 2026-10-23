@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Greenwich Prime Meridian vs GPS zero",
+ "hook": "Your GPS disagrees with the Prime Meridian line.",
+ "title": "GPS Zero Is Not on the Greenwich Line",
+ "description": "At the Greenwich Observatory in London, a brass strip marks the Prime Meridian. Modern GPS uses a reference meridian that sits roughly 100 metres to the east. Part of the series Places That Shouldn't Exist.\n\n#Shorts #Greenwich #Geography",
+ "tags": [
+  "greenwich",
+  "prime meridian",
+  "gps",
+  "london",
+  "longitude",
+  "geography facts",
+  "places that shouldn't exist",
+  "shorts"
+ ],
+ "comment_prompt": "Brass line or GPS line? Pick one",
+ "hook_banner": "TWO ZERO LINES",
+ "scenes": [
+  {
+   "narration": "Your GPS disagrees with the Prime Meridian line.",
+   "emoji": "📍",
+   "headline": "GPS Disagrees",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Greenwich Prime Meridian line"
+  },
+  {
+   "narration": "At Greenwich, a brass strip marks zero longitude.",
+   "emoji": "🇬🇧",
+   "headline": "Zero Longitude",
+   "stat": "0°",
+   "sub": "Greenwich, London",
+   "visual_query": "Greenwich Observatory brass strip"
+  },
+  {
+   "narration": "Tourists stand across it for photos.",
+   "emoji": "📸",
+   "headline": "Tourist Photo Spot",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tourists Prime Meridian Greenwich"
+  },
+  {
+   "narration": "But GPS zero sits about 100 metres east.",
+   "emoji": "➡️",
+   "headline": "GPS Zero Is Elsewhere",
+   "stat": "~100 m",
+   "sub": "east of the brass line",
+   "visual_query": "Greenwich Observatory courtyard"
+  },
+  {
+   "narration": "Modern maps use a satellite-based reference line.",
+   "emoji": "🛰️",
+   "headline": "Satellite Reference Line",
+   "stat": "",
+   "sub": "",
+   "visual_query": "GPS satellite orbit"
+  },
+  {
+   "narration": "The old line was set by telescope.",
+   "emoji": "🔭",
+   "headline": "Old Line: Telescope",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Airy transit circle telescope"
+  },
+  {
+   "narration": "Your phone follows the satellites instead.",
+   "emoji": "📱",
+   "headline": "Phone Follows Satellites",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone map location"
+  },
+  {
+   "narration": "So the brass line isn't your zero.",
+   "emoji": "😮",
+   "headline": "Not Your Zero",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Greenwich meridian marker"
+  },
+  {
+   "narration": "Tomorrow: the first satellite, smaller than you'd think.",
+   "emoji": "➡️",
+   "headline": "Tomorrow: First Satellite",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sputnik 1 satellite"
+  }
+ ]
+}

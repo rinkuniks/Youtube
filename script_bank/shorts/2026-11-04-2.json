@@ -1,0 +1,85 @@
+{
+ "category": "geography",
+ "topic": "Palm Jumeirah artificial island",
+ "hook": "Your satellite map of Dubai shows an island shaped like a palm tree.",
+ "title": "Dubai's Palm Tree Island Is Made of Sand",
+ "description": "Palm Jumeirah in Dubai is a real island shaped like a palm tree. It did not exist naturally. It was built by piling sand into the sea, and you can see it from space.\n\n#Shorts #Dubai #Geography",
+ "tags": [
+  "Palm Jumeirah",
+  "Dubai",
+  "artificial island",
+  "satellite view",
+  "geography facts",
+  "UAE",
+  "man made island",
+  "shorts"
+ ],
+ "comment_prompt": "Would you live on it? Yes or no",
+ "hook_banner": "THIS PLACE IS REAL",
+ "scenes": [
+  {
+   "narration": "Your satellite map of Dubai shows a giant palm tree.",
+   "emoji": "🌴",
+   "headline": "A PALM TREE IN THE SEA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Palm Jumeirah satellite"
+  },
+  {
+   "narration": "It's not a drawing. It's a real island.",
+   "emoji": "🏝️",
+   "headline": "IT'S A REAL ISLAND",
+   "stat": "",
+   "sub": "Palm Jumeirah",
+   "visual_query": "Palm Jumeirah aerial"
+  },
+  {
+   "narration": "Nothing was there before. Just open sea.",
+   "emoji": "🌊",
+   "headline": "NOTHING WAS THERE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dubai coast sea"
+  },
+  {
+   "narration": "Workers built it by piling sand into the water.",
+   "emoji": "🏗️",
+   "headline": "BUILT FROM SAND",
+   "stat": "",
+   "sub": "",
+   "visual_query": "land reclamation dredger sand"
+  },
+  {
+   "narration": "Now homes and hotels line its branches.",
+   "emoji": "🏨",
+   "headline": "HOMES ON THE FRONDS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Palm Jumeirah hotel Atlantis"
+  },
+  {
+   "narration": "You can spot it from space.",
+   "emoji": "🛰️",
+   "headline": "VISIBLE FROM SPACE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dubai from space"
+  },
+  {
+   "narration": "Open your map and zoom in on Dubai.",
+   "emoji": "🗺️",
+   "headline": "TRY IT NOW",
+   "stat": "",
+   "sub": "Search: Palm Jumeirah",
+   "visual_query": "phone map app zoom"
+  },
+  {
+   "narration": "A palm tree built from sand. Tomorrow: a vault inside a frozen mountain.",
+   "emoji": "❄️",
+   "headline": "TOMORROW: FROZEN VAULT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Svalbard snow mountain"
+  }
+ ]
+}

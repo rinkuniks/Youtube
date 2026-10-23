@@ -1,0 +1,93 @@
+{
+ "category": "technology",
+ "topic": "3D printed post office Bengaluru",
+ "hook": "Your post office was printed by a robot.",
+ "title": "India's Post Office Printed by a Robot",
+ "description": "The Cambridge Layout post office in Bengaluru was built using a 3D-printing robot. Look closely at the footage and you can see the printed layers in the walls. It is a working post office, not a model.\n\n#Shorts #3DPrinting #Bengaluru",
+ "tags": [
+  "3d printed building",
+  "bengaluru",
+  "post office",
+  "cambridge layout",
+  "construction robot",
+  "india tech",
+  "shorts",
+  "tech facts"
+ ],
+ "comment_prompt": "Would you trust it? Yes or no",
+ "hook_banner": "ROBOT-BUILT BUILDING",
+ "scenes": [
+  {
+   "narration": "Your post office was printed by a robot.",
+   "emoji": "🤖",
+   "headline": "PRINTED BY A ROBOT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "3D printed post office Bengaluru"
+  },
+  {
+   "narration": "This one is in Bengaluru's Cambridge Layout.",
+   "emoji": "📍",
+   "headline": "CAMBRIDGE LAYOUT",
+   "stat": "",
+   "sub": "Bengaluru",
+   "visual_query": "Bengaluru post office building"
+  },
+  {
+   "narration": "A robot laid the walls layer by layer.",
+   "emoji": "🧱",
+   "headline": "LAYER BY LAYER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "3D printing robot concrete walls"
+  },
+  {
+   "narration": "Look closely and you can see the layers.",
+   "emoji": "🔍",
+   "headline": "SEE THE LAYERS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "3D printed concrete wall layers"
+  },
+  {
+   "narration": "Concrete comes out of a nozzle.",
+   "emoji": "🏗️",
+   "headline": "CONCRETE NOZZLE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "concrete 3D printer nozzle"
+  },
+  {
+   "narration": "It's India's first 3D-printed post office.",
+   "emoji": "🇮🇳",
+   "headline": "INDIA'S FIRST",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India post office 3D printed"
+  },
+  {
+   "narration": "Yes, you can post letters inside.",
+   "emoji": "✉️",
+   "headline": "IT WORKS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "post office letters counter India"
+  },
+  {
+   "narration": "A robot built your post office.",
+   "emoji": "🤖",
+   "headline": "ROBOT-BUILT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "construction robot building"
+  },
+  {
+   "narration": "Tomorrow: another place that shouldn't exist.",
+   "emoji": "🌍",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "Another impossible place",
+   "visual_query": "unusual place aerial"
+  }
+ ]
+}

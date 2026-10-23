@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Puducherry four pieces three states",
+ "hook": "Your map shows one territory sitting in three states.",
+ "title": "One Indian Territory Split Across 3 States",
+ "description": "Puducherry is one Union Territory, but it comes in four separate pieces. Puducherry and Karaikal sit in Tamil Nadu, Mahe is in Kerala, and Yanam is in Andhra Pradesh. Part of the series Places That Shouldn't Exist.\n\n#Shorts #India #Geography",
+ "tags": [
+  "puducherry",
+  "india geography",
+  "union territory",
+  "mahe",
+  "yanam",
+  "karaikal",
+  "places that shouldn't exist",
+  "india facts"
+ ],
+ "comment_prompt": "Have you been to Puducherry? Yes or no",
+ "hook_banner": "ONE TERRITORY, FOUR PIECES",
+ "scenes": [
+  {
+   "narration": "Your map shows one territory sitting in three states.",
+   "emoji": "🗺️",
+   "headline": "ONE TERRITORY",
+   "stat": "3 STATES",
+   "sub": "",
+   "visual_query": "India map Puducherry"
+  },
+  {
+   "narration": "It is Puducherry, and it comes in four pieces.",
+   "emoji": "🧩",
+   "headline": "FOUR SEPARATE PIECES",
+   "stat": "4",
+   "sub": "Puducherry, Karaikal, Mahe, Yanam",
+   "visual_query": "Puducherry French Quarter"
+  },
+  {
+   "narration": "Puducherry and Karaikal sit on Tamil Nadu's coast.",
+   "emoji": "🌊",
+   "headline": "TAMIL NADU COAST",
+   "stat": "",
+   "sub": "Puducherry and Karaikal",
+   "visual_query": "Puducherry promenade beach"
+  },
+  {
+   "narration": "Mahe is on Kerala's coast, far away.",
+   "emoji": "📍",
+   "headline": "MAHE IN KERALA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mahe Kerala coast"
+  },
+  {
+   "narration": "Yanam sits inside Andhra Pradesh.",
+   "emoji": "📍",
+   "headline": "YANAM IN ANDHRA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Yanam Godavari river"
+  },
+  {
+   "narration": "Four pieces, one government, three neighbouring states.",
+   "emoji": "🏛️",
+   "headline": "ONE GOVERNMENT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Puducherry Raj Nivas"
+  },
+  {
+   "narration": "Drive between them and you cross state lines.",
+   "emoji": "🚗",
+   "headline": "CROSS STATE LINES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India highway road"
+  },
+  {
+   "narration": "One territory, scattered across three states.",
+   "emoji": "🗺️",
+   "headline": "SCATTERED ACROSS INDIA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India map states"
+  },
+  {
+   "narration": "Tomorrow: the capital that belongs to no state.",
+   "emoji": "➡️",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "A capital with no state",
+   "visual_query": "Chandigarh Capitol Complex"
+  }
+ ]
+}

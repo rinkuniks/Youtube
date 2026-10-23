@@ -1,0 +1,640 @@
+{
+ "topic": "Sir Creek and Kutch",
+ "hook": "Your Gujarat map hides a 96 kilometre creek that India and Pakistan still argue over, because the water around it keeps moving.",
+ "title": "Why Kutch Is Stranger Than You Think",
+ "description": "Sir Creek is a tidal channel between Gujarat and Pakistan where India and Pakistan still disagree on where the border runs. This video explains why, and tours the strange land around it: a salt desert that turns into a sea, swimming camels, the Harappan city of Dholavira and an 1819 earthquake that raised a wall of land.\n\n#SirCreek #Kutch #IndiaFacts",
+ "tags": [
+  "Sir Creek",
+  "Kutch",
+  "Rann of Kutch",
+  "India Pakistan border",
+  "Sir Creek dispute",
+  "Gujarat",
+  "Kharai camel",
+  "Dholavira",
+  "strange places",
+  "geography facts",
+  "India facts",
+  "border dispute",
+  "Allah Bund",
+  "White Rann"
+ ],
+ "comment_prompt": "Rann, camels or Dholavira: which is your pick?",
+ "hook_banner": "A BORDER IN THE WATER",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "A desert that turns into a sea",
+   "scene": 6
+  },
+  {
+   "title": "Camels that swim in the sea",
+   "scene": 11
+  },
+  {
+   "title": "The city that stored rain",
+   "scene": 18
+  },
+  {
+   "title": "The quake that built a wall",
+   "scene": 27
+  },
+  {
+   "title": "One clock, two-hour sun gap",
+   "scene": 35
+  },
+  {
+   "title": "Sir Creek: a border in water",
+   "scene": 40
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your Gujarat map hides a 96 kilometre creek that India and Pakistan still argue over, because the water around it keeps moving.",
+   "emoji": "🗺️",
+   "headline": "Border in the water",
+   "stat": "96 km",
+   "sub": "Sir Creek",
+   "visual_query": "Sir Creek marsh"
+  },
+  {
+   "narration": "That border runs through mud and mangroves, where the water changes shape with every tide.",
+   "emoji": "🌊",
+   "headline": "Mud, mangroves, tides",
+   "stat": "",
+   "sub": "",
+   "visual_query": "mangrove creek tide"
+  },
+  {
+   "narration": "By the end of this video, you will see exactly why a single line on a map can be so hard to draw.",
+   "emoji": "📍",
+   "headline": "Why the line is hard",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Pakistan border map"
+  },
+  {
+   "narration": "But first, the region around it is just as strange. It is called Kutch, and it is the largest district in India.",
+   "emoji": "🇮🇳",
+   "headline": "Kutch, India's biggest district",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kutch Gujarat landscape"
+  },
+  {
+   "narration": "Here is what is coming: a desert that turns into a sea, camels that swim, and a city older than most countries.",
+   "emoji": "🐪",
+   "headline": "What is coming",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rann of Kutch"
+  },
+  {
+   "narration": "And an earthquake that built a wall across a river. Stay for the last one, because Sir Creek is the strangest of all.",
+   "emoji": "⏳",
+   "headline": "Save the best for last",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sir Creek Gujarat"
+  },
+  {
+   "narration": "First, the White Rann. In winter it looks like a snowfield, a flat white plain of salt that runs all the way to the horizon.",
+   "emoji": "🧂",
+   "headline": "The White Rann",
+   "stat": "",
+   "sub": "",
+   "visual_query": "White Rann Kutch"
+  },
+  {
+   "narration": "But it is not snow. It is a salt marsh, and in the monsoon, water spreads over it until the plain becomes a shallow sea.",
+   "emoji": "🌧️",
+   "headline": "Desert to sea",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rann of Kutch monsoon"
+  },
+  {
+   "narration": "Then the water dries up, the salt is left behind, and the white desert appears again. Same place, two completely different maps.",
+   "emoji": "🗺️",
+   "headline": "Two maps, one place",
+   "stat": "",
+   "sub": "",
+   "visual_query": "salt flat cracked"
+  },
+  {
+   "narration": "So a map of this place is never really finished. Whatever you draw in July is wrong by December.",
+   "emoji": "✏️",
+   "headline": "Never finished",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rann of Kutch aerial"
+  },
+  {
+   "narration": "Keep that in mind. A land that flips between sea and desert is exactly where a border becomes hard to fix.",
+   "emoji": "🧠",
+   "headline": "Remember this",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kutch salt marsh border"
+  },
+  {
+   "narration": "Next, a fact that sounds fake. In Kutch, there is a breed of camel that swims in the sea.",
+   "emoji": "🐪",
+   "headline": "Camels that swim",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kharai camel swimming"
+  },
+  {
+   "narration": "They are called Kharai camels. Kharai means salty, and these camels eat the leaves of mangroves growing on islands off the coast.",
+   "emoji": "🌿",
+   "headline": "Kharai camels",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kharai camel mangrove"
+  },
+  {
+   "narration": "During the monsoon, herds swim out to those mangrove islands and can stay there for days, eating.",
+   "emoji": "🏝️",
+   "headline": "Swimming to islands",
+   "stat": "",
+   "sub": "",
+   "visual_query": "camel mangrove island"
+  },
+  {
+   "narration": "Experts say they can swim about three kilometres through salt water. A camel, in the sea, paddling its way to lunch.",
+   "emoji": "🏊",
+   "headline": "Up to 3 km swim",
+   "stat": "3 km",
+   "sub": "",
+   "visual_query": "camel swimming sea"
+  },
+  {
+   "narration": "Local herding communities have looked after them for generations, but coastal industry has cut into the mangroves they depend on.",
+   "emoji": "🏭",
+   "headline": "Mangroves shrinking",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kutch coast mangroves"
+  },
+  {
+   "narration": "So the breed is now classed as threatened. A swimming camel sounds like a joke, but it is a real and fragile animal.",
+   "emoji": "⚠️",
+   "headline": "A fragile animal",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kharai camel herd"
+  },
+  {
+   "narration": "Stranger things sit under the ground nearby. And one of them is a city that planned for every drop of rain.",
+   "emoji": "🔍",
+   "headline": "Something older nearby",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kutch archaeological site"
+  },
+  {
+   "narration": "Dholavira. Imagine a city in the middle of a salt desert that was built around saving water.",
+   "emoji": "🏺",
+   "headline": "Dholavira",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dholavira ruins"
+  },
+  {
+   "narration": "It sits on an island in the Rann, and it is one of the great cities of the Harappan civilisation.",
+   "emoji": "🏛️",
+   "headline": "A Harappan city",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dholavira Harappan"
+  },
+  {
+   "narration": "UNESCO made it a World Heritage Site in 2021, the first Harappan site in India to get that honour.",
+   "emoji": "🏅",
+   "headline": "UNESCO site, 2021",
+   "stat": "2021",
+   "sub": "",
+   "visual_query": "Dholavira UNESCO"
+  },
+  {
+   "narration": "The people here built big stone reservoirs and channels to catch rain and store it, thousands of years ago.",
+   "emoji": "💧",
+   "headline": "Stone water tanks",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dholavira reservoir"
+  },
+  {
+   "narration": "The streets followed a plan, and the city was divided into separate parts. This was serious engineering.",
+   "emoji": "🧱",
+   "headline": "A planned city",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dholavira city plan"
+  },
+  {
+   "narration": "And it even had a signboard. Archaeologists found large letters of the Harappan script, and nobody has been able to read them.",
+   "emoji": "🔤",
+   "headline": "A sign nobody can read",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dholavira signboard"
+  },
+  {
+   "narration": "Think about that. A message from thousands of years ago, in a script still unread, in the middle of the Rann.",
+   "emoji": "❓",
+   "headline": "Unread message",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Indus script seal"
+  },
+  {
+   "narration": "If you like strange places and facts that sound fake but are true, subscribe. We post a new one every day.",
+   "emoji": "🔔",
+   "headline": "Subscribe for more",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map globe"
+  },
+  {
+   "narration": "The next one explains why this whole region has the shape it does. It happened on a single day in 1819.",
+   "emoji": "📅",
+   "headline": "One day in 1819",
+   "stat": "1819",
+   "sub": "",
+   "visual_query": "Kutch earthquake ruins"
+  },
+  {
+   "narration": "In June 1819, a huge earthquake hit Kutch. Scientists estimate its magnitude at about seven point seven.",
+   "emoji": "🌋",
+   "headline": "June 1819 earthquake",
+   "stat": "7.7",
+   "sub": "",
+   "visual_query": "earthquake damage ruins"
+  },
+  {
+   "narration": "A long ridge of land rose up, and local people named it Allah Bund, which means the dam of God.",
+   "emoji": "🧱",
+   "headline": "Allah Bund",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Allah Bund Kutch"
+  },
+  {
+   "narration": "It ran for many kilometres across the old river channels and dammed the water that used to flow through them.",
+   "emoji": "🌾",
+   "headline": "A wall across a river",
+   "stat": "",
+   "sub": "",
+   "visual_query": "dry riverbed Kutch"
+  },
+  {
+   "narration": "Nearby, Sindri Fort partly sank, and the ground around it filled with water to form a lake.",
+   "emoji": "🏰",
+   "headline": "A fort sinks",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sindri Fort"
+  },
+  {
+   "narration": "Some accounts say the lower mouth of that river became a tidal inlet, and that inlet is now called Kori Creek.",
+   "emoji": "🌊",
+   "headline": "Kori Creek is born",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kori Creek"
+  },
+  {
+   "narration": "And on 26 January 2001, Republic Day, another earthquake hit near Bhuj, the main city of Kutch.",
+   "emoji": "📆",
+   "headline": "Republic Day 2001",
+   "stat": "2001",
+   "sub": "",
+   "visual_query": "Bhuj earthquake 2001"
+  },
+  {
+   "narration": "So this land is still moving. Rivers, shorelines and creeks here are not fixed lines, and that matters for the last chapter.",
+   "emoji": "➡️",
+   "headline": "Land that moves",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kutch coastline"
+  },
+  {
+   "narration": "The last chapter is about a creek two countries cannot agree on. But there is one more strange thing first.",
+   "emoji": "⏭️",
+   "headline": "One more first",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gujarat coast sunset"
+  },
+  {
+   "narration": "Here is a thing about time. Your clock shows the same time in Kutch and in Arunachal Pradesh.",
+   "emoji": "🕒",
+   "headline": "Same clock",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Indian clock tower"
+  },
+  {
+   "narration": "But the sun does not agree. Kutch is in the far west and Arunachal is in the far east, so the sun reaches them almost two hours apart.",
+   "emoji": "☀️",
+   "headline": "Sun, two hours apart",
+   "stat": "~2 hrs",
+   "sub": "",
+   "visual_query": "Arunachal Pradesh sunrise"
+  },
+  {
+   "narration": "India uses one time, Indian Standard Time, across the whole country. So the sunrise in the east comes while Kutch is still dark.",
+   "emoji": "🌅",
+   "headline": "One time, one country",
+   "stat": "IST",
+   "sub": "",
+   "visual_query": "India map time zone"
+  },
+  {
+   "narration": "In Kutch, the evening sun sets late by the clock, and it stays light long after the east has gone dark.",
+   "emoji": "🌇",
+   "headline": "Late sunsets",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kutch sunset"
+  },
+  {
+   "narration": "It is one more way this corner of India feels like the edge of the map. And at the very edge, there is a creek.",
+   "emoji": "🧭",
+   "headline": "The edge of India",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gujarat western coast"
+  },
+  {
+   "narration": "Now the big one. Sir Creek. It is a narrow channel of water, about 96 kilometres long, in the marshes between Gujarat and Pakistan's Sindh.",
+   "emoji": "🏞️",
+   "headline": "Sir Creek",
+   "stat": "96 km",
+   "sub": "",
+   "visual_query": "Sir Creek map"
+  },
+  {
+   "narration": "On a map, it looks like a thin blue crack running into the Arabian Sea. On the ground, it is mud, mangroves and tides.",
+   "emoji": "🗺️",
+   "headline": "A crack in the map",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Arabian Sea creek aerial"
+  },
+  {
+   "narration": "Patrols here often move by boat, because the land floods and the mud can swallow a boot.",
+   "emoji": "🚤",
+   "headline": "Patrols by boat",
+   "stat": "",
+   "sub": "",
+   "visual_query": "BSF boat patrol creek"
+  },
+  {
+   "narration": "So why do India and Pakistan disagree? Because one simple question has two answers: where exactly does the border run in this water?",
+   "emoji": "⚖️",
+   "headline": "Where is the line?",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Pakistan border"
+  },
+  {
+   "narration": "Is it along the eastern bank, which would give the whole creek to Pakistan? Or right down the middle of the water?",
+   "emoji": "↔️",
+   "headline": "Bank or middle?",
+   "stat": "",
+   "sub": "",
+   "visual_query": "creek channel aerial"
+  },
+  {
+   "narration": "The story starts before 1947. Kutch was a princely state, and Sindh was part of British India, under the Bombay government.",
+   "emoji": "👑",
+   "headline": "Before 1947",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kutch princely state palace"
+  },
+  {
+   "narration": "In 1914, the Bombay government issued a resolution to settle a border argument between Sindh and the ruler of Kutch.",
+   "emoji": "📜",
+   "headline": "The 1914 resolution",
+   "stat": "1914",
+   "sub": "",
+   "visual_query": "old British map India"
+  },
+  {
+   "narration": "That document has two paragraphs that seem to pull in different directions. One points toward the eastern bank.",
+   "emoji": "📄",
+   "headline": "Two paragraphs",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old document paragraph"
+  },
+  {
+   "narration": "The other uses a rule called the thalweg principle, which puts the border in the middle of the main navigable channel.",
+   "emoji": "🎯",
+   "headline": "Thalweg rule",
+   "stat": "",
+   "sub": "",
+   "visual_query": "river channel middle"
+  },
+  {
+   "narration": "Thalweg is a German word for the line of the deepest channel. Creeks move, and the middle moves with them.",
+   "emoji": "📐",
+   "headline": "The deepest line",
+   "stat": "",
+   "sub": "",
+   "visual_query": "river channel aerial"
+  },
+  {
+   "narration": "In the 1920s, pillars were placed along the creek's mid-channel, and a map from 1925 shows that line.",
+   "emoji": "📌",
+   "headline": "The 1925 map",
+   "stat": "1925",
+   "sub": "",
+   "visual_query": "boundary pillar marsh"
+  },
+  {
+   "narration": "India says that map settles it. The border is in the middle, and that is where India's claim stands.",
+   "emoji": "🇮🇳",
+   "headline": "India's claim",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India flag border"
+  },
+  {
+   "narration": "Pakistan says the thalweg rule should not apply, because in its view the creek is not navigable, so the east bank is the line.",
+   "emoji": "🇵🇰",
+   "headline": "Pakistan's claim",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pakistan flag"
+  },
+  {
+   "narration": "India disagrees. It says the creek is navigable for much of the year, so the mid-channel rule applies.",
+   "emoji": "⛵",
+   "headline": "Navigable or not?",
+   "stat": "",
+   "sub": "",
+   "visual_query": "boat in creek"
+  },
+  {
+   "narration": "So both sides are reading from the same old papers, and both can point to a line in them.",
+   "emoji": "📚",
+   "headline": "Same papers, two readings",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old maps documents"
+  },
+  {
+   "narration": "Now the part that sounds fake. The creek itself changes. Tides push mud, silt builds up, and channels shift over the years.",
+   "emoji": "🔄",
+   "headline": "The creek moves",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tidal mudflat channel"
+  },
+  {
+   "narration": "A border drawn in the middle of a channel is a border that wants to move when the channel moves.",
+   "emoji": "➡️",
+   "headline": "A moving middle",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tidal creek mudflats"
+  },
+  {
+   "narration": "That is the problem with water. A fence stays where you build it. A creek will not.",
+   "emoji": "🚧",
+   "headline": "Fences stay, creeks don't",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border fence marsh"
+  },
+  {
+   "narration": "The creek is more than a few lines on a map. It also helps decide where the sea border begins.",
+   "emoji": "🌐",
+   "headline": "Sea border starts here",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Arabian Sea coastline"
+  },
+  {
+   "narration": "Analysts say that where the land border meets the sea, a small shift in the line can change a large area of water.",
+   "emoji": "📏",
+   "headline": "Small shift, big sea",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ocean map boundary"
+  },
+  {
+   "narration": "That water matters. It holds fishing grounds, and analysts say there may be oil and gas under the seabed too.",
+   "emoji": "🛢️",
+   "headline": "Fish, oil and gas",
+   "stat": "",
+   "sub": "",
+   "visual_query": "fishing boats Gujarat"
+  },
+  {
+   "narration": "Fishermen feel the dispute the most. Boats drift across an invisible line, and crews on both sides have been arrested for it.",
+   "emoji": "🎣",
+   "headline": "Fishermen pay the price",
+   "stat": "",
+   "sub": "",
+   "visual_query": "fishermen boat Gujarat"
+  },
+  {
+   "narration": "Out there, the line is not painted anywhere. A boat can cross it without anyone on board knowing.",
+   "emoji": "🧭",
+   "headline": "An invisible line",
+   "stat": "",
+   "sub": "",
+   "visual_query": "fishing boat sea"
+  },
+  {
+   "narration": "Talks have gone on for decades. India and Pakistan have discussed Sir Creek in rounds of official talks, and it is still unresolved.",
+   "emoji": "🤝",
+   "headline": "Decades of talks",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Pakistan talks"
+  },
+  {
+   "narration": "It is in the news again. In recent years, Indian leaders have spoken sharply about Sir Creek and security in the area.",
+   "emoji": "📰",
+   "headline": "Back in the news",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Indian army officers"
+  },
+  {
+   "narration": "There is history here too. In 1965, a clash in the nearby Rann of Kutch led to fighting between the two countries.",
+   "emoji": "🪖",
+   "headline": "1965 clash",
+   "stat": "1965",
+   "sub": "",
+   "visual_query": "Rann of Kutch 1965"
+  },
+  {
+   "narration": "In 1968 a tribunal ruled on the Rann of Kutch border, but the dispute over Sir Creek never fully went away.",
+   "emoji": "⚖️",
+   "headline": "1968 tribunal",
+   "stat": "1968",
+   "sub": "",
+   "visual_query": "international tribunal court"
+  },
+  {
+   "narration": "So let us pull it together. Sir Creek is a border that depends on a word, a pillar, and a channel of water.",
+   "emoji": "🧩",
+   "headline": "Word, pillar, water",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sir Creek pillar"
+  },
+  {
+   "narration": "Two old paragraphs, pillars from the 1920s, and a creek that moves. That is enough to keep a dispute alive for decades.",
+   "emoji": "⏳",
+   "headline": "Enough for decades",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old boundary pillar"
+  },
+  {
+   "narration": "So go back to the first line. Your Gujarat map hides a creek India and Pakistan still argue over, because the water keeps moving.",
+   "emoji": "🔁",
+   "headline": "Back to the start",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gujarat map"
+  },
+  {
+   "narration": "A salt desert that becomes a sea, swimming camels, a sign nobody can read, and a quake that built a wall.",
+   "emoji": "✅",
+   "headline": "All in one corner",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kutch Rann sunset"
+  },
+  {
+   "narration": "All of that sits in one stretch of India, and all of it ends at one muddy creek.",
+   "emoji": "📍",
+   "headline": "One muddy creek",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sir Creek mangroves"
+  },
+  {
+   "narration": "Next time: the country whose clocks run fifteen minutes ahead of India's. Watch it, and see how a clock can feel like a border.",
+   "emoji": "➡️",
+   "headline": "Next: the odd clock",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nepal Kathmandu"
+  }
+ ]
+}

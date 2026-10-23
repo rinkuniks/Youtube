@@ -1,0 +1,94 @@
+{
+ "category": "geography",
+ "topic": "Panmunjom blue huts on the Korean border",
+ "hook": "Your next step can cross into North Korea.",
+ "title": "One Room That Sits in Two Countries",
+ "description": "On the Panmunjom tour, blue huts sit right on the line between North and South Korea. Inside the meeting room, you can stand on both sides of the border. Part of the series Places That Shouldn't Exist.\n\n#Shorts #Geography #Korea",
+ "tags": [
+  "panmunjom",
+  "north korea",
+  "south korea",
+  "korean border",
+  "DMZ",
+  "blue huts",
+  "border facts",
+  "geography facts",
+  "places that shouldn't exist"
+ ],
+ "comment_prompt": "Would you step across? Yes or no",
+ "hook_banner": "ONE ROOM, TWO COUNTRIES",
+ "scenes": [
+  {
+   "narration": "Your next step can cross into North Korea.",
+   "emoji": "🇰🇷",
+   "headline": "Cross The Border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Panmunjom blue huts"
+  },
+  {
+   "narration": "It happens inside a small blue hut.",
+   "emoji": "🏠",
+   "headline": "A Blue Hut",
+   "stat": "",
+   "sub": "Panmunjom, Korea",
+   "visual_query": "Joint Security Area blue building"
+  },
+  {
+   "narration": "The hut sits right on the border.",
+   "emoji": "📍",
+   "headline": "Right On The Line",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Korean border demarcation line"
+  },
+  {
+   "narration": "Microphone wires on the table mark the line.",
+   "emoji": "🎙️",
+   "headline": "The Line Is A Table",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Panmunjom meeting room table"
+  },
+  {
+   "narration": "Stand on one side, you're in South Korea.",
+   "emoji": "🇰🇷",
+   "headline": "South Korea Side",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Panmunjom tour visitors"
+  },
+  {
+   "narration": "Walk around the table, and you're in North.",
+   "emoji": "🇰🇵",
+   "headline": "North Korea Side",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Panmunjom conference room soldier"
+  },
+  {
+   "narration": "Soldiers stand guard inside the room.",
+   "emoji": "💂",
+   "headline": "Guards Inside",
+   "stat": "",
+   "sub": "",
+   "visual_query": "South Korean soldier Panmunjom"
+  },
+  {
+   "narration": "One room, two countries, one tour.",
+   "emoji": "🧭",
+   "headline": "One Room, Two Countries",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Korean DMZ border sign"
+  },
+  {
+   "narration": "Tomorrow: a city carved from stone.",
+   "emoji": "➡️",
+   "headline": "Tomorrow: Petra",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Petra Jordan Treasury"
+  }
+ ]
+}

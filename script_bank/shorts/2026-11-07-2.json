@@ -1,0 +1,94 @@
+{
+ "category": "geography",
+ "topic": "Four Corners Monument",
+ "hook": "Your body can be in four US states at once.",
+ "title": "Stand in four US states at once",
+ "description": "At the Four Corners Monument, Utah, Colorado, Arizona and New Mexico meet at a marker on the ground. Put a hand or foot on each quadrant and you are touching all four states. It is the only point in the US where four states meet.",
+ "tags": [
+  "four corners",
+  "four corners monument",
+  "usa geography",
+  "borders",
+  "utah",
+  "colorado",
+  "arizona",
+  "new mexico",
+  "geography facts"
+ ],
+ "comment_prompt": "Would you do it? Yes or no",
+ "hook_banner": "FOUR STATES, ONE SPOT",
+ "scenes": [
+  {
+   "narration": "Your body can be in four states at once.",
+   "emoji": "🧍",
+   "headline": "Four States At Once",
+   "stat": "4",
+   "sub": "states",
+   "visual_query": "Four Corners Monument marker"
+  },
+  {
+   "narration": "This is the Four Corners Monument.",
+   "emoji": "📍",
+   "headline": "Four Corners",
+   "stat": "",
+   "sub": "USA",
+   "visual_query": "Four Corners Monument"
+  },
+  {
+   "narration": "Utah, Colorado, Arizona and New Mexico meet here.",
+   "emoji": "🗺️",
+   "headline": "Four States Meet",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Four Corners states map"
+  },
+  {
+   "narration": "Two feet and two hands, four states.",
+   "emoji": "🙌",
+   "headline": "Hands And Feet",
+   "stat": "",
+   "sub": "",
+   "visual_query": "person Four Corners marker"
+  },
+  {
+   "narration": "It is the only place in the US like this.",
+   "emoji": "🇺🇸",
+   "headline": "Only One In The US",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Four Corners plaque"
+  },
+  {
+   "narration": "Visitors line up for this photo.",
+   "emoji": "📸",
+   "headline": "The Famous Photo",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tourists Four Corners"
+  },
+  {
+   "narration": "A marker on the ground shows the spot.",
+   "emoji": "🎯",
+   "headline": "A Marker In The Dirt",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Four Corners disk ground"
+  },
+  {
+   "narration": "Right there, your body is in four states.",
+   "emoji": "🧍",
+   "headline": "Four States, One Body",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Four Corners aerial"
+  },
+  {
+   "narration": "Next: another place that shouldn't exist.",
+   "emoji": "➡️",
+   "headline": "Up Next",
+   "stat": "",
+   "sub": "More strange places",
+   "visual_query": "world map borders"
+  }
+ ]
+}

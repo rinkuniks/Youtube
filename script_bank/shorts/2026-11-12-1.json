@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Monaco, a tiny country",
+ "hook": "You can walk across a whole country in minutes.",
+ "title": "You can walk across this whole country",
+ "description": "Monaco covers only about 2 square kilometres on the French Riviera, making it the second-smallest country in the world after the Vatican. France surrounds it on every land side, yet Formula 1 races through its streets. Part of the Places That Shouldn't Exist series.\n\n#Shorts #Monaco #PlacesThatShouldntExist",
+ "tags": [
+  "monaco",
+  "smallest country",
+  "french riviera",
+  "geography facts",
+  "places that shouldn't exist",
+  "monaco grand prix",
+  "tiny countries",
+  "europe facts"
+ ],
+ "comment_prompt": "Would you live there? Yes or no",
+ "hook_banner": "A WHOLE COUNTRY",
+ "scenes": [
+  {
+   "narration": "You can walk across a whole country in minutes.",
+   "emoji": "🚶",
+   "headline": "A Whole Country",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Monaco street walking"
+  },
+  {
+   "narration": "It's Monaco, on the French Riviera.",
+   "emoji": "🇲🇨",
+   "headline": "Monaco",
+   "stat": "",
+   "sub": "French Riviera",
+   "visual_query": "Monaco French Riviera skyline"
+  },
+  {
+   "narration": "It covers only about two square kilometres.",
+   "emoji": "📏",
+   "headline": "About 2 Square Km",
+   "stat": "2 km²",
+   "sub": "",
+   "visual_query": "Monaco aerial view"
+  },
+  {
+   "narration": "Only the Vatican is smaller.",
+   "emoji": "⛪",
+   "headline": "2nd Smallest Country",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Vatican City aerial"
+  },
+  {
+   "narration": "France surrounds it on every land side.",
+   "emoji": "🗺️",
+   "headline": "Surrounded By France",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Monaco France border map"
+  },
+  {
+   "narration": "Yet Formula 1 races through its streets.",
+   "emoji": "🏎️",
+   "headline": "F1 Races Here",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Monaco Grand Prix cars"
+  },
+  {
+   "narration": "Racing cars roar past its apartment blocks.",
+   "emoji": "🏢",
+   "headline": "Cars Past Apartments",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Monaco Grand Prix street circuit"
+  },
+  {
+   "narration": "A whole country, crossed in minutes.",
+   "emoji": "⏱️",
+   "headline": "Crossed In Minutes",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Monaco harbour yachts"
+  },
+  {
+   "narration": "Tomorrow: another place that shouldn't exist.",
+   "emoji": "🌍",
+   "headline": "Tomorrow: Another Place",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map globe"
+  }
+ ]
+}

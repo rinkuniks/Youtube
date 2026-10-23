@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "ISS Cupola window chip",
+ "hook": "Your space station window has a chip in it.",
+ "title": "A Tiny Speck Cracked the ISS Window",
+ "description": "In 2016, a tiny piece of space debris, likely a paint fleck, struck the Cupola window on the International Space Station. It was only thousandths of a millimetre across, yet it left a visible chip.\n\n#Shorts #ISS #SpaceFacts",
+ "tags": [
+  "ISS",
+  "Cupola",
+  "space debris",
+  "paint fleck",
+  "space station",
+  "space facts",
+  "Tim Peake",
+  "orbit"
+ ],
+ "comment_prompt": "Would you look out? Yes or no",
+ "hook_banner": "CRACKED IN SPACE",
+ "scenes": [
+  {
+   "narration": "Your space station window has a chip.",
+   "emoji": "🛰️",
+   "headline": "A Chipped Window",
+   "stat": "",
+   "sub": "In orbit",
+   "visual_query": "ISS Cupola window chip"
+  },
+  {
+   "narration": "It's the Cupola, the ISS's big window.",
+   "emoji": "🪟",
+   "headline": "The Cupola",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ISS Cupola"
+  },
+  {
+   "narration": "In 2016, something struck it.",
+   "emoji": "💥",
+   "headline": "Hit In 2016",
+   "stat": "2016",
+   "sub": "",
+   "visual_query": "space station window damage"
+  },
+  {
+   "narration": "Likely a speck of paint.",
+   "emoji": "🎨",
+   "headline": "A Speck Of Paint",
+   "stat": "",
+   "sub": "Most likely",
+   "visual_query": "space debris paint fleck"
+  },
+  {
+   "narration": "It was thousandths of a millimetre across.",
+   "emoji": "🔬",
+   "headline": "Unbelievably Tiny",
+   "stat": "",
+   "sub": "Thousandths of a mm",
+   "visual_query": "microscopic particle"
+  },
+  {
+   "narration": "Yet it left a visible crack.",
+   "emoji": "🔎",
+   "headline": "Visible Crack",
+   "stat": "",
+   "sub": "",
+   "visual_query": "cracked window chip close up"
+  },
+  {
+   "narration": "Space junk moves faster than a bullet.",
+   "emoji": "🚀",
+   "headline": "Faster Than A Bullet",
+   "stat": "",
+   "sub": "",
+   "visual_query": "space debris Earth orbit"
+  },
+  {
+   "narration": "Your window's chip came from a paint speck.",
+   "emoji": "🪟",
+   "headline": "Paint Speck, Big Chip",
+   "stat": "",
+   "sub": "",
+   "visual_query": "International Space Station Earth"
+  },
+  {
+   "narration": "Next: more facts that sound fake.",
+   "emoji": "➡️",
+   "headline": "More Fake-Sounding Facts",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Earth from space"
+  }
+ ]
+}

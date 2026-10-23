@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Voyager 1 signal delay",
+ "hook": "Your Voyager 1 message arrives nearly a day late.",
+ "title": "Your Voyager 1 Message Is Almost A Day Old",
+ "description": "Voyager 1 launched in 1977 and now flies in interstellar space. Its radio signal travels at the speed of light, yet it takes close to a full day to reach Earth. The probe is still sending data home.\n\n#Shorts #Voyager1 #SpaceFacts",
+ "tags": [
+  "voyager 1",
+  "interstellar space",
+  "nasa",
+  "space facts",
+  "1977",
+  "light day",
+  "deep space network",
+  "space probe"
+ ],
+ "comment_prompt": "Would you wait a day for a reply? Yes or no",
+ "hook_banner": "A DAY OLD ALREADY",
+ "scenes": [
+  {
+   "narration": "Your Voyager 1 message arrives nearly a day late.",
+   "emoji": "📡",
+   "headline": "Nearly A Day Late",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Voyager 1 spacecraft"
+  },
+  {
+   "narration": "It left Earth in 1977.",
+   "emoji": "🚀",
+   "headline": "Launched 1977",
+   "stat": "1977",
+   "sub": "",
+   "visual_query": "Voyager launch Titan rocket"
+  },
+  {
+   "narration": "Radio waves travel at the speed of light.",
+   "emoji": "⚡",
+   "headline": "Speed Of Light",
+   "stat": "",
+   "sub": "",
+   "visual_query": "radio waves antenna"
+  },
+  {
+   "narration": "Even so, the trip takes close to a day.",
+   "emoji": "⏳",
+   "headline": "Close To A Full Day",
+   "stat": "~1 DAY",
+   "sub": "one way",
+   "visual_query": "clock hourglass"
+  },
+  {
+   "narration": "It now flies in interstellar space.",
+   "emoji": "🌌",
+   "headline": "Interstellar Space",
+   "stat": "",
+   "sub": "",
+   "visual_query": "interstellar space stars"
+  },
+  {
+   "narration": "It still sends data home today.",
+   "emoji": "📶",
+   "headline": "Still Sending Data",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Deep Space Network dish"
+  },
+  {
+   "narration": "Its power source is nearly fifty years old.",
+   "emoji": "🔋",
+   "headline": "Nearly 50 Years Old",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Voyager spacecraft model"
+  },
+  {
+   "narration": "So today's news from Voyager is a day old.",
+   "emoji": "📰",
+   "headline": "A Day-Old Message",
+   "stat": "",
+   "sub": "",
+   "visual_query": "NASA mission control"
+  },
+  {
+   "narration": "Tomorrow: a QR code that survives scribbles.",
+   "emoji": "📱",
+   "headline": "Tomorrow",
+   "stat": "",
+   "sub": "Scribbled QR test",
+   "visual_query": "QR code phone scan"
+  }
+ ]
+}

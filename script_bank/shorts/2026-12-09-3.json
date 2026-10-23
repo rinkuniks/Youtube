@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Cheyava Falls leopard-spot rock on Mars",
+ "hook": "Your Mars rover found a leopard-spotted rock.",
+ "title": "A Leopard-Spotted Rock Found on Mars",
+ "description": "In 2024, NASA's Perseverance rover photographed a rock called Cheyava Falls with spots and streaks. NASA called it a possible sign of ancient microbial life. It is not proven, and the rover collected a sample for study.\n\n#Shorts #Mars #NASA",
+ "tags": [
+  "Perseverance",
+  "Mars",
+  "Cheyava Falls",
+  "NASA",
+  "leopard spots",
+  "ancient life",
+  "space facts",
+  "Mars rover"
+ ],
+ "comment_prompt": "Life on Mars? Yes or no",
+ "hook_banner": "SPOTS ON MARS",
+ "scenes": [
+  {
+   "narration": "Your Mars rover found a leopard-spotted rock.",
+   "emoji": "🐆",
+   "headline": "Leopard Spots On Mars",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cheyava Falls Perseverance rock"
+  },
+  {
+   "narration": "In 2024, Perseverance photographed it.",
+   "emoji": "📸",
+   "headline": "Photographed In 2024",
+   "stat": "2024",
+   "sub": "",
+   "visual_query": "Perseverance rover Mars"
+  },
+  {
+   "narration": "NASA named the rock Cheyava Falls.",
+   "emoji": "🪨",
+   "headline": "Cheyava Falls",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mars rock spots streaks"
+  },
+  {
+   "narration": "Its spots and streaks looked strange.",
+   "emoji": "🔍",
+   "headline": "Spots And Streaks",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mars rock close up"
+  },
+  {
+   "narration": "A possible sign of ancient microbial life.",
+   "emoji": "🦠",
+   "headline": "Possible Ancient Life",
+   "stat": "",
+   "sub": "NASA's words",
+   "visual_query": "Jezero crater Mars"
+  },
+  {
+   "narration": "That means possible, not proven.",
+   "emoji": "⚖️",
+   "headline": "Possible, Not Proven",
+   "stat": "",
+   "sub": "",
+   "visual_query": "NASA scientists Mars"
+  },
+  {
+   "narration": "The rover collected a sample from it.",
+   "emoji": "🧪",
+   "headline": "Sample Collected",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Perseverance drill sample"
+  },
+  {
+   "narration": "Your leopard-spot rock stays a Martian mystery.",
+   "emoji": "❓",
+   "headline": "Martian Mystery",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mars landscape rover"
+  },
+  {
+   "narration": "Tomorrow: a chipped window in space.",
+   "emoji": "➡️",
+   "headline": "Next: Cracked Window",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ISS Cupola window"
+  }
+ ]
+}

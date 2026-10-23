@@ -1,0 +1,80 @@
+{
+ "category": "technology",
+ "topic": "Boeing 787 dimmable windows",
+ "hook": "Your plane window can go dark without any shade.",
+ "title": "Plane Windows That Darken at a Button",
+ "description": "Boeing 787 Dreamliner windows have no pull-down shades. Instead the glass dims when you press a button, and you can watch it darken. It is real technology on real passenger planes.\n\n#Shorts #Technology #Boeing787",
+ "tags": [
+  "Boeing 787",
+  "Dreamliner",
+  "smart glass",
+  "plane window",
+  "technology facts",
+  "aviation",
+  "amazing tech",
+  "shorts"
+ ],
+ "comment_prompt": "Shade or button? Shade or button",
+ "hook_banner": "NO SHADE NEEDED",
+ "scenes": [
+  {
+   "narration": "Your plane window can go dark without any shade.",
+   "emoji": "🪟",
+   "headline": "NO WINDOW SHADE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Boeing 787 window dimmed"
+  },
+  {
+   "narration": "This is a Boeing 787 Dreamliner.",
+   "emoji": "✈️",
+   "headline": "BOEING 787",
+   "stat": "",
+   "sub": "Dreamliner",
+   "visual_query": "Boeing 787 Dreamliner"
+  },
+  {
+   "narration": "There is no plastic shade to pull.",
+   "emoji": "🚫",
+   "headline": "NOTHING TO PULL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "787 cabin window"
+  },
+  {
+   "narration": "You just touch a button.",
+   "emoji": "👆",
+   "headline": "TOUCH A BUTTON",
+   "stat": "",
+   "sub": "",
+   "visual_query": "787 window button"
+  },
+  {
+   "narration": "The glass slowly turns dark blue.",
+   "emoji": "🌑",
+   "headline": "THE GLASS DARKENS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "electrochromic window darkening"
+  },
+  {
+   "narration": "You can watch the darkening happen.",
+   "emoji": "👀",
+   "headline": "WATCH IT HAPPEN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "787 dimmable window"
+  },
+  {
+   "narration": "Press again and the sky comes back.",
+   "emoji": "☁️",
+   "headline": "SKY COMES BACK",
+   "stat": "",
+   "sub": "",
+   "visual_query": "airplane window clouds"
+  },
+  {
+   "narration": "A window that dims itself. Tomorrow: another strange place."
+  }
+ ]
+}

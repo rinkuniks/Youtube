@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Rio Tinto red river, Spain",
+ "hook": "Your map shows a rust-red river in Spain.",
+ "title": "Your Map Shows a River as Red as Rust",
+ "description": "Spain's Rio Tinto runs rust-red because of dissolved iron and acidic water linked to old mines. The colours are so unusual that the area is studied as a Mars-like place. Part of the Places That Shouldn't Exist series.\n\n#Shorts #Geography #PlacesThatShouldntExist",
+ "tags": [
+  "rio tinto",
+  "spain",
+  "red river",
+  "geography facts",
+  "places that shouldn't exist",
+  "mars like place",
+  "weird geography",
+  "shorts"
+ ],
+ "comment_prompt": "Would you swim here? Yes or no",
+ "hook_banner": "THIS RIVER IS REAL",
+ "scenes": [
+  {
+   "narration": "Your map shows a rust-red river in Spain.",
+   "emoji": "🗺️",
+   "headline": "A Rust-Red River",
+   "stat": "",
+   "sub": "Spain",
+   "visual_query": "Rio Tinto red river"
+  },
+  {
+   "narration": "It is called the Rio Tinto.",
+   "emoji": "🌊",
+   "headline": "Rio Tinto",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rio Tinto Spain water"
+  },
+  {
+   "narration": "Its water is full of dissolved iron.",
+   "emoji": "🧲",
+   "headline": "Full Of Iron",
+   "stat": "",
+   "sub": "",
+   "visual_query": "rusty red river iron"
+  },
+  {
+   "narration": "It is also very acidic.",
+   "emoji": "⚗️",
+   "headline": "Very Acidic",
+   "stat": "",
+   "sub": "",
+   "visual_query": "acidic red water"
+  },
+  {
+   "narration": "Mining here goes back thousands of years.",
+   "emoji": "⛏️",
+   "headline": "Ancient Mining",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rio Tinto mine Huelva"
+  },
+  {
+   "narration": "Old mines feed that acid into the water.",
+   "emoji": "🏭",
+   "headline": "Old Mines",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Minas de Riotinto open pit"
+  },
+  {
+   "narration": "The colours look more like Mars than Earth.",
+   "emoji": "🔴",
+   "headline": "Looks Like Mars",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rio Tinto Mars landscape"
+  },
+  {
+   "narration": "So yes, that rust-red river is real.",
+   "emoji": "✅",
+   "headline": "It Is Real",
+   "stat": "",
+   "sub": "",
+   "visual_query": "red river Spain aerial"
+  },
+  {
+   "narration": "Tomorrow: a city carved inside solid rock.",
+   "emoji": "➡️",
+   "headline": "Tomorrow",
+   "stat": "",
+   "sub": "A rock city",
+   "visual_query": "Matera Sassi"
+  }
+ ]
+}

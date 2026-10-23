@@ -1,0 +1,102 @@
+{
+ "category": "technology",
+ "topic": "Delhi Metro Magenta Line driverless trains",
+ "hook": "Your Delhi Metro train can run with no driver.",
+ "title": "Delhi's Metro Line With No Driver",
+ "description": "Delhi Metro's Magenta Line runs driverless trains. With no driver's cabin, passengers can stand at the front window and watch the tunnel rush toward them. It runs from Janakpuri West to Botanical Garden.\n\n#Shorts #DelhiMetro #Technology",
+ "tags": [
+  "delhi metro",
+  "magenta line",
+  "driverless train",
+  "delhi metro facts",
+  "india technology",
+  "metro",
+  "automated train",
+  "tech facts",
+  "india facts"
+ ],
+ "comment_prompt": "Would you ride it? Yes or no",
+ "hook_banner": "NO DRIVER ONBOARD",
+ "scenes": [
+  {
+   "narration": "Your Delhi Metro train can run with no driver.",
+   "emoji": "🚇",
+   "headline": "No Driver",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Delhi Metro Magenta Line train"
+  },
+  {
+   "narration": "This is the Magenta Line.",
+   "emoji": "🟣",
+   "headline": "Magenta Line",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Magenta Line Delhi"
+  },
+  {
+   "narration": "It runs driverless trains.",
+   "emoji": "🤖",
+   "headline": "Driverless Trains",
+   "stat": "",
+   "sub": "",
+   "visual_query": "driverless metro Delhi"
+  },
+  {
+   "narration": "Automated systems run it, not a person.",
+   "emoji": "💻",
+   "headline": "Automated Control",
+   "stat": "",
+   "sub": "",
+   "visual_query": "metro control room"
+  },
+  {
+   "narration": "So there is no driver's cabin.",
+   "emoji": "🚪",
+   "headline": "No Cabin",
+   "stat": "",
+   "sub": "",
+   "visual_query": "metro front window passengers"
+  },
+  {
+   "narration": "Passengers can stand at the front window.",
+   "emoji": "🪟",
+   "headline": "Front Window View",
+   "stat": "",
+   "sub": "",
+   "visual_query": "metro train front view tunnel"
+  },
+  {
+   "narration": "You watch the tunnel rush toward you.",
+   "emoji": "🌀",
+   "headline": "Tunnel Rush",
+   "stat": "",
+   "sub": "",
+   "visual_query": "metro tunnel front view"
+  },
+  {
+   "narration": "It runs from Janakpuri West to Botanical Garden.",
+   "emoji": "🗺️",
+   "headline": "Janakpuri To Noida",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Botanical Garden metro station Noida"
+  },
+  {
+   "narration": "Yes, your Delhi Metro can drive itself.",
+   "emoji": "🚆",
+   "headline": "It Drives Itself",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Delhi Metro station platform"
+  },
+  {
+   "narration": "Tomorrow: hills that look like chocolate drops.",
+   "emoji": "➡️",
+   "headline": "Tomorrow: Chocolate Hills",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Chocolate Hills Bohol"
+  }
+ ]
+}

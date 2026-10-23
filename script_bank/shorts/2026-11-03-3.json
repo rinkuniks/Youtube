@@ -1,0 +1,101 @@
+{
+ "category": "space",
+ "topic": "Alan Shepard golf on the Moon",
+ "hook": "Your golf game on the Moon really happened.",
+ "title": "A Man Played Golf on the Moon in 1971",
+ "description": "On Apollo 14 in 1971, Alan Shepard attached a golf club head to a tool handle and hit golf balls on the Moon. His stiff spacesuit meant a one-handed swing. Series: If You Were in Space.\n\n#Shorts #Space #Apollo14",
+ "tags": [
+  "alan shepard",
+  "apollo 14",
+  "golf on the moon",
+  "moon",
+  "space facts",
+  "nasa",
+  "if you were in space",
+  "shorts"
+ ],
+ "comment_prompt": "Would you play golf up there? Yes or no",
+ "hook_banner": "REAL MOON FOOTAGE",
+ "scenes": [
+  {
+   "narration": "Your golf game on the Moon really happened.",
+   "emoji": "⛳",
+   "headline": "GOLF ON THE MOON",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Alan Shepard golf Moon"
+  },
+  {
+   "narration": "Alan Shepard did it on Apollo 14.",
+   "emoji": "👨‍🚀",
+   "headline": "ALAN SHEPARD",
+   "stat": "",
+   "sub": "Apollo 14",
+   "visual_query": "Alan Shepard Apollo 14"
+  },
+  {
+   "narration": "He brought a golf club head along.",
+   "emoji": "🏌️",
+   "headline": "A CLUB HEAD",
+   "stat": "",
+   "sub": "",
+   "visual_query": "golf club head"
+  },
+  {
+   "narration": "He clipped it onto a tool handle.",
+   "emoji": "🔧",
+   "headline": "ON A TOOL HANDLE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "lunar tool handle"
+  },
+  {
+   "narration": "Then he swung at real golf balls.",
+   "emoji": "🏌️",
+   "headline": "REAL GOLF BALLS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "golf ball Moon"
+  },
+  {
+   "narration": "His stiff spacesuit forced a one-handed swing.",
+   "emoji": "🧤",
+   "headline": "ONE-HANDED SWING",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Apollo spacesuit astronaut"
+  },
+  {
+   "narration": "It was 1971, and the camera caught it.",
+   "emoji": "🎥",
+   "headline": "CAUGHT ON CAMERA",
+   "stat": "1971",
+   "sub": "",
+   "visual_query": "Apollo 14 lunar surface"
+  },
+  {
+   "narration": "Low gravity, no air, nothing to slow it.",
+   "emoji": "🌑",
+   "headline": "LOW GRAVITY",
+   "stat": "",
+   "sub": "No air",
+   "visual_query": "Moon surface"
+  },
+  {
+   "narration": "That's golf on the Moon, and it happened.",
+   "emoji": "⛳",
+   "headline": "IT HAPPENED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Shepard golf swing"
+  },
+  {
+   "narration": "Tomorrow: cars left parked up there.",
+   "emoji": "🚙",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "Cars on the Moon",
+   "visual_query": "lunar rover Moon"
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Wave Rock, Western Australia",
+ "hook": "Your photo shows a wave frozen in stone.",
+ "title": "Your photo shows a giant wave made of rock",
+ "description": "Wave Rock in Western Australia is a granite cliff about 14 metres high, shaped like a breaking ocean wave. It was carved by water and soil wearing away its base, not by the sea. Part of the Places That Shouldn't Exist series.\n\n#Shorts #Australia #PlacesThatShouldntExist",
+ "tags": [
+  "wave rock",
+  "western australia",
+  "granite",
+  "geography facts",
+  "places that shouldn't exist",
+  "hyden",
+  "australia travel",
+  "natural wonders"
+ ],
+ "comment_prompt": "Real or edited photo? Real or edited",
+ "hook_banner": "THIS ROCK IS REAL",
+ "scenes": [
+  {
+   "narration": "Your photo shows a wave frozen in stone.",
+   "emoji": "🌊",
+   "headline": "A Wave Of Stone",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Wave Rock Western Australia"
+  },
+  {
+   "narration": "It's Wave Rock, in Western Australia.",
+   "emoji": "🇦🇺",
+   "headline": "Wave Rock, Australia",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Wave Rock Hyden granite"
+  },
+  {
+   "narration": "The cliff is about fourteen metres high.",
+   "emoji": "📏",
+   "headline": "About 14 Metres High",
+   "stat": "14 m",
+   "sub": "",
+   "visual_query": "Wave Rock tourists standing"
+  },
+  {
+   "narration": "It's solid granite, not water or sand.",
+   "emoji": "🪨",
+   "headline": "Solid Granite",
+   "stat": "",
+   "sub": "",
+   "visual_query": "granite cliff curve"
+  },
+  {
+   "narration": "Water and soil carved its curve underground.",
+   "emoji": "💧",
+   "headline": "Carved Underground",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Wave Rock stripes"
+  },
+  {
+   "narration": "The rock itself is billions of years old.",
+   "emoji": "⏳",
+   "headline": "Billions Of Years Old",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Wave Rock aerial"
+  },
+  {
+   "narration": "The sea is hundreds of kilometres away.",
+   "emoji": "🗺️",
+   "headline": "Far From Any Sea",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Western Australia outback landscape"
+  },
+  {
+   "narration": "A frozen wave, nowhere near the ocean.",
+   "emoji": "🏜️",
+   "headline": "Wave, No Ocean",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Wave Rock Hyden"
+  },
+  {
+   "narration": "Next: a planet that rolls on its side.",
+   "emoji": "🪐",
+   "headline": "Next: Rolling Planet",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Uranus planet"
+  }
+ ]
+}

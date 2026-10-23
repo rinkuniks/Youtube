@@ -1,0 +1,102 @@
+{
+ "category": "geography",
+ "topic": "Petra Treasury carved into the cliff",
+ "hook": "Your first view of Petra is a carved cliff.",
+ "title": "The Jordan Building Carved Into a Cliff",
+ "description": "Petra's famous Treasury was carved straight into rose-red sandstone cliff by the Nabataeans. Much of the whole city was cut from rock, which is why it is nicknamed the Rose City. Part of the series Places That Shouldn't Exist.\n\n#Shorts #Petra #Jordan",
+ "tags": [
+  "petra",
+  "jordan",
+  "treasury petra",
+  "al-khazneh",
+  "rose city",
+  "nabataeans",
+  "ancient wonders",
+  "geography facts",
+  "places that shouldn't exist"
+ ],
+ "comment_prompt": "Would you visit Petra? Yes or no",
+ "hook_banner": "CARVED, NOT BUILT",
+ "scenes": [
+  {
+   "narration": "Your first view of Petra is a carved cliff.",
+   "emoji": "🏜️",
+   "headline": "Carved Cliff",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Petra Treasury facade"
+  },
+  {
+   "narration": "This giant building was never stacked.",
+   "emoji": "🏛️",
+   "headline": "Never Built",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Petra Treasury Jordan"
+  },
+  {
+   "narration": "It is called the Treasury.",
+   "emoji": "💰",
+   "headline": "The Treasury",
+   "stat": "",
+   "sub": "Al-Khazneh",
+   "visual_query": "Al Khazneh Petra"
+  },
+  {
+   "narration": "The rock glows rose red in sunlight.",
+   "emoji": "🌅",
+   "headline": "Rose-Red Rock",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Petra rose red sandstone"
+  },
+  {
+   "narration": "Nabataean people carved it in Jordan's desert.",
+   "emoji": "⛏️",
+   "headline": "Cut By Hand",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Petra Siq canyon"
+  },
+  {
+   "narration": "They carved much of a city from stone.",
+   "emoji": "🏙️",
+   "headline": "A City In Rock",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Petra Monastery Jordan"
+  },
+  {
+   "narration": "Tombs, temples and houses, all cut from rock.",
+   "emoji": "🪨",
+   "headline": "Tombs And Temples",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Petra royal tombs"
+  },
+  {
+   "narration": "Petra is nicknamed the Rose City.",
+   "emoji": "🌹",
+   "headline": "The Rose City",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Petra Jordan sunset"
+  },
+  {
+   "narration": "Not built. Carved from one cliff.",
+   "emoji": "🧗",
+   "headline": "Carved, Not Built",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Petra Treasury tourists"
+  },
+  {
+   "narration": "Tomorrow: a moon painted two colours.",
+   "emoji": "➡️",
+   "headline": "Tomorrow: Iapetus",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Saturn moon Iapetus"
+  }
+ ]
+}

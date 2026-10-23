@@ -1,0 +1,101 @@
+{
+ "category": "space",
+ "topic": "Venera 13 Venus surface photos",
+ "hook": "Your camera on Venus would last about two hours.",
+ "title": "A camera survived two hours on Venus",
+ "description": "In 1982 the Soviet Venera 13 lander touched down on Venus and sent back the first colour photos of its surface. It survived about two hours in heat hot enough to melt lead. Engineers had only planned for around half an hour.\n\nSeries: If You Were in Space.",
+ "tags": [
+  "Venus",
+  "Venera 13",
+  "space facts",
+  "Soviet space",
+  "colour photos",
+  "space probe",
+  "shorts",
+  "did you know"
+ ],
+ "comment_prompt": "Would you visit Venus? Yes or no",
+ "hook_banner": "REAL VENUS PHOTOS",
+ "scenes": [
+  {
+   "narration": "Your camera on Venus would last about two hours.",
+   "emoji": "📷",
+   "headline": "Two Hours On Venus",
+   "stat": "~2 HRS",
+   "sub": "",
+   "visual_query": "Venera 13 Venus surface"
+  },
+  {
+   "narration": "Soviet Venera 13 landed there in 1982.",
+   "emoji": "🛰️",
+   "headline": "Venera 13 Lands",
+   "stat": "1982",
+   "sub": "",
+   "visual_query": "Venera 13 lander"
+  },
+  {
+   "narration": "The surface is hot enough to melt lead.",
+   "emoji": "🔥",
+   "headline": "Hot Enough To Melt Lead",
+   "stat": "",
+   "sub": "",
+   "visual_query": "molten lead"
+  },
+  {
+   "narration": "Engineers only expected about half an hour.",
+   "emoji": "⏱️",
+   "headline": "Planned: Half An Hour",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Soviet space engineers"
+  },
+  {
+   "narration": "It sent back the first colour photos.",
+   "emoji": "🎨",
+   "headline": "First Colour Photos",
+   "stat": "",
+   "sub": "Venus surface",
+   "visual_query": "Venus surface colour photo"
+  },
+  {
+   "narration": "They showed an orange sky and flat rocks.",
+   "emoji": "🟠",
+   "headline": "Orange Sky",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Venus rocks orange sky"
+  },
+  {
+   "narration": "Then the heat finally killed it.",
+   "emoji": "💀",
+   "headline": "Heat Won",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Venera lander"
+  },
+  {
+   "narration": "Those photos still exist today.",
+   "emoji": "🖼️",
+   "headline": "Photos Still Exist",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Venus planet surface"
+  },
+  {
+   "narration": "Your camera lasted two hours on Venus.",
+   "emoji": "🪐",
+   "headline": "Two Hours On Venus",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Venus planet"
+  },
+  {
+   "narration": "Tomorrow: a landing on a moon with lakes.",
+   "emoji": "🌙",
+   "headline": "Tomorrow: Titan",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Titan moon Saturn"
+  }
+ ]
+}

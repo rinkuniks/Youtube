@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Esperance fines NASA for Skylab",
+ "hook": "Your falling space station can earn you a littering fine.",
+ "title": "A town fined NASA $400 for littering",
+ "description": "When Skylab fell on Western Australia in 1979, the town of Esperance fined NASA 400 dollars for littering. The fine was finally paid in 2009. Part of the series 'If You Were in Space'.\n\n#Shorts #Skylab #SpaceFacts",
+ "tags": [
+  "skylab",
+  "esperance",
+  "nasa",
+  "littering fine",
+  "space facts",
+  "western australia",
+  "shorts",
+  "space junk"
+ ],
+ "comment_prompt": "Would you have paid it? Yes or no",
+ "hook_banner": "NASA GOT A TICKET",
+ "scenes": [
+  {
+   "narration": "Your falling space station can earn a littering fine.",
+   "emoji": "🛰️",
+   "headline": "SPACE LITTERING FINE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Skylab space station"
+  },
+  {
+   "narration": "In 1979, Skylab broke up over Western Australia.",
+   "emoji": "🔥",
+   "headline": "SKYLAB FALLS",
+   "stat": "1979",
+   "sub": "",
+   "visual_query": "Skylab debris Australia"
+  },
+  {
+   "narration": "Pieces landed near the town of Esperance.",
+   "emoji": "📍",
+   "headline": "ESPERANCE, AUSTRALIA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Esperance Western Australia"
+  },
+  {
+   "narration": "The town fined NASA 400 dollars for littering.",
+   "emoji": "🧾",
+   "headline": "$400 LITTERING FINE",
+   "stat": "$400",
+   "sub": "",
+   "visual_query": "littering fine ticket"
+  },
+  {
+   "narration": "NASA ignored the ticket for decades.",
+   "emoji": "🙈",
+   "headline": "UNPAID FOR DECADES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "NASA headquarters building"
+  },
+  {
+   "narration": "In 2009, a radio host paid it.",
+   "emoji": "📻",
+   "headline": "PAID IN 2009",
+   "stat": "2009",
+   "sub": "",
+   "visual_query": "radio studio microphone"
+  },
+  {
+   "narration": "The fine was settled thirty years later.",
+   "emoji": "✅",
+   "headline": "30 YEARS LATER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Skylab debris museum"
+  },
+  {
+   "narration": "A space station got a littering ticket.",
+   "emoji": "🛰️",
+   "headline": "A SPACE STATION, FINED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Skylab in orbit"
+  },
+  {
+   "narration": "Tomorrow: a sticker with no battery.",
+   "emoji": "➡️",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "A sticker with no battery",
+   "visual_query": "FASTag toll plaza India"
+  }
+ ]
+}

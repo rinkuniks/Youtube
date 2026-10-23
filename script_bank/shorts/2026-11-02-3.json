@@ -1,0 +1,85 @@
+{
+ "category": "geography",
+ "topic": "Kuttanad rice farming below sea level",
+ "hook": "Your rice field in Kuttanad sits below sea level.",
+ "title": "Your Kerala Rice Field Is Below Sea Level",
+ "description": "Kuttanad in Kerala is a region where farmers grow rice on land below sea level. They hold back the water with earth walls called bunds. Part of the Places That Shouldn't Exist series.\n\n#Shorts #Kerala #Kuttanad",
+ "tags": [
+  "kuttanad",
+  "kerala",
+  "below sea level",
+  "rice farming",
+  "india facts",
+  "geography facts",
+  "places that shouldn't exist",
+  "backwaters"
+ ],
+ "comment_prompt": "Have you seen Kuttanad? Yes or no",
+ "hook_banner": "FARMING BELOW THE SEA",
+ "scenes": [
+  {
+   "narration": "Your Kuttanad rice field sits below sea level.",
+   "emoji": "🌾",
+   "headline": "BELOW SEA LEVEL",
+   "stat": "",
+   "sub": "Kerala",
+   "visual_query": "Kuttanad rice field Kerala"
+  },
+  {
+   "narration": "Kuttanad is in Kerala, near the backwaters.",
+   "emoji": "🛶",
+   "headline": "KERALA BACKWATERS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kerala backwaters boat"
+  },
+  {
+   "narration": "Farmers grow rice on land lower than the sea.",
+   "emoji": "🧑‍🌾",
+   "headline": "RICE BELOW THE SEA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kerala farmers paddy field"
+  },
+  {
+   "narration": "So water wants to flood every field.",
+   "emoji": "🌊",
+   "headline": "WATER WANTS IN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "flooded paddy field Kerala"
+  },
+  {
+   "narration": "Farmers hold it back with earth walls.",
+   "emoji": "🧱",
+   "headline": "EARTH WALLS",
+   "stat": "",
+   "sub": "Called bunds",
+   "visual_query": "paddy bund embankment Kuttanad"
+  },
+  {
+   "narration": "Those walls are called bunds.",
+   "emoji": "🛡️",
+   "headline": "BUNDS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kuttanad bund canal"
+  },
+  {
+   "narration": "Your rice field sits below sea level.",
+   "emoji": "🌴",
+   "headline": "BELOW SEA LEVEL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Alappuzha paddy backwaters"
+  },
+  {
+   "narration": "Tomorrow: another place that should not exist.",
+   "emoji": "🗺️",
+   "headline": "NEXT: ANOTHER PLACE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map globe"
+  }
+ ]
+}

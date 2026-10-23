@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Hatch chile tacos grown on the ISS",
+ "hook": "Your tacos were grown in space.",
+ "title": "Astronauts Grew Chile Peppers for Tacos in Orbit",
+ "description": "In 2021, astronauts on the International Space Station grew Hatch chile peppers, picked them and ate them in tacos. NASA shared photos of the meal. Part of the If You Were in Space series.\n\n#Shorts #Space #IfYouWereInSpace",
+ "tags": [
+  "space tacos",
+  "iss",
+  "hatch chile",
+  "nasa",
+  "astronaut food",
+  "space facts",
+  "growing food in space",
+  "international space station"
+ ],
+ "comment_prompt": "Spicy or mild? Pick one word",
+ "hook_banner": "GROWN IN ORBIT",
+ "scenes": [
+  {
+   "narration": "Your tacos were grown in space.",
+   "emoji": "🌮",
+   "headline": "TACOS FROM SPACE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut tacos space station"
+  },
+  {
+   "narration": "In 2021, astronauts grew chile peppers on the ISS.",
+   "emoji": "🌶️",
+   "headline": "CHILES ON THE ISS",
+   "stat": "2021",
+   "sub": "",
+   "visual_query": "chile peppers space station"
+  },
+  {
+   "narration": "Then they picked the peppers by hand.",
+   "emoji": "🧑‍🚀",
+   "headline": "HARVESTED IN ORBIT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut harvesting peppers"
+  },
+  {
+   "narration": "Then they put them in tacos.",
+   "emoji": "🌮",
+   "headline": "INTO THE TACOS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronauts eating tacos ISS"
+  },
+  {
+   "narration": "NASA shared photos of the whole meal.",
+   "emoji": "📸",
+   "headline": "NASA PHOTOS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "NASA space station meal"
+  },
+  {
+   "narration": "Those peppers grew while floating above Earth.",
+   "emoji": "🌍",
+   "headline": "FLOATING ABOVE EARTH",
+   "stat": "",
+   "sub": "",
+   "visual_query": "International Space Station Earth"
+  },
+  {
+   "narration": "Real fresh food, grown in orbit.",
+   "emoji": "🌱",
+   "headline": "FRESH FOOD IN ORBIT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "plants growing space station"
+  },
+  {
+   "narration": "So yes, your tacos were grown in space.",
+   "emoji": "🚀",
+   "headline": "SPACE-GROWN TACOS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut taco floating"
+  },
+  {
+   "narration": "Tomorrow: a flame that cannot burn a flower.",
+   "emoji": "🌸",
+   "headline": "NEXT: FLAME VS FLOWER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "flower aerogel flame"
+  }
+ ]
+}

@@ -1,0 +1,713 @@
+{
+ "topic": "Strange borders countdown ending on NJ9842 and the Siachen gap",
+ "hook": "Your map of India has a border that just stops, and nobody ever wrote down where it goes next.",
+ "title": "6 Borders That Make No Sense (One Just Stops)",
+ "description": "Six real borders that look fake on a map, from a road that stops for airplanes to a village that uses two currencies. The last one is India's strangest: the Line of Control ends at a point called NJ9842, and the agreement only says 'thence north to the glaciers', which leaves the Siachen area undefined. Watch to the end to see why two armies still stand on that ice.\n\n#borders #india #geography",
+ "tags": [
+  "strange borders",
+  "borders that make no sense",
+  "NJ9842",
+  "Siachen glacier",
+  "Line of Control",
+  "Karachi Agreement",
+  "Simla Agreement",
+  "India Pakistan border",
+  "Gibraltar runway",
+  "Llivia",
+  "Busingen",
+  "Northwest Angle",
+  "Kaliningrad",
+  "geography facts",
+  "weird maps"
+ ],
+ "comment_prompt": "Which border was the strangest?",
+ "hook_banner": "THIS BORDER JUST STOPS",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "6: Road across a runway",
+   "scene": 6
+  },
+  {
+   "title": "5: Spanish town inside France",
+   "scene": 14
+  },
+  {
+   "title": "4: Two currencies, one village",
+   "scene": 22
+  },
+  {
+   "title": "3: America only through Canada",
+   "scene": 30
+  },
+  {
+   "title": "2: Russia without a land link",
+   "scene": 40
+  },
+  {
+   "title": "1: NJ9842, where India's line ends",
+   "scene": 50
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your map of India has a border that just stops, and nobody ever wrote down where it goes next.",
+   "emoji": "🗺️",
+   "headline": "A Border That Stops",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kashmir map border"
+  },
+  {
+   "narration": "By the end, you will see where that line ends, and why two armies still sit on the ice.",
+   "emoji": "🧊",
+   "headline": "Where It Ends",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Siachen glacier soldiers"
+  },
+  {
+   "narration": "But first, five borders from around the world that make no sense. Each one is stranger than the last.",
+   "emoji": "🌍",
+   "headline": "Five Strange Borders",
+   "stat": "5",
+   "sub": "Each one stranger",
+   "visual_query": "world map borders"
+  },
+  {
+   "narration": "Some cut across runways. Some leave towns trapped inside other countries. One leaves a piece of America reachable only through Canada.",
+   "emoji": "🛣️",
+   "headline": "Lines That Fail",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border sign road"
+  },
+  {
+   "narration": "And the last one is ours. A single point on the map, with a code name: NJ9842.",
+   "emoji": "📍",
+   "headline": "NJ9842",
+   "stat": "NJ9842",
+   "sub": "A point, not a place",
+   "visual_query": "Himalaya mountains map"
+  },
+  {
+   "narration": "Let's start with a road where cars have to stop for airplanes.",
+   "emoji": "✈️",
+   "headline": "Cars Stop For Planes",
+   "stat": "",
+   "sub": "",
+   "visual_query": "airplane runway road"
+  },
+  {
+   "narration": "Number six. Your drive into Gibraltar from Spain goes straight across an airport runway.",
+   "emoji": "🛬",
+   "headline": "Gibraltar Runway",
+   "stat": "6",
+   "sub": "Road crosses runway",
+   "visual_query": "Gibraltar airport runway"
+  },
+  {
+   "narration": "Gibraltar is a small British territory on the southern tip of Spain, with a famous rock and a very short border.",
+   "emoji": "🪨",
+   "headline": "Tiny Territory",
+   "stat": "",
+   "sub": "British, on Spain's coast",
+   "visual_query": "Rock of Gibraltar"
+  },
+  {
+   "narration": "The land is so tight that the runway had to be built right across the main road.",
+   "emoji": "🛣️",
+   "headline": "No Space Left",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar Winston Churchill Avenue"
+  },
+  {
+   "narration": "When a plane is about to land or take off, barriers come down and the cars wait.",
+   "emoji": "🚧",
+   "headline": "Barriers Come Down",
+   "stat": "",
+   "sub": "",
+   "visual_query": "road barrier runway crossing"
+  },
+  {
+   "narration": "Walkers, scooters and buses all stop together, and a jet rolls past just metres from the queue.",
+   "emoji": "🛵",
+   "headline": "Everyone Waits",
+   "stat": "",
+   "sub": "",
+   "visual_query": "plane landing road traffic"
+  },
+  {
+   "narration": "Then the barriers lift, and you carry on into a different country, as if nothing happened.",
+   "emoji": "🚗",
+   "headline": "Then You Drive On",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar border Spain"
+  },
+  {
+   "narration": "Imagine a border crossing where the biggest delay is a plane overhead.",
+   "emoji": "🤯",
+   "headline": "Delay: One Jet",
+   "stat": "",
+   "sub": "",
+   "visual_query": "airport runway traffic jam"
+  },
+  {
+   "narration": "That is strange. But the next one is a whole town in the wrong country.",
+   "emoji": "🏘️",
+   "headline": "A Town Out Of Place",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pyrenees village"
+  },
+  {
+   "narration": "Number five. Your map of Llívia shows a Spanish town sitting inside France.",
+   "emoji": "🇪🇸",
+   "headline": "Spanish Town In France",
+   "stat": "5",
+   "sub": "Llívia",
+   "visual_query": "Llivia town Pyrenees"
+  },
+  {
+   "narration": "Llívia is not on the Spanish side of the Pyrenees. It is surrounded by French land, a few kilometres from Spain.",
+   "emoji": "🏔️",
+   "headline": "Surrounded By France",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pyrenees mountains road"
+  },
+  {
+   "narration": "The reason goes back to a treaty in 1659, when Spain handed France a set of villages.",
+   "emoji": "📜",
+   "headline": "Treaty of 1659",
+   "stat": "1659",
+   "sub": "Spain gave France villages",
+   "visual_query": "old treaty document"
+  },
+  {
+   "narration": "But Llívia was counted as a town, not a village, so on paper it was never handed over.",
+   "emoji": "✍️",
+   "headline": "Town, Not Village",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old map Catalonia"
+  },
+  {
+   "narration": "So it stayed Spanish, and a small road now links it to Spain through French territory.",
+   "emoji": "🛣️",
+   "headline": "A Road Home",
+   "stat": "",
+   "sub": "",
+   "visual_query": "mountain road Pyrenees"
+  },
+  {
+   "narration": "You can stand in a Spanish town, look in any direction, and see only France.",
+   "emoji": "👀",
+   "headline": "France All Around",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Llivia church square"
+  },
+  {
+   "narration": "A single word in an old treaty did that, and the map still shows it today.",
+   "emoji": "📖",
+   "headline": "One Word Did This",
+   "stat": "",
+   "sub": "",
+   "visual_query": "treaty pen map"
+  },
+  {
+   "narration": "Now imagine that, but the trapped place is a village that uses two different currencies.",
+   "emoji": "💶",
+   "headline": "Two Currencies Next",
+   "stat": "",
+   "sub": "",
+   "visual_query": "euro Swiss franc coins"
+  },
+  {
+   "narration": "Number four. Your shopping in Büsingen could be paid in euros or in Swiss francs.",
+   "emoji": "💱",
+   "headline": "Euros Or Francs",
+   "stat": "4",
+   "sub": "Büsingen",
+   "visual_query": "Busingen Rhine village"
+  },
+  {
+   "narration": "Büsingen is a German village, but it sits completely inside Switzerland, with Swiss land around it on every side.",
+   "emoji": "🇩🇪",
+   "headline": "German Island",
+   "stat": "",
+   "sub": "Inside Switzerland",
+   "visual_query": "Switzerland German border"
+  },
+  {
+   "narration": "Germany owns the village, yet it is also treated as part of the Swiss customs area.",
+   "emoji": "🛃",
+   "headline": "Swiss Customs Area",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss customs border"
+  },
+  {
+   "narration": "So shops there commonly take both euros and Swiss francs. One village, one street, two money systems.",
+   "emoji": "🛒",
+   "headline": "Two Money Systems",
+   "stat": "",
+   "sub": "",
+   "visual_query": "shop cash register coins"
+  },
+  {
+   "narration": "The story is a mix of old land deals and old borders that nobody bothered to tidy up.",
+   "emoji": "🧩",
+   "headline": "Never Tidied Up",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old map Europe borders"
+  },
+  {
+   "narration": "Nobody redrew it, and so a German village is today a tiny island inside Switzerland.",
+   "emoji": "🏝️",
+   "headline": "A Tiny Island",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rhine river Switzerland"
+  },
+  {
+   "narration": "Open the map and you can trace it. A small German shape, wrapped in Swiss land.",
+   "emoji": "🗺️",
+   "headline": "Trace The Shape",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Busingen map"
+  },
+  {
+   "narration": "Next, a place in America that you can only reach by going through another country.",
+   "emoji": "🇺🇸",
+   "headline": "America Via Canada",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake of the Woods"
+  },
+  {
+   "narration": "Number three. Your map of Minnesota has a piece of America that sits north of the rest.",
+   "emoji": "🧭",
+   "headline": "Minnesota's Odd Corner",
+   "stat": "3",
+   "sub": "Northwest Angle",
+   "visual_query": "Minnesota map"
+  },
+  {
+   "narration": "It is called the Northwest Angle, and it is the only part of the main United States above the 49th parallel.",
+   "emoji": "📐",
+   "headline": "Above The 49th",
+   "stat": "49°",
+   "sub": "Northwest Angle",
+   "visual_query": "Northwest Angle Minnesota"
+  },
+  {
+   "narration": "The border there was drawn from an old map that got the rivers and lakes wrong.",
+   "emoji": "📜",
+   "headline": "A Wrong Old Map",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old map lakes rivers"
+  },
+  {
+   "narration": "When the real land was surveyed, the line had to take a strange jump around Lake of the Woods.",
+   "emoji": "🌲",
+   "headline": "A Jump In The Line",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake of the Woods aerial"
+  },
+  {
+   "narration": "The result is a patch of American land, with lake water between it and the rest of Minnesota.",
+   "emoji": "🏞️",
+   "headline": "Land Across The Lake",
+   "stat": "",
+   "sub": "",
+   "visual_query": "lake islands forest"
+  },
+  {
+   "narration": "You can drive there only by going through Canada, or you can cross the lake by boat.",
+   "emoji": "🚤",
+   "headline": "Via Canada Or Boat",
+   "stat": "",
+   "sub": "",
+   "visual_query": "boat Lake of the Woods"
+  },
+  {
+   "narration": "Residents have to deal with border rules just to reach the rest of their own country.",
+   "emoji": "🛂",
+   "headline": "Rules To Go Home",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border checkpoint Canada"
+  },
+  {
+   "narration": "So a road trip home can mean leaving the United States and coming back in.",
+   "emoji": "🔄",
+   "headline": "Leave To Return",
+   "stat": "",
+   "sub": "",
+   "visual_query": "US Canada border sign"
+  },
+  {
+   "narration": "If you enjoy strange places like these, subscribe, because tomorrow there is another one.",
+   "emoji": "🔔",
+   "headline": "Subscribe For More",
+   "stat": "",
+   "sub": "",
+   "visual_query": "globe map pins"
+  },
+  {
+   "narration": "The next one is a region of Europe that is not connected to its own country.",
+   "emoji": "🗺️",
+   "headline": "Cut Off From Home",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baltic Sea coast"
+  },
+  {
+   "narration": "Number two. Your map of Kaliningrad shows a Russian region with no land border to the rest of Russia.",
+   "emoji": "🇷🇺",
+   "headline": "Kaliningrad",
+   "stat": "2",
+   "sub": "Russia, cut off",
+   "visual_query": "Kaliningrad city"
+  },
+  {
+   "narration": "It sits on the Baltic coast, squeezed between Poland and Lithuania, far from the Russian mainland.",
+   "emoji": "🌊",
+   "headline": "Squeezed In Europe",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kaliningrad Baltic coast"
+  },
+  {
+   "narration": "Before 1945, this was the German city of Königsberg. After the Second World War, the Soviet Union took it.",
+   "emoji": "🏰",
+   "headline": "Once Königsberg",
+   "stat": "1945",
+   "sub": "German until then",
+   "visual_query": "Konigsberg old city"
+  },
+  {
+   "narration": "Then the Soviet Union broke up, and Lithuania became its own country.",
+   "emoji": "💥",
+   "headline": "Then The USSR Ended",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Soviet flag"
+  },
+  {
+   "narration": "Suddenly, Russia had a region that could be reached by land only by crossing another country.",
+   "emoji": "🛤️",
+   "headline": "Stranded By Borders",
+   "stat": "",
+   "sub": "",
+   "visual_query": "train border crossing Lithuania"
+  },
+  {
+   "narration": "That is why people reach it by air, by sea, or by land only through other countries.",
+   "emoji": "🚢",
+   "headline": "Air, Sea, Or Transit",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kaliningrad port ship"
+  },
+  {
+   "narration": "A Russian address, and the nearest Russian land is on the far side of other nations.",
+   "emoji": "📮",
+   "headline": "Home Is Far Away",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Russia map Baltic"
+  },
+  {
+   "narration": "Imagine a part of Gujarat that you could reach only by passing through another country.",
+   "emoji": "🇮🇳",
+   "headline": "Imagine Gujarat Cut Off",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gujarat map India"
+  },
+  {
+   "narration": "Five strange borders so far, and all of them have one thing in common: somebody drew a line.",
+   "emoji": "✏️",
+   "headline": "Somebody Drew A Line",
+   "stat": "",
+   "sub": "",
+   "visual_query": "drawing line on map"
+  },
+  {
+   "narration": "But the last one is different. This time, nobody finished drawing the line.",
+   "emoji": "❓",
+   "headline": "Nobody Finished It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "unfinished map pencil"
+  },
+  {
+   "narration": "Number one. Your map of the Line of Control stops at a point called NJ9842.",
+   "emoji": "📍",
+   "headline": "The Line Stops",
+   "stat": "NJ9842",
+   "sub": "Line of Control",
+   "visual_query": "Line of Control Kashmir"
+  },
+  {
+   "narration": "Not a city. Not a river. Just a code on a map, in the high Himalayas.",
+   "emoji": "🏔️",
+   "headline": "Just A Map Code",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Himalayas snow peaks"
+  },
+  {
+   "narration": "In 1949, India and Pakistan signed the Karachi Agreement, which marked a ceasefire line across Kashmir.",
+   "emoji": "🤝",
+   "headline": "Karachi Agreement",
+   "stat": "1949",
+   "sub": "Ceasefire line",
+   "visual_query": "Kashmir mountains 1949"
+  },
+  {
+   "narration": "Later, after the 1971 war, the Simla Agreement turned it into the Line of Control.",
+   "emoji": "📄",
+   "headline": "Simla Agreement",
+   "stat": "",
+   "sub": "Became the LoC",
+   "visual_query": "Simla Agreement signing"
+  },
+  {
+   "narration": "The line was described point by point, across mountains, rivers and passes.",
+   "emoji": "📏",
+   "headline": "Point By Point",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kashmir valley river"
+  },
+  {
+   "narration": "Then the description reaches NJ9842, and after that, the precise points simply run out.",
+   "emoji": "🛑",
+   "headline": "The Points Run Out",
+   "stat": "NJ9842",
+   "sub": "",
+   "visual_query": "Karakoram peaks"
+  },
+  {
+   "narration": "The last words of the agreement are: thence north to the glaciers.",
+   "emoji": "📜",
+   "headline": "Thence North",
+   "stat": "",
+   "sub": "To the glaciers",
+   "visual_query": "old agreement text"
+  },
+  {
+   "narration": "That is it. No coordinates, no landmarks, no peaks. Just north, towards the ice.",
+   "emoji": "⬆️",
+   "headline": "Just: Go North",
+   "stat": "",
+   "sub": "",
+   "visual_query": "glacier ice field"
+  },
+  {
+   "narration": "The people who wrote it believed the terrain was so brutal that nobody would ever fight there.",
+   "emoji": "🥶",
+   "headline": "Too Harsh To Fight",
+   "stat": "",
+   "sub": "",
+   "visual_query": "snow mountain storm"
+  },
+  {
+   "narration": "Nobody lived on those glaciers. No roads, no farms, no reason to argue about a line.",
+   "emoji": "❄️",
+   "headline": "Nobody Lived There",
+   "stat": "",
+   "sub": "",
+   "visual_query": "empty glacier"
+  },
+  {
+   "narration": "So they left it open, and a gap on a map became a very real problem.",
+   "emoji": "⚠️",
+   "headline": "A Gap Becomes A Problem",
+   "stat": "",
+   "sub": "",
+   "visual_query": "map gap dotted line"
+  },
+  {
+   "narration": "This is the top of the map, where Kashmir meets the Karakoram, some of the highest land on Earth.",
+   "emoji": "🗻",
+   "headline": "Roof Of The Map",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Karakoram mountains"
+  },
+  {
+   "narration": "At the end of that gap sits the Siachen Glacier, one of the longest glaciers outside the polar regions.",
+   "emoji": "🧊",
+   "headline": "Siachen Glacier",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Siachen glacier"
+  },
+  {
+   "narration": "Both India and Pakistan read those few words differently, and each said the glacier was theirs.",
+   "emoji": "⚖️",
+   "headline": "Two Readings",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Pakistan flags"
+  },
+  {
+   "narration": "In April 1984, India launched Operation Meghdoot and moved soldiers on to the main ridges of the glacier.",
+   "emoji": "🪖",
+   "headline": "Operation Meghdoot",
+   "stat": "1984",
+   "sub": "April",
+   "visual_query": "Indian Army Siachen"
+  },
+  {
+   "narration": "Pakistan then sent troops to the lower ground, and the glacier turned into a frozen front line.",
+   "emoji": "🎿",
+   "headline": "A Frozen Front Line",
+   "stat": "",
+   "sub": "",
+   "visual_query": "soldiers snow mountain"
+  },
+  {
+   "narration": "It became known as the highest battlefield in the world, with posts far above the clouds.",
+   "emoji": "☁️",
+   "headline": "Highest Battlefield",
+   "stat": "",
+   "sub": "",
+   "visual_query": "army post snow peak"
+  },
+  {
+   "narration": "Soldiers there live in snow and ice for months, with air so thin that every step is hard.",
+   "emoji": "😮‍💨",
+   "headline": "Thin Air, Hard Steps",
+   "stat": "",
+   "sub": "",
+   "visual_query": "soldier walking glacier"
+  },
+  {
+   "narration": "Temperatures can fall far below freezing, and winds can turn a storm into a wall of white.",
+   "emoji": "🌨️",
+   "headline": "Walls Of White",
+   "stat": "",
+   "sub": "",
+   "visual_query": "blizzard mountain"
+  },
+  {
+   "narration": "Reports say far more soldiers have died from avalanches and cold than from gunfire.",
+   "emoji": "🏔️",
+   "headline": "The Weather Kills",
+   "stat": "",
+   "sub": "",
+   "visual_query": "avalanche mountain"
+  },
+  {
+   "narration": "Helicopters bring food, fuel and letters, because a road cannot exist on moving ice.",
+   "emoji": "🚁",
+   "headline": "Supplies By Air",
+   "stat": "",
+   "sub": "",
+   "visual_query": "helicopter Himalaya"
+  },
+  {
+   "narration": "A ceasefire has held on the glacier since 2003, but the soldiers remain, because neither side wants to leave first.",
+   "emoji": "🕊️",
+   "headline": "Ceasefire Since 2003",
+   "stat": "2003",
+   "sub": "Soldiers stay",
+   "visual_query": "snow bunker soldiers"
+  },
+  {
+   "narration": "The two armies' positions have their own name: the Actual Ground Position Line, or AGPL.",
+   "emoji": "📌",
+   "headline": "The AGPL",
+   "stat": "",
+   "sub": "Actual Ground Position Line",
+   "visual_query": "military map Siachen"
+  },
+  {
+   "narration": "So there are two lines. The one on paper that ends, and the real one, held by people on ice.",
+   "emoji": "✌️",
+   "headline": "Two Different Lines",
+   "stat": "2",
+   "sub": "Paper vs ground",
+   "visual_query": "map two lines"
+  },
+  {
+   "narration": "Imagine a border where the two sides disagree not on a river, but on a few words in a sentence.",
+   "emoji": "💬",
+   "headline": "A Fight Over Words",
+   "stat": "",
+   "sub": "",
+   "visual_query": "treaty words magnifying glass"
+  },
+  {
+   "narration": "Look at the map, and the Line of Control stops at the top. That ending is NJ9842.",
+   "emoji": "🔍",
+   "headline": "Find NJ9842",
+   "stat": "NJ9842",
+   "sub": "",
+   "visual_query": "Kashmir map zoomed"
+  },
+  {
+   "narration": "A frozen front line, and years of standoff, all because of one code and five vague words.",
+   "emoji": "🧊",
+   "headline": "One Code, Five Words",
+   "stat": "5",
+   "sub": "",
+   "visual_query": "Siachen base camp"
+  },
+  {
+   "narration": "So that is the strangest border in India: a line that does not end on a river, a peak or a wall.",
+   "emoji": "🇮🇳",
+   "headline": "India's Strangest Border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Pakistan border map"
+  },
+  {
+   "narration": "It ends in a sentence. Five words that say go north, and leave the rest to the ice.",
+   "emoji": "📝",
+   "headline": "It Ends In A Sentence",
+   "stat": "",
+   "sub": "",
+   "visual_query": "glacier ice north"
+  },
+  {
+   "narration": "Back to where we started. Your map of India has a border that just stops, and now you know where.",
+   "emoji": "🔁",
+   "headline": "It Just Stops",
+   "stat": "NJ9842",
+   "sub": "",
+   "visual_query": "Himalayas map India"
+  },
+  {
+   "narration": "Where that line stops, two armies still stand on ice that moves, guarding a place that no agreement ever named.",
+   "emoji": "🧭",
+   "headline": "A Place Never Named",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Siachen glacier aerial"
+  },
+  {
+   "narration": "Tomorrow: another place on the map that should not exist.",
+   "emoji": "➡️",
+   "headline": "Tomorrow: Another One",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map globe"
+  }
+ ]
+}

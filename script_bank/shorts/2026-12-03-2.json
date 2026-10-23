@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Meteora monasteries",
+ "hook": "Your photo shows monasteries on stone pillars.",
+ "title": "Monasteries Built On Giant Rock Pillars",
+ "description": "Meteora in Greece has monasteries built on top of tall sandstone pillars. Some are still reached by steps carved into the rock.\n\nSeries: Places That Shouldn't Exist.",
+ "tags": [
+  "meteora",
+  "greece",
+  "monastery",
+  "sandstone",
+  "travel",
+  "geography",
+  "places that shouldnt exist",
+  "shorts"
+ ],
+ "comment_prompt": "Would you climb up? Yes or no",
+ "hook_banner": "THIS PLACE IS REAL",
+ "scenes": [
+  {
+   "narration": "Your photo shows monasteries on stone pillars.",
+   "emoji": "📸",
+   "headline": "MONASTERIES ON PILLARS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Meteora monastery pillar"
+  },
+  {
+   "narration": "This is Meteora, in Greece.",
+   "emoji": "🇬🇷",
+   "headline": "METEORA, GREECE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Meteora Greece aerial"
+  },
+  {
+   "narration": "The pillars are tall sandstone rock.",
+   "emoji": "⛰️",
+   "headline": "TALL SANDSTONE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Meteora sandstone pillars"
+  },
+  {
+   "narration": "Monks built monasteries right on top.",
+   "emoji": "🏛️",
+   "headline": "BUILT ON TOP",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Meteora monks monastery"
+  },
+  {
+   "narration": "Some are still reached by carved steps.",
+   "emoji": "🪜",
+   "headline": "CARVED STEPS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Meteora rock steps"
+  },
+  {
+   "narration": "Steps cut straight into the rock.",
+   "emoji": "⛏️",
+   "headline": "CUT INTO ROCK",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Meteora stairs carved rock"
+  },
+  {
+   "narration": "Six monasteries are still active today.",
+   "emoji": "🔔",
+   "headline": "STILL ACTIVE TODAY",
+   "stat": "6",
+   "sub": "",
+   "visual_query": "Meteora Great Meteoron"
+  },
+  {
+   "narration": "Your photo shows homes built on pillars.",
+   "emoji": "📸",
+   "headline": "HOMES ON PILLARS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Meteora sunrise monasteries"
+  },
+  {
+   "narration": "Tomorrow: tiny animals that survived space.",
+   "emoji": "🐻",
+   "headline": "NEXT: SPACE SURVIVORS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tardigrade microscope"
+  }
+ ]
+}

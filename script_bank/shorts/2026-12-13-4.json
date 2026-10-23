@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Kalpana Chawla first Indian-born woman in space",
+ "hook": "If you grew up in Karnal, so did an astronaut.",
+ "title": "A girl from Karnal who flew on a shuttle",
+ "description": "Kalpana Chawla was born in Karnal, Haryana. In 1997 she flew aboard Space Shuttle Columbia and became the first Indian-born woman in space. India later named its Kalpana-1 satellite in her honour.\n\n#Shorts #Space #KalpanaChawla",
+ "tags": [
+  "kalpana chawla",
+  "karnal",
+  "haryana",
+  "indian astronaut",
+  "space shuttle columbia",
+  "women in space",
+  "space facts",
+  "shorts"
+ ],
+ "comment_prompt": "Proud of her? Yes or no",
+ "hook_banner": "FROM KARNAL TO ORBIT",
+ "scenes": [
+  {
+   "narration": "If you grew up in Karnal, so did an astronaut.",
+   "emoji": "👩‍🚀",
+   "headline": "FROM KARNAL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kalpana Chawla astronaut"
+  },
+  {
+   "narration": "Kalpana Chawla was born in Karnal, Haryana.",
+   "emoji": "📍",
+   "headline": "BORN IN HARYANA",
+   "stat": "",
+   "sub": "Karnal",
+   "visual_query": "Karnal Haryana city"
+  },
+  {
+   "narration": "In 1997 she flew aboard Space Shuttle Columbia.",
+   "emoji": "🚀",
+   "headline": "COLUMBIA, 1997",
+   "stat": "1997",
+   "sub": "",
+   "visual_query": "Space Shuttle Columbia launch"
+  },
+  {
+   "narration": "She became the first Indian-born woman in space.",
+   "emoji": "🇮🇳",
+   "headline": "FIRST INDIAN-BORN WOMAN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kalpana Chawla NASA portrait"
+  },
+  {
+   "narration": "She flew a second mission in 2003.",
+   "emoji": "🛰️",
+   "headline": "SECOND MISSION",
+   "stat": "2003",
+   "sub": "",
+   "visual_query": "Columbia shuttle crew 2003"
+  },
+  {
+   "narration": "That mission ended in the Columbia disaster.",
+   "emoji": "🕊️",
+   "headline": "NEVER FORGOTTEN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Columbia memorial"
+  },
+  {
+   "narration": "India named a satellite Kalpana-1 for her.",
+   "emoji": "🛰️",
+   "headline": "KALPANA-1",
+   "stat": "",
+   "sub": "named for her",
+   "visual_query": "Kalpana-1 satellite ISRO"
+  },
+  {
+   "narration": "A girl from Karnal, once in orbit.",
+   "emoji": "🌍",
+   "headline": "KARNAL TO ORBIT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Earth from space"
+  },
+  {
+   "narration": "Tomorrow: a rainbow hiding on a CD.",
+   "emoji": "🌈",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "try it yourself",
+   "visual_query": "CD rainbow reflection"
+  }
+ ]
+}

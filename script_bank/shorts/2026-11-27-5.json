@@ -1,0 +1,93 @@
+{
+ "category": "technology",
+ "topic": "ReWalk exoskeleton",
+ "hook": "Your legs can walk without your spine's help.",
+ "title": "A Robot Suit Makes Paralysed Legs Walk",
+ "description": "Exoskeletons like ReWalk use motors at the hips and knees so a person with a spinal cord injury can stand and take steps. Videos of it are easy to find online. Real technology that feels like science fiction.\n\n#Shorts #Technology #Exoskeleton",
+ "tags": [
+  "exoskeleton",
+  "ReWalk",
+  "robot suit",
+  "technology facts",
+  "paralysis",
+  "wearable robot",
+  "amazing tech",
+  "shorts"
+ ],
+ "comment_prompt": "Would you wear one? Yes or no",
+ "hook_banner": "THIS TECH IS REAL",
+ "scenes": [
+  {
+   "narration": "Your legs can walk without your spine's help.",
+   "emoji": "🦿",
+   "headline": "WALKING WITHOUT A SPINE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "exoskeleton walking person"
+  },
+  {
+   "narration": "A robot suit does the stepping for you.",
+   "emoji": "🤖",
+   "headline": "THE ROBOT SUIT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ReWalk exoskeleton"
+  },
+  {
+   "narration": "Suits like ReWalk strap onto the legs.",
+   "emoji": "🦵",
+   "headline": "STRAPS ONTO LEGS",
+   "stat": "",
+   "sub": "ReWalk",
+   "visual_query": "exoskeleton legs"
+  },
+  {
+   "narration": "Motors bend the hips and knees.",
+   "emoji": "⚙️",
+   "headline": "MOTORS DO THE WORK",
+   "stat": "",
+   "sub": "",
+   "visual_query": "exoskeleton motor joint"
+  },
+  {
+   "narration": "A person with spinal paralysis stands up.",
+   "emoji": "🧍",
+   "headline": "STANDING UP",
+   "stat": "",
+   "sub": "",
+   "visual_query": "paralysed man standing exoskeleton"
+  },
+  {
+   "narration": "Then they take real steps, on camera.",
+   "emoji": "👣",
+   "headline": "REAL STEPS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "exoskeleton walking steps"
+  },
+  {
+   "narration": "You can watch it in videos online.",
+   "emoji": "📹",
+   "headline": "WATCH IT YOURSELF",
+   "stat": "",
+   "sub": "",
+   "visual_query": "exoskeleton rehabilitation"
+  },
+  {
+   "narration": "Legs that can't move, walking again.",
+   "emoji": "❤️",
+   "headline": "WALKING AGAIN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "wheelchair user exoskeleton"
+  },
+  {
+   "narration": "So yes, your legs can walk without your spine. Tomorrow: a beach under landing jets.",
+   "emoji": "✈️",
+   "headline": "NEXT: JETS OVER A BEACH",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Maho Beach plane"
+  }
+ ]
+}

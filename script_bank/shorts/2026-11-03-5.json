@@ -1,0 +1,85 @@
+{
+ "category": "technology",
+ "topic": "Water drops make touchscreens tap themselves",
+ "hook": "Your phone screen can tap itself when water sits on it.",
+ "title": "Your Phone Screen Taps Itself With Water",
+ "description": "Water drops on a touchscreen can fool it into registering touches that nobody made. Capacitive screens sense electrical charge, and water changes that charge. Watch one drop on your screen, then wipe it dry.\n\n#Shorts #Technology #PhoneTricks",
+ "tags": [
+  "phone tricks",
+  "touchscreen",
+  "ghost touch",
+  "water on phone",
+  "tech facts",
+  "smartphone",
+  "science facts",
+  "shorts"
+ ],
+ "comment_prompt": "Has your screen ever ghost-tapped? Yes or no",
+ "hook_banner": "SCREEN TAPS ITSELF",
+ "scenes": [
+  {
+   "narration": "Your phone screen can tap itself with water.",
+   "emoji": "💧",
+   "headline": "SCREEN TAPS ITSELF",
+   "stat": "",
+   "sub": "Just water. No finger.",
+   "visual_query": "water drops phone screen"
+  },
+  {
+   "narration": "Drops on glass look like fingers to it.",
+   "emoji": "👆",
+   "headline": "DROPS LOOK LIKE FINGERS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "finger touching smartphone"
+  },
+  {
+   "narration": "Touchscreens sense electric charge, not pressure.",
+   "emoji": "⚡",
+   "headline": "CHARGE, NOT PRESSURE",
+   "stat": "",
+   "sub": "Capacitive touch",
+   "visual_query": "smartphone touchscreen close up"
+  },
+  {
+   "narration": "Water changes that charge, so it gets confused.",
+   "emoji": "🌀",
+   "headline": "WATER CONFUSES IT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "water droplet glass"
+  },
+  {
+   "narration": "Apps open and letters type by themselves.",
+   "emoji": "📱",
+   "headline": "APPS OPEN ALONE",
+   "stat": "",
+   "sub": "Ghost touches",
+   "visual_query": "phone typing keyboard"
+  },
+  {
+   "narration": "Watch one drop on your screen, then wipe it.",
+   "emoji": "🧻",
+   "headline": "TRY IT NOW",
+   "stat": "",
+   "sub": "One drop only",
+   "visual_query": "wiping phone screen"
+  },
+  {
+   "narration": "Dry it off and the ghost taps stop.",
+   "emoji": "✅",
+   "headline": "DRY IT, FIXED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "dry phone screen"
+  },
+  {
+   "narration": "Your screen taps itself, no finger needed. Tomorrow: a river that flows backwards.",
+   "emoji": "🌊",
+   "headline": "TOMORROW: BACKWARDS RIVER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "river aerial monsoon"
+  }
+ ]
+}

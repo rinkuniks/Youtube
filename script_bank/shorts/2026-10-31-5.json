@@ -1,0 +1,93 @@
+{
+ "category": "technology",
+ "topic": "Wagon-wheel effect on phone video",
+ "hook": "Your phone can film a ceiling fan spinning backwards.",
+ "title": "Your ceiling fan can spin backwards on camera",
+ "description": "Film a spinning fan or wheel with any phone and it can look slow, frozen or even reversed. It is the wagon-wheel effect: video is made of still frames, and the blades move just far enough between them to fool you. Try it right now.\n\n#Shorts #TryThis #Phone",
+ "tags": [
+  "wagon wheel effect",
+  "ceiling fan",
+  "phone camera trick",
+  "tech facts",
+  "try this",
+  "optical illusion",
+  "frame rate",
+  "Shorts"
+ ],
+ "comment_prompt": "Did your fan go backwards? Yes or no",
+ "hook_banner": "TRY THIS NOW",
+ "scenes": [
+  {
+   "narration": "Your phone can film a ceiling fan spinning backwards.",
+   "emoji": "📱",
+   "headline": "Fan Spins Backwards",
+   "stat": "",
+   "sub": "On camera",
+   "visual_query": "ceiling fan spinning"
+  },
+  {
+   "narration": "Switch on your fan and film it.",
+   "emoji": "🎥",
+   "headline": "Film Your Fan",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone filming ceiling fan"
+  },
+  {
+   "narration": "Watch: the blades can slow, stop, or reverse.",
+   "emoji": "🔄",
+   "headline": "Slow, Stop, Reverse",
+   "stat": "",
+   "sub": "",
+   "visual_query": "fan blades motion blur"
+  },
+  {
+   "narration": "The fan is not changing direction at all.",
+   "emoji": "🌀",
+   "headline": "It Never Reversed",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ceiling fan room"
+  },
+  {
+   "narration": "Video is just still frames, many per second.",
+   "emoji": "🎞️",
+   "headline": "Just Still Frames",
+   "stat": "",
+   "sub": "",
+   "visual_query": "film strip frames"
+  },
+  {
+   "narration": "Your brain links them and sees backwards motion.",
+   "emoji": "🧠",
+   "headline": "Your Brain Is Fooled",
+   "stat": "",
+   "sub": "",
+   "visual_query": "wagon wheel spokes"
+  },
+  {
+   "narration": "It is called the wagon-wheel effect.",
+   "emoji": "🛞",
+   "headline": "Wagon-Wheel Effect",
+   "stat": "",
+   "sub": "",
+   "visual_query": "spinning wheel video"
+  },
+  {
+   "narration": "So your fan never reversed, only the video.",
+   "emoji": "📱",
+   "headline": "Only The Video",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone camera fan"
+  },
+  {
+   "narration": "Tomorrow: planes landing below sea level.",
+   "emoji": "✈️",
+   "headline": "Tomorrow",
+   "stat": "",
+   "sub": "Below sea level",
+   "visual_query": "Schiphol airport plane landing"
+  }
+ ]
+}

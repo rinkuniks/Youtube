@@ -1,0 +1,93 @@
+{
+ "category": "technology",
+ "topic": "Copy text from a photo of a page",
+ "hook": "Your phone can copy the words off a printed page.",
+ "title": "Your Phone Can Copy Text Off a Paper Page",
+ "description": "Open the Google app on any Android or iPhone, tap the Lens icon and point it at a book. The words become text you can copy and paste. Try it now with whatever is near you.\n\n#Shorts #PhoneTricks #GoogleLens",
+ "tags": [
+  "google lens",
+  "phone tricks",
+  "copy text from photo",
+  "android",
+  "iphone",
+  "tech tips",
+  "ocr",
+  "shorts"
+ ],
+ "comment_prompt": "Did it work on your phone? Yes or no",
+ "hook_banner": "TRY THIS NOW",
+ "scenes": [
+  {
+   "narration": "Your phone can copy the words off a printed page.",
+   "emoji": "📖",
+   "headline": "COPY A PAPER PAGE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone scanning book page"
+  },
+  {
+   "narration": "Open the Google app, tap the Lens icon.",
+   "emoji": "📱",
+   "headline": "OPEN LENS",
+   "stat": "",
+   "sub": "Android or iPhone",
+   "visual_query": "Google Lens phone"
+  },
+  {
+   "narration": "Point it at any book.",
+   "emoji": "📚",
+   "headline": "POINT AT A BOOK",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone camera book"
+  },
+  {
+   "narration": "Words on the paper light up.",
+   "emoji": "✨",
+   "headline": "WORDS LIGHT UP",
+   "stat": "",
+   "sub": "",
+   "visual_query": "highlighted text phone screen"
+  },
+  {
+   "narration": "Tap them, and they become real text.",
+   "emoji": "👆",
+   "headline": "TAP TO SELECT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "selecting text smartphone"
+  },
+  {
+   "narration": "Copy it, then paste it into a message.",
+   "emoji": "📋",
+   "headline": "COPY AND PASTE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "copy paste phone message"
+  },
+  {
+   "narration": "Try it now with any book nearby.",
+   "emoji": "⏱️",
+   "headline": "TRY IT NOW",
+   "stat": "",
+   "sub": "Takes seconds",
+   "visual_query": "hand holding phone book"
+  },
+  {
+   "narration": "Your phone just read a page for you.",
+   "emoji": "🤖",
+   "headline": "PAGE TO TEXT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "smartphone reading text"
+  },
+  {
+   "narration": "Tomorrow: a village inside an enclave.",
+   "emoji": "🗺️",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "A village inside an enclave",
+   "visual_query": "Oman UAE map"
+  }
+ ]
+}

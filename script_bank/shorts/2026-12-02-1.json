@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Yanar Dag burning hillside",
+ "hook": "Your hike in Azerbaijan ends at a burning hillside.",
+ "title": "A Hillside in Azerbaijan Is On Fire",
+ "description": "Yanar Dag near Baku in Azerbaijan has flames burning straight out of the ground. Natural gas seeps up through the rock and feeds the fire. The name means burning mountain, and it has burned for decades.\n\n#Shorts #Azerbaijan #PlacesThatShouldntExist",
+ "tags": [
+  "yanar dag",
+  "azerbaijan",
+  "burning mountain",
+  "baku",
+  "geography facts",
+  "places that shouldnt exist",
+  "natural gas fire",
+  "travel facts"
+ ],
+ "comment_prompt": "Would you visit? Yes or no",
+ "hook_banner": "THIS PLACE IS REAL",
+ "scenes": [
+  {
+   "narration": "Your hike in Azerbaijan ends at a burning hillside.",
+   "emoji": "🔥",
+   "headline": "Hillside On Fire",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Yanar Dag fire"
+  },
+  {
+   "narration": "Fire burns straight out of the ground.",
+   "emoji": "🌋",
+   "headline": "Fire From Rock",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Yanar Dag flames night"
+  },
+  {
+   "narration": "No logs. No fuel tank. Just rock.",
+   "emoji": "🪨",
+   "headline": "Just Rock",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Yanar Dag hillside"
+  },
+  {
+   "narration": "Natural gas seeps up through the rock.",
+   "emoji": "💨",
+   "headline": "Gas Seeps Out",
+   "stat": "",
+   "sub": "",
+   "visual_query": "natural gas flame rock"
+  },
+  {
+   "narration": "That gas feeds the flames nonstop.",
+   "emoji": "🔥",
+   "headline": "Nonstop Fuel",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Azerbaijan burning mountain"
+  },
+  {
+   "narration": "This hill is called Yanar Dag.",
+   "emoji": "📍",
+   "headline": "Yanar Dag",
+   "stat": "",
+   "sub": "Azerbaijan",
+   "visual_query": "Baku Azerbaijan landscape"
+  },
+  {
+   "narration": "Its name means burning mountain.",
+   "emoji": "⛰️",
+   "headline": "Burning Mountain",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Yanar Dag Absheron"
+  },
+  {
+   "narration": "It has burned for decades.",
+   "emoji": "⏳",
+   "headline": "Burning For Decades",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Yanar Dag flames"
+  },
+  {
+   "narration": "Your hike ends at a hill on fire.",
+   "emoji": "🥾",
+   "headline": "Hill On Fire",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Yanar Dag visitors"
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Dragon blood trees of Socotra",
+ "hook": "Your idea of a tree breaks on Socotra, Yemen.",
+ "title": "Trees That Look Like Umbrellas and Bleed Red",
+ "description": "Socotra is an island in the Arabian Sea that belongs to Yemen. Its dragon blood trees grow in an umbrella shape and ooze a deep red sap. It really looks like another planet.\n\n#Shorts #Geography #Socotra",
+ "tags": [
+  "Socotra",
+  "dragon blood tree",
+  "Yemen",
+  "places that shouldn't exist",
+  "geography facts",
+  "weird trees",
+  "island",
+  "nature"
+ ],
+ "comment_prompt": "Would you visit? Yes or no",
+ "hook_banner": "THIS PLACE IS REAL",
+ "scenes": [
+  {
+   "narration": "Your idea of a tree breaks on Socotra, Yemen.",
+   "emoji": "🌳",
+   "headline": "TREES FROM ANOTHER WORLD",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Socotra dragon blood trees"
+  },
+  {
+   "narration": "These trees are shaped like giant umbrellas.",
+   "emoji": "☂️",
+   "headline": "UMBRELLA TREES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "umbrella shaped tree Socotra"
+  },
+  {
+   "narration": "Cut the bark and red sap oozes out.",
+   "emoji": "🩸",
+   "headline": "THEY BLEED RED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "dragon blood tree red resin"
+  },
+  {
+   "narration": "It is called dragon blood for a reason.",
+   "emoji": "🐉",
+   "headline": "DRAGON BLOOD",
+   "stat": "",
+   "sub": "",
+   "visual_query": "dragon's blood resin"
+  },
+  {
+   "narration": "Socotra is an island in the Arabian Sea.",
+   "emoji": "🏝️",
+   "headline": "ARABIAN SEA ISLAND",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Socotra island landscape"
+  },
+  {
+   "narration": "It belongs to Yemen, not some alien planet.",
+   "emoji": "🗺️",
+   "headline": "REAL PLACE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Socotra Yemen map"
+  },
+  {
+   "narration": "It is a UNESCO World Heritage Site.",
+   "emoji": "🏛️",
+   "headline": "UNESCO SITE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Socotra plateau trees"
+  },
+  {
+   "narration": "So your idea of a tree? Wrong here.",
+   "emoji": "🌳",
+   "headline": "TREES FROM ANOTHER WORLD",
+   "stat": "",
+   "sub": "",
+   "visual_query": "dragon blood tree sunset"
+  },
+  {
+   "narration": "Next: steps made of stone.",
+   "emoji": "🪨",
+   "headline": "NEXT UP",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Giant's Causeway"
+  }
+ ]
+}

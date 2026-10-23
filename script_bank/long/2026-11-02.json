@@ -1,0 +1,679 @@
+{
+ "topic": "Why Spain Is Stranger Than You Think (Perejil Island war of 2002)",
+ "hook": "Your holiday in Spain can put you in Africa, and a goat island there once nearly started a war.",
+ "title": "Why Spain Is Stranger Than You Think",
+ "description": "Spain keeps cities in Africa, a town inside France, and a clock that follows the wrong country. In 2002 it even sent troops to a bare rock called Perejil Island and nearly went to war with Morocco. Here are six true facts about Spain's time, borders and map that sound fake but are real.\n\n#Spain #Geography #StrangeFacts",
+ "tags": [
+  "Spain facts",
+  "Perejil Island",
+  "Spain Morocco 2002",
+  "Ceuta and Melilla",
+  "Gibraltar runway",
+  "Llivia exclave",
+  "Canary Islands",
+  "strange borders",
+  "geography facts",
+  "Spain time zone",
+  "why Spain is strange",
+  "unbelievable but true",
+  "map facts"
+ ],
+ "comment_prompt": "Which fact surprised you most?",
+ "hook_banner": "SPAIN IS IN AFRICA",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "Spain's wrong clock",
+   "scene": 6
+  },
+  {
+   "title": "The Spanish town inside France",
+   "scene": 16
+  },
+  {
+   "title": "The road across a runway",
+   "scene": 28
+  },
+  {
+   "title": "Spanish cities in Africa",
+   "scene": 39
+  },
+  {
+   "title": "Islands closer to Africa",
+   "scene": 49
+  },
+  {
+   "title": "The goat-island crisis",
+   "scene": 58
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your holiday in Spain can put you in Africa, and a goat island there once nearly started a war.",
+   "emoji": "🇪🇸",
+   "headline": "Spain Is In Africa",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Spain map Africa"
+  },
+  {
+   "narration": "That rock is real, it is bare, and in 2002 two countries almost went to war over it.",
+   "emoji": "🪨",
+   "headline": "A War Over A Rock",
+   "stat": "2002",
+   "sub": "",
+   "visual_query": "Perejil island rock"
+  },
+  {
+   "narration": "By the end of this video, you will see the smallest war that never quite happened.",
+   "emoji": "⚔️",
+   "headline": "The Tiny Near-War",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Spanish navy ship"
+  },
+  {
+   "narration": "But first, six facts that make Spain stranger than almost any country in Europe.",
+   "emoji": "🧭",
+   "headline": "6 Strange Facts",
+   "stat": "6",
+   "sub": "",
+   "visual_query": "Spain aerial coast"
+  },
+  {
+   "narration": "Some are on the map, some are on your watch, and one is right on an airport runway.",
+   "emoji": "🗺️",
+   "headline": "Map, Watch, Runway",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map pins"
+  },
+  {
+   "narration": "Let us start with the clock on your wrist, because Spain is living in the wrong time.",
+   "emoji": "⏰",
+   "headline": "The Wrong Time",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Madrid clock tower"
+  },
+  {
+   "narration": "Fact one: Spain is on the wrong time zone, and it has been that way for over eighty years.",
+   "emoji": "🕐",
+   "headline": "Spain's Wrong Clock",
+   "stat": "",
+   "sub": "Fact 1",
+   "visual_query": "wall clock close up"
+  },
+  {
+   "narration": "Look at a globe. Madrid sits roughly in line with London and Lisbon, yet its clocks follow Berlin and Paris.",
+   "emoji": "🌍",
+   "headline": "In Line With London",
+   "stat": "",
+   "sub": "",
+   "visual_query": "globe Europe"
+  },
+  {
+   "narration": "In 1940, Spain's ruler Franco moved the clocks forward one hour, to match Nazi Germany.",
+   "emoji": "📻",
+   "headline": "Franco Moved The Clocks",
+   "stat": "1940",
+   "sub": "",
+   "visual_query": "Franco 1940 Spain"
+  },
+  {
+   "narration": "When the war ended, Spain never changed the clocks back, and it still uses that same time today.",
+   "emoji": "🔒",
+   "headline": "Never Changed Back",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Spain street clock"
+  },
+  {
+   "narration": "So in summer, the sun in Madrid can set after nine thirty at night.",
+   "emoji": "🌇",
+   "headline": "Sunset After 9:30",
+   "stat": "9:30 PM",
+   "sub": "",
+   "visual_query": "Madrid sunset"
+  },
+  {
+   "narration": "That is one reason a Spanish dinner often starts at nine or even ten at night.",
+   "emoji": "🍽️",
+   "headline": "Dinner At Ten",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Spanish tapas dinner"
+  },
+  {
+   "narration": "Shops close for a long afternoon break, and the streets come alive again late in the evening.",
+   "emoji": "🏪",
+   "headline": "The Long Break",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Spanish street evening"
+  },
+  {
+   "narration": "Even prime-time television starts late, close to ten at night, so the whole country lives a few hours behind its clock.",
+   "emoji": "📺",
+   "headline": "Late-Night Prime Time",
+   "stat": "",
+   "sub": "",
+   "visual_query": "television living room"
+  },
+  {
+   "narration": "People in Spain keep debating whether to switch to London time and finally fix it.",
+   "emoji": "🗳️",
+   "headline": "Switch To London Time?",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Spain parliament"
+  },
+  {
+   "narration": "Imagine eating dinner at ten at night and calling it normal. In Spain, that is just a Tuesday.",
+   "emoji": "🌙",
+   "headline": "Just A Tuesday",
+   "stat": "",
+   "sub": "",
+   "visual_query": "restaurant night terrace"
+  },
+  {
+   "narration": "Fact two: a Spanish town is stuck inside France, with French land on every single side.",
+   "emoji": "🏘️",
+   "headline": "Spain Inside France",
+   "stat": "",
+   "sub": "Fact 2",
+   "visual_query": "Llivia town Pyrenees"
+  },
+  {
+   "narration": "It is called Llívia, and it sits in the Pyrenees mountains, a short drive from the Spanish border.",
+   "emoji": "🏔️",
+   "headline": "Llívia",
+   "stat": "",
+   "sub": "Pyrenees",
+   "visual_query": "Pyrenees mountains village"
+  },
+  {
+   "narration": "In 1659, Spain and France signed a treaty, and Spain handed over a whole set of villages.",
+   "emoji": "📜",
+   "headline": "The 1659 Treaty",
+   "stat": "1659",
+   "sub": "",
+   "visual_query": "Treaty of Pyrenees painting"
+  },
+  {
+   "narration": "But Llívia was officially a town, not a village, so Spain kept it. One word saved it.",
+   "emoji": "✍️",
+   "headline": "Town, Not Village",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old treaty document"
+  },
+  {
+   "narration": "Today it is a Spanish exclave, a small town with Spanish flags flying in the middle of France.",
+   "emoji": "🚩",
+   "headline": "A Spanish Exclave",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Spanish flag town"
+  },
+  {
+   "narration": "A short road through French land links it to Spain, and that road is treated as neutral.",
+   "emoji": "🛣️",
+   "headline": "The Neutral Road",
+   "stat": "",
+   "sub": "",
+   "visual_query": "mountain road border"
+  },
+  {
+   "narration": "Drive it, and you leave Spain, pass through France without stopping, and arrive back in Spain.",
+   "emoji": "🚗",
+   "headline": "Spain, France, Spain",
+   "stat": "",
+   "sub": "",
+   "visual_query": "car mountain road"
+  },
+  {
+   "narration": "Indian viewers may think of Dahagram, the Bangladeshi pocket inside India. Llívia is the same idea, in Europe.",
+   "emoji": "🇮🇳",
+   "headline": "Like Dahagram",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Bangladesh border fence"
+  },
+  {
+   "narration": "Its old pharmacy is one of the oldest in Europe, and people visit just to see it.",
+   "emoji": "⚗️",
+   "headline": "An Old Pharmacy",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old pharmacy jars"
+  },
+  {
+   "narration": "The streets look like any Pyrenean town, with Spanish signs, Catalan voices and French hills all around.",
+   "emoji": "🗣️",
+   "headline": "Catalan In France",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pyrenees town street"
+  },
+  {
+   "narration": "One small word in a treaty, written over three hundred years ago, still draws this border today.",
+   "emoji": "🖋️",
+   "headline": "300 Years Later",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Spain France border sign"
+  },
+  {
+   "narration": "But Spain has an even stranger place, and this one has a road that crosses an airport runway.",
+   "emoji": "✈️",
+   "headline": "Next: A Runway Road",
+   "stat": "",
+   "sub": "",
+   "visual_query": "airport runway aerial"
+  },
+  {
+   "narration": "Fact three: at Gibraltar, a normal road crosses the airport runway, and traffic stops for airplanes.",
+   "emoji": "🛬",
+   "headline": "Cars Stop For Planes",
+   "stat": "",
+   "sub": "Fact 3",
+   "visual_query": "Gibraltar runway road"
+  },
+  {
+   "narration": "Gibraltar is a British territory at Spain's southern tip, with a huge rock rising above the town.",
+   "emoji": "🪨",
+   "headline": "The Rock Of Gibraltar",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rock of Gibraltar"
+  },
+  {
+   "narration": "Spain claims it, Britain keeps it, and people walk between the two every day.",
+   "emoji": "🚶",
+   "headline": "Walk Between Countries",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar border crossing"
+  },
+  {
+   "narration": "Walk out of the border gate and you step straight onto the runway road, called Winston Churchill Avenue.",
+   "emoji": "🛣️",
+   "headline": "Winston Churchill Avenue",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Winston Churchill Avenue Gibraltar"
+  },
+  {
+   "narration": "When a plane lands or takes off, the barriers drop, and cars, bikes and walkers all have to wait.",
+   "emoji": "🚧",
+   "headline": "Barriers Drop",
+   "stat": "",
+   "sub": "",
+   "visual_query": "road barrier airplane"
+  },
+  {
+   "narration": "Then the plane rolls across the exact spot where you were standing a few seconds earlier.",
+   "emoji": "💨",
+   "headline": "Plane On Your Road",
+   "stat": "",
+   "sub": "",
+   "visual_query": "plane landing runway"
+  },
+  {
+   "narration": "Planes come in with the huge rock rising behind them, which makes it a famous airport to watch.",
+   "emoji": "👀",
+   "headline": "A Famous Airport",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar airport"
+  },
+  {
+   "narration": "The whole territory is smaller than a typical city district, yet it has its own government and its own police.",
+   "emoji": "🏛️",
+   "headline": "Tiny But Self-Ruling",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar town aerial"
+  },
+  {
+   "narration": "If you like strange places and facts like these, subscribe, because there are plenty more coming.",
+   "emoji": "🔔",
+   "headline": "Subscribe For More",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map globe"
+  },
+  {
+   "narration": "And now the land that really looks wrong on a map, because it sits in Africa and belongs to Spain.",
+   "emoji": "🧐",
+   "headline": "Spain On Africa's Coast",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Strait of Gibraltar aerial"
+  },
+  {
+   "narration": "Fact four: Spain has two cities on Africa's coast, Ceuta and Melilla, and both have land borders with Morocco.",
+   "emoji": "🌍",
+   "headline": "Ceuta And Melilla",
+   "stat": "2",
+   "sub": "Fact 4",
+   "visual_query": "Ceuta city coast"
+  },
+  {
+   "narration": "Both have been under Spanish rule for centuries, long before Morocco became an independent country.",
+   "emoji": "🏰",
+   "headline": "Spanish For Centuries",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Melilla old fortress"
+  },
+  {
+   "narration": "They are the only places where the European Union has a land border with Africa.",
+   "emoji": "🇪🇺",
+   "headline": "EU's Only African Border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "European Union flag"
+  },
+  {
+   "narration": "So a fence in Africa marks the edge of the EU, with Spanish police standing guard.",
+   "emoji": "🚧",
+   "headline": "A Fence In Africa",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ceuta border fence"
+  },
+  {
+   "narration": "People in Ceuta pay in euros, speak Spanish, and look out at Moroccan mountains from the beach.",
+   "emoji": "🏖️",
+   "headline": "Euros In Africa",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ceuta beach"
+  },
+  {
+   "narration": "Morocco says both cities should belong to it, while Spain says they are as Spanish as Madrid.",
+   "emoji": "⚖️",
+   "headline": "Who Owns Them?",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Morocco Spain flags"
+  },
+  {
+   "narration": "India knows this story too. Goa stayed Portuguese until 1961, long after India's independence.",
+   "emoji": "🇮🇳",
+   "headline": "Goa Until 1961",
+   "stat": "1961",
+   "sub": "",
+   "visual_query": "Goa old Portuguese church"
+  },
+  {
+   "narration": "Ceuta sits so close to Europe that you can see the coast of Spain across the water.",
+   "emoji": "🌊",
+   "headline": "Europe In Sight",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Strait of Gibraltar view"
+  },
+  {
+   "narration": "The Strait of Gibraltar is only about 14 kilometres wide at its narrowest, so Africa really is that close.",
+   "emoji": "📏",
+   "headline": "14 km Apart",
+   "stat": "14 km",
+   "sub": "",
+   "visual_query": "Strait of Gibraltar ship"
+  },
+  {
+   "narration": "Spain's reach into Africa does not stop there. Some of it sits even closer, out in the ocean.",
+   "emoji": "🏝️",
+   "headline": "Next: Ocean Islands",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Atlantic ocean island"
+  },
+  {
+   "narration": "Fact five: the Canary Islands are Spanish, but they sit off the coast of Africa, not Europe.",
+   "emoji": "🏝️",
+   "headline": "The Canary Islands",
+   "stat": "",
+   "sub": "Fact 5",
+   "visual_query": "Canary Islands aerial"
+  },
+  {
+   "narration": "From Fuerteventura, Morocco is far closer than mainland Spain, which is more than a thousand kilometres away.",
+   "emoji": "📍",
+   "headline": "Closer To Morocco",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Fuerteventura beach"
+  },
+  {
+   "narration": "They are part of Spain and the EU, so tourists pay in euros while looking toward the Sahara.",
+   "emoji": "💶",
+   "headline": "Euros Near The Sahara",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Canary Islands tourists beach"
+  },
+  {
+   "narration": "The islands even have their own time zone, one hour behind mainland Spain.",
+   "emoji": "🕒",
+   "headline": "A Separate Time Zone",
+   "stat": "-1 hour",
+   "sub": "",
+   "visual_query": "clock time zone"
+  },
+  {
+   "narration": "So you can take a flight within Spain and have your watch go back an hour.",
+   "emoji": "✈️",
+   "headline": "Same Country, New Time",
+   "stat": "",
+   "sub": "",
+   "visual_query": "airplane window sunset"
+  },
+  {
+   "narration": "On Tenerife stands Mount Teide, the highest mountain in all of Spain, and it is a volcano.",
+   "emoji": "🌋",
+   "headline": "Mount Teide",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mount Teide volcano"
+  },
+  {
+   "narration": "In winter, snow falls on its top, while the beaches below stay warm.",
+   "emoji": "❄️",
+   "headline": "Snow Above, Sun Below",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Teide snow"
+  },
+  {
+   "narration": "At times, sand blows in from the Sahara and turns the sky orange and hazy.",
+   "emoji": "🌫️",
+   "headline": "Sahara Sand In The Sky",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sahara dust sky"
+  },
+  {
+   "narration": "Now the story I promised: a rock so small that it nearly caused a war between two countries.",
+   "emoji": "🪨",
+   "headline": "The Goat-Island Crisis",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Perejil island"
+  },
+  {
+   "narration": "Fact six: Perejil Island, a bare rock just off Morocco's coast, brought Spain and Morocco close to war.",
+   "emoji": "⚠️",
+   "headline": "Perejil Island",
+   "stat": "2002",
+   "sub": "Fact 6",
+   "visual_query": "Perejil island aerial"
+  },
+  {
+   "narration": "Perejil means parsley in Spanish. Morocco calls it Leila, and both countries say it is theirs.",
+   "emoji": "🌿",
+   "headline": "Parsley Or Leila?",
+   "stat": "",
+   "sub": "",
+   "visual_query": "parsley leaves"
+  },
+  {
+   "narration": "It has no houses and no people. The island is known mostly for goats.",
+   "emoji": "🐐",
+   "headline": "Just A Goat Rock",
+   "stat": "",
+   "sub": "",
+   "visual_query": "goats rocky island"
+  },
+  {
+   "narration": "It sits only a few hundred metres from the Moroccan coast, not far from the Spanish city of Ceuta.",
+   "emoji": "📍",
+   "headline": "Metres From Morocco",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Morocco coast rocky"
+  },
+  {
+   "narration": "For decades, neither country kept a flag or a soldier on it. It was simply nobody's rock.",
+   "emoji": "🏳️",
+   "headline": "Nobody's Rock",
+   "stat": "",
+   "sub": "",
+   "visual_query": "empty rocky island"
+  },
+  {
+   "narration": "Then, on the eleventh of July 2002, a small group of Moroccan soldiers landed, raised a flag and set up camp.",
+   "emoji": "⛺",
+   "headline": "Soldiers Land",
+   "stat": "11 July 2002",
+   "sub": "",
+   "visual_query": "Moroccan soldiers flag"
+  },
+  {
+   "narration": "Morocco said it was watching for smugglers and illegal migrants. Spain heard something very different.",
+   "emoji": "🔭",
+   "headline": "Two Stories",
+   "stat": "",
+   "sub": "",
+   "visual_query": "binoculars sea coast"
+  },
+  {
+   "narration": "Spain said the move broke the old understanding that nobody would occupy the rock, and asked Morocco to leave.",
+   "emoji": "📣",
+   "headline": "Spain Says Leave",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Spanish diplomats meeting"
+  },
+  {
+   "narration": "The European Union backed Spain, while the Arab League backed Morocco, and Morocco still did not move.",
+   "emoji": "🧩",
+   "headline": "The World Picks Sides",
+   "stat": "",
+   "sub": "",
+   "visual_query": "EU Arab League flags"
+  },
+  {
+   "narration": "On the seventeenth of July, Spanish helicopters and navy ships came in at dawn.",
+   "emoji": "🚁",
+   "headline": "Dawn Raid",
+   "stat": "17 July",
+   "sub": "",
+   "visual_query": "Spanish helicopter navy"
+  },
+  {
+   "narration": "Spanish troops landed, took the handful of Moroccan soldiers, and raised a Spanish flag on the rock.",
+   "emoji": "🇪🇸",
+   "headline": "Spanish Flag Raised",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Spanish soldiers flag"
+  },
+  {
+   "narration": "No one was killed. The soldiers were flown to Ceuta and handed back to Morocco.",
+   "emoji": "🕊️",
+   "headline": "Nobody Was Killed",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ceuta border handover"
+  },
+  {
+   "narration": "Morocco was furious, and for a few days it looked like two countries might really start fighting.",
+   "emoji": "🔥",
+   "headline": "On The Edge",
+   "stat": "",
+   "sub": "",
+   "visual_query": "warship sea"
+  },
+  {
+   "narration": "Then the American Secretary of State, Colin Powell, phoned both sides and helped them agree on a deal.",
+   "emoji": "☎️",
+   "headline": "Colin Powell Steps In",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Colin Powell"
+  },
+  {
+   "narration": "The deal was simple: go back to how things were before the eleventh of July.",
+   "emoji": "🤝",
+   "headline": "Back To Before",
+   "stat": "",
+   "sub": "",
+   "visual_query": "handshake diplomats"
+  },
+  {
+   "narration": "Spain took its troops out, the Spanish flag came down, and the island went back to being empty.",
+   "emoji": "🏝️",
+   "headline": "Empty Again",
+   "stat": "",
+   "sub": "",
+   "visual_query": "bare rock island sea"
+  },
+  {
+   "narration": "Even the name stays disputed: Perejil to Spain, Leila to Morocco, and Tura in Arabic.",
+   "emoji": "🔤",
+   "headline": "Three Names, One Rock",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old map Morocco coast"
+  },
+  {
+   "narration": "Today the dispute is still unresolved. Both claims remain, and the rock is still bare.",
+   "emoji": "🗺️",
+   "headline": "Still Unresolved",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Perejil island sea"
+  },
+  {
+   "narration": "Many people joked about a war over parsley, but soldiers and warships on both sides were really there.",
+   "emoji": "🚢",
+   "headline": "A War Over Parsley",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Spanish warship"
+  },
+  {
+   "narration": "So yes, your holiday in Spain can put you in Africa, and a goat island really did nearly start a war.",
+   "emoji": "🇪🇸",
+   "headline": "Spain Is Stranger",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Spain Africa map"
+  },
+  {
+   "narration": "Tomorrow: the city that sits on two continents at once.",
+   "emoji": "🌉",
+   "headline": "Tomorrow: Two Continents",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Istanbul bridge Bosphorus"
+  }
+ ]
+}

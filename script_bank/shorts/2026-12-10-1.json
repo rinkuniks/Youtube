@@ -1,0 +1,94 @@
+{
+ "category": "geography",
+ "topic": "Lalibela rock-hewn churches",
+ "hook": "Your church here sits inside a pit.",
+ "title": "Eleven Churches Carved Down Into the Ground",
+ "description": "In Lalibela, Ethiopia, eleven churches were carved downward out of solid rock. Each one sits in a pit with its roof level with the ground, and people still pray in them today. Part of the Places That Shouldn't Exist series.\n\n#Shorts #PlacesThatShouldntExist #Ethiopia",
+ "tags": [
+  "lalibela",
+  "ethiopia",
+  "rock churches",
+  "places that shouldn't exist",
+  "geography facts",
+  "unesco",
+  "travel facts",
+  "shorts",
+  "wait what facts"
+ ],
+ "comment_prompt": "Would you visit? Yes or no",
+ "hook_banner": "THIS PLACE IS REAL",
+ "scenes": [
+  {
+   "narration": "Your church here sits inside a pit.",
+   "emoji": "⛪",
+   "headline": "A Church In A Pit",
+   "stat": "",
+   "sub": "Lalibela, Ethiopia",
+   "visual_query": "Lalibela Church of Saint George"
+  },
+  {
+   "narration": "Its roof is level with the ground.",
+   "emoji": "⬇️",
+   "headline": "Roof At Ground Level",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lalibela rock church roof"
+  },
+  {
+   "narration": "Workers carved it from one solid rock.",
+   "emoji": "🪨",
+   "headline": "One Solid Rock",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lalibela carved rock"
+  },
+  {
+   "narration": "They started at the top and dug down.",
+   "emoji": "⛏️",
+   "headline": "Carved Top To Bottom",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lalibela trench churches"
+  },
+  {
+   "narration": "Lalibela has eleven of these churches.",
+   "emoji": "1️⃣",
+   "headline": "Eleven Churches",
+   "stat": "11",
+   "sub": "",
+   "visual_query": "Lalibela churches aerial"
+  },
+  {
+   "narration": "No bricks. No stacked blocks. Just rock.",
+   "emoji": "🧱",
+   "headline": "Just Rock",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lalibela stone wall"
+  },
+  {
+   "narration": "People still pray in them today.",
+   "emoji": "🙏",
+   "headline": "Still In Use",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lalibela pilgrims"
+  },
+  {
+   "narration": "Your church was never built. It was freed.",
+   "emoji": "✨",
+   "headline": "Freed From Rock",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lalibela Ethiopia church"
+  },
+  {
+   "narration": "Tomorrow: giant trees standing alone by a road.",
+   "emoji": "🌳",
+   "headline": "Tomorrow",
+   "stat": "",
+   "sub": "Giants by the road",
+   "visual_query": "baobab trees Madagascar"
+  }
+ ]
+}

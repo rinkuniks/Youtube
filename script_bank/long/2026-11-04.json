@@ -1,0 +1,725 @@
+{
+ "topic": "Why Switzerland Is Stranger Than You Think",
+ "hook": "Your Italian mountain hut ended up in Switzerland, and nobody carried it an inch.",
+ "title": "7 Facts That Make Switzerland Stranger Than You Think",
+ "description": "Melting ice near the Matterhorn has shifted the Swiss-Italian border, and the two countries have agreed to redraw it. Along the way we cover Swiss shelters for everyone, a guinea pig law, a station clock that waits, and a German town locked inside Switzerland. Watch to the end to see the moving border on the map.\n\n#Switzerland #Geography #Matterhorn",
+ "tags": [
+  "Switzerland",
+  "Matterhorn",
+  "Swiss Italian border",
+  "melting glaciers",
+  "strange geography",
+  "Switzerland facts",
+  "Busingen",
+  "border changes",
+  "Swiss guinea pig law",
+  "Swiss railway clock",
+  "Yash Chopra Interlaken",
+  "geography facts",
+  "weird borders",
+  "Alps",
+  "facts that sound fake"
+ ],
+ "comment_prompt": "Which Swiss fact surprised you most?",
+ "hook_banner": "A BORDER MELTED",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "Shelters for everyone",
+   "scene": 6
+  },
+  {
+   "title": "The lonely guinea pig law",
+   "scene": 17
+  },
+  {
+   "title": "Rifles in the cupboard",
+   "scene": 26
+  },
+  {
+   "title": "The clock that waits",
+   "scene": 35
+  },
+  {
+   "title": "Four languages, no Swiss",
+   "scene": 44
+  },
+  {
+   "title": "A German town in Switzerland",
+   "scene": 55
+  },
+  {
+   "title": "The border that melts",
+   "scene": 66
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your Italian mountain hut ended up in Switzerland, and nobody carried it an inch.",
+   "emoji": "🏔️",
+   "headline": "Hut Changed Country",
+   "stat": "",
+   "sub": "Matterhorn, Swiss-Italian border",
+   "visual_query": "Matterhorn mountain hut"
+  },
+  {
+   "narration": "Melting ice near the Matterhorn moved a real border, and Switzerland and Italy have agreed to redraw it on the map.",
+   "emoji": "🧊",
+   "headline": "Ice Moved A Border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Theodul glacier Alps"
+  },
+  {
+   "narration": "That is one reason Switzerland is stranger than you think. By the end, you will see that line move.",
+   "emoji": "🗺️",
+   "headline": "Watch The Line Move",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Switzerland Italy border map"
+  },
+  {
+   "narration": "The country from Bollywood songs and chocolate also hides bunkers, a strange pet law, and a German town inside it.",
+   "emoji": "🇨🇭",
+   "headline": "Not Just Chocolate",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss village Alps"
+  },
+  {
+   "narration": "Seven facts, each one stranger than the one before. The first is hidden underground, and you have probably walked right over it.",
+   "emoji": "7️⃣",
+   "headline": "Seven Strange Facts",
+   "stat": "7",
+   "sub": "each stranger than the last",
+   "visual_query": "Switzerland mountains lake"
+  },
+  {
+   "narration": "Fact one is hidden under your feet, in almost every neighbourhood.",
+   "emoji": "⬇️",
+   "headline": "Fact One",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss apartment building"
+  },
+  {
+   "narration": "Switzerland has a law that says every resident must have a place in a nuclear shelter.",
+   "emoji": "☢️",
+   "headline": "A Shelter For Everyone",
+   "stat": "",
+   "sub": "by law",
+   "visual_query": "Swiss nuclear shelter door"
+  },
+  {
+   "narration": "Not just the army. Not just the rich. Every ordinary person, in an ordinary apartment block.",
+   "emoji": "🏢",
+   "headline": "Every Ordinary Person",
+   "stat": "",
+   "sub": "",
+   "visual_query": "apartment block Zurich"
+  },
+  {
+   "narration": "New buildings must include a shelter, or the owner pays money so a shelter can be built somewhere else.",
+   "emoji": "🏗️",
+   "headline": "Build It Or Pay",
+   "stat": "",
+   "sub": "",
+   "visual_query": "construction site Switzerland"
+  },
+  {
+   "narration": "So under many Swiss homes, behind a thick steel door, sits a concrete room built to survive a disaster.",
+   "emoji": "🚪",
+   "headline": "Steel Door Below",
+   "stat": "",
+   "sub": "",
+   "visual_query": "bunker steel door"
+  },
+  {
+   "narration": "In daily life, many are just storage rooms for old bicycles and winter tyres.",
+   "emoji": "🚲",
+   "headline": "Bunker Or Storeroom",
+   "stat": "",
+   "sub": "",
+   "visual_query": "basement storage bicycles"
+  },
+  {
+   "narration": "Even some Swiss mountains were hollowed out into military hideouts, and a few are now museums or hotels.",
+   "emoji": "⛰️",
+   "headline": "Hollow Mountains",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss fortress mountain"
+  },
+  {
+   "narration": "Picture a calm postcard valley, cows with bells, and a hidden fortress behind a rock that looks like any other.",
+   "emoji": "🐄",
+   "headline": "Postcard On Top",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss cows bells valley"
+  },
+  {
+   "narration": "That is the Swiss style: peaceful on the surface, very well prepared underneath.",
+   "emoji": "🧘",
+   "headline": "Calm But Ready",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss meadow chalet"
+  },
+  {
+   "narration": "Remember this one when you reach the end, because the biggest surprise is about a mountain, not a bunker.",
+   "emoji": "⏳",
+   "headline": "Biggest One Is Last",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Matterhorn sunrise"
+  },
+  {
+   "narration": "Switzerland stayed out of both world wars, and planning like this is part of its national character.",
+   "emoji": "🕊️",
+   "headline": "Neutral But Prepared",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss flag mountains"
+  },
+  {
+   "narration": "So if a Swiss neighbour looks relaxed, remember they may have a shelter room ready downstairs.",
+   "emoji": "😌",
+   "headline": "Relaxed Neighbours",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss street houses"
+  },
+  {
+   "narration": "Fact two sounds like a joke, but it is a real rule about pets.",
+   "emoji": "🐹",
+   "headline": "Fact Two",
+   "stat": "",
+   "sub": "",
+   "visual_query": "guinea pig"
+  },
+  {
+   "narration": "In Switzerland, it is not allowed to keep a single guinea pig alone.",
+   "emoji": "🚫",
+   "headline": "One Guinea Pig? Illegal",
+   "stat": "1",
+   "sub": "not allowed alone",
+   "visual_query": "single guinea pig cage"
+  },
+  {
+   "narration": "The reason is simple. Guinea pigs get lonely, and Swiss law treats that loneliness as a real animal welfare problem.",
+   "emoji": "💔",
+   "headline": "Loneliness Counts",
+   "stat": "",
+   "sub": "",
+   "visual_query": "sad guinea pig"
+  },
+  {
+   "narration": "The same logic applies to some other social animals, such as budgies, which should live with company.",
+   "emoji": "🦜",
+   "headline": "Budgies Need Friends",
+   "stat": "",
+   "sub": "",
+   "visual_query": "budgerigars pair"
+  },
+  {
+   "narration": "Swiss pet owners who lose one guinea pig often have to find a new friend for the other one.",
+   "emoji": "🤝",
+   "headline": "Find A New Friend",
+   "stat": "",
+   "sub": "",
+   "visual_query": "two guinea pigs together"
+  },
+  {
+   "narration": "Think about that. A government rule written to protect a pet from feeling alone.",
+   "emoji": "🤔",
+   "headline": "A Law Against Lonely",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss parliament Bern"
+  },
+  {
+   "narration": "The Swiss constitution even talks about the dignity of creatures, which is why animal rules here go deeper than usual.",
+   "emoji": "📜",
+   "headline": "Dignity Of Creatures",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss constitution"
+  },
+  {
+   "narration": "It sounds soft and gentle, but it fits the country's habit of planning for everything.",
+   "emoji": "🗓️",
+   "headline": "Planning Everything",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss countryside farm"
+  },
+  {
+   "narration": "And speaking of planning, the next fact is about Swiss soldiers and what they keep in their cupboards.",
+   "emoji": "🪖",
+   "headline": "What's In The Cupboard",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss soldier"
+  },
+  {
+   "narration": "Fact three: in Switzerland, many soldiers keep their army rifle at home.",
+   "emoji": "🔫",
+   "headline": "Fact Three",
+   "stat": "",
+   "sub": "rifle at home",
+   "visual_query": "Swiss army rifle"
+  },
+  {
+   "narration": "Most of its soldiers are ordinary citizens doing militia service, then going back to normal jobs.",
+   "emoji": "👔",
+   "headline": "Citizens Not Barracks",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss army soldiers training"
+  },
+  {
+   "narration": "Their rifle can sit in a cupboard at home, next to the cereal and the school bags.",
+   "emoji": "🏠",
+   "headline": "Rifle Next To Cereal",
+   "stat": "",
+   "sub": "",
+   "visual_query": "home cupboard kitchen"
+  },
+  {
+   "narration": "Shooting is a normal community hobby here, with clubs and an annual national shooting event.",
+   "emoji": "🎯",
+   "headline": "Shooting Is A Hobby",
+   "stat": "",
+   "sub": "",
+   "visual_query": "shooting range target"
+  },
+  {
+   "narration": "Soldiers no longer take army ammunition home, only the rifle itself.",
+   "emoji": "📦",
+   "headline": "No Ammo At Home",
+   "stat": "",
+   "sub": "",
+   "visual_query": "army rifle locker"
+  },
+  {
+   "narration": "Compare that with how most countries think about weapons, and you see why Switzerland feels like another planet.",
+   "emoji": "🌍",
+   "headline": "Another Planet",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss Alps village"
+  },
+  {
+   "narration": "The idea is old. Every citizen is part of the defence, not just somebody in a distant barracks.",
+   "emoji": "🛡️",
+   "headline": "Everyone Defends",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss castle Bellinzona"
+  },
+  {
+   "narration": "That trust between people and the state shows up in everyday life, even in how trains run.",
+   "emoji": "🤝",
+   "headline": "Trust Runs Deep",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss train station"
+  },
+  {
+   "narration": "And Swiss trains bring us to a clock that does something very strange every minute.",
+   "emoji": "🚆",
+   "headline": "A Strange Clock",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss railway clock"
+  },
+  {
+   "narration": "Fact four is on the wall of almost every Swiss railway station.",
+   "emoji": "🕰️",
+   "headline": "Fact Four",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss railway station clock"
+  },
+  {
+   "narration": "It looks like a plain white clock with a red second hand shaped like a lollipop.",
+   "emoji": "🍭",
+   "headline": "Lollipop Second Hand",
+   "stat": "",
+   "sub": "",
+   "visual_query": "station clock red second hand"
+  },
+  {
+   "narration": "But watch closely. The second hand races around, then stops at the top for a moment, waiting.",
+   "emoji": "⏱️",
+   "headline": "It Stops To Wait",
+   "stat": "",
+   "sub": "",
+   "visual_query": "clock second hand close up"
+  },
+  {
+   "narration": "It pauses at the top of each minute, and then the whole minute jumps forward together.",
+   "emoji": "⏭️",
+   "headline": "Minute Jumps Together",
+   "stat": "",
+   "sub": "",
+   "visual_query": "analog clock minute hand"
+  },
+  {
+   "narration": "That clock was designed for railway timing, so trains could leave exactly when the minute changed.",
+   "emoji": "🚉",
+   "headline": "Built For Trains",
+   "stat": "",
+   "sub": "",
+   "visual_query": "train departing platform"
+  },
+  {
+   "narration": "Swiss railways are famous for running on time, and that tiny pause is a little symbol of it.",
+   "emoji": "✅",
+   "headline": "On Time, Always",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss train mountains"
+  },
+  {
+   "narration": "The design is so loved that it has been copied onto watches and screens around the world.",
+   "emoji": "⌚",
+   "headline": "Copied Worldwide",
+   "stat": "",
+   "sub": "",
+   "visual_query": "railway clock watch"
+  },
+  {
+   "narration": "If you like strange places and facts like these, subscribe, because there is plenty more where this came from.",
+   "emoji": "🔔",
+   "headline": "More Strange Places",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map globe"
+  },
+  {
+   "narration": "And the next fact is about words, because Switzerland cannot even agree on how to say hello.",
+   "emoji": "👋",
+   "headline": "Say Hello",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss street signs"
+  },
+  {
+   "narration": "Fact five: Switzerland has four national languages, and none of them is called Swiss.",
+   "emoji": "🗣️",
+   "headline": "Four Languages",
+   "stat": "4",
+   "sub": "none called Swiss",
+   "visual_query": "Switzerland language map"
+  },
+  {
+   "narration": "They are German, French, Italian, and Romansh, a small Latin language spoken in the mountains of Graubünden.",
+   "emoji": "🔤",
+   "headline": "German French Italian Romansh",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Graubünden village"
+  },
+  {
+   "narration": "So one train ride can start with German announcements and end in French ones.",
+   "emoji": "🚄",
+   "headline": "Language Changes En Route",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss train interior"
+  },
+  {
+   "narration": "A Swiss person may speak German at home, French at work, and English with tourists.",
+   "emoji": "💬",
+   "headline": "Three Languages A Day",
+   "stat": "",
+   "sub": "",
+   "visual_query": "tourists Lucerne"
+  },
+  {
+   "narration": "To avoid choosing a side, Swiss coins and stamps use Latin, and that is why the country code is CH.",
+   "emoji": "🪙",
+   "headline": "Coins In Latin",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss franc coins"
+  },
+  {
+   "narration": "CH stands for Confoederatio Helvetica, which is Latin for the Swiss Confederation.",
+   "emoji": "🔠",
+   "headline": "Why It's CH",
+   "stat": "CH",
+   "sub": "Confoederatio Helvetica",
+   "visual_query": "Swiss car sticker CH"
+  },
+  {
+   "narration": "Latin works as a neutral choice that no region can claim as its own.",
+   "emoji": "⚖️",
+   "headline": "Neutral Language",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Latin inscription building"
+  },
+  {
+   "narration": "So the country that looks perfectly organised has an official name that hardly anyone speaks.",
+   "emoji": "📛",
+   "headline": "A Name Nobody Speaks",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss passport"
+  },
+  {
+   "narration": "Indian films made Swiss meadows famous, and a statue of director Yash Chopra stands in Interlaken for that reason.",
+   "emoji": "🎬",
+   "headline": "Bollywood's Switzerland",
+   "stat": "",
+   "sub": "Yash Chopra statue, Interlaken",
+   "visual_query": "Yash Chopra statue Interlaken"
+  },
+  {
+   "narration": "Swiss tourism honoured him for bringing visitors to the country, and Indian viewers still picture those meadows.",
+   "emoji": "🌼",
+   "headline": "Songs In The Alps",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Interlaken Alps meadow"
+  },
+  {
+   "narration": "But now we reach the places where Switzerland's own map gets truly weird.",
+   "emoji": "🧭",
+   "headline": "The Map Gets Weird",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Switzerland map"
+  },
+  {
+   "narration": "Fact six: there is a German town that sits entirely inside Switzerland. It is called Büsingen.",
+   "emoji": "🇩🇪",
+   "headline": "Germany Inside Switzerland",
+   "stat": "",
+   "sub": "Büsingen",
+   "visual_query": "Büsingen am Hochrhein"
+  },
+  {
+   "narration": "Look at a map: this German town is surrounded by Swiss land.",
+   "emoji": "📍",
+   "headline": "Swiss Land All Around",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Büsingen map enclave"
+  },
+  {
+   "narration": "Geographers call Büsingen an exclave of Germany, a piece of one country cut off inside another.",
+   "emoji": "✂️",
+   "headline": "An Exclave",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rhine river Schaffhausen"
+  },
+  {
+   "narration": "People there are German citizens, but they live in the Swiss customs area.",
+   "emoji": "🛂",
+   "headline": "German Yet Swiss Customs",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss German border sign"
+  },
+  {
+   "narration": "Everyday life there uses Swiss francs, even though the town belongs to Germany.",
+   "emoji": "💵",
+   "headline": "Paid In Francs",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss franc banknotes"
+  },
+  {
+   "narration": "Imagine a village that belongs to Punjab but sits inside Himachal. Büsingen is that idea, but with two countries.",
+   "emoji": "🇮🇳",
+   "headline": "Like Punjab In Himachal",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Himachal village mountains"
+  },
+  {
+   "narration": "To get to the rest of Germany, residents have to cross Swiss land first.",
+   "emoji": "🛣️",
+   "headline": "Cross Swiss Land First",
+   "stat": "",
+   "sub": "",
+   "visual_query": "road border crossing Switzerland Germany"
+  },
+  {
+   "narration": "The town is also linked to nearby Swiss buses, so daily life feels Swiss and German at once.",
+   "emoji": "🚌",
+   "headline": "Swiss Buses, German Town",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss postbus"
+  },
+  {
+   "narration": "How did this happen? Old treaties and old land deals drew lines that nobody wanted to change.",
+   "emoji": "📜",
+   "headline": "Old Deals, Odd Map",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old map treaty Europe"
+  },
+  {
+   "narration": "Hold that thought: if a town can be locked inside another country, a border can also slide around with the weather.",
+   "emoji": "💭",
+   "headline": "Borders Can Slide",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border marker stone"
+  },
+  {
+   "narration": "And for the last fact, we go up into the Alps to the most famous mountain in Switzerland.",
+   "emoji": "⛰️",
+   "headline": "The Last Fact",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Zermatt Matterhorn"
+  },
+  {
+   "narration": "Fact seven: the Matterhorn, the pointed mountain on chocolate wrappers, sits right on the border of Switzerland and Italy.",
+   "emoji": "🍫",
+   "headline": "Fact Seven",
+   "stat": "",
+   "sub": "Matterhorn",
+   "visual_query": "Matterhorn peak"
+  },
+  {
+   "narration": "On the Italian side it is called Cervino, and the border here follows the line where water flows apart.",
+   "emoji": "💧",
+   "headline": "Border Follows Water",
+   "stat": "",
+   "sub": "watershed line",
+   "visual_query": "Cervino Italy mountain"
+  },
+  {
+   "narration": "That line runs through snow and ice, and the ice is not staying still.",
+   "emoji": "❄️",
+   "headline": "The Ice Is Moving",
+   "stat": "",
+   "sub": "",
+   "visual_query": "glacier snow Alps"
+  },
+  {
+   "narration": "Near a place called Testa Grigia, the Theodul glacier has been retreating, so the line where the water divides has moved.",
+   "emoji": "📉",
+   "headline": "Glacier Retreats",
+   "stat": "",
+   "sub": "Testa Grigia",
+   "visual_query": "Testa Grigia glacier"
+  },
+  {
+   "narration": "Because the border follows that line, the border moved too, without anyone drawing a new line.",
+   "emoji": "↔️",
+   "headline": "Border Moved By Itself",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss Italian border mountain"
+  },
+  {
+   "narration": "A mountain hut called Rifugio Guide del Cervino is the famous example, and it now sits mostly on the Swiss side.",
+   "emoji": "🛖",
+   "headline": "The Hut In Question",
+   "stat": "",
+   "sub": "Rifugio Guide del Cervino",
+   "visual_query": "Rifugio Guide del Cervino"
+  },
+  {
+   "narration": "The hut was built on Italian land with an Italian name, so nobody carried it across. The ice simply melted around it.",
+   "emoji": "🫠",
+   "headline": "Nobody Moved It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "mountain refuge glacier"
+  },
+  {
+   "narration": "Switzerland and Italy reached a deal in 2023 to sort this out, including land swaps so mountain stations stay on their current side.",
+   "emoji": "🤝",
+   "headline": "A Deal To Redraw",
+   "stat": "2023",
+   "sub": "land swaps allowed",
+   "visual_query": "Switzerland Italy flags"
+  },
+  {
+   "narration": "The area matters because tourists ski here even in summer, and lifts and huts need to know whose land they stand on.",
+   "emoji": "⛷️",
+   "headline": "Summer Skiing",
+   "stat": "",
+   "sub": "",
+   "visual_query": "summer skiing Plateau Rosa"
+  },
+  {
+   "narration": "You can even ski from Zermatt in Switzerland to Cervinia in Italy in a single day and have lunch in another country.",
+   "emoji": "🍝",
+   "headline": "Lunch In Italy",
+   "stat": "",
+   "sub": "Zermatt to Cervinia",
+   "visual_query": "Cervinia ski slope"
+  },
+  {
+   "narration": "So the map you saw in school is not fixed. In the Alps, the border can move because the climate changed.",
+   "emoji": "🌡️",
+   "headline": "Maps Aren't Fixed",
+   "stat": "",
+   "sub": "",
+   "visual_query": "melting glacier"
+  },
+  {
+   "narration": "Border posts do not move. Water, ice and rock do, and the lines on the map follow them.",
+   "emoji": "🪨",
+   "headline": "Ice Moves, Lines Follow",
+   "stat": "",
+   "sub": "",
+   "visual_query": "glacier rock border"
+  },
+  {
+   "narration": "Now picture the map on screen: the old line, the new line, and a mountain hut caught between them.",
+   "emoji": "🗺️",
+   "headline": "Old Line, New Line",
+   "stat": "",
+   "sub": "",
+   "visual_query": "topographic map border Alps"
+  },
+  {
+   "narration": "That is the payoff of this video: the Swiss-Italian border near the Matterhorn really is being redrawn, because ice melted.",
+   "emoji": "✅",
+   "headline": "The Border Is Redrawn",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Matterhorn glacier"
+  },
+  {
+   "narration": "Shelters for everyone, guinea pig rules, a waiting clock, a German town, and a border that melts.",
+   "emoji": "🔁",
+   "headline": "Switzerland In Five Lines",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Switzerland landscape"
+  },
+  {
+   "narration": "Which means your Italian mountain hut really can end up in Switzerland, and nobody has to carry it an inch.",
+   "emoji": "🏔️",
+   "headline": "Nobody Carried It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Matterhorn hut snow"
+  },
+  {
+   "narration": "Next in this series: Why Japan Is Stranger Than You Think.",
+   "emoji": "🇯🇵",
+   "headline": "Next: Japan",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Japan Mount Fuji"
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Lake Titicaca Uros floating islands",
+ "hook": "Your boat here docks on an island of reeds.",
+ "title": "Your Boat Docks on an Island Made of Reeds",
+ "description": "On Lake Titicaca, between Peru and Bolivia, the Uros people live on floating islands woven from totora reeds. New reeds are added on top as the old ones rot away. Part of the Places That Shouldn't Exist series.\n\n#Shorts #LakeTiticaca #PlacesThatShouldntExist",
+ "tags": [
+  "lake titicaca",
+  "uros islands",
+  "floating islands",
+  "peru",
+  "bolivia",
+  "geography facts",
+  "places that shouldn't exist",
+  "totora reeds"
+ ],
+ "comment_prompt": "Would you live on it? Yes or no",
+ "hook_banner": "AN ISLAND OF REEDS",
+ "scenes": [
+  {
+   "narration": "Your boat here docks on an island of reeds.",
+   "emoji": "🚤",
+   "headline": "ISLAND OF REEDS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Uros floating islands boat"
+  },
+  {
+   "narration": "This is Lake Titicaca, between Peru and Bolivia.",
+   "emoji": "🏔️",
+   "headline": "LAKE TITICACA",
+   "stat": "",
+   "sub": "Peru and Bolivia",
+   "visual_query": "Lake Titicaca"
+  },
+  {
+   "narration": "The Uros people live on floating islands.",
+   "emoji": "🏝️",
+   "headline": "FLOATING ISLANDS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Uros people floating island"
+  },
+  {
+   "narration": "Everything is woven from totora reeds.",
+   "emoji": "🌾",
+   "headline": "WOVEN FROM REEDS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "totora reeds woven"
+  },
+  {
+   "narration": "The ground under your feet is just reeds.",
+   "emoji": "👣",
+   "headline": "GROUND MADE OF REEDS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Uros island reed ground"
+  },
+  {
+   "narration": "New reeds go on top as old ones rot.",
+   "emoji": "🔄",
+   "headline": "ALWAYS REBUILT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Uros islands reeds layered"
+  },
+  {
+   "narration": "Even their houses are made of reeds.",
+   "emoji": "🛖",
+   "headline": "REED HOUSES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Uros reed house"
+  },
+  {
+   "narration": "So your boat parks beside a woven island.",
+   "emoji": "⛵",
+   "headline": "A WOVEN ISLAND",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Uros reed boat island"
+  },
+  {
+   "narration": "Tomorrow: tacos grown in space.",
+   "emoji": "🌮",
+   "headline": "NEXT: SPACE TACOS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut tacos space station"
+  }
+ ]
+}

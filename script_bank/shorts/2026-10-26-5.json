@@ -1,0 +1,85 @@
+{
+ "category": "technology",
+ "topic": "Streaming apps black screenshot",
+ "hook": "Your Netflix screenshot comes out as a black screen.",
+ "title": "Your Netflix Screenshot Is Just Black",
+ "description": "Try taking a screenshot while a Netflix or Prime Video show is playing. On many phones the picture comes out as a plain black frame. The apps block screen capture to protect the video.\n\n#Shorts #Netflix #PhoneTricks",
+ "tags": [
+  "Netflix",
+  "Prime Video",
+  "screenshot black",
+  "phone tricks",
+  "Android",
+  "screen capture",
+  "tech facts",
+  "Shorts"
+ ],
+ "comment_prompt": "Did yours go black? Yes or no",
+ "hook_banner": "TRY THIS NOW",
+ "scenes": [
+  {
+   "narration": "Your Netflix screenshot comes out as a black screen.",
+   "emoji": "📱",
+   "headline": "SCREENSHOT = BLACK",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Netflix phone screenshot"
+  },
+  {
+   "narration": "Open any show and play it.",
+   "emoji": "▶️",
+   "headline": "PLAY ANY SHOW",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Netflix on phone"
+  },
+  {
+   "narration": "Now take a screenshot, like always.",
+   "emoji": "📸",
+   "headline": "TAKE A SCREENSHOT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone screenshot buttons"
+  },
+  {
+   "narration": "Open your gallery. The picture is just black.",
+   "emoji": "⬛",
+   "headline": "ONLY BLACK",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone gallery black image"
+  },
+  {
+   "narration": "The app told your phone to block the capture.",
+   "emoji": "🚫",
+   "headline": "APP BLOCKS IT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "screen capture blocked"
+  },
+  {
+   "narration": "It is meant to protect the movies.",
+   "emoji": "🎬",
+   "headline": "PROTECTING MOVIES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "movie streaming app"
+  },
+  {
+   "narration": "Same trick works on Prime Video, on many phones.",
+   "emoji": "🔒",
+   "headline": "TRY PRIME TOO",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Prime Video app phone"
+  },
+  {
+   "narration": "Tomorrow: the country that is almost underwater.",
+   "emoji": "🌊",
+   "headline": "NEXT: LOWEST COUNTRY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Maldives aerial islands"
+  }
+ ]
+}

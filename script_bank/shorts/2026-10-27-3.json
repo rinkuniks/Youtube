@@ -1,0 +1,85 @@
+{
+ "category": "geography",
+ "topic": "Russia 11 time zones",
+ "hook": "Your phone clock in Russia has to handle 11 time zones.",
+ "title": "Russia Has 11 Time Zones in One Country",
+ "description": "Russia spans 11 time zones, more than any other country. When it is morning in one end, it can already be night at the other. India has just one, which makes this even stranger to picture.\n\n#Shorts #Russia #TimeZones",
+ "tags": [
+  "Russia",
+  "time zones",
+  "11 time zones",
+  "geography facts",
+  "Moscow",
+  "Kamchatka",
+  "India one time zone",
+  "Shorts"
+ ],
+ "comment_prompt": "Could you handle it? Yes or no",
+ "hook_banner": "ONE COUNTRY, 11 CLOCKS",
+ "scenes": [
+  {
+   "narration": "Your phone clock in Russia has to handle 11 time zones.",
+   "emoji": "🕐",
+   "headline": "11 TIME ZONES",
+   "stat": "11",
+   "sub": "in one country",
+   "visual_query": "Russia world clocks"
+  },
+  {
+   "narration": "That is one country with eleven different clocks.",
+   "emoji": "🌍",
+   "headline": "ELEVEN CLOCKS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Russia map time zones"
+  },
+  {
+   "narration": "India has only one time zone, IST.",
+   "emoji": "🇮🇳",
+   "headline": "INDIA HAS ONE",
+   "stat": "1",
+   "sub": "IST",
+   "visual_query": "India map"
+  },
+  {
+   "narration": "Russia stretches from Europe all the way to the Pacific.",
+   "emoji": "🗺️",
+   "headline": "EUROPE TO PACIFIC",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Russia landscape Siberia"
+  },
+  {
+   "narration": "When Moscow wakes up, Kamchatka is already ahead.",
+   "emoji": "🌅",
+   "headline": "MOSCOW VS KAMCHATKA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kamchatka volcano"
+  },
+  {
+   "narration": "Trains there run on Moscow time, so stations look strange.",
+   "emoji": "🚆",
+   "headline": "TRANS-SIBERIAN TRAIN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Trans-Siberian railway station"
+  },
+  {
+   "narration": "So one phone, eleven different times of day.",
+   "emoji": "📱",
+   "headline": "ELEVEN TIMES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone world clock"
+  },
+  {
+   "narration": "Tomorrow: a border that runs through a house.",
+   "emoji": "🏠",
+   "headline": "NEXT: BORDER HOUSE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border line house"
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Opportunity rover lifespan",
+ "hook": "Your robot built for 90 days lasted about 15 years.",
+ "title": "Your 90-day robot lasted 15 years on Mars",
+ "description": "NASA's Opportunity rover was built for a 90-day mission on Mars. It landed in 2004 and kept going until 2018, helped along by wind gusts that cleaned its solar panels.\n\nSeries: If You Were in Space.",
+ "tags": [
+  "Opportunity rover",
+  "NASA",
+  "Mars",
+  "space facts",
+  "Mars rover",
+  "science facts",
+  "shorts",
+  "did you know"
+ ],
+ "comment_prompt": "Would you trust a robot this long? Yes or no",
+ "hook_banner": "BUILT FOR 90 DAYS",
+ "scenes": [
+  {
+   "narration": "Your robot built for 90 days lasted about 15 years.",
+   "emoji": "🤖",
+   "headline": "90 Days Planned",
+   "stat": "15 YEARS",
+   "sub": "Opportunity rover",
+   "visual_query": "Opportunity rover Mars"
+  },
+  {
+   "narration": "That robot was NASA's Opportunity rover.",
+   "emoji": "🚀",
+   "headline": "NASA's Opportunity",
+   "stat": "",
+   "sub": "",
+   "visual_query": "NASA rover selfie"
+  },
+  {
+   "narration": "It landed on Mars in 2004.",
+   "emoji": "🔴",
+   "headline": "Landed 2004",
+   "stat": "2004",
+   "sub": "",
+   "visual_query": "Mars surface rover"
+  },
+  {
+   "narration": "Dust kept covering its solar panels.",
+   "emoji": "🌫️",
+   "headline": "Dusty Panels",
+   "stat": "",
+   "sub": "",
+   "visual_query": "dusty solar panels rover"
+  },
+  {
+   "narration": "Then Martian wind gusts blew them clean.",
+   "emoji": "💨",
+   "headline": "Wind Cleaned It",
+   "stat": "",
+   "sub": "Free cleaning",
+   "visual_query": "Mars dust devil"
+  },
+  {
+   "narration": "It kept driving until 2018.",
+   "emoji": "🛞",
+   "headline": "Still Driving",
+   "stat": "2018",
+   "sub": "",
+   "visual_query": "rover tracks Mars"
+  },
+  {
+   "narration": "It drove more than a marathon.",
+   "emoji": "🏃",
+   "headline": "More Than A Marathon",
+   "stat": "",
+   "sub": "",
+   "visual_query": "marathon runners"
+  },
+  {
+   "narration": "Not bad for a ninety day robot.",
+   "emoji": "🏆",
+   "headline": "Not Bad At All",
+   "stat": "90 DAYS",
+   "sub": "",
+   "visual_query": "Opportunity rover Mars"
+  },
+  {
+   "narration": "Tomorrow: the country that skipped a day.",
+   "emoji": "📅",
+   "headline": "Tomorrow: A Lost Day",
+   "stat": "",
+   "sub": "",
+   "visual_query": "calendar pages"
+  }
+ ]
+}

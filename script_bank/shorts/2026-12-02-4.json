@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "James Webb gold mirror",
+ "hook": "Your telescope mirror is 18 gold hexagons.",
+ "title": "Webb's Mirror Is 18 Gold Hexagons",
+ "description": "The James Webb Space Telescope's mirror is built from 18 hexagonal beryllium segments with a thin gold coating. Gold reflects infrared light very well, which is what Webb is built to see.\n\nSeries: Space Facts That Sound Fake.",
+ "tags": [
+  "james webb",
+  "jwst",
+  "space facts",
+  "gold mirror",
+  "telescope",
+  "nasa",
+  "astronomy",
+  "shorts"
+ ],
+ "comment_prompt": "Gold telescope: cool or too fancy? Cool or fancy",
+ "hook_banner": "THIS MIRROR IS REAL",
+ "scenes": [
+  {
+   "narration": "Your telescope mirror is 18 gold hexagons.",
+   "emoji": "🔭",
+   "headline": "18 GOLD HEXAGONS",
+   "stat": "18",
+   "sub": "",
+   "visual_query": "James Webb telescope mirror"
+  },
+  {
+   "narration": "It's the James Webb Space Telescope.",
+   "emoji": "🛰️",
+   "headline": "JAMES WEBB TELESCOPE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "James Webb telescope space"
+  },
+  {
+   "narration": "Each segment is beryllium, coated in thin gold.",
+   "emoji": "🥇",
+   "headline": "THIN GOLD COATING",
+   "stat": "",
+   "sub": "Beryllium underneath",
+   "visual_query": "gold mirror segment"
+  },
+  {
+   "narration": "Gold reflects infrared light extremely well.",
+   "emoji": "✨",
+   "headline": "GOLD LOVES INFRARED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "infrared telescope mirror"
+  },
+  {
+   "narration": "Webb sees heat, not colors your eyes see.",
+   "emoji": "🔥",
+   "headline": "IT SEES HEAT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "infrared galaxy image"
+  },
+  {
+   "narration": "Together, the segments form one giant honeycomb.",
+   "emoji": "🐝",
+   "headline": "GIANT HONEYCOMB",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Webb mirror honeycomb"
+  },
+  {
+   "narration": "It floats in space, far beyond the Moon.",
+   "emoji": "🌑",
+   "headline": "BEYOND THE MOON",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Webb telescope launch"
+  },
+  {
+   "narration": "Your telescope is a golden honeycomb in space.",
+   "emoji": "🌌",
+   "headline": "GOLDEN HONEYCOMB",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Webb telescope gold mirror"
+  },
+  {
+   "narration": "Tomorrow: a taxi with nobody driving.",
+   "emoji": "🚕",
+   "headline": "NEXT: DRIVERLESS TAXI",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Waymo robotaxi street"
+  }
+ ]
+}

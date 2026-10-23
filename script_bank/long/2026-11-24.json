@@ -1,0 +1,704 @@
+{
+ "topic": "Why Rameswaram and the Palk Strait coast is stranger than you think",
+ "hook": "Your fishing boat near Rameswaram floats past an island India gave away in 1974, and a church still stands on it.",
+ "title": "Why Rameswaram Is Stranger Than You Think",
+ "description": "Rameswaram sits at the southern tip of India, and its coast hides a train that crosses open sea, a town wiped out in one night, a chain of shoals toward Sri Lanka, and an island India gave away in 1974. Here are six true facts about this strange stretch of the Palk Strait, ending with the church on Katchatheevu.\n\n#Rameswaram #Katchatheevu #IndiaFacts",
+ "tags": [
+  "Rameswaram",
+  "Katchatheevu",
+  "Dhanushkodi",
+  "Pamban bridge",
+  "Adam's Bridge",
+  "Ram Setu",
+  "Palk Strait",
+  "India Sri Lanka",
+  "strange places India",
+  "geography facts",
+  "dugong Palk Bay",
+  "St Anthony church Katchatheevu",
+  "India facts",
+  "Tamil Nadu"
+ ],
+ "comment_prompt": "Which place would you visit first?",
+ "hook_banner": "AN ISLAND INDIA GAVE AWAY",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "A Train Over Open Sea",
+   "scene": 6
+  },
+  {
+   "title": "The Temple With 22 Wells",
+   "scene": 17
+  },
+  {
+   "title": "The Town the Sea Erased",
+   "scene": 27
+  },
+  {
+   "title": "The Sea Cow of Palk Bay",
+   "scene": 40
+  },
+  {
+   "title": "The Bridge Made of Sand",
+   "scene": 51
+  },
+  {
+   "title": "The Island India Gave Away",
+   "scene": 62
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your fishing boat near Rameswaram floats past an island India gave away in 1974, and a church still stands on it.",
+   "emoji": "⛵",
+   "headline": "An Island Given Away",
+   "stat": "1974",
+   "sub": "",
+   "visual_query": "Rameswaram fishing boat"
+  },
+  {
+   "narration": "That island is called Katchatheevu, and you will see it at the end of this video.",
+   "emoji": "🏝️",
+   "headline": "Katchatheevu",
+   "stat": "",
+   "sub": "Waiting at the end",
+   "visual_query": "Katchatheevu island"
+  },
+  {
+   "narration": "But first, a few stranger things hide on this one small stretch of India's southern tip.",
+   "emoji": "🗺️",
+   "headline": "India's Southern Tip",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rameswaram map coast"
+  },
+  {
+   "narration": "A train that crosses open sea, a ghost town, a road that ends in water, and a bridge made of sand.",
+   "emoji": "🚆",
+   "headline": "Four Strange Things",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pamban bridge train"
+  },
+  {
+   "narration": "Every fact here is true, and each one is stranger than the one before.",
+   "emoji": "✅",
+   "headline": "All True",
+   "stat": "",
+   "sub": "Each stranger than the last",
+   "visual_query": "Dhanushkodi sea road"
+  },
+  {
+   "narration": "Let's start with the bridge where a train rides over the middle of the sea.",
+   "emoji": "🌉",
+   "headline": "Train Over the Sea",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pamban railway bridge sea"
+  },
+  {
+   "narration": "Rameswaram is an island, and for a long time the only way in by rail was a bridge over the sea.",
+   "emoji": "🏝️",
+   "headline": "An Island by Rail",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rameswaram island aerial"
+  },
+  {
+   "narration": "The old Pamban Bridge opened in 1914, and trains crossed it for more than a hundred years.",
+   "emoji": "🚂",
+   "headline": "The Old Pamban Bridge",
+   "stat": "1914",
+   "sub": "",
+   "visual_query": "old Pamban bridge"
+  },
+  {
+   "narration": "Its middle section could open like a pair of scissors so that boats could pass beneath it.",
+   "emoji": "✂️",
+   "headline": "A Bridge That Opens",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pamban bridge open span"
+  },
+  {
+   "narration": "Workers had to open it by hand, working the gears, every time a boat needed to pass.",
+   "emoji": "⚙️",
+   "headline": "Opened by Hand",
+   "stat": "",
+   "sub": "",
+   "visual_query": "bridge gears lever"
+  },
+  {
+   "narration": "But salty sea air eats iron, and by 2022 the old bridge was shut to trains because of corrosion.",
+   "emoji": "🧂",
+   "headline": "Eaten by Salt",
+   "stat": "2022",
+   "sub": "",
+   "visual_query": "rusted iron bridge sea"
+  },
+  {
+   "narration": "So a new Pamban Bridge was built beside it, and it opened in April 2025.",
+   "emoji": "🏗️",
+   "headline": "The New Bridge",
+   "stat": "2025",
+   "sub": "",
+   "visual_query": "new Pamban bridge"
+  },
+  {
+   "narration": "It is India's first vertical lift sea bridge, which means a piece of the railway rises straight up.",
+   "emoji": "⬆️",
+   "headline": "A Track That Lifts",
+   "stat": "",
+   "sub": "India's first",
+   "visual_query": "vertical lift bridge"
+  },
+  {
+   "narration": "When a tall fishing boat needs to pass, the middle span climbs about 17 metres into the air.",
+   "emoji": "📏",
+   "headline": "Lifts 17 Metres",
+   "stat": "17 m",
+   "sub": "",
+   "visual_query": "lift bridge raised boat"
+  },
+  {
+   "narration": "The train waits, the boat sails through, and then the track comes back down.",
+   "emoji": "⛴️",
+   "headline": "Wait, Sail, Lower",
+   "stat": "",
+   "sub": "",
+   "visual_query": "boat under bridge"
+  },
+  {
+   "narration": "Picture it: your train halts in the middle of the sea while the track ahead rises into the sky.",
+   "emoji": "🌊",
+   "headline": "Stopped Over the Sea",
+   "stat": "",
+   "sub": "",
+   "visual_query": "train on sea bridge"
+  },
+  {
+   "narration": "Now step off that bridge, because the island holds a temple with a very odd feature.",
+   "emoji": "🛕",
+   "headline": "Next: A Strange Temple",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rameswaram temple"
+  },
+  {
+   "narration": "Rameswaram's Ramanathaswamy Temple stands very close to the beach, with the sea only a short walk away.",
+   "emoji": "🛕",
+   "headline": "Temple by the Sea",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ramanathaswamy temple"
+  },
+  {
+   "narration": "Yet pilgrims inside the temple bathe in a series of wells, and tradition counts twenty-two of them.",
+   "emoji": "💧",
+   "headline": "22 Holy Wells",
+   "stat": "22",
+   "sub": "",
+   "visual_query": "temple well pilgrims"
+  },
+  {
+   "narration": "Buckets of water are poured over each visitor, one well after another, and people say each tastes different.",
+   "emoji": "🪣",
+   "headline": "Well After Well",
+   "stat": "",
+   "sub": "",
+   "visual_query": "pilgrims bucket water"
+  },
+  {
+   "narration": "Many Hindus believe this is among the holy places linked to Lord Rama, which is why pilgrims come.",
+   "emoji": "🙏",
+   "headline": "A Place of Pilgrimage",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rameswaram pilgrims"
+  },
+  {
+   "narration": "Whatever you believe, the setting is strange: wells inside a temple on a sandy island ringed by salt water.",
+   "emoji": "🏝️",
+   "headline": "Wells on a Sea Island",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rameswaram island beach"
+  },
+  {
+   "narration": "The temple is also known for its corridors, among the longest in India, lined with carved stone pillars.",
+   "emoji": "🏛️",
+   "headline": "Endless Corridors",
+   "stat": "",
+   "sub": "",
+   "visual_query": "temple corridor pillars"
+  },
+  {
+   "narration": "Walk them and the pillars seem to go on forever, like a hallway in a dream.",
+   "emoji": "✨",
+   "headline": "Pillars Forever",
+   "stat": "",
+   "sub": "",
+   "visual_query": "carved stone pillars corridor"
+  },
+  {
+   "narration": "Pilgrims have come here for centuries, and many then travel on to the very end of the island.",
+   "emoji": "🚶",
+   "headline": "On to the Tip",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rameswaram road pilgrims"
+  },
+  {
+   "narration": "That end is where the road stops, and the sea takes over.",
+   "emoji": "🛣️",
+   "headline": "Where the Road Ends",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dhanushkodi road end"
+  },
+  {
+   "narration": "And that brings us to a town that was wiped out in a single night.",
+   "emoji": "🌀",
+   "headline": "A Town Erased",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dhanushkodi ruins"
+  },
+  {
+   "narration": "Dhanushkodi sits at the far tip of Rameswaram island, and today it is a ghost town.",
+   "emoji": "👻",
+   "headline": "Dhanushkodi",
+   "stat": "",
+   "sub": "India's ghost town",
+   "visual_query": "Dhanushkodi ghost town"
+  },
+  {
+   "narration": "Before 1964 it had a railway station, a post office, a church and a temple.",
+   "emoji": "🏘️",
+   "headline": "A Real Town",
+   "stat": "1964",
+   "sub": "",
+   "visual_query": "Dhanushkodi church ruins"
+  },
+  {
+   "narration": "It was also the place where passengers left the train and boarded a ferry to Sri Lanka.",
+   "emoji": "⛴️",
+   "headline": "Train to Ferry",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old ferry pier Dhanushkodi"
+  },
+  {
+   "narration": "Then, in December 1964, a powerful cyclone hit, and a huge wave rolled over the land.",
+   "emoji": "🌪️",
+   "headline": "December 1964",
+   "stat": "1964",
+   "sub": "",
+   "visual_query": "cyclone storm waves"
+  },
+  {
+   "narration": "A passenger train heading for Dhanushkodi was swept away that night, and the toll in the town was heavy.",
+   "emoji": "🚆",
+   "headline": "The Lost Train",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dhanushkodi railway station ruins"
+  },
+  {
+   "narration": "Afterwards the government declared the town unfit to live in, and it was left to the sea.",
+   "emoji": "🚫",
+   "headline": "Unfit to Live In",
+   "stat": "",
+   "sub": "",
+   "visual_query": "abandoned coastal town"
+  },
+  {
+   "narration": "Walk there today and you see roofless walls, a broken church and a station with nothing around it.",
+   "emoji": "🏚️",
+   "headline": "Roofless Walls",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dhanushkodi church ruin"
+  },
+  {
+   "narration": "Some fishing families still live near the ruins today, with the sea at their door.",
+   "emoji": "🎣",
+   "headline": "Families Still Here",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dhanushkodi fishermen village"
+  },
+  {
+   "narration": "A road now runs to the very tip, and the sea sits on both sides of you.",
+   "emoji": "🌊",
+   "headline": "Sea on Both Sides",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dhanushkodi narrow road sea"
+  },
+  {
+   "narration": "Here the Bay of Bengal on one side meets the Indian Ocean on the other, and the two sides often look different.",
+   "emoji": "🧭",
+   "headline": "Two Seas Meet",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Arichal Munai two seas"
+  },
+  {
+   "narration": "If you like strange places like this, subscribe, because tomorrow's video goes somewhere equally odd.",
+   "emoji": "🔔",
+   "headline": "Subscribe for More",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map globe"
+  },
+  {
+   "narration": "And from this tip of land, Sri Lanka is only about thirty kilometres away.",
+   "emoji": "📍",
+   "headline": "Sri Lanka Is Close",
+   "stat": "30 km",
+   "sub": "About",
+   "visual_query": "Dhanushkodi Sri Lanka sea"
+  },
+  {
+   "narration": "But first, meet a shy animal in these waters that sailors may once have mistaken for a mermaid.",
+   "emoji": "🧜",
+   "headline": "A Mermaid Mystery",
+   "stat": "",
+   "sub": "",
+   "visual_query": "dugong underwater"
+  },
+  {
+   "narration": "Along this coast lives the dugong, a gentle sea mammal also called the sea cow.",
+   "emoji": "🐄",
+   "headline": "The Sea Cow",
+   "stat": "",
+   "sub": "Dugong",
+   "visual_query": "dugong seagrass"
+  },
+  {
+   "narration": "Old sailors who saw one from a distance are often said to have imagined mermaids.",
+   "emoji": "🌅",
+   "headline": "Mermaid Legends",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old sailing ship sea"
+  },
+  {
+   "narration": "A dugong grazes on seagrass, the way a cow grazes on grass, but underwater.",
+   "emoji": "🌿",
+   "headline": "Grazing Underwater",
+   "stat": "",
+   "sub": "",
+   "visual_query": "seagrass meadow underwater"
+  },
+  {
+   "narration": "Palk Bay has big seagrass meadows, and that is why dugongs still come here.",
+   "emoji": "🌊",
+   "headline": "Palk Bay Meadows",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Palk Bay coast"
+  },
+  {
+   "narration": "In September 2022, Tamil Nadu declared India's first dugong conservation reserve in this bay.",
+   "emoji": "🛡️",
+   "headline": "India's First Reserve",
+   "stat": "2022",
+   "sub": "",
+   "visual_query": "dugong conservation reserve"
+  },
+  {
+   "narration": "It covers roughly four hundred and fifty square kilometres of sea, with the grass meadows at its heart.",
+   "emoji": "📐",
+   "headline": "A Reserve at Sea",
+   "stat": "~450 km²",
+   "sub": "",
+   "visual_query": "seagrass sea aerial"
+  },
+  {
+   "narration": "In 2025, the world conservation body IUCN voted to recognise the reserve at its congress in Abu Dhabi.",
+   "emoji": "🌍",
+   "headline": "Global Recognition",
+   "stat": "2025",
+   "sub": "",
+   "visual_query": "IUCN World Conservation Congress"
+  },
+  {
+   "narration": "Dugongs are rare, so damaged seagrass and tangled fishing nets are real dangers to them.",
+   "emoji": "⚠️",
+   "headline": "A Rare Animal",
+   "stat": "",
+   "sub": "",
+   "visual_query": "fishing net sea"
+  },
+  {
+   "narration": "Healthy seagrass also helps fish, so protecting these meadows helps the fishing coast too.",
+   "emoji": "🐟",
+   "headline": "Good for Fish Too",
+   "stat": "",
+   "sub": "",
+   "visual_query": "fishermen boats Palk Bay"
+  },
+  {
+   "narration": "Now look south from here, and you can see a line that seems to walk across the sea.",
+   "emoji": "👀",
+   "headline": "A Line Across the Sea",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Adam's Bridge aerial"
+  },
+  {
+   "narration": "From Dhanushkodi, a chain of sandbanks and limestone shoals stretches toward Sri Lanka, and satellites show it clearly.",
+   "emoji": "🛰️",
+   "headline": "Seen From Space",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Adam's Bridge satellite"
+  },
+  {
+   "narration": "It is called Adam's Bridge, and in India it is also known as Ram Setu.",
+   "emoji": "🌉",
+   "headline": "Adam's Bridge",
+   "stat": "",
+   "sub": "Also Ram Setu",
+   "visual_query": "Ram Setu shoals"
+  },
+  {
+   "narration": "Many people believe it was built in the age of the Ramayana, and it is deeply sacred to them.",
+   "emoji": "🙏",
+   "headline": "Sacred to Many",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rama Setu pilgrims"
+  },
+  {
+   "narration": "Geologists describe it as a natural chain of shoals, and its story is still discussed and debated.",
+   "emoji": "🪨",
+   "headline": "A Chain of Shoals",
+   "stat": "",
+   "sub": "",
+   "visual_query": "limestone shoals sea"
+  },
+  {
+   "narration": "Everyone agrees on one thing: in many places the water here is very shallow.",
+   "emoji": "💦",
+   "headline": "Very Shallow Water",
+   "stat": "",
+   "sub": "",
+   "visual_query": "shallow turquoise sea"
+  },
+  {
+   "narration": "Because of those shallows, big ships cannot sail through, so they go all the way around Sri Lanka.",
+   "emoji": "🚢",
+   "headline": "Ships Go Around",
+   "stat": "",
+   "sub": "",
+   "visual_query": "cargo ship ocean"
+  },
+  {
+   "narration": "Some old accounts say people could once cross much of it on foot, until storms deepened the sea.",
+   "emoji": "🚶",
+   "headline": "Once Walkable?",
+   "stat": "",
+   "sub": "Old accounts say",
+   "visual_query": "walking shallow sandbank"
+  },
+  {
+   "narration": "India once planned a shipping canal through here, and the idea set off a long debate that continues.",
+   "emoji": "⚓",
+   "headline": "The Canal Debate",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ship canal project"
+  },
+  {
+   "narration": "On a clear satellite picture it looks like a dotted line drawn between two countries.",
+   "emoji": "🔵",
+   "headline": "A Dotted Line",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Palk Strait satellite"
+  },
+  {
+   "narration": "So the same strip of sea is a map curiosity, a sacred story and a shipping problem all at once.",
+   "emoji": "🗺️",
+   "headline": "Three Stories, One Sea",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Palk Strait map"
+  },
+  {
+   "narration": "And now, at last, we go out in a small fishing boat to the island in the middle of the sea.",
+   "emoji": "⛵",
+   "headline": "Out to the Island",
+   "stat": "",
+   "sub": "",
+   "visual_query": "fishing boat open sea"
+  },
+  {
+   "narration": "Katchatheevu is a tiny uninhabited island in the Palk Strait, less than two kilometres long.",
+   "emoji": "🏝️",
+   "headline": "Katchatheevu",
+   "stat": "",
+   "sub": "Tiny and uninhabited",
+   "visual_query": "Katchatheevu island"
+  },
+  {
+   "narration": "It lies in the strait between Rameswaram and Sri Lanka's Jaffna peninsula, and on the map it looks close to India.",
+   "emoji": "📍",
+   "headline": "Close to India on a Map",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Katchatheevu map Palk Strait"
+  },
+  {
+   "narration": "For years it was claimed by both sides, and in 1974 an agreement placed it with Sri Lanka.",
+   "emoji": "📜",
+   "headline": "The 1974 Agreement",
+   "stat": "1974",
+   "sub": "",
+   "visual_query": "India Sri Lanka agreement 1974"
+  },
+  {
+   "narration": "That agreement is why the island belongs to Sri Lanka, even though Indian fishing boats pass right by it.",
+   "emoji": "🚤",
+   "headline": "Passing a Foreign Island",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Indian fishing boats Palk Strait"
+  },
+  {
+   "narration": "Nobody lives on Katchatheevu, but it does have one thing that draws crowds: a small church.",
+   "emoji": "⛪",
+   "headline": "A Church, No Residents",
+   "stat": "",
+   "sub": "",
+   "visual_query": "St Anthony church Katchatheevu"
+  },
+  {
+   "narration": "It is the Church of St Anthony, and every year it holds a festival.",
+   "emoji": "🎉",
+   "headline": "St Anthony's Festival",
+   "stat": "",
+   "sub": "Every year",
+   "visual_query": "St Anthony church festival"
+  },
+  {
+   "narration": "Pilgrims from both India and Sri Lanka travel across the water to attend, by boat.",
+   "emoji": "⛴️",
+   "headline": "Pilgrims by Boat",
+   "stat": "",
+   "sub": "",
+   "visual_query": "pilgrims boats sea"
+  },
+  {
+   "narration": "For those few days, an island that is foreign on paper becomes a place where two countries pray together.",
+   "emoji": "🤝",
+   "headline": "Two Countries, One Prayer",
+   "stat": "",
+   "sub": "",
+   "visual_query": "church pilgrims prayer island"
+  },
+  {
+   "narration": "The rest of the year it is silent, with just sand, scrub and the sea around it.",
+   "emoji": "🤫",
+   "headline": "Silent the Rest of the Year",
+   "stat": "",
+   "sub": "",
+   "visual_query": "small island sand scrub"
+  },
+  {
+   "narration": "The waters around it are also rich fishing grounds, which is why the island still matters so much.",
+   "emoji": "🐟",
+   "headline": "Rich Fishing Waters",
+   "stat": "",
+   "sub": "",
+   "visual_query": "fishing nets boat sea"
+  },
+  {
+   "narration": "Fishermen from Tamil Nadu and Sri Lankan authorities have clashed over those waters for years, and the issue is still raised today.",
+   "emoji": "⚖️",
+   "headline": "A Long Dispute",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Tamil Nadu fishermen boats"
+  },
+  {
+   "narration": "That is why a tiny rock with a church makes headlines in two countries, even today.",
+   "emoji": "📰",
+   "headline": "Headlines in Two Countries",
+   "stat": "",
+   "sub": "",
+   "visual_query": "newspaper headlines"
+  },
+  {
+   "narration": "A map line drawn in the 1970s still decides where a fisherman may cast his net.",
+   "emoji": "🧵",
+   "headline": "A Line on Water",
+   "stat": "",
+   "sub": "",
+   "visual_query": "maritime boundary map"
+  },
+  {
+   "narration": "It is a reminder that borders are not only on land, they are also lines drawn across water.",
+   "emoji": "🌊",
+   "headline": "Borders on Water",
+   "stat": "",
+   "sub": "",
+   "visual_query": "sea horizon boat"
+  },
+  {
+   "narration": "So here is what we saw: a train over the sea, a ghost town, a sea cow, a bridge of sand.",
+   "emoji": "📋",
+   "headline": "What We Saw",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rameswaram coast"
+  },
+  {
+   "narration": "And an island with a church that India gave away, sitting just across the water from Rameswaram.",
+   "emoji": "🏝️",
+   "headline": "The Island",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Katchatheevu church"
+  },
+  {
+   "narration": "Now go back to the start. Your fishing boat floats past an island India gave away in 1974.",
+   "emoji": "⛵",
+   "headline": "Back to the Boat",
+   "stat": "1974",
+   "sub": "",
+   "visual_query": "fishing boat sunrise sea"
+  },
+  {
+   "narration": "A church still stands on it, and once a year, two countries pray there together.",
+   "emoji": "⛪",
+   "headline": "A Church Still Stands",
+   "stat": "",
+   "sub": "",
+   "visual_query": "island church sea"
+  },
+  {
+   "narration": "Tell me in the comments: which of these places would you visit first?",
+   "emoji": "💬",
+   "headline": "Your Pick?",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dhanushkodi sunset"
+  },
+  {
+   "narration": "Next in this series: another place that looks ordinary on a map, until you zoom in.",
+   "emoji": "➡️",
+   "headline": "Next in the Series",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map zoom"
+  }
+ ]
+}

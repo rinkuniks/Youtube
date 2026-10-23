@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Dhanushkodi ghost town",
+ "hook": "Your road here ends with sea on both sides.",
+ "title": "Your Road Ends at India's Ghost Town",
+ "description": "Dhanushkodi in Tamil Nadu sits at the tip of Rameswaram island, with the Bay of Bengal on one side and the Indian Ocean on the other. A cyclone in 1964 wrecked the town. Ruins still stand there today.\n\n#Shorts #Dhanushkodi #Geography",
+ "tags": [
+  "Dhanushkodi",
+  "Tamil Nadu",
+  "ghost town",
+  "Rameswaram",
+  "India facts",
+  "1964 cyclone",
+  "geography facts",
+  "Shorts"
+ ],
+ "comment_prompt": "Would you visit? Yes or no",
+ "hook_banner": "INDIA'S GHOST TOWN",
+ "scenes": [
+  {
+   "narration": "Your road here ends with sea on both sides.",
+   "emoji": "🛣️",
+   "headline": "SEA ON BOTH SIDES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dhanushkodi road sea"
+  },
+  {
+   "narration": "This is Dhanushkodi, in Tamil Nadu.",
+   "emoji": "📍",
+   "headline": "DHANUSHKODI, INDIA",
+   "stat": "",
+   "sub": "Tamil Nadu",
+   "visual_query": "Dhanushkodi Tamil Nadu"
+  },
+  {
+   "narration": "The Bay of Bengal is on one side.",
+   "emoji": "🌊",
+   "headline": "BAY OF BENGAL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bay of Bengal beach"
+  },
+  {
+   "narration": "The Indian Ocean is on the other.",
+   "emoji": "🌏",
+   "headline": "INDIAN OCEAN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Indian Ocean Dhanushkodi"
+  },
+  {
+   "narration": "A cyclone in 1964 wrecked the town.",
+   "emoji": "🌪️",
+   "headline": "WRECKED IN 1964",
+   "stat": "1964",
+   "sub": "cyclone",
+   "visual_query": "Dhanushkodi ruins church"
+  },
+  {
+   "narration": "Broken buildings still stand on the sand.",
+   "emoji": "🏚️",
+   "headline": "RUINS STILL STAND",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dhanushkodi ruined railway station"
+  },
+  {
+   "narration": "Sri Lanka is just across the water.",
+   "emoji": "🇱🇰",
+   "headline": "SRI LANKA NEARBY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dhanushkodi sandbar Sri Lanka"
+  },
+  {
+   "narration": "Your road ends where the land does.",
+   "emoji": "🛣️",
+   "headline": "ROAD TO NOWHERE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dhanushkodi road end"
+  },
+  {
+   "narration": "Tomorrow: another place that sounds fake.",
+   "emoji": "🌍",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "another place that sounds fake",
+   "visual_query": "world map globe"
+  }
+ ]
+}

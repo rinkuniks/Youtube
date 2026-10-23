@@ -1,0 +1,85 @@
+{
+ "category": "space",
+ "topic": "Valles Marineris vs India and the US",
+ "hook": "Your India map is shorter than this Mars canyon.",
+ "title": "Mars Has a Canyon Longer Than India",
+ "description": "Valles Marineris on Mars is about 4,000 km long. India is roughly 3,200 km from top to bottom, and the canyon almost crosses the United States. Part of the Mind-Bending Facts series.\n\n#Shorts #Mars #SpaceFacts",
+ "tags": [
+  "Mars",
+  "Valles Marineris",
+  "space facts",
+  "canyon",
+  "India",
+  "NASA",
+  "solar system",
+  "did you know"
+ ],
+ "comment_prompt": "Would you hike it? Yes or no",
+ "hook_banner": "BIGGER THAN INDIA",
+ "scenes": [
+  {
+   "narration": "Your India map is shorter than this Mars canyon.",
+   "emoji": "🪐",
+   "headline": "Longer Than India",
+   "stat": "",
+   "sub": "Mars canyon vs India",
+   "visual_query": "Valles Marineris Mars"
+  },
+  {
+   "narration": "It's called Valles Marineris, about 4,000 kilometres long.",
+   "emoji": "📏",
+   "headline": "Valles Marineris",
+   "stat": "4,000 km",
+   "sub": "Length of the canyon",
+   "visual_query": "Valles Marineris canyon"
+  },
+  {
+   "narration": "India is roughly 3,200 kilometres from top to bottom.",
+   "emoji": "🇮🇳",
+   "headline": "India Is Shorter",
+   "stat": "3,200 km",
+   "sub": "North to south",
+   "visual_query": "India map"
+  },
+  {
+   "narration": "Lay it over America and it almost crosses.",
+   "emoji": "🗺️",
+   "headline": "Almost Coast to Coast",
+   "stat": "",
+   "sub": "Overlay on the US",
+   "visual_query": "United States map"
+  },
+  {
+   "narration": "It's also deep, up to about seven kilometres.",
+   "emoji": "⬇️",
+   "headline": "Seven Kilometres Deep",
+   "stat": "~7 km",
+   "sub": "At its deepest",
+   "visual_query": "Mars canyon cliffs"
+  },
+  {
+   "narration": "It's the biggest canyon known in our solar system.",
+   "emoji": "🌌",
+   "headline": "Biggest Known Canyon",
+   "stat": "",
+   "sub": "In our solar system",
+   "visual_query": "Mars surface orbit"
+  },
+  {
+   "narration": "So yes, your India map is shorter than Mars.",
+   "emoji": "🔴",
+   "headline": "Mars Wins",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mars planet"
+  },
+  {
+   "narration": "Tomorrow: salt dancing on a phone speaker.",
+   "emoji": "➡️",
+   "headline": "Next: Dancing Salt",
+   "stat": "",
+   "sub": "",
+   "visual_query": "salt grains speaker"
+  }
+ ]
+}

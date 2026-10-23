@@ -1,0 +1,692 @@
+{
+ "topic": "Strange borders: Sokh and six enclaves",
+ "hook": "Your passport can say Uzbekistan while every road around you is in Kyrgyzstan.",
+ "title": "6 Places Stuck Inside Another Country (India Too)",
+ "description": "Your passport can say Uzbekistan while every road around you is in Kyrgyzstan, and that is one of six real border oddities in this countdown. From Sokh in the Fergana Valley to the Cooch Behar enclaves between India and Bangladesh, every place is on a real map. Watch to the end for India's strangest border.\n\n#borders #geography #mapfacts",
+ "tags": [
+  "strange borders",
+  "enclaves",
+  "Sokh",
+  "Fergana Valley",
+  "Cooch Behar enclaves",
+  "Kaliningrad",
+  "Büsingen",
+  "Llívia",
+  "Madha Nahwa",
+  "India Bangladesh border",
+  "geography facts",
+  "weird maps",
+  "countries inside countries",
+  "border facts"
+ ],
+ "comment_prompt": "Which border surprised you most?",
+ "hook_banner": "COUNTRIES INSIDE COUNTRIES",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "6: Kaliningrad",
+   "scene": 6
+  },
+  {
+   "title": "5: Büsingen",
+   "scene": 16
+  },
+  {
+   "title": "4: Llívia",
+   "scene": 27
+  },
+  {
+   "title": "3: Madha and Nahwa",
+   "scene": 37
+  },
+  {
+   "title": "2: Sokh, Fergana Valley",
+   "scene": 48
+  },
+  {
+   "title": "1: Cooch Behar enclaves",
+   "scene": 62
+  },
+  {
+   "title": "Outro",
+   "scene": 78
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your passport can say Uzbekistan while every road around you is in Kyrgyzstan.",
+   "emoji": "🗺️",
+   "headline": "Uzbek Inside Kyrgyzstan",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Fergana valley map"
+  },
+  {
+   "narration": "That is real, and it is one of six places in this video where a border makes no sense at all.",
+   "emoji": "🌍",
+   "headline": "6 Impossible Borders",
+   "stat": "6",
+   "sub": "",
+   "visual_query": "world map borders"
+  },
+  {
+   "narration": "By the end, you will see a tiny patch of India that sat inside Bangladesh, inside India, inside Bangladesh.",
+   "emoji": "🇮🇳",
+   "headline": "India's Strangest",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Bangladesh border"
+  },
+  {
+   "narration": "We count down from six, and every place is stranger than the one before it.",
+   "emoji": "⏳",
+   "headline": "Countdown Starts",
+   "stat": "",
+   "sub": "",
+   "visual_query": "countdown map"
+  },
+  {
+   "narration": "No tricks and no made-up maps. Every place here is on a real map that you can open right now.",
+   "emoji": "📱",
+   "headline": "Open Any Map App",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone map app"
+  },
+  {
+   "narration": "So let us start with a piece of Russia that is not connected to the rest of Russia.",
+   "emoji": "🇷🇺",
+   "headline": "Start With Russia",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Russia map"
+  },
+  {
+   "narration": "Number six: Kaliningrad, a part of Russia that has no land link to the rest of Russia.",
+   "emoji": "🇷🇺",
+   "headline": "Kaliningrad",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kaliningrad city"
+  },
+  {
+   "narration": "Look at the map. Poland sits on one side, Lithuania on the other, and the Baltic Sea is in front.",
+   "emoji": "🗺️",
+   "headline": "Squeezed In",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Baltic sea coast"
+  },
+  {
+   "narration": "The rest of Russia lies far to the east, with other countries standing in between.",
+   "emoji": "↔️",
+   "headline": "Cut Off",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lithuania Poland map"
+  },
+  {
+   "narration": "Its people are Russian citizens, but their neighbours on every land side are in the European Union.",
+   "emoji": "🇪🇺",
+   "headline": "EU On Every Side",
+   "stat": "",
+   "sub": "",
+   "visual_query": "European Union flags"
+  },
+  {
+   "narration": "Before 1945, this was Königsberg, a German city. After the Second World War it became Soviet.",
+   "emoji": "🏛️",
+   "headline": "Once Königsberg",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Konigsberg cathedral"
+  },
+  {
+   "narration": "Then the Soviet Union broke up, and Kaliningrad was left stranded behind brand new borders.",
+   "emoji": "💥",
+   "headline": "Stranded in 1991",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Soviet flag"
+  },
+  {
+   "narration": "Even today, going there by land from mainland Russia means passing through other countries.",
+   "emoji": "🚆",
+   "headline": "Pass Through Others",
+   "stat": "",
+   "sub": "",
+   "visual_query": "train border crossing"
+  },
+  {
+   "narration": "That is why many travellers choose to fly or sail there instead.",
+   "emoji": "✈️",
+   "headline": "Fly Or Sail",
+   "stat": "",
+   "sub": "",
+   "visual_query": "airplane over sea"
+  },
+  {
+   "narration": "The lesson of this list: borders follow history first, and common sense almost never.",
+   "emoji": "📜",
+   "headline": "History Beats Sense",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old map"
+  },
+  {
+   "narration": "But Kaliningrad is a whole region. The next place is one small town that lives by two sets of rules.",
+   "emoji": "👀",
+   "headline": "Next: One Town",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss village"
+  },
+  {
+   "narration": "Number five: Büsingen, a German town sitting inside Switzerland, with Swiss land all around it.",
+   "emoji": "🇩🇪",
+   "headline": "Büsingen",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Busingen Rhine"
+  },
+  {
+   "narration": "Walk out of the town in almost any direction, and you step straight into Switzerland.",
+   "emoji": "🚶",
+   "headline": "Swiss All Around",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss countryside road"
+  },
+  {
+   "narration": "The town is small enough to walk across, yet it has its own German mayor and council.",
+   "emoji": "🏛️",
+   "headline": "Tiny German Town",
+   "stat": "",
+   "sub": "",
+   "visual_query": "small town hall Germany"
+  },
+  {
+   "narration": "Cars here carry their own number plate code, BÜS, so everyone knows they belong to this one town.",
+   "emoji": "🚗",
+   "headline": "Plate Code BÜS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "German car number plate"
+  },
+  {
+   "narration": "Shops accept euros, but Swiss francs are used a lot too, because the town sits inside the Swiss customs area.",
+   "emoji": "💶",
+   "headline": "Euros And Francs",
+   "stat": "",
+   "sub": "",
+   "visual_query": "euro swiss franc"
+  },
+  {
+   "narration": "Its landline phone numbers start with the Swiss country code, even though the town is German.",
+   "emoji": "☎️",
+   "headline": "Swiss Phone Numbers",
+   "stat": "",
+   "sub": "",
+   "visual_query": "landline telephone"
+  },
+  {
+   "narration": "On paper it is German. In daily life, it behaves a lot like Switzerland.",
+   "emoji": "📄",
+   "headline": "German On Paper",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss German border sign"
+  },
+  {
+   "narration": "In 1918, most residents voted to join Switzerland, but the Swiss could not offer anything in exchange.",
+   "emoji": "🗳️",
+   "headline": "Voted To Leave",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ballot box vote"
+  },
+  {
+   "narration": "So the town stayed German, stuck forever on the wrong side of the line.",
+   "emoji": "🔒",
+   "headline": "Stuck For Good",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border fence village"
+  },
+  {
+   "narration": "That was a town. The next one is a Spanish town inside France, and it exists because of one word.",
+   "emoji": "👀",
+   "headline": "One Word Did It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pyrenees mountains"
+  },
+  {
+   "narration": "Number four: Llívia, a Spanish town sitting inside France.",
+   "emoji": "🇪🇸",
+   "headline": "Llívia",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Llivia Spain town"
+  },
+  {
+   "narration": "On the map, it is a small Spanish dot with French land all around it, a short way from Spain itself.",
+   "emoji": "📍",
+   "headline": "Spanish Dot In France",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pyrenees village map"
+  },
+  {
+   "narration": "The reason goes back to a treaty in 1659, when Spain handed France a list of villages in the Pyrenees.",
+   "emoji": "📜",
+   "headline": "Treaty Of 1659",
+   "stat": "",
+   "sub": "",
+   "visual_query": "1659 treaty document"
+  },
+  {
+   "narration": "Llívia was once the capital of its valley, so it was officially a town, not a village, and it was not on the list.",
+   "emoji": "🏘️",
+   "headline": "Town, Not Village",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Llivia old town"
+  },
+  {
+   "narration": "That one word is why a Spanish place sits inside France more than 350 years later.",
+   "emoji": "✍️",
+   "headline": "One Word, 350 Years",
+   "stat": "350+",
+   "sub": "",
+   "visual_query": "old manuscript"
+  },
+  {
+   "narration": "A short road links it to Spain. It runs over French land, but Spanish travellers are allowed to use it.",
+   "emoji": "🛣️",
+   "headline": "The Neutral Road",
+   "stat": "",
+   "sub": "",
+   "visual_query": "mountain road Pyrenees"
+  },
+  {
+   "narration": "So you can drive from Spain to a Spanish town, and spend part of the journey in France.",
+   "emoji": "🚗",
+   "headline": "Drive Through France",
+   "stat": "",
+   "sub": "",
+   "visual_query": "car on road"
+  },
+  {
+   "narration": "Today, people move between France and Llívia without passport checks, because both countries share the Schengen area.",
+   "emoji": "🛂",
+   "headline": "No Passport Checks",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Schengen border sign"
+  },
+  {
+   "narration": "Now it gets harder to follow. The next place is a piece of one country, inside another, with a third piece inside that.",
+   "emoji": "🤯",
+   "headline": "It Gets Stranger",
+   "stat": "",
+   "sub": "",
+   "visual_query": "desert mountains"
+  },
+  {
+   "narration": "Number three: Madha, a small area of Oman that sits inside the United Arab Emirates.",
+   "emoji": "🇴🇲",
+   "headline": "Madha",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Madha Oman enclave"
+  },
+  {
+   "narration": "Look at the map and you see Omani land with the UAE on every side.",
+   "emoji": "🗺️",
+   "headline": "Oman Inside UAE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hajar mountains"
+  },
+  {
+   "narration": "And inside Madha there is another surprise: a village called Nahwa, which belongs to the UAE.",
+   "emoji": "🏜️",
+   "headline": "Nahwa Inside Madha",
+   "stat": "",
+   "sub": "",
+   "visual_query": "desert village"
+  },
+  {
+   "narration": "So you get the UAE, then Oman inside it, then the UAE again inside that.",
+   "emoji": "🪆",
+   "headline": "Country Dolls",
+   "stat": "",
+   "sub": "",
+   "visual_query": "nesting dolls"
+  },
+  {
+   "narration": "Think of nesting dolls, except every doll is a piece of a different country.",
+   "emoji": "🪆",
+   "headline": "Nesting Dolls",
+   "stat": "",
+   "sub": "",
+   "visual_query": "matryoshka dolls"
+  },
+  {
+   "narration": "On a map app, you can zoom in and see the border line wrapping around Nahwa like a small circle.",
+   "emoji": "🔍",
+   "headline": "Zoom In And See",
+   "stat": "",
+   "sub": "",
+   "visual_query": "satellite map desert"
+  },
+  {
+   "narration": "Why does this exist? Local tribes were loyal to different rulers, and the borders followed those loyalties, not neat lines.",
+   "emoji": "🤝",
+   "headline": "Borders Follow People",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Arabian desert tribe"
+  },
+  {
+   "narration": "Remember that idea: borders that follow people, not maps. It matters for the next two places.",
+   "emoji": "💡",
+   "headline": "People Not Maps",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border marker"
+  },
+  {
+   "narration": "If you enjoy strange places like these, subscribe, because there are more of them coming.",
+   "emoji": "🔔",
+   "headline": "Subscribe For More",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map pin"
+  },
+  {
+   "narration": "Because number two sits in a valley where three countries are tangled together like a ball of wool.",
+   "emoji": "🧶",
+   "headline": "Tangled Valley",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Central Asia mountains"
+  },
+  {
+   "narration": "Number two: Sokh, in the Fergana Valley of Central Asia.",
+   "emoji": "🇺🇿",
+   "headline": "Sokh",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Fergana valley"
+  },
+  {
+   "narration": "On the map, Sokh is an Uzbek enclave, and Kyrgyz land surrounds it on every side.",
+   "emoji": "📍",
+   "headline": "Uzbek Enclave",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sokh Uzbekistan Kyrgyzstan"
+  },
+  {
+   "narration": "This is not a tiny hamlet. Tens of thousands of people live there.",
+   "emoji": "👥",
+   "headline": "Tens Of Thousands",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Central Asia village"
+  },
+  {
+   "narration": "Most of them speak Tajik, so you get Tajik speakers, holding Uzbek citizenship, living inside Kyrgyzstan.",
+   "emoji": "🗣️",
+   "headline": "Three Peoples",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Tajik village people"
+  },
+  {
+   "narration": "Three countries share this valley: Uzbekistan, Kyrgyzstan and Tajikistan.",
+   "emoji": "🏔️",
+   "headline": "Three Countries",
+   "stat": "3",
+   "sub": "",
+   "visual_query": "Fergana valley mountains"
+  },
+  {
+   "narration": "The lines were drawn in the Soviet era, when they were only lines inside one big country.",
+   "emoji": "✏️",
+   "headline": "Soviet Lines",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Soviet map Central Asia"
+  },
+  {
+   "narration": "Then in 1991 those inside lines turned into real international borders almost overnight.",
+   "emoji": "💥",
+   "headline": "Overnight Borders",
+   "stat": "",
+   "sub": "",
+   "visual_query": "1991 Soviet collapse"
+  },
+  {
+   "narration": "And Sokh is not alone. The valley has several pockets like it, belonging to different countries.",
+   "emoji": "🧩",
+   "headline": "Several Pockets",
+   "stat": "",
+   "sub": "",
+   "visual_query": "enclave map"
+  },
+  {
+   "narration": "Tajikistan has a pocket called Vorukh, and Uzbekistan has another called Shakhimardan, both surrounded by Kyrgyz land.",
+   "emoji": "📌",
+   "headline": "Vorukh And Shakhimardan",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kyrgyzstan mountain village"
+  },
+  {
+   "narration": "To reach the rest of Uzbekistan from Sokh, you have to cross Kyrgyz land first.",
+   "emoji": "🛣️",
+   "headline": "Cross Kyrgyz Land",
+   "stat": "",
+   "sub": "",
+   "visual_query": "mountain road Kyrgyzstan"
+  },
+  {
+   "narration": "Water, roads and grazing land have caused real clashes between villagers in this valley.",
+   "emoji": "💧",
+   "headline": "Fights Over Water",
+   "stat": "",
+   "sub": "",
+   "visual_query": "irrigation canal"
+  },
+  {
+   "narration": "Sokh shows what happens when a map is drawn for one country, and then used by three.",
+   "emoji": "🗺️",
+   "headline": "One Map, Three Nations",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old atlas"
+  },
+  {
+   "narration": "Now for number one, the one I promised. It is in India, and the people there lived stuck between two countries.",
+   "emoji": "🇮🇳",
+   "headline": "Number One Is India",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India map"
+  },
+  {
+   "narration": "Number one: the Cooch Behar enclaves, where India and Bangladesh were tangled together like spaghetti.",
+   "emoji": "🍝",
+   "headline": "Cooch Behar",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cooch Behar West Bengal"
+  },
+  {
+   "narration": "Before 2015, Indian plots sat inside Bangladesh, and Bangladeshi plots sat inside India.",
+   "emoji": "🧩",
+   "headline": "Plots Inside Plots",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Bangladesh border fence"
+  },
+  {
+   "narration": "Old maps of this area look like a torn sheet of paper, with tiny shapes scattered everywhere.",
+   "emoji": "🧾",
+   "headline": "A Torn Patchwork",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old map West Bengal"
+  },
+  {
+   "narration": "Many of those plots came from old land deals between local rulers, centuries ago.",
+   "emoji": "👑",
+   "headline": "Old Land Deals",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cooch Behar palace"
+  },
+  {
+   "narration": "Some were just a few farm fields, and one field could be India while the next was Bangladesh.",
+   "emoji": "🌾",
+   "headline": "Fields, Two Countries",
+   "stat": "",
+   "sub": "",
+   "visual_query": "paddy field Bengal"
+  },
+  {
+   "narration": "In 2015, India gave 111 enclaves to Bangladesh, and Bangladesh gave 51 to India.",
+   "emoji": "🤝",
+   "headline": "111 And 51",
+   "stat": "162",
+   "sub": "enclaves swapped",
+   "visual_query": "India Bangladesh handshake"
+  },
+  {
+   "narration": "That is 162 pockets of land, all settled at midnight on a single night in July.",
+   "emoji": "🕛",
+   "headline": "162 Pockets, One Night",
+   "stat": "",
+   "sub": "",
+   "visual_query": "midnight celebration India"
+  },
+  {
+   "narration": "Now the really strange part. Some enclaves sat inside other enclaves.",
+   "emoji": "😵",
+   "headline": "Enclaves In Enclaves",
+   "stat": "",
+   "sub": "",
+   "visual_query": "aerial farmland Bengal"
+  },
+  {
+   "narration": "Picture an Indian plot, inside a Bangladeshi plot, inside an Indian plot, inside Bangladesh.",
+   "emoji": "🔁",
+   "headline": "Four Layers",
+   "stat": "",
+   "sub": "",
+   "visual_query": "map layers diagram"
+  },
+  {
+   "narration": "At the centre was Dahala Khagrabari, known as the only third-level enclave in the world.",
+   "emoji": "🎯",
+   "headline": "Dahala Khagrabari",
+   "stat": "3rd level",
+   "sub": "",
+   "visual_query": "Dahala Khagrabari map"
+  },
+  {
+   "narration": "People there held one country's papers, but every step outside their plot meant walking through another country.",
+   "emoji": "🚶",
+   "headline": "Papers Of One Country",
+   "stat": "",
+   "sub": "",
+   "visual_query": "villagers Bengal"
+  },
+  {
+   "narration": "Reports from the time said many residents struggled to get schools, electricity and hospitals nearby.",
+   "emoji": "🏥",
+   "headline": "Hard To Get Help",
+   "stat": "",
+   "sub": "",
+   "visual_query": "village school India"
+  },
+  {
+   "narration": "In 2015, India and Bangladesh finally signed the deal and cleaned up these lines.",
+   "emoji": "✍️",
+   "headline": "The Deal In 2015",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Bangladesh agreement"
+  },
+  {
+   "narration": "Residents were allowed to choose which country they wanted to belong to.",
+   "emoji": "🗳️",
+   "headline": "Choose Your Country",
+   "stat": "",
+   "sub": "",
+   "visual_query": "citizens voting line"
+  },
+  {
+   "narration": "For many families, it meant a proper address, a school and a vote, maybe for the first time.",
+   "emoji": "🏠",
+   "headline": "A Proper Address",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Indian village family"
+  },
+  {
+   "narration": "So India's strangest border is one that no longer exists, and it ended with a signature, not a war.",
+   "emoji": "🕊️",
+   "headline": "Ended By Signature",
+   "stat": "",
+   "sub": "",
+   "visual_query": "pen signing paper"
+  },
+  {
+   "narration": "That is six borders that make no sense, from a Russian region cut off from Russia to the tangled fields of Cooch Behar.",
+   "emoji": "🌍",
+   "headline": "Six Borders Done",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map"
+  },
+  {
+   "narration": "And back in the Fergana Valley, Sokh is still there, still Uzbek, with Kyrgyz land all around it.",
+   "emoji": "🔁",
+   "headline": "Sokh Still Stands",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sokh village"
+  },
+  {
+   "narration": "Open your map app, search the Fergana Valley, and zoom in. You can see these pockets for yourself.",
+   "emoji": "📱",
+   "headline": "See It Yourself",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone map zoom"
+  },
+  {
+   "narration": "Your passport can say Uzbekistan while every road around you is in Kyrgyzstan, and it is true.",
+   "emoji": "🗺️",
+   "headline": "Still True",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Kyrgyzstan road"
+  },
+  {
+   "narration": "Next video: more places on the map that look like mistakes, but are completely real.",
+   "emoji": "➡️",
+   "headline": "Next Video",
+   "stat": "",
+   "sub": "",
+   "visual_query": "map pin world"
+  }
+ ]
+}

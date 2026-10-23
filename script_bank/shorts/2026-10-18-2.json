@@ -1,0 +1,92 @@
+{
+ "category": "geography",
+ "topic": "Vatican City size",
+ "hook": "Your map shows a whole country as a tiny dot.",
+ "title": "A Whole Country You Can Walk Across",
+ "description": "Vatican City is a fully independent country, yet it covers less than half a square kilometre. Zoom out on a map and it shrinks to a speck, and you can walk across it in minutes. It sits entirely inside the city of Rome.\n\n#Shorts #VaticanCity #Geography",
+ "tags": [
+  "vatican city",
+  "smallest country",
+  "rome",
+  "geography facts",
+  "google maps",
+  "tiny country",
+  "places that shouldnt exist"
+ ],
+ "comment_prompt": "Would you visit? Yes or no",
+ "hook_banner": "A COUNTRY. A DOT.",
+ "scenes": [
+  {
+   "narration": "Your map shows a whole country as a dot.",
+   "emoji": "📍",
+   "headline": "A Country, A Dot",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Vatican City map"
+  },
+  {
+   "narration": "This is Vatican City, in the middle of Rome.",
+   "emoji": "🏛️",
+   "headline": "Vatican City",
+   "stat": "",
+   "sub": "Inside Rome",
+   "visual_query": "Vatican City aerial view"
+  },
+  {
+   "narration": "It is a real, independent country.",
+   "emoji": "🏳️",
+   "headline": "A Real Country",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Vatican flag"
+  },
+  {
+   "narration": "It covers under half a square kilometre.",
+   "emoji": "📏",
+   "headline": "Under Half a km²",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Vatican City satellite"
+  },
+  {
+   "narration": "You can walk across it in minutes.",
+   "emoji": "🚶",
+   "headline": "Walk Across It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "St Peter's Square crowd"
+  },
+  {
+   "narration": "Zoom out and it nearly disappears.",
+   "emoji": "🔍",
+   "headline": "Zoom Out. Gone.",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rome Italy map"
+  },
+  {
+   "narration": "It has its own post office and stamps.",
+   "emoji": "✉️",
+   "headline": "Own Stamps",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Vatican post office stamps"
+  },
+  {
+   "narration": "So that dot on your map is a country.",
+   "emoji": "📍",
+   "headline": "The Dot Is A Country",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Vatican City St Peter's Basilica"
+  },
+  {
+   "narration": "Tomorrow: wring out a cloth in space.",
+   "emoji": "➡️",
+   "headline": "Next: Space Washcloth",
+   "stat": "",
+   "sub": "",
+   "visual_query": "International Space Station"
+  }
+ ]
+}

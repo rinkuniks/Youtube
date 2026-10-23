@@ -1,0 +1,93 @@
+{
+ "category": "technology",
+ "topic": "IIT Madras hyperloop test track",
+ "hook": "Your train could be a pod in a tube.",
+ "title": "India Built a Hyperloop Test Track",
+ "description": "IIT Madras built a hyperloop test track in India. The idea is a pod travelling inside a sealed low-air tube to cut drag. It is only a test track so far, but it is real.\n\n#Shorts #Hyperloop #India",
+ "tags": [
+  "hyperloop",
+  "iit madras",
+  "india technology",
+  "future train",
+  "hyperloop india",
+  "tech facts",
+  "avishkar hyperloop",
+  "did you know"
+ ],
+ "comment_prompt": "Would you ride it? Yes or no",
+ "hook_banner": "THIS TRACK IS REAL",
+ "scenes": [
+  {
+   "narration": "Your train could be a pod in a tube.",
+   "emoji": "🚄",
+   "headline": "Pod In A Tube",
+   "stat": "",
+   "sub": "",
+   "visual_query": "hyperloop pod tube"
+  },
+  {
+   "narration": "India already has a hyperloop test track.",
+   "emoji": "🇮🇳",
+   "headline": "Built In India",
+   "stat": "",
+   "sub": "",
+   "visual_query": "IIT Madras hyperloop track"
+  },
+  {
+   "narration": "IIT Madras built it.",
+   "emoji": "🏫",
+   "headline": "IIT Madras",
+   "stat": "",
+   "sub": "",
+   "visual_query": "IIT Madras campus"
+  },
+  {
+   "narration": "The idea is a pod inside a sealed tube.",
+   "emoji": "🧪",
+   "headline": "Sealed Tube",
+   "stat": "",
+   "sub": "",
+   "visual_query": "hyperloop tube track"
+  },
+  {
+   "narration": "Air is pumped out of the tube.",
+   "emoji": "💨",
+   "headline": "Air Removed",
+   "stat": "",
+   "sub": "",
+   "visual_query": "vacuum tube pipeline"
+  },
+  {
+   "narration": "Less air means less drag on the pod.",
+   "emoji": "📉",
+   "headline": "Less Drag",
+   "stat": "",
+   "sub": "",
+   "visual_query": "hyperloop pod"
+  },
+  {
+   "narration": "Less drag means far higher speeds.",
+   "emoji": "⚡",
+   "headline": "Higher Speeds",
+   "stat": "",
+   "sub": "",
+   "visual_query": "high speed train"
+  },
+  {
+   "narration": "It's only a test track so far.",
+   "emoji": "🛤️",
+   "headline": "Test Track Only",
+   "stat": "",
+   "sub": "",
+   "visual_query": "hyperloop test track"
+  },
+  {
+   "narration": "Your train could one day be a pod.",
+   "emoji": "🚄",
+   "headline": "Maybe One Day",
+   "stat": "",
+   "sub": "",
+   "visual_query": "futuristic train pod"
+  }
+ ]
+}

@@ -1,0 +1,688 @@
+{
+ "topic": "Why Cyprus Is Stranger Than You Think",
+ "hook": "Your British holiday could be on Cyprus, and part of that island is still owned by the United Kingdom.",
+ "title": "Why Cyprus Is Stranger Than You Think",
+ "description": "Cyprus is an EU island that drives on the left, sits close to Syria and Lebanon, and has a capital cut in half by a UN buffer zone. It also has two British Sovereign Base Areas, Akrotiri and Dhekelia, where the UK still holds land inside an EU country. Here are six true facts about Cyprus that sound fake.\n\n#Cyprus #Geography #StrangePlaces",
+ "tags": [
+  "Cyprus",
+  "Cyprus facts",
+  "British Sovereign Base Areas",
+  "Akrotiri and Dhekelia",
+  "Nicosia",
+  "Green Line Cyprus",
+  "Varosha",
+  "strange places",
+  "geography facts",
+  "map facts",
+  "UK territory in EU",
+  "Why Cyprus is stranger than you think",
+  "weird geography",
+  "Mediterranean islands"
+ ],
+ "comment_prompt": "Which stop surprised you most, one to six?",
+ "hook_banner": "BRITAIN STILL OWNS LAND HERE",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "Drives on the left like India",
+   "scene": 8
+  },
+  {
+   "title": "An Asian island in the EU",
+   "scene": 17
+  },
+  {
+   "title": "A capital cut in half",
+   "scene": 27
+  },
+  {
+   "title": "Pyla and the ghost airport",
+   "scene": 41
+  },
+  {
+   "title": "Varosha, the fenced-off resort",
+   "scene": 51
+  },
+  {
+   "title": "Britain's land inside the EU",
+   "scene": 59
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your British holiday could be on Cyprus, and part of that island is still owned by the United Kingdom.",
+   "emoji": "🇬🇧",
+   "headline": "British Land In The EU",
+   "stat": "",
+   "sub": "Yes, really",
+   "visual_query": "Cyprus beach"
+  },
+  {
+   "narration": "That land sits inside a country that is a member of the European Union, and it runs under its own laws.",
+   "emoji": "🗺️",
+   "headline": "An EU Island, British Soil",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cyprus map"
+  },
+  {
+   "narration": "But that is only one of the strange things about this island, and it is not even the strangest one.",
+   "emoji": "😮",
+   "headline": "Not The Strangest Part",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cyprus coastline"
+  },
+  {
+   "narration": "By the end, you will see why a map of Cyprus looks like it was drawn by three different governments.",
+   "emoji": "🧭",
+   "headline": "Three Governments, One Island",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cyprus aerial view"
+  },
+  {
+   "narration": "Stay for the last stop, because one British base there has ordinary Cypriot villages sitting inside its boundary.",
+   "emoji": "🏘️",
+   "headline": "Villages Inside A Base",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dhekelia village"
+  },
+  {
+   "narration": "First, a quick look at where Cyprus actually is, because most people place it wrongly on the map.",
+   "emoji": "📍",
+   "headline": "Where Is Cyprus?",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mediterranean sea map"
+  },
+  {
+   "narration": "It is a Mediterranean island, the third largest in that sea, after Sicily and Sardinia.",
+   "emoji": "🏝️",
+   "headline": "Third Largest Island",
+   "stat": "3rd",
+   "sub": "in the Mediterranean",
+   "visual_query": "Cyprus island satellite"
+  },
+  {
+   "narration": "Six stops, each stranger than the one before. Let us start with something every Indian driver will recognise.",
+   "emoji": "🚗",
+   "headline": "Six Stops, Getting Stranger",
+   "stat": "6",
+   "sub": "",
+   "visual_query": "Cyprus road"
+  },
+  {
+   "narration": "Stop one: Cyprus drives on the left side of the road, exactly like India does.",
+   "emoji": "🛣️",
+   "headline": "Stop 1: Left-Side Driving",
+   "stat": "",
+   "sub": "Just like India",
+   "visual_query": "Cyprus traffic road"
+  },
+  {
+   "narration": "That is no accident. Britain ruled Cyprus for decades, and the driving habit stayed after the British left.",
+   "emoji": "🏛️",
+   "headline": "A British Habit",
+   "stat": "",
+   "sub": "",
+   "visual_query": "British colonial Cyprus"
+  },
+  {
+   "narration": "India has the same story. British rule ended, but left-hand driving, and a lot of other habits, stayed behind.",
+   "emoji": "🇮🇳",
+   "headline": "India Has The Same Story",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India road traffic"
+  },
+  {
+   "narration": "Rent a car in Cyprus, and you will sit on the right, change gears with your left hand, and feel at home.",
+   "emoji": "🚙",
+   "headline": "Right Seat, Left Lane",
+   "stat": "",
+   "sub": "",
+   "visual_query": "right hand drive car"
+  },
+  {
+   "narration": "Cyprus is also in the Commonwealth, the same group of countries that India belongs to.",
+   "emoji": "🤝",
+   "headline": "Both In The Commonwealth",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Commonwealth flags"
+  },
+  {
+   "narration": "So if you land there, the roads will feel oddly familiar, even though you are inside the European Union.",
+   "emoji": "🌍",
+   "headline": "Familiar Roads In The EU",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Limassol street"
+  },
+  {
+   "narration": "Here is the twist. Most EU countries drive on the right. Only Cyprus, Ireland and Malta drive on the left.",
+   "emoji": "↔️",
+   "headline": "Only 3 EU Countries",
+   "stat": "3",
+   "sub": "drive on the left",
+   "visual_query": "Malta road"
+  },
+  {
+   "narration": "All three were once British. Remember that, because Britain comes back in a much bigger way at the end.",
+   "emoji": "🔙",
+   "headline": "All Three Were British",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Union Jack flag"
+  },
+  {
+   "narration": "Next, a stop where geography and politics disagree with each other, and the map gets confusing.",
+   "emoji": "❓",
+   "headline": "Maps Disagree Here",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world atlas map"
+  },
+  {
+   "narration": "Stop two: Cyprus is a member of the European Union, but geographically it sits in Asia.",
+   "emoji": "🌏",
+   "headline": "Stop 2: EU But In Asia",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cyprus Asia map"
+  },
+  {
+   "narration": "Look at it on a map. It lies close to Syria, Lebanon and Turkey, and far from mainland Europe.",
+   "emoji": "📌",
+   "headline": "Close To Syria And Lebanon",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Eastern Mediterranean map"
+  },
+  {
+   "narration": "Greece is much farther away, yet Cyprus is an EU member, and since 2008 it has used the euro.",
+   "emoji": "💶",
+   "headline": "Euros Near The Middle East",
+   "stat": "2008",
+   "sub": "euro adopted",
+   "visual_query": "euro banknotes"
+  },
+  {
+   "narration": "So you can pay in euros on an island that is a short flight from the Middle East.",
+   "emoji": "✈️",
+   "headline": "Euros, Short Flight To Asia",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Larnaca airport"
+  },
+  {
+   "narration": "Cyprus joined the European Union in 2004, along with nine other countries, mostly from Eastern Europe.",
+   "emoji": "🇪🇺",
+   "headline": "Joined The EU In 2004",
+   "stat": "2004",
+   "sub": "",
+   "visual_query": "EU flag"
+  },
+  {
+   "narration": "Its name may be linked to copper. The Latin word for copper, cuprum, is connected to the island.",
+   "emoji": "🟠",
+   "headline": "A Name From Copper?",
+   "stat": "",
+   "sub": "",
+   "visual_query": "copper ore"
+  },
+  {
+   "narration": "Ancient people mined copper there, and that metal helped make bronze, so the island became famous for it.",
+   "emoji": "⛏️",
+   "headline": "Famous For Copper",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ancient bronze artifacts"
+  },
+  {
+   "narration": "Cyprus is also where Greek myth says Aphrodite, the goddess of love, rose from the sea.",
+   "emoji": "🌊",
+   "headline": "Where Aphrodite Rose",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Petra tou Romiou"
+  },
+  {
+   "narration": "Tourists visit a rock on the south coast called Petra tou Romiou, which is linked to that old legend.",
+   "emoji": "🪨",
+   "headline": "Aphrodite's Rock",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Aphrodite rock beach"
+  },
+  {
+   "narration": "So far, that sounds like a normal holiday island. Now we get to the part where the island is cut in half.",
+   "emoji": "✂️",
+   "headline": "Now It Gets Strange",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cyprus divided map"
+  },
+  {
+   "narration": "Stop three: Nicosia is the capital of Cyprus, and a line of walls, fences and sandbags runs straight through it.",
+   "emoji": "🧱",
+   "headline": "Stop 3: A Split Capital",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nicosia old city"
+  },
+  {
+   "narration": "In 1974, a coup and a Turkish military intervention split the island, and it has stayed divided ever since.",
+   "emoji": "📅",
+   "headline": "Split In 1974",
+   "stat": "1974",
+   "sub": "",
+   "visual_query": "Cyprus 1974 history"
+  },
+  {
+   "narration": "United Nations peacekeepers have patrolled the buffer zone between the two sides since 1964.",
+   "emoji": "🪖",
+   "headline": "UN Peacekeepers Patrol It",
+   "stat": "1964",
+   "sub": "UN force arrived",
+   "visual_query": "UN peacekeepers Cyprus"
+  },
+  {
+   "narration": "That zone is called the Green Line, and it cuts through the middle of Nicosia, street by street.",
+   "emoji": "🟢",
+   "headline": "The Green Line",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Green Line Nicosia"
+  },
+  {
+   "narration": "The north calls itself the Turkish Republic of Northern Cyprus, and only Turkey recognises it as a country.",
+   "emoji": "🚩",
+   "headline": "Only Turkey Recognises It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Northern Cyprus flag"
+  },
+  {
+   "narration": "Everyone else, including India, treats the whole island as the Republic of Cyprus.",
+   "emoji": "🌐",
+   "headline": "India Treats It As One",
+   "stat": "",
+   "sub": "",
+   "visual_query": "United Nations flag"
+  },
+  {
+   "narration": "In some places, the buffer zone is only a few metres wide. In other places it is much wider.",
+   "emoji": "📏",
+   "headline": "A Few Metres Wide",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nicosia buffer zone"
+  },
+  {
+   "narration": "Nicosia is often called the last divided capital in Europe, and on Ledra Street you walk straight up to a checkpoint.",
+   "emoji": "🚧",
+   "headline": "Last Divided Capital",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Ledra Street checkpoint"
+  },
+  {
+   "narration": "You show your passport, walk across on foot, and within minutes you are in a different part of the island.",
+   "emoji": "🛂",
+   "headline": "Cross On Foot",
+   "stat": "",
+   "sub": "",
+   "visual_query": "passport control"
+  },
+  {
+   "narration": "There is an Indian link here too. General Thimayya, one of India's most respected soldiers, served in Cyprus.",
+   "emoji": "🎖️",
+   "headline": "General Thimayya In Cyprus",
+   "stat": "",
+   "sub": "",
+   "visual_query": "General Thimayya"
+  },
+  {
+   "narration": "He commanded the United Nations peacekeeping force on the island, and he died in Nicosia in 1965.",
+   "emoji": "🕊️",
+   "headline": "Commanded The UN Force",
+   "stat": "1965",
+   "sub": "",
+   "visual_query": "Indian Army peacekeepers"
+  },
+  {
+   "narration": "Indian soldiers have served in United Nations missions around the world, and Cyprus is part of that story.",
+   "emoji": "🇮🇳",
+   "headline": "Indian Soldiers, UN Missions",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Indian peacekeepers UN"
+  },
+  {
+   "narration": "If you enjoy strange places like this, subscribe to the channel, because there is another one tomorrow.",
+   "emoji": "🔔",
+   "headline": "Like Strange Places?",
+   "stat": "",
+   "sub": "Subscribe",
+   "visual_query": "world map globe"
+  },
+  {
+   "narration": "Now for something even stranger. A village where the dividing line runs right through everyday life.",
+   "emoji": "👀",
+   "headline": "Even Stranger Ahead",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cyprus village"
+  },
+  {
+   "narration": "Stop four: Pyla is a village inside the buffer zone, and both Greek Cypriots and Turkish Cypriots live there.",
+   "emoji": "🏡",
+   "headline": "Stop 4: Pyla Village",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pyla village Cyprus"
+  },
+  {
+   "narration": "It is the only village in the buffer zone that is shared by both communities.",
+   "emoji": "👥",
+   "headline": "Shared By Both Sides",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cyprus village square"
+  },
+  {
+   "narration": "In the main square, a Greek Cypriot café and a Turkish Cypriot café sit close together.",
+   "emoji": "☕",
+   "headline": "Two Cafés, One Square",
+   "stat": "",
+   "sub": "",
+   "visual_query": "village cafe Cyprus"
+  },
+  {
+   "narration": "Pyla is also right next to the British base at Dhekelia. Hold that thought, because it matters later.",
+   "emoji": "💭",
+   "headline": "Next To A British Base",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dhekelia Cyprus"
+  },
+  {
+   "narration": "Stop five: there is an airport in Nicosia where no passenger plane has taken off in decades.",
+   "emoji": "🛫",
+   "headline": "Stop 5: The Ghost Airport",
+   "stat": "",
+   "sub": "",
+   "visual_query": "abandoned airport"
+  },
+  {
+   "narration": "Nicosia International Airport closed in 1974, and it is still stuck inside the buffer zone today.",
+   "emoji": "🚫",
+   "headline": "Closed Since 1974",
+   "stat": "1974",
+   "sub": "",
+   "visual_query": "Nicosia airport terminal"
+  },
+  {
+   "narration": "Old aircraft were left behind, and a Cyprus Airways plane has sat on that airfield for decades.",
+   "emoji": "🛩️",
+   "headline": "A Plane Left Behind",
+   "stat": "",
+   "sub": "",
+   "visual_query": "abandoned airplane runway"
+  },
+  {
+   "narration": "Imagine a departure gate that never opened again. The airport is still there, but nobody can fly from it.",
+   "emoji": "🚪",
+   "headline": "A Gate That Never Reopened",
+   "stat": "",
+   "sub": "",
+   "visual_query": "empty airport gate"
+  },
+  {
+   "narration": "Travellers now use the airports at Larnaca and Paphos instead, and that is where your holiday flight would land.",
+   "emoji": "🧳",
+   "headline": "Larnaca And Paphos Instead",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Paphos airport"
+  },
+  {
+   "narration": "But the eeriest place is on the east coast. It is a whole resort town sitting behind a fence.",
+   "emoji": "🏨",
+   "headline": "A Fenced-Off Resort Next",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Famagusta coast"
+  },
+  {
+   "narration": "Stop six: Varosha, a seaside resort in Famagusta that was fenced off in 1974.",
+   "emoji": "🏖️",
+   "headline": "Stop 6: Varosha",
+   "stat": "1974",
+   "sub": "",
+   "visual_query": "Varosha Famagusta"
+  },
+  {
+   "narration": "Before that, it was one of the most popular beach destinations in the Mediterranean, with hotels, shops and nightclubs.",
+   "emoji": "🌴",
+   "headline": "A Top Beach Resort",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Varosha hotels beach"
+  },
+  {
+   "narration": "People fled, and the area was sealed off. For decades, hotels stood empty behind fences and soldiers.",
+   "emoji": "🏚️",
+   "headline": "Sealed Off For Decades",
+   "stat": "",
+   "sub": "",
+   "visual_query": "abandoned hotel ruins"
+  },
+  {
+   "narration": "Weeds grew through shops and apartments, while the sea beside them stayed exactly the same.",
+   "emoji": "🌿",
+   "headline": "Nature Took Over",
+   "stat": "",
+   "sub": "",
+   "visual_query": "overgrown abandoned building"
+  },
+  {
+   "narration": "In 2020, part of Varosha's beach was opened to visitors, a decision that drew heavy international criticism.",
+   "emoji": "📰",
+   "headline": "Partly Reopened In 2020",
+   "stat": "2020",
+   "sub": "",
+   "visual_query": "Varosha beach fence"
+  },
+  {
+   "narration": "So today you can walk through streets of a ghost resort that was frozen in time.",
+   "emoji": "🚶",
+   "headline": "A Resort Frozen In Time",
+   "stat": "",
+   "sub": "",
+   "visual_query": "empty street abandoned town"
+  },
+  {
+   "narration": "Varosha shows how fast a busy place can turn into a time capsule once a border appears.",
+   "emoji": "⏳",
+   "headline": "A Time Capsule",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ruined hotel facade"
+  },
+  {
+   "narration": "Now for the biggest one, and the reason we started with Britain. It is the strangest stop of all.",
+   "emoji": "🔥",
+   "headline": "The Strangest Stop",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Akrotiri Cyprus"
+  },
+  {
+   "narration": "Stop seven, or really the last one: when Cyprus became independent in 1960, Britain kept two pieces of the island.",
+   "emoji": "🇬🇧",
+   "headline": "Britain Kept Two Pieces",
+   "stat": "1960",
+   "sub": "",
+   "visual_query": "Cyprus independence 1960"
+  },
+  {
+   "narration": "They are called Akrotiri and Dhekelia, and they are officially known as British Sovereign Base Areas.",
+   "emoji": "🪖",
+   "headline": "Akrotiri And Dhekelia",
+   "stat": "",
+   "sub": "Sovereign Base Areas",
+   "visual_query": "Akrotiri RAF base"
+  },
+  {
+   "narration": "Akrotiri is on the south coast near Limassol. Dhekelia is on the east side, near Larnaca and Famagusta.",
+   "emoji": "📍",
+   "headline": "South And East Coasts",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Limassol coast"
+  },
+  {
+   "narration": "These are not just army camps. They are British Overseas Territory, and the Union Jack flies there.",
+   "emoji": "🚩",
+   "headline": "British Overseas Territory",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Union Jack base"
+  },
+  {
+   "narration": "That means a country inside the European Union has British territory sitting on its own island.",
+   "emoji": "🗺️",
+   "headline": "British Land On An EU Island",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cyprus map bases"
+  },
+  {
+   "narration": "Britain left the EU in 2020, yet it still holds land on an EU island.",
+   "emoji": "🇪🇺",
+   "headline": "UK Left The EU, Land Stayed",
+   "stat": "2020",
+   "sub": "",
+   "visual_query": "Brexit flag"
+  },
+  {
+   "narration": "The bases have their own laws, their own police and their own courts, all under a British administrator.",
+   "emoji": "⚖️",
+   "headline": "Own Laws, Police, Courts",
+   "stat": "",
+   "sub": "",
+   "visual_query": "court gavel"
+  },
+  {
+   "narration": "Yet they use the euro, just like the rest of Cyprus. So you pay in euros on British land.",
+   "emoji": "💶",
+   "headline": "Euros On British Land",
+   "stat": "",
+   "sub": "",
+   "visual_query": "euro coins"
+  },
+  {
+   "narration": "Here is the strangest part. People live inside them, and many are Cypriots, not British soldiers.",
+   "emoji": "🧑‍🌾",
+   "headline": "Cypriots Live Inside",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cyprus villagers"
+  },
+  {
+   "narration": "Dhekelia, in particular, has Cypriot villages inside its boundary, so ordinary villagers live on British-controlled land.",
+   "emoji": "🏘️",
+   "headline": "Villages Inside A Base",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dhekelia villages"
+  },
+  {
+   "narration": "Under the 1960 treaty, the areas are meant for military use, not for general development.",
+   "emoji": "📜",
+   "headline": "The 1960 Treaty",
+   "stat": "1960",
+   "sub": "",
+   "visual_query": "treaty document"
+  },
+  {
+   "narration": "The RAF has an air base at Akrotiri, and it is an important British military site in the region.",
+   "emoji": "✈️",
+   "headline": "RAF Akrotiri",
+   "stat": "",
+   "sub": "",
+   "visual_query": "RAF Akrotiri aircraft"
+  },
+  {
+   "narration": "Its position, close to the Middle East, is the main reason Britain kept it after independence.",
+   "emoji": "🧭",
+   "headline": "Why Britain Stayed",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Eastern Mediterranean coast"
+  },
+  {
+   "narration": "Akrotiri also has a big salt lake, and in winter flamingos gather there, right beside a military base.",
+   "emoji": "🦩",
+   "headline": "Flamingos On A Base",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Akrotiri salt lake flamingos"
+  },
+  {
+   "narration": "So there are three layers on one island: the Republic of Cyprus, the north, and Britain's bases.",
+   "emoji": "🧩",
+   "headline": "Three Layers, One Island",
+   "stat": "3",
+   "sub": "",
+   "visual_query": "Cyprus divided map"
+  },
+  {
+   "narration": "Put it together. An island in Asia, inside the EU, that drives on the left.",
+   "emoji": "🔁",
+   "headline": "Asia, EU, Left-Side Driving",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cyprus road sign"
+  },
+  {
+   "narration": "It has a capital cut in half, a ghost airport, and a ghost resort behind a fence.",
+   "emoji": "👻",
+   "headline": "Split Capital, Ghost Places",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Varosha abandoned"
+  },
+  {
+   "narration": "And it has two slices of land that belong to the United Kingdom, a country that left the EU.",
+   "emoji": "🇬🇧",
+   "headline": "Two Slices Of The UK",
+   "stat": "2",
+   "sub": "",
+   "visual_query": "Akrotiri Dhekelia map"
+  },
+  {
+   "narration": "Your British holiday could be on Cyprus, and some beaches there really are on British soil.",
+   "emoji": "🏖️",
+   "headline": "Some Beaches Are British",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cyprus beach tourists"
+  },
+  {
+   "narration": "Next in this series: a whole country that sits entirely inside another country. See you there.",
+   "emoji": "➡️",
+   "headline": "Next: A Country Inside A Country",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lesotho mountains"
+  }
+ ]
+}

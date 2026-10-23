@@ -1,0 +1,101 @@
+{
+ "category": "space",
+ "topic": "Jupiter Great Red Spot vs Earth",
+ "hook": "Your Earth is narrower than this storm.",
+ "title": "Your Earth Is Narrower Than Jupiter's Storm",
+ "description": "Jupiter's Great Red Spot is about 16,000 km wide, while Earth is 12,742 km across. Images that put Earth beside the storm show the difference clearly. Series: Space Sizes.\n\n#Shorts #Jupiter #Space",
+ "tags": [
+  "Jupiter",
+  "Great Red Spot",
+  "space facts",
+  "storm",
+  "Earth comparison",
+  "NASA",
+  "planets",
+  "space shorts"
+ ],
+ "comment_prompt": "Bigger than you thought? Yes or no",
+ "hook_banner": "EARTH LOOKS TINY",
+ "scenes": [
+  {
+   "narration": "Your Earth is narrower than this storm.",
+   "emoji": "🌍",
+   "headline": "EARTH VS STORM",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Jupiter Great Red Spot Earth comparison"
+  },
+  {
+   "narration": "It is Jupiter's Great Red Spot.",
+   "emoji": "🔴",
+   "headline": "GREAT RED SPOT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Jupiter Great Red Spot"
+  },
+  {
+   "narration": "The storm is about 16,000 kilometres wide.",
+   "emoji": "🌪️",
+   "headline": "ABOUT 16,000 KM",
+   "stat": "16,000 km",
+   "sub": "",
+   "visual_query": "Jupiter storm Juno"
+  },
+  {
+   "narration": "Earth is only 12,742 kilometres across.",
+   "emoji": "🌍",
+   "headline": "EARTH: 12,742 KM",
+   "stat": "12,742 km",
+   "sub": "",
+   "visual_query": "Earth from space"
+  },
+  {
+   "narration": "Images show Earth placed beside it.",
+   "emoji": "🖼️",
+   "headline": "SIDE BY SIDE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Earth next to Jupiter"
+  },
+  {
+   "narration": "Earth looks small next to it.",
+   "emoji": "😮",
+   "headline": "EARTH LOOKS SMALL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Jupiter planet"
+  },
+  {
+   "narration": "Telescopes have watched this storm for well over a century.",
+   "emoji": "🔭",
+   "headline": "WATCHED FOR CENTURIES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "telescope Jupiter"
+  },
+  {
+   "narration": "Winds inside it blow faster than hurricanes.",
+   "emoji": "💨",
+   "headline": "FASTER THAN HURRICANES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "hurricane from space"
+  },
+  {
+   "narration": "Remember, your Earth is narrower than it.",
+   "emoji": "🌍",
+   "headline": "EARTH IS NARROWER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Jupiter Earth size"
+  },
+  {
+   "narration": "Tomorrow: more places that shouldn't exist.",
+   "emoji": "➡️",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "Places That Shouldn't Exist",
+   "visual_query": "unusual landscape aerial"
+  }
+ ]
+}

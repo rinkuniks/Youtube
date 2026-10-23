@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Laika first animal in orbit",
+ "hook": "Your dog flew to space before any human.",
+ "title": "Your dog flew to space before any human",
+ "description": "In November 1957 the Soviet Union launched Laika aboard Sputnik 2. She was the first animal to orbit Earth, four years before Yuri Gagarin became the first human in space. Laika did not survive the mission.\n\n#Shorts #Space #Laika",
+ "tags": [
+  "laika",
+  "sputnik 2",
+  "space facts",
+  "first animal in space",
+  "space history",
+  "soviet space program",
+  "shorts",
+  "did you know"
+ ],
+ "comment_prompt": "Should Laika have a statue? Yes or no",
+ "hook_banner": "BEFORE ANY HUMAN",
+ "scenes": [
+  {
+   "narration": "Your dog flew to space before any human.",
+   "emoji": "🐕",
+   "headline": "DOG BEFORE HUMANS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Laika dog space"
+  },
+  {
+   "narration": "Her name was Laika.",
+   "emoji": "🐶",
+   "headline": "MEET LAIKA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Laika dog portrait"
+  },
+  {
+   "narration": "November 1957, aboard Soviet Sputnik 2.",
+   "emoji": "🚀",
+   "headline": "SPUTNIK 2",
+   "stat": "1957",
+   "sub": "",
+   "visual_query": "Sputnik 2 satellite"
+  },
+  {
+   "narration": "She became the first animal to orbit Earth.",
+   "emoji": "🌍",
+   "headline": "FIRST IN ORBIT",
+   "stat": "",
+   "sub": "first animal",
+   "visual_query": "Earth orbit satellite"
+  },
+  {
+   "narration": "Yuri Gagarin followed in 1961.",
+   "emoji": "👨‍🚀",
+   "headline": "HUMANS CAME LATER",
+   "stat": "1961",
+   "sub": "",
+   "visual_query": "Yuri Gagarin"
+  },
+  {
+   "narration": "Laika did not survive the mission.",
+   "emoji": "🕊️",
+   "headline": "SHE DIDN'T RETURN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Laika monument Moscow"
+  },
+  {
+   "narration": "She showed a living body could survive launch.",
+   "emoji": "🛰️",
+   "headline": "SHE PAVED THE WAY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Vostok rocket launch"
+  },
+  {
+   "narration": "Your dog flew before any human did.",
+   "emoji": "🐕",
+   "headline": "DOG FIRST",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Laika stamp"
+  },
+  {
+   "narration": "Tomorrow: India's first woman in space.",
+   "emoji": "👩‍🚀",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "India's space pioneer",
+   "visual_query": "Space Shuttle Columbia"
+  }
+ ]
+}

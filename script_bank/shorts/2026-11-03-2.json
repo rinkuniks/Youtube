@@ -1,0 +1,102 @@
+{
+ "category": "geography",
+ "topic": "Jakarta sinking and Nusantara",
+ "hook": "Your Jakarta trip is to a sinking city.",
+ "title": "Your Jakarta Trip Is to a Sinking City",
+ "description": "Parts of Jakarta are sinking, partly because of groundwater pumping, and the coast floods. Indonesia is building a new capital, Nusantara, on Borneo, and the sinking is one reason for the move. Series: Places That Shouldn't Exist.\n\n#Shorts #Jakarta #Geography",
+ "tags": [
+  "jakarta",
+  "sinking city",
+  "nusantara",
+  "indonesia",
+  "borneo",
+  "new capital",
+  "geography facts",
+  "places that shouldnt exist",
+  "shorts"
+ ],
+ "comment_prompt": "Would you live in Jakarta? Yes or no",
+ "hook_banner": "SINKING CAPITAL",
+ "scenes": [
+  {
+   "narration": "Your Jakarta trip is to a sinking city.",
+   "emoji": "🌆",
+   "headline": "A SINKING CITY",
+   "stat": "",
+   "sub": "Jakarta",
+   "visual_query": "Jakarta skyline"
+  },
+  {
+   "narration": "Parts of it drop a little every year.",
+   "emoji": "⬇️",
+   "headline": "SINKING YEARLY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Jakarta flood street"
+  },
+  {
+   "narration": "People pump groundwater from beneath the city.",
+   "emoji": "🚰",
+   "headline": "GROUNDWATER PUMPED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "water pump well"
+  },
+  {
+   "narration": "The land above slowly settles downward.",
+   "emoji": "🏚️",
+   "headline": "LAND SETTLES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Jakarta coastal houses"
+  },
+  {
+   "narration": "Floods keep hitting the northern coast.",
+   "emoji": "🌊",
+   "headline": "COASTAL FLOODS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "North Jakarta flood"
+  },
+  {
+   "narration": "So Indonesia is building a new capital.",
+   "emoji": "🏗️",
+   "headline": "NEW CAPITAL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nusantara capital construction"
+  },
+  {
+   "narration": "It's called Nusantara, on the island of Borneo.",
+   "emoji": "🏝️",
+   "headline": "NUSANTARA",
+   "stat": "",
+   "sub": "On Borneo",
+   "visual_query": "Nusantara Borneo"
+  },
+  {
+   "narration": "The sinking is one reason for the move.",
+   "emoji": "📍",
+   "headline": "ONE REASON",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Indonesia map Borneo"
+  },
+  {
+   "narration": "Pack for a capital that's slowly sinking.",
+   "emoji": "🧳",
+   "headline": "SLOWLY SINKING",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Jakarta city aerial"
+  },
+  {
+   "narration": "Tomorrow: golf on the Moon.",
+   "emoji": "⛳",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "Golf on the Moon",
+   "visual_query": "astronaut golf Moon"
+  }
+ ]
+}

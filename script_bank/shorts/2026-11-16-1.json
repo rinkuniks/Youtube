@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Catatumbo lightning, Lake Maracaibo",
+ "hook": "Your night sky here flashes with lightning hundreds of nights a year.",
+ "title": "The Sky That Has Lightning Hundreds of Nights",
+ "description": "Where the Catatumbo River meets Lake Maracaibo in Venezuela, thunderstorms light up the night sky on hundreds of nights a year. Sailors once used the flashes as a natural lighthouse. Series: Places That Shouldn't Exist.\n\n#Shorts #Venezuela #Geography",
+ "tags": [
+  "catatumbo lightning",
+  "lake maracaibo",
+  "venezuela",
+  "geography facts",
+  "places that shouldn't exist",
+  "lightning",
+  "weird places",
+  "nature facts"
+ ],
+ "comment_prompt": "Would you watch this live? Yes or no",
+ "hook_banner": "THIS PLACE IS REAL",
+ "scenes": [
+  {
+   "narration": "Your night sky here flashes with lightning hundreds of nights a year.",
+   "emoji": "⚡",
+   "headline": "LIGHTNING ALL YEAR",
+   "stat": "",
+   "sub": "Hundreds of nights",
+   "visual_query": "Catatumbo lightning"
+  },
+  {
+   "narration": "This is Lake Maracaibo in Venezuela.",
+   "emoji": "🌎",
+   "headline": "LAKE MARACAIBO",
+   "stat": "",
+   "sub": "Venezuela",
+   "visual_query": "Lake Maracaibo Venezuela"
+  },
+  {
+   "narration": "It happens where the Catatumbo River meets it.",
+   "emoji": "🌊",
+   "headline": "CATATUMBO RIVER MOUTH",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Catatumbo river mouth"
+  },
+  {
+   "narration": "The storms return night after night.",
+   "emoji": "⛈️",
+   "headline": "STORMS RETURN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "thunderstorm over lake"
+  },
+  {
+   "narration": "Sailors once used it as a natural lighthouse.",
+   "emoji": "⛵",
+   "headline": "NATURAL LIGHTHOUSE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "sailboat lightning night"
+  },
+  {
+   "narration": "The flashes can be seen from far away.",
+   "emoji": "👀",
+   "headline": "VISIBLE FROM AFAR",
+   "stat": "",
+   "sub": "",
+   "visual_query": "lightning horizon night"
+  },
+  {
+   "narration": "Very few places on Earth storm this often.",
+   "emoji": "🌍",
+   "headline": "RARE ON EARTH",
+   "stat": "",
+   "sub": "",
+   "visual_query": "lightning storm long exposure"
+  },
+  {
+   "narration": "Your night sky really can flash that much.",
+   "emoji": "⚡",
+   "headline": "IT'S REAL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Maracaibo lightning night"
+  },
+  {
+   "narration": "Tomorrow: a cave with crystals as long as a bus.",
+   "emoji": "💎",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "Giant crystal cave",
+   "visual_query": "Naica crystal cave"
+  }
+ ]
+}

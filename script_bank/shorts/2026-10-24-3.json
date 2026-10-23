@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Sunita Williams 8-day trip became 286 days",
+ "hook": "Your 8-day trip just became 286 days, like Sunita Williams.",
+ "title": "Her 8-Day Trip Lasted 286 Days in Space",
+ "description": "Sunita Williams launched on Boeing's Starliner in June 2024 for a trip planned to last about eight days. Starliner had problems and returned without her, so she came home in March 2025 after 286 days. Part of the If You Were in Space series.\n\n#Shorts #SunitaWilliams #Space",
+ "tags": [
+  "sunita williams",
+  "starliner",
+  "iss",
+  "space facts",
+  "nasa",
+  "if you were in space",
+  "astronaut",
+  "amazing facts"
+ ],
+ "comment_prompt": "Would you stay up there? Yes or no",
+ "hook_banner": "8 DAYS BECAME MONTHS",
+ "scenes": [
+  {
+   "narration": "Your 8-day trip just became 286 days.",
+   "emoji": "📅",
+   "headline": "8 Days Became 286",
+   "stat": "286",
+   "sub": "days in space",
+   "visual_query": "Sunita Williams astronaut"
+  },
+  {
+   "narration": "That happened to Sunita Williams.",
+   "emoji": "👩‍🚀",
+   "headline": "Sunita Williams",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sunita Williams ISS"
+  },
+  {
+   "narration": "She launched on Starliner in June 2024.",
+   "emoji": "🚀",
+   "headline": "Launched June 2024",
+   "stat": "",
+   "sub": "Boeing Starliner",
+   "visual_query": "Starliner launch"
+  },
+  {
+   "narration": "It was meant to be about eight days.",
+   "emoji": "⏱️",
+   "headline": "Planned: 8 Days",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Starliner docked space station"
+  },
+  {
+   "narration": "Starliner developed problems, so it flew home empty.",
+   "emoji": "⚠️",
+   "headline": "Starliner Went Home Empty",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Starliner landing desert"
+  },
+  {
+   "narration": "She stayed on the station for months.",
+   "emoji": "🛰️",
+   "headline": "Months On The Station",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronauts inside space station"
+  },
+  {
+   "narration": "She finally landed in March 2025.",
+   "emoji": "🌊",
+   "headline": "Home In March 2025",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dragon capsule splashdown"
+  },
+  {
+   "narration": "A short trip turned into a very long stay.",
+   "emoji": "🔁",
+   "headline": "8 Days Became 286",
+   "stat": "286",
+   "sub": "",
+   "visual_query": "astronaut Earth window"
+  },
+  {
+   "narration": "Tomorrow: an Indian flag on the space station.",
+   "emoji": "➡️",
+   "headline": "Next: Flag In Space",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Indian flag space station"
+  }
+ ]
+}

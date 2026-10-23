@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Aurora seen from the ISS",
+ "hook": "Your ISS window looks down on the aurora.",
+ "title": "Your ISS Window Looks Down on the Aurora",
+ "description": "From the International Space Station, astronauts fly over the aurora and photograph its green ripple from above. On Earth we look up at it, but from orbit you look down. Part of the series: If You Were in Space.\n\n#Shorts #Space #Aurora",
+ "tags": [
+  "ISS",
+  "aurora",
+  "astronauts",
+  "space facts",
+  "northern lights",
+  "International Space Station",
+  "space",
+  "Shorts"
+ ],
+ "comment_prompt": "Would you fly over it? Yes or no",
+ "hook_banner": "SEEN FROM ORBIT",
+ "scenes": [
+  {
+   "narration": "Your ISS window looks down on the aurora.",
+   "emoji": "🛰️",
+   "headline": "AURORA BELOW YOU",
+   "stat": "",
+   "sub": "",
+   "visual_query": "aurora from space station"
+  },
+  {
+   "narration": "Glowing green curtains of light, rippling below.",
+   "emoji": "🟢",
+   "headline": "GREEN CURTAINS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "green aurora from orbit"
+  },
+  {
+   "narration": "Astronauts fly straight over them.",
+   "emoji": "👨‍🚀",
+   "headline": "FLYING OVER IT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "astronaut ISS window"
+  },
+  {
+   "narration": "On Earth, you have to look up.",
+   "emoji": "⬆️",
+   "headline": "ON EARTH: LOOK UP",
+   "stat": "",
+   "sub": "",
+   "visual_query": "northern lights night sky"
+  },
+  {
+   "narration": "From orbit, you look down instead.",
+   "emoji": "⬇️",
+   "headline": "IN ORBIT: LOOK DOWN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "aurora Earth from above"
+  },
+  {
+   "narration": "The green glow comes from oxygen high up.",
+   "emoji": "💚",
+   "headline": "OXYGEN GLOW",
+   "stat": "",
+   "sub": "High in the atmosphere",
+   "visual_query": "green aurora atmosphere"
+  },
+  {
+   "narration": "Charged particles from the Sun make it shine.",
+   "emoji": "☀️",
+   "headline": "POWERED BY THE SUN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "solar flare sun"
+  },
+  {
+   "narration": "So up there, the aurora is below you.",
+   "emoji": "🌍",
+   "headline": "AURORA BELOW YOU",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ISS over Earth aurora"
+  },
+  {
+   "narration": "Next: a rocket that lands itself.",
+   "emoji": "🚀",
+   "headline": "NEXT: SELF-LANDING ROCKET",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Falcon 9 landing"
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "category": "technology",
+ "topic": "Banana on a touchscreen",
+ "hook": "Your phone screen reacts to a banana.",
+ "title": "Your Phone Screen Reacts to a Banana",
+ "description": "Capacitive touchscreens sense anything conductive, not just fingers. Fruit contains a lot of water, so a banana or other fruit can move the cursor on many phones. Try it now with whatever fruit you have.\n\n#Shorts #TechFacts #PhoneTricks",
+ "tags": [
+  "touchscreen",
+  "banana",
+  "capacitive screen",
+  "phone test",
+  "tech facts",
+  "try this",
+  "science",
+  "shorts"
+ ],
+ "comment_prompt": "Did it work for you? Yes or no",
+ "hook_banner": "TRY THIS NOW",
+ "scenes": [
+  {
+   "narration": "Your phone screen reacts to a banana.",
+   "emoji": "🍌",
+   "headline": "Banana Vs Touchscreen",
+   "stat": "",
+   "sub": "",
+   "visual_query": "banana touching phone"
+  },
+  {
+   "narration": "Try it now with a banana or any fruit.",
+   "emoji": "🍎",
+   "headline": "Try Any Fruit",
+   "stat": "",
+   "sub": "",
+   "visual_query": "fruit tapping smartphone"
+  },
+  {
+   "narration": "Tap the screen and it responds.",
+   "emoji": "👆",
+   "headline": "The Screen Responds",
+   "stat": "",
+   "sub": "",
+   "visual_query": "touchscreen cursor tap"
+  },
+  {
+   "narration": "Your screen senses electricity, not just fingers.",
+   "emoji": "⚡",
+   "headline": "It Senses Electricity",
+   "stat": "",
+   "sub": "",
+   "visual_query": "touchscreen finger close"
+  },
+  {
+   "narration": "Capacitive screens detect anything conductive.",
+   "emoji": "📱",
+   "headline": "Anything Conductive",
+   "stat": "",
+   "sub": "",
+   "visual_query": "capacitive touchscreen"
+  },
+  {
+   "narration": "Fruit is full of water, so it conducts.",
+   "emoji": "💧",
+   "headline": "Fruit Conducts",
+   "stat": "",
+   "sub": "",
+   "visual_query": "fresh fruit water"
+  },
+  {
+   "narration": "A plain plastic pen usually does nothing.",
+   "emoji": "🖊️",
+   "headline": "Plastic Does Nothing",
+   "stat": "",
+   "sub": "",
+   "visual_query": "plastic pen phone"
+  },
+  {
+   "narration": "So yes, a banana can tap your phone.",
+   "emoji": "🍌",
+   "headline": "Banana Taps Phone",
+   "stat": "",
+   "sub": "",
+   "visual_query": "banana smartphone"
+  },
+  {
+   "narration": "Tomorrow: the one flag that isn't a rectangle.",
+   "emoji": "🚩",
+   "headline": "Tomorrow: Odd Flag",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nepal flag"
+  }
+ ]
+}

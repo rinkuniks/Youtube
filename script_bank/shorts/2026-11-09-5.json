@@ -1,0 +1,93 @@
+{
+ "category": "technology",
+ "topic": "solar calculator finger test",
+ "hook": "Your solar calculator can run with no battery, and your finger can switch it off.",
+ "title": "Your Calculator Runs On Light, Not Battery",
+ "description": "Many solar calculators have no battery at all. They run on the light hitting a small solar panel. Cover it with your finger and watch the display fade. Try it on your own calculator.\n\n#Shorts #Technology #Science",
+ "tags": [
+  "solar calculator",
+  "tech facts",
+  "how it works",
+  "solar panel",
+  "science experiment",
+  "try this",
+  "shorts",
+  "wait what"
+ ],
+ "comment_prompt": "Did the display fade on yours? Yes or no",
+ "hook_banner": "TRY THIS NOW",
+ "scenes": [
+  {
+   "narration": "Your solar calculator can run with no battery.",
+   "emoji": "🧮",
+   "headline": "NO BATTERY INSIDE",
+   "stat": "",
+   "sub": "",
+   "visual_query": "solar calculator"
+  },
+  {
+   "narration": "Cover the small solar panel with your finger.",
+   "emoji": "☝️",
+   "headline": "COVER THE PANEL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "finger covering solar calculator"
+  },
+  {
+   "narration": "Watch the numbers start to fade.",
+   "emoji": "🌫️",
+   "headline": "THE DISPLAY FADES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "calculator display fading"
+  },
+  {
+   "narration": "Uncover it, and they come back.",
+   "emoji": "✨",
+   "headline": "UNCOVER, IT RETURNS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "calculator lcd display"
+  },
+  {
+   "narration": "That strip is a small solar cell.",
+   "emoji": "🔋",
+   "headline": "A TINY SOLAR CELL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "calculator solar cell strip"
+  },
+  {
+   "narration": "It turns room light into electricity.",
+   "emoji": "💡",
+   "headline": "LIGHT BECOMES POWER",
+   "stat": "",
+   "sub": "",
+   "visual_query": "solar cell closeup"
+  },
+  {
+   "narration": "Even a desk lamp is enough.",
+   "emoji": "🪔",
+   "headline": "A LAMP WORKS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "desk lamp calculator"
+  },
+  {
+   "narration": "So your finger can switch it off.",
+   "emoji": "👆",
+   "headline": "FINGER = OFF SWITCH",
+   "stat": "",
+   "sub": "",
+   "visual_query": "hand using calculator"
+  },
+  {
+   "narration": "Try it now. Your calculator runs on light.",
+   "emoji": "☀️",
+   "headline": "RUNS ON LIGHT",
+   "stat": "",
+   "sub": "Tomorrow: blue fire on a volcano",
+   "visual_query": "sunlight on calculator"
+  }
+ ]
+}

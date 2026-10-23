@@ -1,0 +1,85 @@
+{
+ "category": "technology",
+ "topic": "Boston Dynamics Atlas backflip",
+ "hook": "Your robot does a backflip and lands on its feet.",
+ "title": "A Humanoid Robot Backflips And Sticks It",
+ "description": "Boston Dynamics' Atlas is a humanoid robot, and it can do a backflip. In the video it jumps, flips in the air, and lands back on its feet. It is real robotics, not CGI.\n\n#Shorts #BostonDynamics #Robots",
+ "tags": [
+  "boston dynamics",
+  "atlas robot",
+  "robot backflip",
+  "humanoid robot",
+  "robotics",
+  "future tech",
+  "technology",
+  "shorts"
+ ],
+ "comment_prompt": "Could you do this backflip? Yes or no",
+ "hook_banner": "ROBOT STICKS THE LANDING",
+ "scenes": [
+  {
+   "narration": "Your robot does a backflip and lands.",
+   "emoji": "🤖",
+   "headline": "ROBOT BACKFLIP",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Atlas robot backflip"
+  },
+  {
+   "narration": "This is Atlas, from Boston Dynamics.",
+   "emoji": "🏢",
+   "headline": "MEET ATLAS",
+   "stat": "",
+   "sub": "Boston Dynamics",
+   "visual_query": "Boston Dynamics Atlas robot"
+  },
+  {
+   "narration": "It is a humanoid robot, built like a person.",
+   "emoji": "🦾",
+   "headline": "A HUMANOID ROBOT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "humanoid robot standing"
+  },
+  {
+   "narration": "It jumps and flips through the air.",
+   "emoji": "🌀",
+   "headline": "FLIPS IN THE AIR",
+   "stat": "",
+   "sub": "",
+   "visual_query": "robot mid-air flip"
+  },
+  {
+   "narration": "Then it lands right back on its feet.",
+   "emoji": "🦶",
+   "headline": "LANDS ON ITS FEET",
+   "stat": "",
+   "sub": "",
+   "visual_query": "robot landing on feet"
+  },
+  {
+   "narration": "The video shows the whole move in one go.",
+   "emoji": "🎥",
+   "headline": "IT'S ON VIDEO",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Atlas robot gymnastics"
+  },
+  {
+   "narration": "Robots used to struggle just to walk.",
+   "emoji": "🚶",
+   "headline": "ONCE HARD TO WALK",
+   "stat": "",
+   "sub": "",
+   "visual_query": "early walking robot"
+  },
+  {
+   "narration": "Now your robot can do a backflip.",
+   "emoji": "🔁",
+   "headline": "NOW IT BACKFLIPS",
+   "stat": "",
+   "sub": "Follow for more true facts that sound fake",
+   "visual_query": "Atlas robot jump"
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "category": "technology",
+ "topic": "FASTag passive RFID",
+ "hook": "Your FASTag sticker has no battery inside.",
+ "title": "Your FASTag sticker has no battery",
+ "description": "A FASTag is a passive RFID tag. The toll reader's radio waves power it for a moment, it replies with its ID, and the barrier lifts as you pass. No battery needed.\n\n#Shorts #FASTag #Technology",
+ "tags": [
+  "fastag",
+  "rfid",
+  "toll plaza",
+  "india tech",
+  "how it works",
+  "tech facts",
+  "shorts",
+  "passive rfid"
+ ],
+ "comment_prompt": "Do you use FASTag? Yes or no",
+ "hook_banner": "NO BATTERY INSIDE",
+ "scenes": [
+  {
+   "narration": "Your FASTag sticker has no battery inside.",
+   "emoji": "🔋",
+   "headline": "NO BATTERY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "FASTag windshield sticker"
+  },
+  {
+   "narration": "It's a passive RFID tag.",
+   "emoji": "🏷️",
+   "headline": "PASSIVE RFID TAG",
+   "stat": "",
+   "sub": "",
+   "visual_query": "RFID tag close up"
+  },
+  {
+   "narration": "The toll reader sends out radio waves.",
+   "emoji": "📡",
+   "headline": "RADIO WAVES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "toll plaza reader antenna"
+  },
+  {
+   "narration": "Those waves power the tag for a moment.",
+   "emoji": "⚡",
+   "headline": "WAVES POWER IT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "RFID reader scanning tag"
+  },
+  {
+   "narration": "The tag replies with its ID.",
+   "emoji": "💬",
+   "headline": "TAG REPLIES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "FASTag scanner car"
+  },
+  {
+   "narration": "The toll comes from your linked account.",
+   "emoji": "💳",
+   "headline": "TOLL PAID",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India toll plaza lanes"
+  },
+  {
+   "narration": "The barrier lifts as you roll through.",
+   "emoji": "🚧",
+   "headline": "BARRIER LIFTS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "toll barrier lifting car"
+  },
+  {
+   "narration": "No battery, and it still pays your toll.",
+   "emoji": "🚗",
+   "headline": "NO BATTERY, STILL WORKS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "highway toll gate India"
+  },
+  {
+   "narration": "Tomorrow: a lake with no agreed border.",
+   "emoji": "➡️",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "A lake with no agreed border",
+   "visual_query": "Lake Constance boats"
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Schiphol airport below sea level",
+ "hook": "Your plane lands below sea level in the Netherlands.",
+ "title": "Your plane lands below sea level",
+ "description": "Amsterdam's Schiphol airport sits about three metres below sea level. It was built on the bed of a drained lake, and dikes and pumps keep the sea out. Series: Places That Shouldn't Exist.\n\n#Shorts #Netherlands #Geography",
+ "tags": [
+  "Schiphol",
+  "Netherlands",
+  "below sea level",
+  "dikes",
+  "Amsterdam airport",
+  "geography facts",
+  "places that shouldn't exist",
+  "Shorts"
+ ],
+ "comment_prompt": "Would this scare you? Yes or no",
+ "hook_banner": "BELOW THE SEA",
+ "scenes": [
+  {
+   "narration": "Your plane lands below sea level in the Netherlands.",
+   "emoji": "✈️",
+   "headline": "Landing Below Sea",
+   "stat": "",
+   "sub": "Schiphol, Netherlands",
+   "visual_query": "plane landing Schiphol"
+  },
+  {
+   "narration": "Schiphol sits about three metres below sea level.",
+   "emoji": "📉",
+   "headline": "Under The Sea Level",
+   "stat": "-3 m",
+   "sub": "about",
+   "visual_query": "Schiphol airport runway"
+  },
+  {
+   "narration": "Schiphol was once the bottom of a lake.",
+   "emoji": "🏞️",
+   "headline": "Once A Lake",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Haarlemmermeer polder aerial"
+  },
+  {
+   "narration": "Dikes hold the sea back.",
+   "emoji": "🧱",
+   "headline": "Dikes Hold The Sea",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dutch dike sea"
+  },
+  {
+   "narration": "Pumps keep the land dry.",
+   "emoji": "💧",
+   "headline": "Pumps Run Nonstop",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Dutch water pumping station"
+  },
+  {
+   "narration": "About a quarter of the country is this low.",
+   "emoji": "🇳🇱",
+   "headline": "A Low Country",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Netherlands polder canals aerial"
+  },
+  {
+   "narration": "Without dikes, much of it would flood.",
+   "emoji": "🌊",
+   "headline": "It Would Flood",
+   "stat": "",
+   "sub": "",
+   "visual_query": "flooded Dutch fields"
+  },
+  {
+   "narration": "So yes, your plane lands below the sea.",
+   "emoji": "🛬",
+   "headline": "Below The Sea",
+   "stat": "",
+   "sub": "",
+   "visual_query": "airplane landing runway sunset"
+  },
+  {
+   "narration": "Tomorrow: a country two borders from any sea.",
+   "emoji": "🗺️",
+   "headline": "Tomorrow",
+   "stat": "",
+   "sub": "Landlocked twice",
+   "visual_query": "Liechtenstein map"
+  }
+ ]
+}

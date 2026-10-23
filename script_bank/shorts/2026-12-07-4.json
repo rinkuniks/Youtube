@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Miranda Verona Rupes",
+ "hook": "If you jumped off Miranda's cliff, you'd fall for minutes.",
+ "title": "A Cliff Where Falling Takes Minutes",
+ "description": "Uranus's moon Miranda has a cliff called Verona Rupes, estimated at about 20 km tall. Miranda's gravity is so weak that a fall from the top would take many minutes. Part of the If You Were in Space series.\n\n#Shorts #Space #Uranus",
+ "tags": [
+  "Miranda",
+  "Uranus",
+  "Verona Rupes",
+  "tallest cliff",
+  "Voyager 2",
+  "space facts",
+  "moons",
+  "shorts"
+ ],
+ "comment_prompt": "Would you jump? Yes or no",
+ "hook_banner": "FALL FOR MINUTES",
+ "scenes": [
+  {
+   "narration": "If you jumped off Miranda's cliff, you'd fall for minutes.",
+   "emoji": "🧗",
+   "headline": "A Fall Of Minutes",
+   "stat": "",
+   "sub": "Uranus's moon Miranda",
+   "visual_query": "Miranda moon Voyager 2"
+  },
+  {
+   "narration": "Verona Rupes is about 20 kilometres tall.",
+   "emoji": "📏",
+   "headline": "A Huge Cliff",
+   "stat": "20 km",
+   "sub": "Estimated height",
+   "visual_query": "Verona Rupes cliff"
+  },
+  {
+   "narration": "That is more than twice Everest's height.",
+   "emoji": "🏔️",
+   "headline": "Taller Than Everest",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mount Everest peak"
+  },
+  {
+   "narration": "Voyager 2 photographed it in 1986.",
+   "emoji": "📸",
+   "headline": "Seen By Voyager 2",
+   "stat": "1986",
+   "sub": "",
+   "visual_query": "Voyager 2 spacecraft"
+  },
+  {
+   "narration": "Miranda looks like a patchwork of broken pieces.",
+   "emoji": "🧩",
+   "headline": "A Patchwork Moon",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Miranda moon surface"
+  },
+  {
+   "narration": "Its gravity is so weak, falling is slow.",
+   "emoji": "🪂",
+   "headline": "Weak Gravity",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Uranus moons"
+  },
+  {
+   "narration": "Estimates say the drop takes over ten minutes.",
+   "emoji": "⏱️",
+   "headline": "Over 10 Minutes",
+   "stat": "",
+   "sub": "Estimated fall time",
+   "visual_query": "cliff edge falling"
+  },
+  {
+   "narration": "Yes, you'd really fall for minutes.",
+   "emoji": "😮",
+   "headline": "Minutes Of Falling",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Miranda Uranus"
+  },
+  {
+   "narration": "Tomorrow: the water drop that shows hidden colours.",
+   "emoji": "➡️",
+   "headline": "Tomorrow: Phone Trick",
+   "stat": "",
+   "sub": "",
+   "visual_query": "water drop phone screen"
+  }
+ ]
+}

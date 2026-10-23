@@ -1,0 +1,101 @@
+{
+ "category": "geography",
+ "topic": "Deadvlei Namibia",
+ "hook": "Your trek here ends in a forest of black dead trees.",
+ "title": "Your Trek Ends in a 900-Year-Old Dead Forest",
+ "description": "Deadvlei in Namibia is a white clay pan filled with black dead trees under huge red dunes. The trees are roughly 900 years old. The air is so dry they never rotted away.\n\n#Shorts #Namibia #Geography",
+ "tags": [
+  "Deadvlei",
+  "Namibia",
+  "dead trees",
+  "Namib desert",
+  "geography facts",
+  "places that shouldn't exist",
+  "desert",
+  "Shorts"
+ ],
+ "comment_prompt": "Would you trek here? Yes or no",
+ "hook_banner": "THIS PLACE IS REAL",
+ "scenes": [
+  {
+   "narration": "Your trek here ends in a dead forest.",
+   "emoji": "🥾",
+   "headline": "A DEAD FOREST",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Deadvlei dead trees"
+  },
+  {
+   "narration": "This is Deadvlei, in Namibia.",
+   "emoji": "📍",
+   "headline": "DEADVLEI, NAMIBIA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Deadvlei Namibia"
+  },
+  {
+   "narration": "The black trees are roughly 900 years old.",
+   "emoji": "🌳",
+   "headline": "ROUGHLY 900 YEARS",
+   "stat": "900",
+   "sub": "years old",
+   "visual_query": "Deadvlei black trees"
+  },
+  {
+   "narration": "They stand on white cracked clay.",
+   "emoji": "⚪",
+   "headline": "WHITE CLAY GROUND",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Deadvlei white clay pan"
+  },
+  {
+   "narration": "Red dunes tower right behind them.",
+   "emoji": "🏜️",
+   "headline": "RED DUNES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sossusvlei red dunes"
+  },
+  {
+   "narration": "A river once fed this spot.",
+   "emoji": "💧",
+   "headline": "A RIVER ONCE FLOWED",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Namib desert river"
+  },
+  {
+   "narration": "Dunes blocked it, and the trees died.",
+   "emoji": "🏔️",
+   "headline": "DUNES BLOCKED IT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Namib dunes sand"
+  },
+  {
+   "narration": "The air is too dry for them to rot.",
+   "emoji": "🔥",
+   "headline": "TOO DRY TO ROT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "dead acacia tree desert"
+  },
+  {
+   "narration": "Your trek ends at a forest frozen in time.",
+   "emoji": "🥾",
+   "headline": "FROZEN IN TIME",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Deadvlei trek tourists"
+  },
+  {
+   "narration": "Tomorrow: a volcano taller than Everest.",
+   "emoji": "🌋",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "a volcano taller than Everest",
+   "visual_query": "Olympus Mons Mars"
+  }
+ ]
+}

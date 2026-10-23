@@ -1,0 +1,628 @@
+{
+ "topic": "Why the US-Mexico border is stranger than you think",
+ "hook": "Your hug through a metal fence is real, and that fence runs straight into the sea.",
+ "title": "The US-Mexico Border Is Stranger Than You Think",
+ "description": "A fence you can hug through that runs into the Pacific, clocks that follow the border, a bridge from America to a Mexican airport, and a river that forced two countries to swap land. These are true facts about the US-Mexico border, from Friendship Park near San Diego and Tijuana to El Paso and Ciudad Juarez. Watch to the end for the strangest one.\n\n#geography #borders #facts",
+ "tags": [
+  "US Mexico border",
+  "Friendship Park",
+  "Tijuana San Diego",
+  "strange borders",
+  "border facts",
+  "geography facts",
+  "Nogales",
+  "Chamizal",
+  "Cross Border Xpress",
+  "Tohono O'odham",
+  "Rio Grande",
+  "facts that sound fake",
+  "weird geography",
+  "stranger than you think"
+ ],
+ "comment_prompt": "Which border should we cover next?",
+ "hook_banner": "A FENCE INTO THE SEA",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "The fence that walks into the sea",
+   "scene": 6
+  },
+  {
+   "title": "Two towns, one name",
+   "scene": 19
+  },
+  {
+   "title": "The clock that follows the border",
+   "scene": 28
+  },
+  {
+   "title": "A bridge to a Mexican airport",
+   "scene": 38
+  },
+  {
+   "title": "A nation cut by the line",
+   "scene": 48
+  },
+  {
+   "title": "The pink seesaws",
+   "scene": 57
+  },
+  {
+   "title": "The river that moved the border",
+   "scene": 66
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your hug through a metal fence is real, and that fence runs straight into the sea.",
+   "emoji": "🤗",
+   "headline": "A Hug Through Steel",
+   "stat": "",
+   "sub": "Friendship Park",
+   "visual_query": "Friendship Park border fence"
+  },
+  {
+   "narration": "At Friendship Park, families meet through thick mesh, while the US-Mexico border walks right into the Pacific Ocean.",
+   "emoji": "🌊",
+   "headline": "Border Meets The Ocean",
+   "stat": "",
+   "sub": "San Diego and Tijuana",
+   "visual_query": "border fence Pacific ocean"
+  },
+  {
+   "narration": "By the end of this video, you will see five more things about this border that sound fake but are true.",
+   "emoji": "👀",
+   "headline": "Sounds Fake. Is True.",
+   "stat": "",
+   "sub": "",
+   "visual_query": "US Mexico border wall"
+  },
+  {
+   "narration": "One is a bridge that lets you walk from America straight into an airport in Mexico.",
+   "emoji": "🌉",
+   "headline": "A Bridge To A Plane",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Tijuana airport bridge"
+  },
+  {
+   "narration": "Another is a river that moved, and forced two countries to argue over one patch of land for about a hundred years.",
+   "emoji": "🏞️",
+   "headline": "A River Moved",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rio Grande river El Paso"
+  },
+  {
+   "narration": "Stay for the last one. It changed the map in 1967, and you can still see the proof today.",
+   "emoji": "🗺️",
+   "headline": "The Proof Is Still There",
+   "stat": "1967",
+   "sub": "",
+   "visual_query": "Chamizal National Memorial"
+  },
+  {
+   "narration": "First, the fence in the sea. Friendship Park sits where San Diego in America meets Tijuana in Mexico.",
+   "emoji": "📍",
+   "headline": "Where Two Cities Meet",
+   "stat": "",
+   "sub": "",
+   "visual_query": "San Diego Tijuana border"
+  },
+  {
+   "narration": "It is inside Border Field State Park, right at the corner where the border meets the Pacific Ocean.",
+   "emoji": "🏖️",
+   "headline": "The Last Corner",
+   "stat": "",
+   "sub": "Border Field State Park",
+   "visual_query": "Border Field State Park beach"
+  },
+  {
+   "narration": "The park was dedicated in 1971 by First Lady Pat Nixon, and the barrier back then was a simple wire fence.",
+   "emoji": "📜",
+   "headline": "A Simple Wire Fence",
+   "stat": "1971",
+   "sub": "",
+   "visual_query": "Pat Nixon Friendship Park 1971"
+  },
+  {
+   "narration": "She said she hoped there would not need to be a fence at all one day. That did not happen.",
+   "emoji": "🕊️",
+   "headline": "She Hoped For No Fence",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Friendship Park fence"
+  },
+  {
+   "narration": "Over the years the barrier became stronger, and a fine metal mesh now covers the spot where families meet.",
+   "emoji": "🧱",
+   "headline": "A Fine Metal Mesh",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border fence mesh"
+  },
+  {
+   "narration": "Families split by the border walk up to this mesh from both sides, and talk through the tiny holes.",
+   "emoji": "👨‍👩‍👧",
+   "headline": "Families Meet Here",
+   "stat": "",
+   "sub": "",
+   "visual_query": "family border fence meeting"
+  },
+  {
+   "narration": "People have pressed fingers through the holes, held hands, and on some days even shared a hug.",
+   "emoji": "🤝",
+   "headline": "Fingers Through Mesh",
+   "stat": "",
+   "sub": "",
+   "visual_query": "hands through border fence"
+  },
+  {
+   "narration": "On the Mexican side, the plaza is open to everyone. On the American side, visiting has long been limited.",
+   "emoji": "⏰",
+   "headline": "Two Sides, Two Rules",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Playas de Tijuana plaza"
+  },
+  {
+   "narration": "Now look at the end of the fence. It does not stop at the beach. It walks right into the waves.",
+   "emoji": "🌊",
+   "headline": "The Fence Walks Into The Sea",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border fence ocean waves"
+  },
+  {
+   "narration": "Metal poles stand in the surf, and the Pacific washes straight through the border without asking anyone.",
+   "emoji": "🌅",
+   "headline": "The Ocean Ignores It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "fence poles surf Tijuana"
+  },
+  {
+   "narration": "This whole border is more than three thousand kilometres long, running from this beach all the way to the Gulf of Mexico.",
+   "emoji": "📏",
+   "headline": "Beach To Gulf",
+   "stat": "3,000+ km",
+   "sub": "",
+   "visual_query": "US Mexico border map"
+  },
+  {
+   "narration": "It touches four American states and six Mexican states. And along the way, it gets stranger.",
+   "emoji": "🗺️",
+   "headline": "4 US States, 6 Mexican",
+   "stat": "4 + 6",
+   "sub": "states on the line",
+   "visual_query": "US Mexico border states map"
+  },
+  {
+   "narration": "Next, two towns that share one name, and a wall running right between them.",
+   "emoji": "🏘️",
+   "headline": "Two Towns, One Name",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nogales border fence town"
+  },
+  {
+   "narration": "Second, look at Nogales. There is a Nogales in Arizona, and a Nogales in Sonora, Mexico.",
+   "emoji": "📍",
+   "headline": "Nogales And Nogales",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nogales Arizona Sonora border"
+  },
+  {
+   "narration": "A tall fence runs down the middle, and the name means walnut trees in Spanish.",
+   "emoji": "🌳",
+   "headline": "Named After Walnut Trees",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nogales border wall street"
+  },
+  {
+   "narration": "Both towns grew up around the same railway crossing, so they started life as one place.",
+   "emoji": "🚂",
+   "headline": "Born As One Place",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Nogales old railway"
+  },
+  {
+   "narration": "Further west, Calexico in California and Mexicali in Mexico have names that mix both countries together.",
+   "emoji": "🔤",
+   "headline": "Calexico And Mexicali",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Calexico Mexicali border"
+  },
+  {
+   "narration": "Calexico is California plus Mexico. Mexicali is Mexico plus California. Each name is a mirror of the other.",
+   "emoji": "🪞",
+   "headline": "Names As Mirrors",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Calexico sign"
+  },
+  {
+   "narration": "Many families have relatives on both sides, and cross every day for work, school and shopping.",
+   "emoji": "🛒",
+   "headline": "Daily Crossings",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border crossing people walking"
+  },
+  {
+   "narration": "San Ysidro, near San Diego, is one of the busiest land crossings in the world.",
+   "emoji": "🚗",
+   "headline": "A Very Busy Gate",
+   "stat": "",
+   "sub": "San Ysidro",
+   "visual_query": "San Ysidro border crossing"
+  },
+  {
+   "narration": "Two cities, joined in their names, and divided by a steel wall you can see from either street.",
+   "emoji": "🧱",
+   "headline": "One Wall, Twin Cities",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border wall city street"
+  },
+  {
+   "narration": "That was the easy part. The next one is about time itself, and it breaks a rule you probably trust.",
+   "emoji": "⏱️",
+   "headline": "Time Bends Next",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world clock time zones"
+  },
+  {
+   "narration": "Third, a time rule that bends around the border.",
+   "emoji": "🕒",
+   "headline": "A Time Rule That Bends",
+   "stat": "",
+   "sub": "",
+   "visual_query": "clock changing daylight saving"
+  },
+  {
+   "narration": "In October 2022, Mexico ended daylight saving time for most of the country. Those clocks stopped changing.",
+   "emoji": "🇲🇽",
+   "headline": "Mexico Stopped Changing Clocks",
+   "stat": "2022",
+   "sub": "",
+   "visual_query": "Mexico City clock"
+  },
+  {
+   "narration": "But the cities along the border were allowed to keep changing their clocks, to match the United States.",
+   "emoji": "🔄",
+   "headline": "Border Cities Kept It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Tijuana skyline"
+  },
+  {
+   "narration": "So Tijuana still moves its clocks with San Diego, while Mexico City, far away, stays put all year.",
+   "emoji": "⌚",
+   "headline": "Same Clock As San Diego",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Tijuana San Diego aerial"
+  },
+  {
+   "narration": "That makes sense, because so many people cross every day. One shared clock keeps school and work simple.",
+   "emoji": "🏫",
+   "headline": "One Shared Clock",
+   "stat": "",
+   "sub": "",
+   "visual_query": "commuters border crossing morning"
+  },
+  {
+   "narration": "We in India run one time for the whole country. Here, the border decides whose clock a town follows.",
+   "emoji": "🇮🇳",
+   "headline": "India Has One Clock",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Mumbai clock tower"
+  },
+  {
+   "narration": "A border that changes your clock is odd. But the next one lets you walk to a plane in another country.",
+   "emoji": "✈️",
+   "headline": "Walk To A Foreign Plane",
+   "stat": "",
+   "sub": "",
+   "visual_query": "airport terminal walkway"
+  },
+  {
+   "narration": "Fourth, a walkway that crosses a border. It is called the Cross Border Xpress.",
+   "emoji": "🚶",
+   "headline": "Cross Border Xpress",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Cross Border Xpress bridge"
+  },
+  {
+   "narration": "It is a covered bridge linking a terminal in San Diego with the international airport in Tijuana.",
+   "emoji": "🌉",
+   "headline": "A Covered Border Bridge",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Tijuana airport terminal"
+  },
+  {
+   "narration": "It opened in December 2015, and it lets travellers cross the border without ever stepping out onto a street.",
+   "emoji": "📅",
+   "headline": "Opened In 2015",
+   "stat": "2015",
+   "sub": "",
+   "visual_query": "Tijuana airport bridge San Diego"
+  },
+  {
+   "narration": "You buy a ticket, pass the border checks, walk across the bridge, and you arrive inside the Mexican airport.",
+   "emoji": "🎫",
+   "headline": "Ticket, Check, Walk",
+   "stat": "",
+   "sub": "",
+   "visual_query": "airport passport check"
+  },
+  {
+   "narration": "Many travellers use it to fly from Tijuana, because the airport is only a short walk from the American side.",
+   "emoji": "🧳",
+   "headline": "Fly From Another Country",
+   "stat": "",
+   "sub": "",
+   "visual_query": "travellers with suitcases airport"
+  },
+  {
+   "narration": "So here, the border is not a fence. It is a hallway inside a building, with a plane waiting at the end.",
+   "emoji": "🛫",
+   "headline": "The Border Is A Hallway",
+   "stat": "",
+   "sub": "",
+   "visual_query": "airport corridor plane window"
+  },
+  {
+   "narration": "If you like strange places that sound fake but are true, subscribe, because we find a new one every day.",
+   "emoji": "🔔",
+   "headline": "New Strange Place Daily",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map globe"
+  },
+  {
+   "narration": "And now, a nation whose homeland the border cut in two, long before most of us were born.",
+   "emoji": "🏜️",
+   "headline": "A Homeland Cut In Two",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Sonoran Desert Arizona"
+  },
+  {
+   "narration": "Fifth, a people who lived here before the border existed. They are the Tohono O'odham Nation.",
+   "emoji": "🌵",
+   "headline": "Here Before The Border",
+   "stat": "",
+   "sub": "Tohono O'odham Nation",
+   "visual_query": "Tohono O'odham Nation desert"
+  },
+  {
+   "narration": "Their traditional homeland stretched across what is now southern Arizona and northern Sonora, in the Sonoran Desert.",
+   "emoji": "🏜️",
+   "headline": "A Desert Homeland",
+   "stat": "",
+   "sub": "",
+   "visual_query": "saguaro cactus desert"
+  },
+  {
+   "narration": "In the 1850s, the Gadsden Purchase moved the border through their land, and the homeland ended up in two countries.",
+   "emoji": "📜",
+   "headline": "The Gadsden Purchase",
+   "stat": "1850s",
+   "sub": "",
+   "visual_query": "Gadsden Purchase map"
+  },
+  {
+   "narration": "Today the Nation's reservation in Arizona touches the border for a long stretch, and members live on both sides.",
+   "emoji": "🏡",
+   "headline": "Members On Both Sides",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Arizona reservation border desert"
+  },
+  {
+   "narration": "On much of that land there is no tall wall, only low vehicle barriers that stop cars but not walkers.",
+   "emoji": "🚧",
+   "headline": "Barriers For Cars",
+   "stat": "",
+   "sub": "",
+   "visual_query": "vehicle barrier desert border"
+  },
+  {
+   "narration": "Tribal leaders have long said a full wall would cut families, ceremonies and sacred places in two.",
+   "emoji": "🪶",
+   "headline": "Families And Ceremonies",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Tohono O'odham people"
+  },
+  {
+   "narration": "So here, the line was drawn straight through a living community, and it is still felt every single day.",
+   "emoji": "📍",
+   "headline": "A Line Through A Community",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Arizona border desert fence"
+  },
+  {
+   "narration": "India has villages like this too, and you may have heard of some. But the next one is a children's game.",
+   "emoji": "🧒",
+   "headline": "Next: A Playground",
+   "stat": "",
+   "sub": "",
+   "visual_query": "children playground seesaw"
+  },
+  {
+   "narration": "Sixth, a playground that crossed the border. Three bright pink seesaws did it.",
+   "emoji": "🎠",
+   "headline": "Pink Seesaws",
+   "stat": "",
+   "sub": "",
+   "visual_query": "pink seesaw border wall"
+  },
+  {
+   "narration": "In July 2019, designers Ronald Rael and Virginia San Fratello fitted seesaws into the border wall near El Paso.",
+   "emoji": "🎨",
+   "headline": "Seesaws In The Wall",
+   "stat": "July 2019",
+   "sub": "",
+   "visual_query": "Teeter-Totter Wall El Paso"
+  },
+  {
+   "narration": "The wall there has gaps between steel slats. They pushed the long pink planks right through those gaps.",
+   "emoji": "🧱",
+   "headline": "Planks Through The Gaps",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border wall steel slats"
+  },
+  {
+   "narration": "People on the American side and the Mexican side went up and down on the very same plank.",
+   "emoji": "↕️",
+   "headline": "Same Plank, Two Countries",
+   "stat": "",
+   "sub": "",
+   "visual_query": "children playing seesaw border"
+  },
+  {
+   "narration": "When someone pushed down on one side, someone in the other country went up. That was the whole point.",
+   "emoji": "🤹",
+   "headline": "Your Push, Their Lift",
+   "stat": "",
+   "sub": "",
+   "visual_query": "seesaw kids laughing"
+  },
+  {
+   "narration": "It lasted only a short time, but the photos travelled the world, and you can still look them up.",
+   "emoji": "📸",
+   "headline": "Photos Went Worldwide",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Teeter-Totter Wall photo"
+  },
+  {
+   "narration": "A playground made of steel slats and pink paint. And the last story is bigger than all of these.",
+   "emoji": "🏁",
+   "headline": "The Biggest One Is Next",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rio Grande border river"
+  },
+  {
+   "narration": "Seventh, a river that moved, and a border that had to move with it.",
+   "emoji": "🌊",
+   "headline": "A River That Moved",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rio Grande winding river"
+  },
+  {
+   "narration": "First, the line itself. It was drawn after a war, and in 1848 a treaty gave America land that was once Mexico's.",
+   "emoji": "📜",
+   "headline": "Drawn After A War",
+   "stat": "1848",
+   "sub": "",
+   "visual_query": "Treaty of Guadalupe Hidalgo"
+  },
+  {
+   "narration": "Mexico lost roughly half of its territory then, and in Texas the line follows the middle of the Rio Grande.",
+   "emoji": "🗺️",
+   "headline": "Half Of Mexico Lost",
+   "stat": "~Half",
+   "sub": "of its territory",
+   "visual_query": "Mexico United States 1848 map"
+  },
+  {
+   "narration": "But rivers wander. After a flood in 1864, the Rio Grande jumped south near El Paso and Ciudad Juarez.",
+   "emoji": "🌧️",
+   "headline": "The Flood Of 1864",
+   "stat": "1864",
+   "sub": "",
+   "visual_query": "river flood old map"
+  },
+  {
+   "narration": "Suddenly a patch of land called the Chamizal was on the American side, though Mexico said it belonged to them.",
+   "emoji": "❓",
+   "headline": "Whose Land Is It?",
+   "stat": "",
+   "sub": "The Chamizal",
+   "visual_query": "El Paso Juarez map"
+  },
+  {
+   "narration": "The two countries argued about that one patch for about a hundred years. Imagine a dispute lasting a full century.",
+   "emoji": "⚖️",
+   "headline": "A Hundred-Year Argument",
+   "stat": "~100 yrs",
+   "sub": "",
+   "visual_query": "old treaty documents signing"
+  },
+  {
+   "narration": "In 1963 they signed a deal, and in 1967 America handed the land back to Mexico.",
+   "emoji": "🤝",
+   "headline": "America Handed It Back",
+   "stat": "1967",
+   "sub": "",
+   "visual_query": "Chamizal handover 1967"
+  },
+  {
+   "narration": "To stop the river wandering again, the Rio Grande there was forced into a straight concrete channel.",
+   "emoji": "🏗️",
+   "headline": "A River In Concrete",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rio Grande concrete channel"
+  },
+  {
+   "narration": "Today you can see that straight concrete river on a satellite map, with El Paso on one side and Juarez on the other.",
+   "emoji": "🛰️",
+   "headline": "Visible On A Map",
+   "stat": "",
+   "sub": "",
+   "visual_query": "El Paso Juarez aerial"
+  },
+  {
+   "narration": "A national memorial park now stands on the American side to mark the Chamizal settlement, so the proof is real.",
+   "emoji": "🏛️",
+   "headline": "A Memorial Marks It",
+   "stat": "",
+   "sub": "Chamizal National Memorial",
+   "visual_query": "Chamizal National Memorial El Paso"
+  },
+  {
+   "narration": "So a hug through a fence, clocks that follow a border, a bridge to a plane, and a river that moved land.",
+   "emoji": "🧩",
+   "headline": "One Border, Many Surprises",
+   "stat": "",
+   "sub": "",
+   "visual_query": "US Mexico border landscape"
+  },
+  {
+   "narration": "Remember the hug through the fence, where the border walks into the sea? That was only the start of how strange this line is.",
+   "emoji": "🌅",
+   "headline": "Back To The Fence",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Friendship Park ocean fence"
+  },
+  {
+   "narration": "Tomorrow: another place that sounds fake, but is real. Come back for it.",
+   "emoji": "➡️",
+   "headline": "Tomorrow: Another One",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map pins"
+  }
+ ]
+}

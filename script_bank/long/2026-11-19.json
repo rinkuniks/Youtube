@@ -1,0 +1,688 @@
+{
+ "topic": "6 strange borders, ending at Bhutan Gate in Jaigaon",
+ "hook": "Your watch jumps forward half an hour when you walk through one gate in India, and nobody stops you.",
+ "title": "6 Borders That Break Logic (The Last Is in India)",
+ "description": "Six real borders that sound fake but are true, from a lake with no agreed border to a Spanish town inside France. The countdown ends at Bhutan Gate in Jaigaon, where you walk from India into Phuentsholing, Bhutan, and the clock jumps forward half an hour. Watch to the end for the one border you can actually visit.\n\n#borders #geography #bhutan",
+ "tags": [
+  "strange borders",
+  "borders that make no sense",
+  "Bhutan Gate",
+  "Jaigaon",
+  "Phuentsholing",
+  "India Bhutan border",
+  "Lake Constance",
+  "Llivia",
+  "Gibraltar runway",
+  "Point Roberts",
+  "Busingen",
+  "geography facts",
+  "weird geography",
+  "facts that sound fake"
+ ],
+ "comment_prompt": "Which of these six borders surprised you most?",
+ "hook_banner": "BORDERS THAT BREAK LOGIC",
+ "chapters": [
+  {
+   "title": "Intro",
+   "scene": 0
+  },
+  {
+   "title": "6: The Lake With No Border",
+   "scene": 6
+  },
+  {
+   "title": "5: Spain Inside France",
+   "scene": 17
+  },
+  {
+   "title": "4: The Road Across a Runway",
+   "scene": 26
+  },
+  {
+   "title": "3: Reach America Through Canada",
+   "scene": 36
+  },
+  {
+   "title": "2: A German Town in Switzerland",
+   "scene": 46
+  },
+  {
+   "title": "1: Bhutan Gate, Jaigaon",
+   "scene": 56
+  }
+ ],
+ "scenes": [
+  {
+   "narration": "Your watch jumps forward half an hour when you walk through one gate in India, and nobody stops you.",
+   "emoji": "⌚",
+   "headline": "One Gate, Two Times",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bhutan Gate Jaigaon"
+  },
+  {
+   "narration": "That gate is number one in a countdown of six real borders that make no sense.",
+   "emoji": "🗺️",
+   "headline": "6 Real Borders",
+   "stat": "6",
+   "sub": "",
+   "visual_query": "world map borders"
+  },
+  {
+   "narration": "On the way, you will see a road that closes for planes, and a town trapped inside another country.",
+   "emoji": "✈️",
+   "headline": "Roads And Trapped Towns",
+   "stat": "",
+   "sub": "",
+   "visual_query": "airport runway road"
+  },
+  {
+   "narration": "By the end, you will know why a simple gate in West Bengal beats every one of them.",
+   "emoji": "🇮🇳",
+   "headline": "India Beats Them All",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Jaigaon West Bengal town"
+  },
+  {
+   "narration": "Each border is stranger than the last, so keep watching, because number one is a place you can actually visit.",
+   "emoji": "👀",
+   "headline": "Each One Stranger",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border gate arch"
+  },
+  {
+   "narration": "We start with a lake that three countries share, and have never agreed how to divide.",
+   "emoji": "🏞️",
+   "headline": "Let's Start",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake Constance aerial"
+  },
+  {
+   "narration": "Number six: a lake where the border simply does not exist on paper.",
+   "emoji": "6️⃣",
+   "headline": "No Border On Water",
+   "stat": "6",
+   "sub": "",
+   "visual_query": "Lake Constance shoreline"
+  },
+  {
+   "narration": "This is Lake Constance, in the heart of Europe, where Germany, Austria and Switzerland all touch the water.",
+   "emoji": "🏔️",
+   "headline": "Three Countries, One Lake",
+   "stat": "",
+   "sub": "Germany · Austria · Switzerland",
+   "visual_query": "Lake Constance Bregenz"
+  },
+  {
+   "narration": "On a map, the shoreline looks perfectly clear. Three countries, one big blue lake in the middle.",
+   "emoji": "🗺️",
+   "headline": "Looks Clear On Maps",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Lake Constance map"
+  },
+  {
+   "narration": "But out on the water, there is no agreed border between the three. Not in the middle, not near the shore.",
+   "emoji": "🚫",
+   "headline": "No Agreed Line",
+   "stat": "",
+   "sub": "",
+   "visual_query": "lake water boats"
+  },
+  {
+   "narration": "The countries have never signed a deal to split the lake, and each one has a different view.",
+   "emoji": "📝",
+   "headline": "Never Signed A Deal",
+   "stat": "",
+   "sub": "",
+   "visual_query": "treaty signing paper"
+  },
+  {
+   "narration": "Some say the lake should be shared like common property. Others want it cut into three slices.",
+   "emoji": "🍰",
+   "headline": "Shared Or Sliced?",
+   "stat": "",
+   "sub": "",
+   "visual_query": "lake shoreline town"
+  },
+  {
+   "narration": "Meanwhile, ferries, sailboats and swimmers cross it every day, and nobody checks a single passport.",
+   "emoji": "⛴️",
+   "headline": "No Passport Checks",
+   "stat": "",
+   "sub": "",
+   "visual_query": "ferry lake Constance"
+  },
+  {
+   "narration": "Picture a cricket ground where nobody agrees where the boundary rope goes. Players just carry on playing.",
+   "emoji": "🏏",
+   "headline": "Cricket Without A Rope",
+   "stat": "",
+   "sub": "",
+   "visual_query": "cricket ground boundary rope"
+  },
+  {
+   "narration": "Practical rules for shipping and fishing do exist, but the border line itself is still left open.",
+   "emoji": "🎣",
+   "headline": "Rules Yes, Border No",
+   "stat": "",
+   "sub": "",
+   "visual_query": "fishing boat lake"
+  },
+  {
+   "narration": "So a lake you can see from a plane has a border that only exists in arguments.",
+   "emoji": "💬",
+   "headline": "A Border In Arguments",
+   "stat": "",
+   "sub": "",
+   "visual_query": "lake aerial view"
+  },
+  {
+   "narration": "Having no border is odd. But the next one has a clear border, and it still makes no sense.",
+   "emoji": "➡️",
+   "headline": "Next: Clear But Crazy",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pyrenees mountains road"
+  },
+  {
+   "narration": "Number five: a town that belongs to Spain, but sits completely inside the country of France.",
+   "emoji": "5️⃣",
+   "headline": "Spain Inside France",
+   "stat": "5",
+   "sub": "",
+   "visual_query": "Llivia town Spain"
+  },
+  {
+   "narration": "It is called Llívia, a small town in the Pyrenees. Drive out in any direction, and you are in France.",
+   "emoji": "🏘️",
+   "headline": "Meet Llívia",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Llivia Pyrenees"
+  },
+  {
+   "narration": "To find out why, go back to 1659, when Spain and France signed the Treaty of the Pyrenees.",
+   "emoji": "📜",
+   "headline": "The Treaty Of 1659",
+   "stat": "1659",
+   "sub": "",
+   "visual_query": "Treaty of the Pyrenees painting"
+  },
+  {
+   "narration": "Spain agreed to give France a group of villages. But Llívia was officially a town, not a village.",
+   "emoji": "🏡",
+   "headline": "Town, Not Village",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pyrenees village houses"
+  },
+  {
+   "narration": "So it stayed Spanish. One single word in an old treaty drew this border.",
+   "emoji": "✍️",
+   "headline": "One Word Did It",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old treaty handwriting"
+  },
+  {
+   "narration": "A short road, treated as neutral ground, connects Llívia to the rest of Spain.",
+   "emoji": "🛣️",
+   "headline": "The Neutral Road",
+   "stat": "",
+   "sub": "",
+   "visual_query": "mountain road Pyrenees"
+  },
+  {
+   "narration": "Think of it as a Spanish island, but with French land around it instead of sea.",
+   "emoji": "🏝️",
+   "headline": "An Island Of Land",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Spain France border map"
+  },
+  {
+   "narration": "People there live in Spain, yet every neighbouring village around them is in France.",
+   "emoji": "🇪🇸",
+   "headline": "Spain, Surrounded",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Spanish flag village"
+  },
+  {
+   "narration": "Borders are just decisions people wrote down long ago, and sometimes they hang on one word.",
+   "emoji": "🤯",
+   "headline": "Decided By A Word",
+   "stat": "",
+   "sub": "",
+   "visual_query": "old map borders"
+  },
+  {
+   "narration": "Number four: a road that has to stop and wait for airplanes to pass.",
+   "emoji": "4️⃣",
+   "headline": "Road Across A Runway",
+   "stat": "4",
+   "sub": "",
+   "visual_query": "Gibraltar airport runway"
+  },
+  {
+   "narration": "This is Gibraltar, a British territory at the southern tip of Spain, with its own land border.",
+   "emoji": "🪨",
+   "headline": "Welcome To Gibraltar",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rock of Gibraltar"
+  },
+  {
+   "narration": "To enter Gibraltar from Spain, on foot or by car, you cross the airport runway itself.",
+   "emoji": "🚶",
+   "headline": "Cross The Runway",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar border crossing"
+  },
+  {
+   "narration": "Yes, the main road, Winston Churchill Avenue, cuts straight across the runway where planes land.",
+   "emoji": "🛬",
+   "headline": "Road Meets Runway",
+   "stat": "",
+   "sub": "Winston Churchill Avenue",
+   "visual_query": "Winston Churchill Avenue Gibraltar"
+  },
+  {
+   "narration": "When a plane is about to land or take off, barriers come down and the traffic simply waits.",
+   "emoji": "🚧",
+   "headline": "Barriers Come Down",
+   "stat": "",
+   "sub": "",
+   "visual_query": "road barrier airplane"
+  },
+  {
+   "narration": "Cars, bikes and people stand there, a few metres from a jet, waiting for it to pass.",
+   "emoji": "🚗",
+   "headline": "Waiting For A Jet",
+   "stat": "",
+   "sub": "",
+   "visual_query": "plane landing road cars"
+  },
+  {
+   "narration": "So you can wait in a queue at a border, and then wait in another queue for an airplane.",
+   "emoji": "⏳",
+   "headline": "Two Queues, One Walk",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border queue cars"
+  },
+  {
+   "narration": "Gibraltar is small, with very little flat land, so the runway and the road had to share space.",
+   "emoji": "📐",
+   "headline": "No Space To Spare",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gibraltar aerial airport"
+  },
+  {
+   "narration": "Spain also claims Gibraltar, so the same road crosses a disputed border and a runway together.",
+   "emoji": "⚖️",
+   "headline": "Disputed And Busy",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Spain Gibraltar border fence"
+  },
+  {
+   "narration": "Few borders in the world make you check for airplanes before you step across.",
+   "emoji": "✈️",
+   "headline": "Look Up Before Crossing",
+   "stat": "",
+   "sub": "",
+   "visual_query": "airplane over road"
+  },
+  {
+   "narration": "Number three: a town in the United States that you can only reach by going through Canada.",
+   "emoji": "3️⃣",
+   "headline": "America Via Canada",
+   "stat": "3",
+   "sub": "",
+   "visual_query": "Point Roberts Washington"
+  },
+  {
+   "narration": "If you enjoy strange places like this, subscribe now, because the best ones are still coming.",
+   "emoji": "🔔",
+   "headline": "Best Ones Still Coming",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map pins"
+  },
+  {
+   "narration": "It is called Point Roberts, in Washington state, on a small piece of land that hangs below Canada.",
+   "emoji": "📍",
+   "headline": "Meet Point Roberts",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Point Roberts peninsula aerial"
+  },
+  {
+   "narration": "In 1846, the United States and Britain agreed that the border would follow the forty-ninth parallel.",
+   "emoji": "📏",
+   "headline": "The 49th Parallel",
+   "stat": "1846",
+   "sub": "",
+   "visual_query": "49th parallel border marker"
+  },
+  {
+   "narration": "A straight line on a map. But that line cut through the tip of this peninsula and left it with the US.",
+   "emoji": "✂️",
+   "headline": "A Straight Cut",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Tsawwassen Point Roberts map"
+  },
+  {
+   "narration": "So the land is American, but the road out of it leads only into Canada.",
+   "emoji": "🇨🇦",
+   "headline": "Exit Leads To Canada",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Canada US border crossing"
+  },
+  {
+   "narration": "To drive to the rest of Washington state, you cross into Canada, and then cross back into the US.",
+   "emoji": "🔁",
+   "headline": "Cross, Then Cross Back",
+   "stat": "",
+   "sub": "",
+   "visual_query": "border crossing booth"
+  },
+  {
+   "narration": "That means two border checks, just to go from one American place to another American place.",
+   "emoji": "🛂",
+   "headline": "Two Checks For Home",
+   "stat": "2",
+   "sub": "",
+   "visual_query": "passport check border"
+  },
+  {
+   "narration": "It is like going from one Indian city to another and having to cross a foreign country in the middle.",
+   "emoji": "🇮🇳",
+   "headline": "Like Delhi To Jaipur Via Abroad",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India highway road"
+  },
+  {
+   "narration": "A straight line drawn in 1846 is still causing travel headaches today.",
+   "emoji": "🤦",
+   "headline": "Old Line, New Headache",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Pacific Northwest border road"
+  },
+  {
+   "narration": "Number two: a German town where people use Swiss money and drive cars with a special plate.",
+   "emoji": "2️⃣",
+   "headline": "Germany Inside Switzerland",
+   "stat": "2",
+   "sub": "",
+   "visual_query": "Busingen am Hochrhein"
+  },
+  {
+   "narration": "This is Büsingen am Hochrhein, a town of Germany that is completely surrounded by Switzerland.",
+   "emoji": "🏘️",
+   "headline": "Meet Büsingen",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Busingen Rhine town"
+  },
+  {
+   "narration": "Germany is the country, but the nearest German land is not next door. Swiss land lies all around the town.",
+   "emoji": "🇩🇪",
+   "headline": "Swiss All Around",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Busingen enclave map"
+  },
+  {
+   "narration": "Büsingen is part of the Swiss customs area, even though it belongs to Germany.",
+   "emoji": "📦",
+   "headline": "Swiss Customs Zone",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss customs border"
+  },
+  {
+   "narration": "That means shops there use Swiss francs a lot, along with the euro.",
+   "emoji": "💶",
+   "headline": "Francs And Euros",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Swiss francs euro notes"
+  },
+  {
+   "narration": "Cars from Büsingen carry their own number plate code, B-U-S, which you will not see anywhere else in Germany.",
+   "emoji": "🚙",
+   "headline": "The BÜS Plate",
+   "stat": "",
+   "sub": "",
+   "visual_query": "German car number plate"
+  },
+  {
+   "narration": "So a German town has Germany's flag, Swiss money, and Swiss neighbours in every direction.",
+   "emoji": "🏳️",
+   "headline": "German Flag, Swiss Money",
+   "stat": "",
+   "sub": "",
+   "visual_query": "German flag Swiss flag"
+  },
+  {
+   "narration": "Its people vote in German elections, yet they shop and trade inside a Swiss customs zone.",
+   "emoji": "🗳️",
+   "headline": "German Votes, Swiss Zone",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rhine river Schaffhausen"
+  },
+  {
+   "narration": "A whole town lives in a mixed world: German law, Swiss customs, and two currencies.",
+   "emoji": "🌀",
+   "headline": "A Mixed-Up World",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Busingen street houses"
+  },
+  {
+   "narration": "That is strange. But number one is stranger, because it is not hidden in the mountains. It is a normal Indian market town.",
+   "emoji": "🇮🇳",
+   "headline": "Now, An Indian Town",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India market town street"
+  },
+  {
+   "narration": "Number one: a gate in West Bengal where India ends and a different country begins.",
+   "emoji": "1️⃣",
+   "headline": "Bhutan Gate",
+   "stat": "1",
+   "sub": "Jaigaon, West Bengal",
+   "visual_query": "Bhutan Gate Jaigaon"
+  },
+  {
+   "narration": "The Indian town is Jaigaon. The Bhutanese town right next to it is Phuentsholing.",
+   "emoji": "🏙️",
+   "headline": "Jaigaon Meets Phuentsholing",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Phuentsholing town Bhutan"
+  },
+  {
+   "narration": "They sit side by side, with shops, hotels and traffic on both sides of the same line.",
+   "emoji": "🏪",
+   "headline": "Side By Side",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Jaigaon Phuentsholing market"
+  },
+  {
+   "narration": "In the middle stands Bhutan Gate, a big arch in traditional Bhutanese style.",
+   "emoji": "⛩️",
+   "headline": "The Arch",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bhutan Gate Phuentsholing arch"
+  },
+  {
+   "narration": "Walk through it, and you are in Bhutan. In town, that gate is the border marker most people notice.",
+   "emoji": "🚶",
+   "headline": "Walk In, You're In Bhutan",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bhutan Gate crossing people"
+  },
+  {
+   "narration": "Indian and Bhutanese citizens move across freely, with no long queue at the arch.",
+   "emoji": "🤝",
+   "headline": "Open Border",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Bhutan border crossing"
+  },
+  {
+   "narration": "Indians do not need a visa, and you can walk around Phuentsholing without a permit. Going deeper needs one from the immigration office.",
+   "emoji": "🪪",
+   "headline": "No Visa For Indians",
+   "stat": "",
+   "sub": "Permit needed beyond town",
+   "visual_query": "Phuentsholing immigration office"
+  },
+  {
+   "narration": "Now the strange part. Bhutan keeps its own time, thirty minutes ahead of India.",
+   "emoji": "🕐",
+   "headline": "30 Minutes Ahead",
+   "stat": "+30 min",
+   "sub": "",
+   "visual_query": "clock face time"
+  },
+  {
+   "narration": "So when your Indian clock says ten o'clock, the clock on the Bhutan side says ten thirty.",
+   "emoji": "🕥",
+   "headline": "10:00 Becomes 10:30",
+   "stat": "",
+   "sub": "",
+   "visual_query": "two clocks different time"
+  },
+  {
+   "narration": "One step through the gate, and half an hour appears out of nowhere.",
+   "emoji": "✨",
+   "headline": "Time Appears",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bhutan Gate crossing"
+  },
+  {
+   "narration": "Your phone may even switch network and update its time on its own as you cross.",
+   "emoji": "📱",
+   "headline": "Phone Changes Time",
+   "stat": "",
+   "sub": "",
+   "visual_query": "smartphone clock screen"
+  },
+  {
+   "narration": "Money gets mixed too. Bhutan's currency, the ngultrum, is fixed one to one with the Indian rupee.",
+   "emoji": "💰",
+   "headline": "Ngultrum = Rupee",
+   "stat": "1 : 1",
+   "sub": "",
+   "visual_query": "ngultrum rupee notes"
+  },
+  {
+   "narration": "Indian rupees are accepted in Bhutan, so many shopkeepers there will take your notes without a fuss.",
+   "emoji": "🛍️",
+   "headline": "Rupees Work Here",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Indian rupee notes shop"
+  },
+  {
+   "narration": "Both countries drive on the left, so the traffic flows straight through the town without a change.",
+   "emoji": "🚦",
+   "headline": "Same Side Of Road",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Phuentsholing traffic road"
+  },
+  {
+   "narration": "On the Indian side, the Sashastra Seema Bal guards the border. On the other side, Bhutan's own police.",
+   "emoji": "💂",
+   "headline": "Guards On Both Sides",
+   "stat": "",
+   "sub": "SSB and Royal Bhutan Police",
+   "visual_query": "Sashastra Seema Bal border"
+  },
+  {
+   "narration": "Many people shop and work on both sides, and cross the line several times a day.",
+   "emoji": "🔄",
+   "headline": "Crossing Every Day",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Jaigaon Phuentsholing people crossing"
+  },
+  {
+   "narration": "Most borders in this video are mistakes of history. This one works like a friendship, and it shows in the street.",
+   "emoji": "💛",
+   "headline": "A Border Of Friendship",
+   "stat": "",
+   "sub": "",
+   "visual_query": "India Bhutan flags"
+  },
+  {
+   "narration": "A gate, a half-hour time jump, and two currencies that match. A border that makes no sense, in the best way.",
+   "emoji": "🎉",
+   "headline": "Senseless, In A Good Way",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bhutan Gate Jaigaon evening"
+  },
+  {
+   "narration": "Now think back to number six, five and the rest. None of them lets you swap countries as easily as this.",
+   "emoji": "🔙",
+   "headline": "Beats All Six",
+   "stat": "",
+   "sub": "",
+   "visual_query": "world map borders"
+  },
+  {
+   "narration": "Remember where we began? Your watch jumps forward half an hour when you walk through one gate in India.",
+   "emoji": "⌚",
+   "headline": "Back To The Hook",
+   "stat": "",
+   "sub": "",
+   "visual_query": "wristwatch time zone"
+  },
+  {
+   "narration": "That gate is Bhutan Gate in Jaigaon, and the country on the other side is Bhutan.",
+   "emoji": "🇧🇹",
+   "headline": "Jaigaon To Bhutan",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Bhutan Gate Phuentsholing"
+  },
+  {
+   "narration": "Which of these six borders surprised you the most? Tell me in the comments below.",
+   "emoji": "💬",
+   "headline": "Your Pick?",
+   "stat": "",
+   "sub": "",
+   "visual_query": "comment bubble map"
+  },
+  {
+   "narration": "Next video: five places where your phone picks the wrong country all on its own.",
+   "emoji": "📱",
+   "headline": "Next: Phone Gets Lost",
+   "stat": "",
+   "sub": "",
+   "visual_query": "phone map GPS"
+  }
+ ]
+}

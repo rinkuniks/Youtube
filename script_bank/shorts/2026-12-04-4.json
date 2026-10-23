@@ -1,0 +1,93 @@
+{
+ "category": "space",
+ "topic": "Neutron star teaspoon",
+ "hook": "Your teaspoon would weigh about a billion tonnes.",
+ "title": "A Teaspoon of Neutron Star Weighs a Mountain",
+ "description": "A neutron star is a collapsed dead star squeezed to about the size of a city. A teaspoon of its material would weigh about a billion tonnes. That is a hill's worth of rock on one spoon.\n\n#Shorts #NeutronStar #SpaceFacts",
+ "tags": [
+  "neutron star",
+  "space facts",
+  "teaspoon",
+  "dead star",
+  "astronomy",
+  "density",
+  "shorts",
+  "wait what"
+ ],
+ "comment_prompt": "Could you lift it? Yes or no",
+ "hook_banner": "SPOON VS MOUNTAIN",
+ "scenes": [
+  {
+   "narration": "Your teaspoon would weigh about a billion tonnes.",
+   "emoji": "🥄",
+   "headline": "ONE TEASPOON",
+   "stat": "~1 billion tonnes",
+   "sub": "",
+   "visual_query": "teaspoon mountain scale"
+  },
+  {
+   "narration": "That is if it were neutron star.",
+   "emoji": "⭐",
+   "headline": "NEUTRON STAR",
+   "stat": "",
+   "sub": "",
+   "visual_query": "neutron star illustration"
+  },
+  {
+   "narration": "Imagine the spoon next to a mountain.",
+   "emoji": "🏔️",
+   "headline": "SPOON VS MOUNTAIN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "mountain range aerial"
+  },
+  {
+   "narration": "Matching it takes a whole hill of rock.",
+   "emoji": "⛰️",
+   "headline": "A HILL OF ROCK",
+   "stat": "",
+   "sub": "",
+   "visual_query": "rocky hill landscape"
+  },
+  {
+   "narration": "A neutron star is a collapsed dead star.",
+   "emoji": "💥",
+   "headline": "A DEAD STAR",
+   "stat": "",
+   "sub": "",
+   "visual_query": "supernova remnant"
+  },
+  {
+   "narration": "Its matter is crushed incredibly tight.",
+   "emoji": "🗜️",
+   "headline": "CRUSHED TIGHT",
+   "stat": "",
+   "sub": "",
+   "visual_query": "star collapse space"
+  },
+  {
+   "narration": "A star squeezed to the size of a city.",
+   "emoji": "🏙️",
+   "headline": "CITY-SIZED STAR",
+   "stat": "",
+   "sub": "",
+   "visual_query": "city skyline aerial"
+  },
+  {
+   "narration": "Your tiny spoon, carrying a hill's weight.",
+   "emoji": "🥄",
+   "headline": "HILL ON A SPOON",
+   "stat": "",
+   "sub": "",
+   "visual_query": "teaspoon close up"
+  },
+  {
+   "narration": "Tomorrow: a post office built by a robot.",
+   "emoji": "🤖",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "A robot-built post office",
+   "visual_query": "3D printed building robot"
+  }
+ ]
+}

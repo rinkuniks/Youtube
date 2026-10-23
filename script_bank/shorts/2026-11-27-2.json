@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Büsingen German enclave in Switzerland",
+ "hook": "Your drive here is Germany, with Switzerland on every side.",
+ "title": "A German Town Surrounded By Switzerland",
+ "description": "Büsingen am Hochrhein is a German town completely surrounded by Swiss territory. It even has its own car plate prefix, BÜS. Series: Places That Shouldn't Exist.\n\n#Shorts #Geography #PlacesThatShouldntExist",
+ "tags": [
+  "busingen",
+  "germany",
+  "switzerland",
+  "enclave",
+  "geography facts",
+  "places that shouldnt exist",
+  "borders",
+  "shorts"
+ ],
+ "comment_prompt": "Germany or Switzerland? One word",
+ "hook_banner": "GERMANY IN SWISS LAND",
+ "scenes": [
+  {
+   "narration": "Your drive here is Germany, with Switzerland on every side.",
+   "emoji": "🚗",
+   "headline": "GERMANY INSIDE SWISS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Büsingen Germany town sign"
+  },
+  {
+   "narration": "Büsingen is a German town.",
+   "emoji": "🇩🇪",
+   "headline": "A GERMAN TOWN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Büsingen am Hochrhein"
+  },
+  {
+   "narration": "Swiss land surrounds it completely.",
+   "emoji": "🇨🇭",
+   "headline": "SWISS ALL AROUND",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Büsingen enclave map"
+  },
+  {
+   "narration": "On the map, it looks like a tiny pocket.",
+   "emoji": "🗺️",
+   "headline": "A TINY POCKET",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Switzerland Germany border map"
+  },
+  {
+   "narration": "Its car plates start with BÜS.",
+   "emoji": "🔤",
+   "headline": "PLATES START BÜS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "German license plate"
+  },
+  {
+   "narration": "Fewer than two thousand people live there.",
+   "emoji": "🏘️",
+   "headline": "TINY TOWN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Büsingen Rhine houses"
+  },
+  {
+   "narration": "German address, but Swiss land all around.",
+   "emoji": "📍",
+   "headline": "TWO COUNTRIES, ONE TOWN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Rhine river Switzerland border"
+  },
+  {
+   "narration": "That is a German pocket inside Switzerland.",
+   "emoji": "🤯",
+   "headline": "TOTALLY REAL",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Schaffhausen Switzerland aerial"
+  },
+  {
+   "narration": "Tomorrow: a rocket caught by giant arms.",
+   "emoji": "➡️",
+   "headline": "TOMORROW",
+   "stat": "",
+   "sub": "Rocket caught by arms",
+   "visual_query": "Starship tower chopsticks"
+  }
+ ]
+}

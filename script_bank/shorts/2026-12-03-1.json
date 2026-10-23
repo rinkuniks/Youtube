@@ -1,0 +1,93 @@
+{
+ "category": "geography",
+ "topic": "Hashima Island",
+ "hook": "Your ferry ride ends at an empty concrete city.",
+ "title": "The Empty Concrete City In The Sea",
+ "description": "Hashima Island in Japan is a concrete city that was abandoned in 1974. It is nicknamed Battleship Island because of its shape, and it still sits empty in the sea.\n\nSeries: Places That Shouldn't Exist.",
+ "tags": [
+  "hashima island",
+  "battleship island",
+  "gunkanjima",
+  "japan",
+  "abandoned places",
+  "geography",
+  "places that shouldnt exist",
+  "shorts"
+ ],
+ "comment_prompt": "Would you visit? Yes or no",
+ "hook_banner": "THIS PLACE IS REAL",
+ "scenes": [
+  {
+   "narration": "Your ferry ride ends at an empty concrete city.",
+   "emoji": "⛴️",
+   "headline": "AN EMPTY CITY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hashima Island ferry"
+  },
+  {
+   "narration": "This is Hashima Island, in Japan.",
+   "emoji": "🇯🇵",
+   "headline": "HASHIMA, JAPAN",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hashima Island Japan"
+  },
+  {
+   "narration": "People left it in 1974.",
+   "emoji": "🚪",
+   "headline": "ABANDONED IN 1974",
+   "stat": "1974",
+   "sub": "",
+   "visual_query": "abandoned Hashima buildings"
+  },
+  {
+   "narration": "Its shape earned the name Battleship Island.",
+   "emoji": "🚢",
+   "headline": "BATTLESHIP ISLAND",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Battleship Island aerial"
+  },
+  {
+   "narration": "Apartment blocks still stand above the waves.",
+   "emoji": "🏢",
+   "headline": "BLOCKS ABOVE WAVES",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hashima apartment blocks"
+  },
+  {
+   "narration": "It was a coal mining island.",
+   "emoji": "⛏️",
+   "headline": "COAL MINING ISLAND",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Gunkanjima coal mine"
+  },
+  {
+   "narration": "Now the whole city sits empty in the sea.",
+   "emoji": "🌊",
+   "headline": "EMPTY IN THE SEA",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hashima island sea ruins"
+  },
+  {
+   "narration": "Your ferry ride reaches a ghost city.",
+   "emoji": "👻",
+   "headline": "A GHOST CITY",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Hashima ghost town"
+  },
+  {
+   "narration": "Tomorrow: monasteries on stone pillars.",
+   "emoji": "⛰️",
+   "headline": "NEXT: STONE PILLARS",
+   "stat": "",
+   "sub": "",
+   "visual_query": "Meteora monastery Greece"
+  }
+ ]
+}
