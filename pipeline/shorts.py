@@ -758,11 +758,6 @@ def render_auto(job: dict, c: dict, scenes: list, words: list, t: float) -> dict
                 else:
                     sc["characterPose"] = "explain"
     props = {"scenes": scenes, "words": words, "narration": stage_asset(job_id, d / "narration.wav", "narration.wav")}
-    cta = c.get("growth", {}).get("end_card", "")
-    if cta:
-        props["cta"] = cta.format(category=job.get("category") or "daily")
-    if job.get("comment_prompt"):
-        props["question"] = job["comment_prompt"]
     if job.get("hook_banner"):
         props["banner"] = job["hook_banner"]
     if c.get("growth", {}).get("outro"):

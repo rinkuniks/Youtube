@@ -41,8 +41,8 @@ render:
   music_volume: 0.1
 
 growth:
-  # Shown with an animated Subscribe button in the last 1.6 seconds of every Short.
-  end_card: "Subscribe for tomorrow's crazy {category} fact"
+  # Shown with an animated Subscribe button in the last 1.6 seconds of every Short. (Disabled per user request)
+  end_card: ""
   # Small sticker that slides in once, just past the middle of every Short.
   like_sticker: "LIKE if you didn't know this"
   # Flashed over the last second so viewers rewatch the loop.

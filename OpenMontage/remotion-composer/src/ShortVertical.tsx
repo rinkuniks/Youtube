@@ -345,58 +345,6 @@ const LikeSticker: React.FC<{ text: string }> = ({ text }) => {
   );
 };
 
-const SubscribeCard: React.FC<{ text: string; color: string; question?: string }> = ({ text, color, question }) => {
-  const frame = useCurrentFrame();
-  const { fps } = useVideoConfig();
-  const pop = spring({ frame, fps, config: { damping: 10, stiffness: 180 } });
-  const press = interpolate(frame, [Math.round(fps * 0.9), Math.round(fps * 1.05), Math.round(fps * 1.2)], [1, 0.9, 1], {
-    extrapolateLeft: "clamp",
-    extrapolateRight: "clamp",
-  });
-  const subscribed = frame > fps * 1.05;
-  return (
-    <AbsoluteFill style={{ justifyContent: "center", alignItems: "center", paddingBottom: 200 }}>
-      <div
-        style={{
-          transform: `scale(${pop})`,
-          display: "flex",
-          flexDirection: "column",
-          alignItems: "center",
-          gap: 34,
-          padding: "46px 56px",
-          borderRadius: 40,
-          background: "rgba(11,16,32,0.82)",
-          border: `4px solid ${color}`,
-          fontFamily,
-        }}
-      >
-        {question ? (
-          <div style={{ fontSize: 54, fontWeight: 900, color, textAlign: "center", lineHeight: 1.15, maxWidth: 840 }}>
-            💬 {question}
-            <div style={{ fontSize: 34, fontWeight: 700, color: "#CBD5E1", marginTop: 10 }}>ANSWER IN THE COMMENTS</div>
-          </div>
-        ) : null}
-        <div style={{ fontSize: question ? 42 : 58, fontWeight: 900, color: "white", textAlign: "center", lineHeight: 1.1, textTransform: "uppercase", maxWidth: 820 }}>
-          {text}
-        </div>
-        <div
-          style={{
-            transform: `scale(${press})`,
-            background: subscribed ? "#3F3F46" : "#FF0000",
-            color: "white",
-            fontSize: 64,
-            fontWeight: 800,
-            padding: "22px 64px",
-            borderRadius: 999,
-          }}
-        >
-          {subscribed ? "SUBSCRIBED 🔔" : "SUBSCRIBE"}
-        </div>
-      </div>
-    </AbsoluteFill>
-  );
-};
-
 export const ShortVertical: React.FC<ShortVerticalProps> = (props) => {
   const { fps } = useVideoConfig();
   const palette = props.palette && props.palette.length ? props.palette : DEFAULT_PALETTE;
@@ -416,11 +364,6 @@ export const ShortVertical: React.FC<ShortVerticalProps> = (props) => {
       {props.likeText && props.scenes.length ? (
         <Sequence from={Math.round(props.scenes[props.scenes.length - 1].end * 0.55 * fps)} durationInFrames={Math.round(fps * 1.8)}>
           <LikeSticker text={props.likeText} />
-        </Sequence>
-      ) : null}
-      {props.cta && props.scenes.length ? (
-        <Sequence from={Math.max(0, Math.round((props.scenes[props.scenes.length - 1].end - (props.question ? 2.4 : 1.6)) * fps))}>
-          <SubscribeCard text={props.cta} color={palette[0]} question={props.question} />
         </Sequence>
       ) : null}
       {props.banner ? (
