@@ -743,14 +743,14 @@ def render_auto(job: dict, c: dict, scenes: list, words: list, t: float) -> dict
         for i, sc in enumerate(scenes):
             if not sc.get("characterPose"):
                 narration = (job.get("scenes", [{}])[i].get("narration", "") if i < len(job.get("scenes", [])) else "").lower()
-                if cat == "space" or any(w in narration for w in ("space", "astronaut", "nasa", "orbit", "planet", "galaxy", "rocket")):
-                    sc["characterPose"] = "astronaut"
-                elif i == 0:
-                    sc["characterPose"] = "shock"
+                if i == 0:
+                    sc["characterPose"] = "shock"  # Hook scene: hands-on-cheeks reaction!
                 elif sc.get("stat"):
-                    sc["characterPose"] = "point"
+                    sc["characterPose"] = "point"  # Stat/number scene: pointing gesture!
                 elif any(w in narration for w in ("phone", "internet", "app", "digital", "tech", "screen")):
                     sc["characterPose"] = "phone"
+                elif cat == "space" and i % 2 == 1:
+                    sc["characterPose"] = "astronaut"
                 elif i % 3 == 1:
                     sc["characterPose"] = "think"
                 elif i % 3 == 2:

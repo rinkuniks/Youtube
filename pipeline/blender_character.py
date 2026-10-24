@@ -120,20 +120,36 @@ def build_character(pose="explain", outfit="explorer"):
     head.scale = (1.0, 0.28, 1.08)
     head.data.materials.append(m_skin)
 
-    # 4. Hair or Space Helmet
+    # 4. Hair & Helmet
     if outfit == "space":
-        # Space bubble helmet
-        bpy.ops.mesh.primitive_uv_sphere_add(radius=0.98, location=(0, 0, 0.88))
-        helmet = bpy.context.active_object
-        helmet.scale = (1.0, 0.32, 1.05)
-        m_glass = toon_mat("Glass", (0.2, 0.85, 1.0, 0.4))
-        helmet.data.materials.append(m_glass)
+        # White Astronaut Helmet Outer Dome (behind head)
+        bpy.ops.mesh.primitive_uv_sphere_add(radius=0.96, location=(0, 0.08, 0.95))
+        helmet_back = bpy.context.active_object
+        helmet_back.scale = (1.08, 0.35, 1.08)
+        helmet_back.data.materials.append(toon_mat("SpaceHelmet", (0.95, 0.96, 0.98, 1.0)))
 
         # Helmet collar ring
-        bpy.ops.mesh.primitive_torus_add(major_radius=0.75, minor_radius=0.1, location=(0, 0, 0.22))
+        bpy.ops.mesh.primitive_torus_add(major_radius=0.78, minor_radius=0.10, location=(0, -0.06, 0.22))
         ring = bpy.context.active_object
-        ring.scale = (1.0, 0.3, 1.0)
-        ring.data.materials.append(toon_mat("HelmetRim", c_helmet_rim))
+        ring.scale = (1.0, 0.35, 1.0)
+        ring.data.materials.append(toon_mat("HelmetRim", (0.2, 0.7, 1.0, 1.0)))
+
+        # Cute Antenna on helmet
+        bpy.ops.mesh.primitive_cylinder_add(radius=0.035, depth=0.45, location=(0.4, 0.05, 1.95))
+        ant = bpy.context.active_object
+        ant.rotation_euler = (0, math.radians(20), 0)
+        ant.data.materials.append(toon_mat("Antenna", (0.7, 0.75, 0.85, 1.0)))
+
+        # Glowing antenna beacon tip
+        bpy.ops.mesh.primitive_uv_sphere_add(radius=0.08, location=(0.48, 0.05, 2.15))
+        tip = bpy.context.active_object
+        tip.data.materials.append(toon_mat("Beacon", (1.0, 0.25, 0.25, 1.0)))
+
+        # Cute space explorer hair fringe
+        bpy.ops.mesh.primitive_uv_sphere_add(radius=0.48, location=(0.1, -0.22, 1.35))
+        fringe = bpy.context.active_object
+        fringe.scale = (1.1, 0.22, 0.7)
+        fringe.data.materials.append(m_hair)
     else:
         # Modern swept swoosh hairstyle
         # Back hair mass
