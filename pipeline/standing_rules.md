@@ -10,4 +10,7 @@ Standing rules from the 2026-10-17 live-analytics review (34 Shorts). These stay
 - About 68% of viewers are in India. Prefer places and examples Indian viewers know or can picture (India's borders and enclaves, Nepal's time zone, IST quirks), alongside world-famous places.
 - Hard length limit: 22 to 30 seconds of narration. Every top-10 Short ran 20.6 to 31.2 seconds; the 36-second enclave Short is too long.
 - True clickbait only: every title and hook must be literally true. Never invent numbers.
+- Organic Community Distribution (Zero Fake Engagement):
+  * Strictly prohibit Sub4Sub, Watch4Watch, or reciprocal engagement loops (these ruin AVP retention and disqualify channels during YPP review).
+  * Community distribution must be 100% value-first knowledge sharing in high-affinity educational groups (India GK/UPSC channels, Reddit r/geography, Quora) where viewers watch the entire video voluntarily.
 
