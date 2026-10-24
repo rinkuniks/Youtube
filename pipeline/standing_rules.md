@@ -13,4 +13,12 @@ Standing rules from the 2026-10-17 live-analytics review (34 Shorts). These stay
 - Organic Community Distribution (Zero Fake Engagement):
   * Strictly prohibit Sub4Sub, Watch4Watch, or reciprocal engagement loops (these ruin AVP retention and disqualify channels during YPP review).
   * Community distribution must be 100% value-first knowledge sharing in high-affinity educational groups (India GK/UPSC channels, Reddit r/geography, Quora) where viewers watch the entire video voluntarily.
+- VISUAL & CHARACTER PRODUCTION RULES (ORIGINAL 2D TOON SYSTEM):
+  * ZERO third-party stock scraping: completely disallow downloading images or screenshots from Wikipedia, Wikimedia Commons, Pexels, or free stock platforms.
+  * 100% Original IP: all characters and visual hosts are generated in Blender 5.2 headlessly via Python (`pipeline/blender_character.py`) as 2D vector-style transparent PNGs (Option 1 Toon Mascot).
+  * Dynamic Poses: every Short must use context-reactive poses (scene 0: hands-on-cheeks shock, stat scene: index-finger pointing, tech scene: glowing smartphone, space scene: astronaut suit with visible face, finale: celebration arms).
+  * SINGLE SUBTITLE MANDATE: only ONE clean, animated karaoke caption stream is allowed on screen. Never display static headline or sub-headline clutter over the captions.
+  * ZERO POPUP DIALOG BOXES: never render intrusive end cards or popup dialog boxes (e.g. "Proud of this moment? Yes or no"). The video must play cleanly to the very end.
+  * 100% FREE PIPELINE: maintain zero recurring cost, zero paid API keys, and zero subscriptions forever. All rendering, posing, and audio run locally (Blender, Remotion, FFmpeg, Edge/Piper TTS).
+
 

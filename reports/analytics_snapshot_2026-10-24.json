@@ -8,7 +8,7 @@
     "custom_url": "@nikhil007702",
     "subscribers": 14,
     "views": 12240,
-    "video_count": 82
+    "video_count": 91
   },
   "analytics_totals": {
     "views": 11782,
@@ -69,35 +69,35 @@
   ],
   "cohorts": {
     "geography": {
-      "count": 31,
-      "total_views": 6773,
+      "count": 34,
+      "total_views": 6791,
       "total_est_mins": 600,
-      "avg_views_per_video": 218.5,
-      "avg_avp": 47.1,
+      "avg_views_per_video": 199.7,
+      "avg_avp": 43.0,
       "subs_gained": 4
     },
     "space": {
-      "count": 19,
-      "total_views": 3313,
+      "count": 20,
+      "total_views": 3320,
       "total_est_mins": 256,
-      "avg_views_per_video": 174.4,
-      "avg_avp": 40.0,
+      "avg_views_per_video": 166.0,
+      "avg_avp": 38.0,
       "subs_gained": 0
     },
     "technology": {
-      "count": 18,
+      "count": 19,
       "total_views": 2085,
       "total_est_mins": 178,
-      "avg_views_per_video": 115.8,
-      "avg_avp": 40.6,
+      "avg_views_per_video": 109.7,
+      "avg_avp": 38.5,
       "subs_gained": 2
     },
     "long": {
-      "count": 7,
-      "total_views": 5,
+      "count": 8,
+      "total_views": 8,
       "total_est_mins": 5,
-      "avg_views_per_video": 0.7,
-      "avg_avp": 16.3,
+      "avg_views_per_video": 1.0,
+      "avg_avp": 14.3,
       "subs_gained": 0
     }
   },
@@ -189,6 +189,34 @@
       "url": "https://youtube.com/shorts/qQsCOhfzV5I"
     },
     {
+      "job_id": "20261023-173855-sunita-williams-8-day-trip-became-286-da",
+      "video_id": "3yD2HnqKv9U",
+      "title": "Her 8-Day Trip Lasted 286 Days in Space",
+      "cohort": "space",
+      "views": 1,
+      "likes": 0,
+      "comments": 0,
+      "avp": 0.0,
+      "avd": 0.0,
+      "subs": 0,
+      "est_mins": 0,
+      "url": "https://youtube.com/shorts/3yD2HnqKv9U"
+    },
+    {
+      "job_id": "20261024-172803-shubhanshu-shukla-indian-flag-on-iss",
+      "video_id": "9WQVaWerfG8",
+      "title": "An Indian Flag Floated Inside the ISS",
+      "cohort": "space",
+      "views": 1,
+      "likes": 0,
+      "comments": 0,
+      "avp": 0.0,
+      "avd": 0.0,
+      "subs": 0,
+      "est_mins": 0,
+      "url": "https://youtube.com/shorts/9WQVaWerfG8"
+    },
+    {
       "job_id": "20261014-2149-spotting-the-international-space-station",
       "video_id": "1BTi-do5gHw",
       "title": "Your Sky Has a Star With People Inside",
@@ -203,10 +231,10 @@
       "url": "https://youtube.com/shorts/1BTi-do5gHw"
     },
     {
-      "job_id": "20261017-2128-diwali-firework-colours-come-from-burnin",
-      "video_id": "N0RR9q1eoZE",
-      "title": "Your Diwali Sky Is Burning Metal",
-      "cohort": "geography",
+      "job_id": "20261016-1857-space-makes-food-taste-bland-so-astronau",
+      "video_id": "h6rNV1I1U1U",
+      "title": "Your Food Tastes Bland in Space",
+      "cohort": "space",
       "views": 2,
       "likes": 0,
       "comments": 0,
@@ -214,35 +242,7 @@
       "avd": 0.0,
       "subs": 0,
       "est_mins": 0,
-      "url": "https://youtube.com/shorts/N0RR9q1eoZE"
-    },
-    {
-      "job_id": "20261020-163759-lake-hillier-pink-lake",
-      "video_id": "foE44TcvSFs",
-      "title": "This Bubblegum Pink Lake Is Real",
-      "cohort": "geography",
-      "views": 2,
-      "likes": 0,
-      "comments": 0,
-      "avp": 0.0,
-      "avd": 0.0,
-      "subs": 0,
-      "est_mins": 0,
-      "url": "https://youtube.com/shorts/foE44TcvSFs"
-    },
-    {
-      "job_id": "20261017-2101-india-bangladesh-enclaves-dahala-khagrab",
-      "video_id": "Ubjnlrm_vds",
-      "title": "India Once Sat Inside Bangladesh Inside India",
-      "cohort": "geography",
-      "views": 3,
-      "likes": 0,
-      "comments": 0,
-      "avp": 0.0,
-      "avd": 0.0,
-      "subs": 0,
-      "est_mins": 0,
-      "url": "https://youtube.com/shorts/Ubjnlrm_vds"
+      "url": "https://youtube.com/shorts/h6rNV1I1U1U"
     }
   ],
   "long_videos": [
@@ -335,7 +335,7 @@
       "video_id": "YGxJUlnKGUY",
       "title": "Your Library Card Works in 2 Countries + 6 More Borders",
       "cohort": "long",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 0,
       "avp": 0.0,
@@ -343,6 +343,20 @@
       "subs": 0,
       "est_mins": 0,
       "url": "https://youtube.com/watch?v=YGxJUlnKGUY"
+    },
+    {
+      "job_id": "20261024-175718-long-strange-places-on-the-us-canada-border-l",
+      "video_id": "xyEX07QKNhk",
+      "title": "Why the US-Canada Border Is Stranger Than You Think",
+      "cohort": "long",
+      "views": 2,
+      "likes": 0,
+      "comments": 0,
+      "avp": 0.0,
+      "avd": 0.0,
+      "subs": 0,
+      "est_mins": 0,
+      "url": "https://youtube.com/watch?v=xyEX07QKNhk"
     }
   ],
   "experiments": {

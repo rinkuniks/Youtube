@@ -17,7 +17,7 @@
 ---
 
 ## 2. New Analytics Findings
-* **Channel Lifetime Views:** **12,240** across **82 videos**
+* **Channel Lifetime Views:** **12,240** across **91 videos**
 * **Analyzed Watch Minutes:** **1,063 mins** (~17.7 hours)
 * **Traffic Sources:** **92.3% Shorts Feed** (10,682 views), **6.2% YouTube Search** (716 views), **1.5% Other/Browse**
 * **Audience Concentration:** India accounts for **47.3% of total views** and **49.5% of watch time**
@@ -37,10 +37,10 @@
 ### Cohort Performance Overview
 | Cohort | Published Videos | Total Views | Avg Views/Video | Avg Percentage Viewed (AVP) | Subs Gained |
 |:---|:---:|:---:|:---:|:---:|:---:|
-| **Geography** | 31 | 6,773 | 218.5 | **47.1%** | 4 |
-| **Space** | 19 | 3,313 | 174.4 | **40.0%** | 0 |
-| **Technology** | 18 | 2,085 | 115.8 | **40.6%** | 2 |
-| **Long-form (16:9)** | 7 | 5 | 0.7 | **16.3%** | 0 |
+| **Geography** | 34 | 6,791 | 199.7 | **43.0%** | 4 |
+| **Space** | 20 | 3,320 | 166.0 | **38.0%** | 0 |
+| **Technology** | 19 | 2,085 | 109.7 | **38.5%** | 2 |
+| **Long-form (16:9)** | 8 | 8 | 1.0 | **14.3%** | 0 |
 
 ### Top 5 Retention Winners
 - **[Your Clock Says 10 AM. The Sky Says Night.](https://youtube.com/shorts/VUbkw83kOT0)** (geography): **5 views**, **302.04% AVP**, +0 subs
@@ -52,10 +52,10 @@
 
 ### Bottom 5 Underperformers (Pacing / Hook Drop)
 - **[Wring a Washcloth in Space, No Drip](https://youtube.com/shorts/qQsCOhfzV5I)** (space): **1 views**, **0.0% AVP**
+- **[Her 8-Day Trip Lasted 286 Days in Space](https://youtube.com/shorts/3yD2HnqKv9U)** (space): **1 views**, **0.0% AVP**
+- **[An Indian Flag Floated Inside the ISS](https://youtube.com/shorts/9WQVaWerfG8)** (space): **1 views**, **0.0% AVP**
 - **[Your Sky Has a Star With People Inside](https://youtube.com/shorts/1BTi-do5gHw)** (space): **1 views**, **94.81% AVP**
-- **[Your Diwali Sky Is Burning Metal](https://youtube.com/shorts/N0RR9q1eoZE)** (geography): **2 views**, **0.0% AVP**
-- **[This Bubblegum Pink Lake Is Real](https://youtube.com/shorts/foE44TcvSFs)** (geography): **2 views**, **0.0% AVP**
-- **[India Once Sat Inside Bangladesh Inside India](https://youtube.com/shorts/Ubjnlrm_vds)** (geography): **3 views**, **0.0% AVP**
+- **[Your Food Tastes Bland in Space](https://youtube.com/shorts/h6rNV1I1U1U)** (space): **2 views**, **0.0% AVP**
 
 
 ---
