@@ -1,6 +1,6 @@
 # YouTube Growth Autopilot: Daily Performance & Strategy Report
 **Channel:** Eutuber (`@nikhil007702`)  
-**Date:** 2026-10-23 | **Execution Window:** 70 Days Remaining (Target: 31 Dec 2026)  
+**Date:** 2026-10-24 | **Execution Window:** 69 Days Remaining (Target: 31 Dec 2026)  
 **Safety Status:** 100% Compliant (Zero-Nudity & Sexual Content Filters Active Across 6 Gates)
 
 ---
@@ -9,26 +9,26 @@
 * **Current Subscribers:** **14**
 * **Target (31 Dec 2026):** **5,000**
 * **Subscriber Gap:** **4,986**
-* **Days Remaining:** **70 days** (inclusive through 31 Dec 2026)
-* **Required Daily Velocity:** **~71.2 net subscribers/day**
+* **Days Remaining:** **69 days** (inclusive through 31 Dec 2026)
+* **Required Daily Velocity:** **~72.3 net subscribers/day**
 > [!NOTE]
 > Reaching ~71.2 net subs/day requires leveraging viral Shorts algorithm distribution (92.3% of channel views originate in the Shorts feed) combined with high-retention topics and aggressive subscribe CTAs.
 
 ---
 
 ## 2. New Analytics Findings
-* **Channel Lifetime Views:** **11,903** across **78 videos**
-* **Analyzed Watch Minutes:** **1,052 mins** (~17.5 hours)
+* **Channel Lifetime Views:** **12,240** across **82 videos**
+* **Analyzed Watch Minutes:** **1,063 mins** (~17.7 hours)
 * **Traffic Sources:** **92.3% Shorts Feed** (10,682 views), **6.2% YouTube Search** (716 views), **1.5% Other/Browse**
 * **Audience Concentration:** India accounts for **47.3% of total views** and **49.5% of watch time**
 * **Recent 7-Day Performance Trend:**
 | Date | Views | Watch Mins | Subs Gained | Subs Lost | Net Subs |
 |:---|:---:|:---:|:---:|:---:|:---:|
-| 2026-10-16 | 1234 | 97 | +0 | -0 | +0 |
 | 2026-10-17 | 2790 | 241 | +1 | -1 | +0 |
-| 2026-10-18 | 973 | 51 | +1 | -1 | +0 |
+| 2026-10-18 | 969 | 51 | +1 | -1 | +0 |
 | 2026-10-19 | 175 | 10 | +1 | -0 | +1 |
 | 2026-10-20 | 200 | 13 | +0 | -0 | +0 |
+| 2026-10-21 | 227 | 11 | +0 | -0 | +0 |
 
 
 ---
@@ -37,25 +37,25 @@
 ### Cohort Performance Overview
 | Cohort | Published Videos | Total Views | Avg Views/Video | Avg Percentage Viewed (AVP) | Subs Gained |
 |:---|:---:|:---:|:---:|:---:|:---:|
-| **Geography** | 29 | 6,539 | 225.5 | **47.5%** | 4 |
-| **Space** | 17 | 3,232 | 190.1 | **40.4%** | 0 |
-| **Technology** | 16 | 2,080 | 130.0 | **41.6%** | 2 |
-| **Long-form (16:9)** | 6 | 3 | 0.5 | **17.6%** | 0 |
+| **Geography** | 31 | 6,773 | 218.5 | **47.1%** | 4 |
+| **Space** | 19 | 3,313 | 174.4 | **40.0%** | 0 |
+| **Technology** | 18 | 2,085 | 115.8 | **40.6%** | 2 |
+| **Long-form (16:9)** | 7 | 5 | 0.7 | **16.3%** | 0 |
 
 ### Top 5 Retention Winners
-- **[Your Clock Says 10 AM. The Sky Says Night.](https://youtube.com/shorts/VUbkw83kOT0)** (geography): **4 views**, **302.04% AVP**, +0 subs
+- **[Your Clock Says 10 AM. The Sky Says Night.](https://youtube.com/shorts/VUbkw83kOT0)** (geography): **5 views**, **302.04% AVP**, +0 subs
 - **[2 Miles Apart, 1 Day Apart](https://youtube.com/shorts/aB3iScdPFbU)** (geography): **204 views**, **196.68% AVP**, +0 subs
 - **[Venus Has a Birthday Problem](https://youtube.com/shorts/FV8gX4U9hn8)** (space): **250 views**, **113.48% AVP**, +0 subs
 - **[Your Sky Has a Star With People Inside](https://youtube.com/shorts/1BTi-do5gHw)** (space): **1 views**, **94.81% AVP**, +0 subs
-- **[Your Phone Knows What Floor You're On](https://youtube.com/shorts/ynqedkvb3fI)** (technology): **6 views**, **93.2% AVP**, +0 subs
+- **[Your Phone Knows What Floor You're On](https://youtube.com/shorts/ynqedkvb3fI)** (technology): **7 views**, **93.2% AVP**, +0 subs
 
 
 ### Bottom 5 Underperformers (Pacing / Hook Drop)
 - **[Wring a Washcloth in Space, No Drip](https://youtube.com/shorts/qQsCOhfzV5I)** (space): **1 views**, **0.0% AVP**
-- **[Your Peru Hike Ends at a Striped Mountain](https://youtube.com/shorts/ra95l1Dw7FU)** (geography): **1 views**, **0.0% AVP**
 - **[Your Sky Has a Star With People Inside](https://youtube.com/shorts/1BTi-do5gHw)** (space): **1 views**, **94.81% AVP**
 - **[Your Diwali Sky Is Burning Metal](https://youtube.com/shorts/N0RR9q1eoZE)** (geography): **2 views**, **0.0% AVP**
 - **[This Bubblegum Pink Lake Is Real](https://youtube.com/shorts/foE44TcvSFs)** (geography): **2 views**, **0.0% AVP**
+- **[India Once Sat Inside Bangladesh Inside India](https://youtube.com/shorts/Ubjnlrm_vds)** (geography): **3 views**, **0.0% AVP**
 
 
 ---
@@ -107,7 +107,7 @@
 * **Current Qualified Long-Form Watch Hours:** **0.08 hours** (5 minutes)
 * **Standard YPP Threshold:** **4,000.00 public watch hours** (within 365 days)
 * **Remaining Watch-Time Gap:** **3,999.92 hours**
-* **Required Daily Long-Form Watch Time:** **~57.14 hours/day** (~3428 mins/day)
+* **Required Daily Long-Form Watch Time:** **~57.97 hours/day** (~3478 mins/day)
 > [!IMPORTANT]
 > Shorts-feed watch time does not count toward the 4,000-hour public watch hours requirement. Daily long-form video production (1 video/day at ~7 minutes) and the Shorts-to-long referral bridge in descriptions are the channel's designated mechanisms to conquer this gap.
 

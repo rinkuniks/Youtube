@@ -527,6 +527,9 @@ def _shrink_video(path: Path) -> Path:
 
 def fetch_visuals(job: dict, c: dict) -> list[str | None]:
     """One background per scene, matched to the scene's visual_query. Returns local paths (or None)."""
+    if not c.get("render", {}).get("visuals", True):
+        # Third-party stock scraping disabled: channel uses original 2D Blender Toon character system
+        return [None] * len(job["scenes"])
     media = JOBS / job["id"] / "media"
     media.mkdir(exist_ok=True)
     try:
@@ -698,6 +701,7 @@ def narrate(job: dict, c: dict, engine: str | None) -> tuple:
             "start": round(t, 3), "end": round(t + dur, 3),
             "emoji": sc.get("emoji") or "", "headline": sc.get("headline") or "",
             "stat": sc.get("stat") or "", "sub": sc.get("sub") or "",
+            "characterPose": sc.get("characterPose") or sc.get("pose") or "",
         })
         if timed:
             words += [{**w, "start": round(w["start"] + t, 3), "end": round(w["end"] + t, 3)} for w in timed]
@@ -733,6 +737,26 @@ def render_auto(job: dict, c: dict, scenes: list, words: list, t: float) -> dict
         for i, bg in enumerate(fetch_visuals(job, c)):
             if bg:
                 scenes[i]["background"] = stage_asset(job_id, Path(bg), Path(bg).name)
+    # Option 1: 2D Blender Toon Mascot character posing
+    if c.get("render", {}).get("character_mascot", True):
+        cat = str(job.get("category", "")).lower()
+        for i, sc in enumerate(scenes):
+            if not sc.get("characterPose"):
+                narration = (job.get("scenes", [{}])[i].get("narration", "") if i < len(job.get("scenes", [])) else "").lower()
+                if cat == "space" or any(w in narration for w in ("space", "astronaut", "nasa", "orbit", "planet", "galaxy", "rocket")):
+                    sc["characterPose"] = "astronaut"
+                elif i == 0:
+                    sc["characterPose"] = "shock"
+                elif sc.get("stat"):
+                    sc["characterPose"] = "point"
+                elif any(w in narration for w in ("phone", "internet", "app", "digital", "tech", "screen")):
+                    sc["characterPose"] = "phone"
+                elif i % 3 == 1:
+                    sc["characterPose"] = "think"
+                elif i % 3 == 2:
+                    sc["characterPose"] = "celebrate"
+                else:
+                    sc["characterPose"] = "explain"
     props = {"scenes": scenes, "words": words, "narration": stage_asset(job_id, d / "narration.wav", "narration.wav")}
     cta = c.get("growth", {}).get("end_card", "")
     if cta:

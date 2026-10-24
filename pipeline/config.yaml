@@ -35,6 +35,8 @@ render:
   width: 1080
   height: 1920
   theme: flat-motion-graphics
+  visuals: false              # Disable stock downloads from Wikipedia/Mixkit/Pexels; use original 2D Blender character host + motion graphics
+  character_mascot: true      # 2D Flat Toon character host (Option 1)
   music: assets/music/lofi_pad.wav   # any royalty-free track; empty for none
   music_volume: 0.1
 

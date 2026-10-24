@@ -9,6 +9,7 @@ import {
   spring,
   useCurrentFrame,
   useVideoConfig,
+  staticFile,
   CalculateMetadataFunction,
 } from "remotion";
 import { loadFont } from "@remotion/google-fonts/Montserrat";
@@ -28,6 +29,7 @@ export interface ShortScene {
   sub?: string;
   accent?: string;
   background?: string; // image or video path (public-relative or absolute)
+  characterPose?: string;
 }
 
 export interface ShortWord {
@@ -124,6 +126,14 @@ const SceneCard: React.FC<{ scene: ShortScene; accent: string; index: number }> 
   const pop = index === 0 ? 1 : spring({ frame, fps, config: { damping: 12, stiffness: 140 } });
   const rise = interpolate(pop, [0, 1], [80, 0]);
   const statPop = index === 0 ? 1 : spring({ frame: frame - 4, fps, config: { damping: 9, stiffness: 160 } });
+
+  // 2D Toon Mascot Host Character
+  const pose = scene.characterPose || (index === 0 ? "shock" : scene.stat ? "point" : index % 3 === 1 ? "think" : index % 3 === 2 ? "celebrate" : "explain");
+  const charSrc = staticFile(`characters/toon_nik_${pose}.png`);
+  const charPop = index === 0 ? 1 : spring({ frame: frame - 2, fps, config: { damping: 11, stiffness: 140 } });
+  const idleY = Math.sin((frame / fps) * 2.8) * 10;
+  const idleRot = Math.sin((frame / fps) * 1.8) * 1.5;
+
   return (
     <AbsoluteFill>
       <Background scene={scene} accent={accent} index={index} />
@@ -131,7 +141,7 @@ const SceneCard: React.FC<{ scene: ShortScene; accent: string; index: number }> 
         style={{
           justifyContent: "flex-start",
           alignItems: "center",
-          paddingTop: 300,
+          paddingTop: 220,
           paddingLeft: 70,
           paddingRight: 70,
           fontFamily,
@@ -140,15 +150,10 @@ const SceneCard: React.FC<{ scene: ShortScene; accent: string; index: number }> 
           opacity: pop,
         }}
       >
-        {scene.emoji && !scene.background ? (
-          <div style={{ fontSize: 190, lineHeight: 1, marginBottom: 30, transform: `scale(${0.6 + 0.4 * pop})` }}>
-            {scene.emoji}
-          </div>
-        ) : null}
         {scene.stat ? (
           <div
             style={{
-              fontSize: scene.stat.length > 6 ? 150 : 230,
+              fontSize: scene.stat.length > 6 ? 140 : 210,
               fontWeight: 900,
               color: accent,
               lineHeight: 1,
@@ -158,27 +163,28 @@ const SceneCard: React.FC<{ scene: ShortScene; accent: string; index: number }> 
           >
             {scene.stat}
           </div>
-        ) : null}
-        {scene.headline ? (
-          <div
-            style={{
-              fontSize: scene.stat ? 70 : 92,
-              fontWeight: 900,
-              color: "white",
-              lineHeight: 1.08,
-              marginTop: 24,
-              textTransform: "uppercase",
-              letterSpacing: -1,
-              textShadow: "0 6px 30px rgba(0,0,0,0.6)",
-            }}
-          >
-            {scene.headline}
+        ) : scene.emoji && !scene.background ? (
+          <div style={{ fontSize: 160, lineHeight: 1, transform: `scale(${0.6 + 0.4 * pop})` }}>
+            {scene.emoji}
           </div>
         ) : null}
-        {scene.sub ? (
-          <div style={{ fontSize: 46, fontWeight: 600, color: "#CBD5E1", marginTop: 26, lineHeight: 1.25 }}>{scene.sub}</div>
-        ) : null}
       </AbsoluteFill>
+
+      {/* 2D Flat Toon Host Character */}
+      <div
+        style={{
+          position: "absolute",
+          top: scene.stat ? 490 : 380,
+          left: "50%",
+          width: 720,
+          height: 720,
+          transform: `translateX(-50%) translateY(${idleY}px) rotate(${idleRot}deg) scale(${charPop})`,
+          filter: "drop-shadow(0 20px 45px rgba(0,0,0,0.65))",
+          pointerEvents: "none",
+        }}
+      >
+        <Img src={charSrc} style={{ width: "100%", height: "100%", objectFit: "contain" }} />
+      </div>
     </AbsoluteFill>
   );
 };

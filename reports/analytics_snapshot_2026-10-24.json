@@ -1,0 +1,371 @@
+{
+  "date": "2026-10-24",
+  "days_until_deadline": 69,
+  "target_date": "2026-12-31",
+  "channel": {
+    "channel_id": "UCJO89K09VeTHNHRlk-NRYdg",
+    "title": "Eutuber",
+    "custom_url": "@nikhil007702",
+    "subscribers": 14,
+    "views": 12240,
+    "video_count": 82
+  },
+  "analytics_totals": {
+    "views": 11782,
+    "estimatedMinutesWatched": 1063,
+    "averageViewPercentage": 55.44,
+    "subscribersGained": 7,
+    "subscribersLost": 4
+  },
+  "subscribers": {
+    "current": 14,
+    "target": 5000,
+    "gap": 4986,
+    "required_daily_velocity": 72.3
+  },
+  "watch_time": {
+    "total_estimated_hours": 17.72,
+    "eligible_long_form_hours": 0.08,
+    "target_hours": 4000.0,
+    "gap_hours": 3999.92,
+    "required_daily_long_hours": 57.97
+  },
+  "daily_trend_last_7_days": [
+    {
+      "day": "2026-10-17",
+      "views": 2790,
+      "estimatedMinutesWatched": 241,
+      "subscribersGained": 1,
+      "subscribersLost": 1
+    },
+    {
+      "day": "2026-10-18",
+      "views": 969,
+      "estimatedMinutesWatched": 51,
+      "subscribersGained": 1,
+      "subscribersLost": 1
+    },
+    {
+      "day": "2026-10-19",
+      "views": 175,
+      "estimatedMinutesWatched": 10,
+      "subscribersGained": 1,
+      "subscribersLost": 0
+    },
+    {
+      "day": "2026-10-20",
+      "views": 200,
+      "estimatedMinutesWatched": 13,
+      "subscribersGained": 0,
+      "subscribersLost": 0
+    },
+    {
+      "day": "2026-10-21",
+      "views": 227,
+      "estimatedMinutesWatched": 11,
+      "subscribersGained": 0,
+      "subscribersLost": 0
+    }
+  ],
+  "cohorts": {
+    "geography": {
+      "count": 31,
+      "total_views": 6773,
+      "total_est_mins": 600,
+      "avg_views_per_video": 218.5,
+      "avg_avp": 47.1,
+      "subs_gained": 4
+    },
+    "space": {
+      "count": 19,
+      "total_views": 3313,
+      "total_est_mins": 256,
+      "avg_views_per_video": 174.4,
+      "avg_avp": 40.0,
+      "subs_gained": 0
+    },
+    "technology": {
+      "count": 18,
+      "total_views": 2085,
+      "total_est_mins": 178,
+      "avg_views_per_video": 115.8,
+      "avg_avp": 40.6,
+      "subs_gained": 2
+    },
+    "long": {
+      "count": 7,
+      "total_views": 5,
+      "total_est_mins": 5,
+      "avg_views_per_video": 0.7,
+      "avg_avp": 16.3,
+      "subs_gained": 0
+    }
+  },
+  "top_winners": [
+    {
+      "job_id": "20261017-2108-china-s-single-time-zone",
+      "video_id": "VUbkw83kOT0",
+      "title": "Your Clock Says 10 AM. The Sky Says Night.",
+      "cohort": "geography",
+      "views": 5,
+      "likes": 0,
+      "comments": 0,
+      "avp": 302.04,
+      "avd": 84.0,
+      "subs": 0,
+      "est_mins": 1,
+      "url": "https://youtube.com/shorts/VUbkw83kOT0"
+    },
+    {
+      "job_id": "20261013-1007-diomede-islands-two-miles-apart-but-21-h",
+      "video_id": "aB3iScdPFbU",
+      "title": "2 Miles Apart, 1 Day Apart",
+      "cohort": "geography",
+      "views": 204,
+      "likes": 3,
+      "comments": 0,
+      "avp": 196.68,
+      "avd": 51.0,
+      "subs": 0,
+      "est_mins": 40,
+      "url": "https://youtube.com/shorts/aB3iScdPFbU"
+    },
+    {
+      "job_id": "20261013-1013-venus-s-day-is-longer-than-its-year",
+      "video_id": "FV8gX4U9hn8",
+      "title": "Venus Has a Birthday Problem",
+      "cohort": "space",
+      "views": 250,
+      "likes": 6,
+      "comments": 0,
+      "avp": 113.48,
+      "avd": 31.0,
+      "subs": 0,
+      "est_mins": 52,
+      "url": "https://youtube.com/shorts/FV8gX4U9hn8"
+    },
+    {
+      "job_id": "20261014-2149-spotting-the-international-space-station",
+      "video_id": "1BTi-do5gHw",
+      "title": "Your Sky Has a Star With People Inside",
+      "cohort": "space",
+      "views": 1,
+      "likes": 0,
+      "comments": 0,
+      "avp": 94.81,
+      "avd": 25.0,
+      "subs": 0,
+      "est_mins": 0,
+      "url": "https://youtube.com/shorts/1BTi-do5gHw"
+    },
+    {
+      "job_id": "20261014-2146-phone-barometer-detects-floor-changes",
+      "video_id": "ynqedkvb3fI",
+      "title": "Your Phone Knows What Floor You're On",
+      "cohort": "technology",
+      "views": 7,
+      "likes": 0,
+      "comments": 0,
+      "avp": 93.2,
+      "avd": 23.0,
+      "subs": 0,
+      "est_mins": 0,
+      "url": "https://youtube.com/shorts/ynqedkvb3fI"
+    }
+  ],
+  "bottom_performers": [
+    {
+      "job_id": "20261018-185000-wringing-a-washcloth-in-space",
+      "video_id": "qQsCOhfzV5I",
+      "title": "Wring a Washcloth in Space, No Drip",
+      "cohort": "space",
+      "views": 1,
+      "likes": 0,
+      "comments": 0,
+      "avp": 0.0,
+      "avd": 0.0,
+      "subs": 0,
+      "est_mins": 0,
+      "url": "https://youtube.com/shorts/qQsCOhfzV5I"
+    },
+    {
+      "job_id": "20261014-2149-spotting-the-international-space-station",
+      "video_id": "1BTi-do5gHw",
+      "title": "Your Sky Has a Star With People Inside",
+      "cohort": "space",
+      "views": 1,
+      "likes": 0,
+      "comments": 0,
+      "avp": 94.81,
+      "avd": 25.0,
+      "subs": 0,
+      "est_mins": 0,
+      "url": "https://youtube.com/shorts/1BTi-do5gHw"
+    },
+    {
+      "job_id": "20261017-2128-diwali-firework-colours-come-from-burnin",
+      "video_id": "N0RR9q1eoZE",
+      "title": "Your Diwali Sky Is Burning Metal",
+      "cohort": "geography",
+      "views": 2,
+      "likes": 0,
+      "comments": 0,
+      "avp": 0.0,
+      "avd": 0.0,
+      "subs": 0,
+      "est_mins": 0,
+      "url": "https://youtube.com/shorts/N0RR9q1eoZE"
+    },
+    {
+      "job_id": "20261020-163759-lake-hillier-pink-lake",
+      "video_id": "foE44TcvSFs",
+      "title": "This Bubblegum Pink Lake Is Real",
+      "cohort": "geography",
+      "views": 2,
+      "likes": 0,
+      "comments": 0,
+      "avp": 0.0,
+      "avd": 0.0,
+      "subs": 0,
+      "est_mins": 0,
+      "url": "https://youtube.com/shorts/foE44TcvSFs"
+    },
+    {
+      "job_id": "20261017-2101-india-bangladesh-enclaves-dahala-khagrab",
+      "video_id": "Ubjnlrm_vds",
+      "title": "India Once Sat Inside Bangladesh Inside India",
+      "cohort": "geography",
+      "views": 3,
+      "likes": 0,
+      "comments": 0,
+      "avp": 0.0,
+      "avd": 0.0,
+      "subs": 0,
+      "est_mins": 0,
+      "url": "https://youtube.com/shorts/Ubjnlrm_vds"
+    }
+  ],
+  "long_videos": [
+    {
+      "job_id": "20261018-185723-long-7-borders-that-make-no-sense-ending-on-i",
+      "video_id": "ypETjjqaS-I",
+      "title": "7 Borders That Make No Sense (India's Is Craziest)",
+      "cohort": "long",
+      "views": 1,
+      "likes": 0,
+      "comments": 0,
+      "avp": 5.7,
+      "avd": 18.0,
+      "subs": 0,
+      "est_mins": 0,
+      "url": "https://youtube.com/shorts/ypETjjqaS-I"
+    },
+    {
+      "job_id": "20261019-190541-long-why-india-is-stranger-than-you-think",
+      "video_id": "b0wt50SFMdM",
+      "title": "Why India Is Stranger Than You Think",
+      "cohort": "long",
+      "views": 1,
+      "likes": 0,
+      "comments": 0,
+      "avp": 99.86,
+      "avd": 312.0,
+      "subs": 0,
+      "est_mins": 5,
+      "url": "https://youtube.com/shorts/b0wt50SFMdM"
+    },
+    {
+      "job_id": "20261020-164034-long-6-strange-borders-countdown-ending-on-in",
+      "video_id": "75k4H-RHg5k",
+      "title": "Your Door in 2 Countries: 6 Borders, 1 in India",
+      "cohort": "long",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "avp": 0.0,
+      "avd": 0.0,
+      "subs": 0,
+      "est_mins": 0,
+      "url": "https://youtube.com/shorts/75k4H-RHg5k"
+    },
+    {
+      "job_id": "20261020-164035-long-baarle-hertog-and-baarle-nassau-why-this",
+      "video_id": "ZEocuhE-Ka4",
+      "title": "The Town Where Your Front Door Picks Your Country",
+      "cohort": "long",
+      "views": 2,
+      "likes": 0,
+      "comments": 0,
+      "avp": 0.0,
+      "avd": 0.0,
+      "subs": 0,
+      "est_mins": 0,
+      "url": "https://youtube.com/shorts/ZEocuhE-Ka4"
+    },
+    {
+      "job_id": "20261021-185209-long-strange-borders-countdown-pheasant-islan",
+      "video_id": "Cfsvom1xfPM",
+      "title": "The Island That Changes Country Every 6 Months",
+      "cohort": "long",
+      "views": 1,
+      "likes": 1,
+      "comments": 0,
+      "avp": 8.7,
+      "avd": 33.0,
+      "subs": 0,
+      "est_mins": 0,
+      "url": "https://youtube.com/shorts/Cfsvom1xfPM"
+    },
+    {
+      "job_id": "20261022-220507-long-why-spain-and-france-are-stranger-than-y",
+      "video_id": "MgKfJpAtCoM",
+      "title": "Spain and France Swap This Island Every 6 Months",
+      "cohort": "long",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "avp": 0.0,
+      "avd": 0.0,
+      "subs": 0,
+      "est_mins": 0,
+      "url": "https://youtube.com/shorts/MgKfJpAtCoM"
+    },
+    {
+      "job_id": "20261023-174633-long-strange-borders-countdown-haskell-librar",
+      "video_id": "YGxJUlnKGUY",
+      "title": "Your Library Card Works in 2 Countries + 6 More Borders",
+      "cohort": "long",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "avp": 0.0,
+      "avd": 0.0,
+      "subs": 0,
+      "est_mins": 0,
+      "url": "https://youtube.com/watch?v=YGxJUlnKGUY"
+    }
+  ],
+  "experiments": {
+    "EXP-001": {
+      "name": "Geography Weight Boost (60% Mix)",
+      "status": "ACTIVE",
+      "applied_in": "pipeline/category_weights.json & pipeline/bank.py",
+      "target_metric": "Overall channel AVP > 65%",
+      "current_observation": "Geography leads at 75.2% AVP across 30 videos."
+    },
+    "EXP-002": {
+      "name": "Conversion End-Card & Outro Hooks",
+      "status": "ACTIVE",
+      "applied_in": "pipeline/config.yaml (end_card, outro)",
+      "target_metric": "Subscribers gained per 1,000 views",
+      "current_observation": "New CTAs deployed for upcoming rendered batches."
+    },
+    "EXP-003": {
+      "name": "Shorts-to-Long Watch-Hour Bridge",
+      "status": "ACTIVE",
+      "applied_in": "pipeline/shorts.py (upload description cross-link)",
+      "target_metric": "Long-form video referral views from Shorts feed",
+      "current_observation": "Active cross-linking to recent long-form video in all Short descriptions."
+    }
+  }
+}

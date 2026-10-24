@@ -1,19 +1,19 @@
 {
-  "date": "2026-10-23",
-  "days_until_deadline": 70,
+  "date": "2026-10-24",
+  "days_until_deadline": 69,
   "target_date": "2026-12-31",
   "channel": {
     "channel_id": "UCJO89K09VeTHNHRlk-NRYdg",
     "title": "Eutuber",
     "custom_url": "@nikhil007702",
     "subscribers": 14,
-    "views": 11903,
-    "video_count": 78
+    "views": 12240,
+    "video_count": 82
   },
   "analytics_totals": {
-    "views": 11575,
-    "estimatedMinutesWatched": 1052,
-    "averageViewPercentage": 55.76,
+    "views": 11782,
+    "estimatedMinutesWatched": 1063,
+    "averageViewPercentage": 55.44,
     "subscribersGained": 7,
     "subscribersLost": 4
   },
@@ -21,23 +21,16 @@
     "current": 14,
     "target": 5000,
     "gap": 4986,
-    "required_daily_velocity": 71.2
+    "required_daily_velocity": 72.3
   },
   "watch_time": {
-    "total_estimated_hours": 17.53,
+    "total_estimated_hours": 17.72,
     "eligible_long_form_hours": 0.08,
     "target_hours": 4000.0,
     "gap_hours": 3999.92,
-    "required_daily_long_hours": 57.14
+    "required_daily_long_hours": 57.97
   },
   "daily_trend_last_7_days": [
-    {
-      "day": "2026-10-16",
-      "views": 1234,
-      "estimatedMinutesWatched": 97,
-      "subscribersGained": 0,
-      "subscribersLost": 0
-    },
     {
       "day": "2026-10-17",
       "views": 2790,
@@ -47,7 +40,7 @@
     },
     {
       "day": "2026-10-18",
-      "views": 973,
+      "views": 969,
       "estimatedMinutesWatched": 51,
       "subscribersGained": 1,
       "subscribersLost": 1
@@ -65,39 +58,46 @@
       "estimatedMinutesWatched": 13,
       "subscribersGained": 0,
       "subscribersLost": 0
+    },
+    {
+      "day": "2026-10-21",
+      "views": 227,
+      "estimatedMinutesWatched": 11,
+      "subscribersGained": 0,
+      "subscribersLost": 0
     }
   ],
   "cohorts": {
     "geography": {
-      "count": 29,
-      "total_views": 6539,
-      "total_est_mins": 595,
-      "avg_views_per_video": 225.5,
-      "avg_avp": 47.5,
+      "count": 31,
+      "total_views": 6773,
+      "total_est_mins": 600,
+      "avg_views_per_video": 218.5,
+      "avg_avp": 47.1,
       "subs_gained": 4
     },
     "space": {
-      "count": 17,
-      "total_views": 3232,
-      "total_est_mins": 253,
-      "avg_views_per_video": 190.1,
-      "avg_avp": 40.4,
+      "count": 19,
+      "total_views": 3313,
+      "total_est_mins": 256,
+      "avg_views_per_video": 174.4,
+      "avg_avp": 40.0,
       "subs_gained": 0
     },
     "technology": {
-      "count": 16,
-      "total_views": 2080,
-      "total_est_mins": 177,
-      "avg_views_per_video": 130.0,
-      "avg_avp": 41.6,
+      "count": 18,
+      "total_views": 2085,
+      "total_est_mins": 178,
+      "avg_views_per_video": 115.8,
+      "avg_avp": 40.6,
       "subs_gained": 2
     },
     "long": {
-      "count": 6,
-      "total_views": 3,
+      "count": 7,
+      "total_views": 5,
       "total_est_mins": 5,
-      "avg_views_per_video": 0.5,
-      "avg_avp": 17.6,
+      "avg_views_per_video": 0.7,
+      "avg_avp": 16.3,
       "subs_gained": 0
     }
   },
@@ -107,7 +107,7 @@
       "video_id": "VUbkw83kOT0",
       "title": "Your Clock Says 10 AM. The Sky Says Night.",
       "cohort": "geography",
-      "views": 4,
+      "views": 5,
       "likes": 0,
       "comments": 0,
       "avp": 302.04,
@@ -163,7 +163,7 @@
       "video_id": "ynqedkvb3fI",
       "title": "Your Phone Knows What Floor You're On",
       "cohort": "technology",
-      "views": 6,
+      "views": 7,
       "likes": 0,
       "comments": 0,
       "avp": 93.2,
@@ -187,20 +187,6 @@
       "subs": 0,
       "est_mins": 0,
       "url": "https://youtube.com/shorts/qQsCOhfzV5I"
-    },
-    {
-      "job_id": "20261022-211254-rainbow-mountain-vinicunca-peru",
-      "video_id": "ra95l1Dw7FU",
-      "title": "Your Peru Hike Ends at a Striped Mountain",
-      "cohort": "geography",
-      "views": 1,
-      "likes": 0,
-      "comments": 0,
-      "avp": 0.0,
-      "avd": 0.0,
-      "subs": 0,
-      "est_mins": 0,
-      "url": "https://youtube.com/shorts/ra95l1Dw7FU"
     },
     {
       "job_id": "20261014-2149-spotting-the-international-space-station",
@@ -243,6 +229,20 @@
       "subs": 0,
       "est_mins": 0,
       "url": "https://youtube.com/shorts/foE44TcvSFs"
+    },
+    {
+      "job_id": "20261017-2101-india-bangladesh-enclaves-dahala-khagrab",
+      "video_id": "Ubjnlrm_vds",
+      "title": "India Once Sat Inside Bangladesh Inside India",
+      "cohort": "geography",
+      "views": 3,
+      "likes": 0,
+      "comments": 0,
+      "avp": 0.0,
+      "avd": 0.0,
+      "subs": 0,
+      "est_mins": 0,
+      "url": "https://youtube.com/shorts/Ubjnlrm_vds"
     }
   ],
   "long_videos": [
@@ -293,7 +293,7 @@
       "video_id": "ZEocuhE-Ka4",
       "title": "The Town Where Your Front Door Picks Your Country",
       "cohort": "long",
-      "views": 0,
+      "views": 2,
       "likes": 0,
       "comments": 0,
       "avp": 0.0,
@@ -310,8 +310,8 @@
       "views": 1,
       "likes": 1,
       "comments": 0,
-      "avp": 0.0,
-      "avd": 0.0,
+      "avp": 8.7,
+      "avd": 33.0,
       "subs": 0,
       "est_mins": 0,
       "url": "https://youtube.com/shorts/Cfsvom1xfPM"
@@ -329,6 +329,20 @@
       "subs": 0,
       "est_mins": 0,
       "url": "https://youtube.com/shorts/MgKfJpAtCoM"
+    },
+    {
+      "job_id": "20261023-174633-long-strange-borders-countdown-haskell-librar",
+      "video_id": "YGxJUlnKGUY",
+      "title": "Your Library Card Works in 2 Countries + 6 More Borders",
+      "cohort": "long",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "avp": 0.0,
+      "avd": 0.0,
+      "subs": 0,
+      "est_mins": 0,
+      "url": "https://youtube.com/watch?v=YGxJUlnKGUY"
     }
   ],
   "experiments": {

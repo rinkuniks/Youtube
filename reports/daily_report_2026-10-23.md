@@ -17,7 +17,7 @@
 ---
 
 ## 2. New Analytics Findings
-* **Channel Lifetime Views:** **11,903** across **78 videos**
+* **Channel Lifetime Views:** **11,903** across **82 videos**
 * **Analyzed Watch Minutes:** **1,052 mins** (~17.5 hours)
 * **Traffic Sources:** **92.3% Shorts Feed** (10,682 views), **6.2% YouTube Search** (716 views), **1.5% Other/Browse**
 * **Audience Concentration:** India accounts for **47.3% of total views** and **49.5% of watch time**
@@ -37,25 +37,25 @@
 ### Cohort Performance Overview
 | Cohort | Published Videos | Total Views | Avg Views/Video | Avg Percentage Viewed (AVP) | Subs Gained |
 |:---|:---:|:---:|:---:|:---:|:---:|
-| **Geography** | 29 | 6,539 | 225.5 | **47.5%** | 4 |
-| **Space** | 17 | 3,232 | 190.1 | **40.4%** | 0 |
-| **Technology** | 16 | 2,080 | 130.0 | **41.6%** | 2 |
-| **Long-form (16:9)** | 6 | 3 | 0.5 | **17.6%** | 0 |
+| **Geography** | 29 | 6,743 | 232.5 | **47.5%** | 4 |
+| **Space** | 18 | 3,287 | 182.6 | **38.2%** | 0 |
+| **Technology** | 18 | 2,083 | 115.7 | **37.0%** | 2 |
+| **Long-form (16:9)** | 7 | 3 | 0.4 | **15.1%** | 0 |
 
 ### Top 5 Retention Winners
 - **[Your Clock Says 10 AM. The Sky Says Night.](https://youtube.com/shorts/VUbkw83kOT0)** (geography): **4 views**, **302.04% AVP**, +0 subs
 - **[2 Miles Apart, 1 Day Apart](https://youtube.com/shorts/aB3iScdPFbU)** (geography): **204 views**, **196.68% AVP**, +0 subs
 - **[Venus Has a Birthday Problem](https://youtube.com/shorts/FV8gX4U9hn8)** (space): **250 views**, **113.48% AVP**, +0 subs
 - **[Your Sky Has a Star With People Inside](https://youtube.com/shorts/1BTi-do5gHw)** (space): **1 views**, **94.81% AVP**, +0 subs
-- **[Your Phone Knows What Floor You're On](https://youtube.com/shorts/ynqedkvb3fI)** (technology): **6 views**, **93.2% AVP**, +0 subs
+- **[Your Phone Knows What Floor You're On](https://youtube.com/shorts/ynqedkvb3fI)** (technology): **7 views**, **93.2% AVP**, +0 subs
 
 
 ### Bottom 5 Underperformers (Pacing / Hook Drop)
 - **[Wring a Washcloth in Space, No Drip](https://youtube.com/shorts/qQsCOhfzV5I)** (space): **1 views**, **0.0% AVP**
-- **[Your Peru Hike Ends at a Striped Mountain](https://youtube.com/shorts/ra95l1Dw7FU)** (geography): **1 views**, **0.0% AVP**
 - **[Your Sky Has a Star With People Inside](https://youtube.com/shorts/1BTi-do5gHw)** (space): **1 views**, **94.81% AVP**
 - **[Your Diwali Sky Is Burning Metal](https://youtube.com/shorts/N0RR9q1eoZE)** (geography): **2 views**, **0.0% AVP**
 - **[This Bubblegum Pink Lake Is Real](https://youtube.com/shorts/foE44TcvSFs)** (geography): **2 views**, **0.0% AVP**
+- **[India Once Sat Inside Bangladesh Inside India](https://youtube.com/shorts/Ubjnlrm_vds)** (geography): **3 views**, **0.0% AVP**
 
 
 ---
