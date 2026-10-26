@@ -1,19 +1,19 @@
 {
-  "date": "2026-10-24",
-  "days_until_deadline": 69,
+  "date": "2026-10-26",
+  "days_until_deadline": 67,
   "target_date": "2026-12-31",
   "channel": {
     "channel_id": "UCJO89K09VeTHNHRlk-NRYdg",
-    "title": "Eutuber",
-    "custom_url": "@nikhil007702",
+    "title": "TerraQuest",
+    "custom_url": "@theterraquest_92",
     "subscribers": 14,
-    "views": 12240,
-    "video_count": 91
+    "views": 12392,
+    "video_count": 96
   },
   "analytics_totals": {
-    "views": 11782,
-    "estimatedMinutesWatched": 1063,
-    "averageViewPercentage": 55.44,
+    "views": 12184,
+    "estimatedMinutesWatched": 1086,
+    "averageViewPercentage": 55.27000000000001,
     "subscribersGained": 7,
     "subscribersLost": 4
   },
@@ -21,30 +21,16 @@
     "current": 14,
     "target": 5000,
     "gap": 4986,
-    "required_daily_velocity": 72.3
+    "required_daily_velocity": 74.4
   },
   "watch_time": {
-    "total_estimated_hours": 17.72,
+    "total_estimated_hours": 18.1,
     "eligible_long_form_hours": 0.08,
     "target_hours": 4000.0,
     "gap_hours": 3999.92,
-    "required_daily_long_hours": 57.97
+    "required_daily_long_hours": 59.7
   },
   "daily_trend_last_7_days": [
-    {
-      "day": "2026-10-17",
-      "views": 2790,
-      "estimatedMinutesWatched": 241,
-      "subscribersGained": 1,
-      "subscribersLost": 1
-    },
-    {
-      "day": "2026-10-18",
-      "views": 969,
-      "estimatedMinutesWatched": 51,
-      "subscribersGained": 1,
-      "subscribersLost": 1
-    },
     {
       "day": "2026-10-19",
       "views": 175,
@@ -65,39 +51,53 @@
       "estimatedMinutesWatched": 11,
       "subscribersGained": 0,
       "subscribersLost": 0
+    },
+    {
+      "day": "2026-10-22",
+      "views": 269,
+      "estimatedMinutesWatched": 13,
+      "subscribersGained": 0,
+      "subscribersLost": 0
+    },
+    {
+      "day": "2026-10-23",
+      "views": 134,
+      "estimatedMinutesWatched": 9,
+      "subscribersGained": 0,
+      "subscribersLost": 0
     }
   ],
   "cohorts": {
     "geography": {
-      "count": 34,
-      "total_views": 6791,
-      "total_est_mins": 600,
-      "avg_views_per_video": 199.7,
-      "avg_avp": 43.0,
+      "count": 36,
+      "total_views": 7022,
+      "total_est_mins": 615,
+      "avg_views_per_video": 195.1,
+      "avg_avp": 48.2,
       "subs_gained": 4
     },
     "space": {
-      "count": 20,
-      "total_views": 3320,
-      "total_est_mins": 256,
-      "avg_views_per_video": 166.0,
-      "avg_avp": 38.0,
+      "count": 23,
+      "total_views": 3349,
+      "total_est_mins": 262,
+      "avg_views_per_video": 145.6,
+      "avg_avp": 40.6,
       "subs_gained": 0
     },
     "technology": {
-      "count": 19,
-      "total_views": 2085,
+      "count": 20,
+      "total_views": 2111,
       "total_est_mins": 178,
-      "avg_views_per_video": 109.7,
-      "avg_avp": 38.5,
+      "avg_views_per_video": 105.5,
+      "avg_avp": 36.3,
       "subs_gained": 2
     },
     "long": {
-      "count": 8,
-      "total_views": 8,
+      "count": 9,
+      "total_views": 18,
       "total_est_mins": 5,
-      "avg_views_per_video": 1.0,
-      "avg_avp": 14.3,
+      "avg_views_per_video": 2.0,
+      "avg_avp": 12.8,
       "subs_gained": 0
     }
   },
@@ -107,7 +107,7 @@
       "video_id": "VUbkw83kOT0",
       "title": "Your Clock Says 10 AM. The Sky Says Night.",
       "cohort": "geography",
-      "views": 5,
+      "views": 6,
       "likes": 0,
       "comments": 0,
       "avp": 302.04,
@@ -145,32 +145,32 @@
       "url": "https://youtube.com/shorts/FV8gX4U9hn8"
     },
     {
-      "job_id": "20261014-2149-spotting-the-international-space-station",
-      "video_id": "1BTi-do5gHw",
-      "title": "Your Sky Has a Star With People Inside",
+      "job_id": "20261022-210601-zinnia-flowers-bloomed-on-the-iss",
+      "video_id": "y3FkyHzIS0M",
+      "title": "A Flower Bloomed on the Space Station",
       "cohort": "space",
-      "views": 1,
+      "views": 9,
       "likes": 0,
       "comments": 0,
-      "avp": 94.81,
+      "avp": 105.73000000000002,
       "avd": 25.0,
       "subs": 0,
       "est_mins": 0,
-      "url": "https://youtube.com/shorts/1BTi-do5gHw"
+      "url": "https://youtube.com/shorts/y3FkyHzIS0M"
     },
     {
-      "job_id": "20261014-2146-phone-barometer-detects-floor-changes",
-      "video_id": "ynqedkvb3fI",
-      "title": "Your Phone Knows What Floor You're On",
-      "cohort": "technology",
-      "views": 7,
+      "job_id": "20261021-003838-darvaza-gas-crater",
+      "video_id": "Bi4ZqO8P0wE",
+      "title": "A Desert Pit That Burns All Night",
+      "cohort": "geography",
+      "views": 10,
       "likes": 0,
       "comments": 0,
-      "avp": 93.2,
-      "avd": 23.0,
+      "avp": 96.64,
+      "avd": 22.0,
       "subs": 0,
       "est_mins": 0,
-      "url": "https://youtube.com/shorts/ynqedkvb3fI"
+      "url": "https://youtube.com/shorts/Bi4ZqO8P0wE"
     }
   ],
   "bottom_performers": [
@@ -189,9 +189,9 @@
       "url": "https://youtube.com/shorts/qQsCOhfzV5I"
     },
     {
-      "job_id": "20261023-173855-sunita-williams-8-day-trip-became-286-da",
-      "video_id": "3yD2HnqKv9U",
-      "title": "Her 8-Day Trip Lasted 286 Days in Space",
+      "job_id": "20261025-185053-isro-bicycle-and-bullock-cart",
+      "video_id": "WFIcHu-2PMg",
+      "title": "ISRO Carried Rocket Parts on a Bicycle",
       "cohort": "space",
       "views": 1,
       "likes": 0,
@@ -200,21 +200,7 @@
       "avd": 0.0,
       "subs": 0,
       "est_mins": 0,
-      "url": "https://youtube.com/shorts/3yD2HnqKv9U"
-    },
-    {
-      "job_id": "20261024-172803-shubhanshu-shukla-indian-flag-on-iss",
-      "video_id": "9WQVaWerfG8",
-      "title": "An Indian Flag Floated Inside the ISS",
-      "cohort": "space",
-      "views": 1,
-      "likes": 0,
-      "comments": 0,
-      "avp": 0.0,
-      "avd": 0.0,
-      "subs": 0,
-      "est_mins": 0,
-      "url": "https://youtube.com/shorts/9WQVaWerfG8"
+      "url": "https://youtube.com/shorts/WFIcHu-2PMg"
     },
     {
       "job_id": "20261014-2149-spotting-the-international-space-station",
@@ -243,6 +229,20 @@
       "subs": 0,
       "est_mins": 0,
       "url": "https://youtube.com/shorts/h6rNV1I1U1U"
+    },
+    {
+      "job_id": "20261017-2128-diwali-firework-colours-come-from-burnin",
+      "video_id": "N0RR9q1eoZE",
+      "title": "Your Diwali Sky Is Burning Metal",
+      "cohort": "geography",
+      "views": 2,
+      "likes": 0,
+      "comments": 0,
+      "avp": 0.0,
+      "avd": 0.0,
+      "subs": 0,
+      "est_mins": 0,
+      "url": "https://youtube.com/shorts/N0RR9q1eoZE"
     }
   ],
   "long_videos": [
@@ -251,7 +251,7 @@
       "video_id": "ypETjjqaS-I",
       "title": "7 Borders That Make No Sense (India's Is Craziest)",
       "cohort": "long",
-      "views": 1,
+      "views": 3,
       "likes": 0,
       "comments": 0,
       "avp": 5.7,
@@ -265,7 +265,7 @@
       "video_id": "b0wt50SFMdM",
       "title": "Why India Is Stranger Than You Think",
       "cohort": "long",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 0,
       "avp": 99.86,
@@ -279,7 +279,7 @@
       "video_id": "75k4H-RHg5k",
       "title": "Your Door in 2 Countries: 6 Borders, 1 in India",
       "cohort": "long",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 0,
       "avp": 0.0,
@@ -293,11 +293,11 @@
       "video_id": "ZEocuhE-Ka4",
       "title": "The Town Where Your Front Door Picks Your Country",
       "cohort": "long",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 0,
-      "avp": 0.0,
-      "avd": 0.0,
+      "avp": 0.5,
+      "avd": 2.0,
       "subs": 0,
       "est_mins": 0,
       "url": "https://youtube.com/shorts/ZEocuhE-Ka4"
@@ -307,7 +307,7 @@
       "video_id": "Cfsvom1xfPM",
       "title": "The Island That Changes Country Every 6 Months",
       "cohort": "long",
-      "views": 1,
+      "views": 2,
       "likes": 1,
       "comments": 0,
       "avp": 8.7,
@@ -321,7 +321,7 @@
       "video_id": "MgKfJpAtCoM",
       "title": "Spain and France Swap This Island Every 6 Months",
       "cohort": "long",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 0,
       "avp": 0.0,
@@ -335,7 +335,7 @@
       "video_id": "YGxJUlnKGUY",
       "title": "Your Library Card Works in 2 Countries + 6 More Borders",
       "cohort": "long",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 0,
       "avp": 0.0,
@@ -357,6 +357,20 @@
       "subs": 0,
       "est_mins": 0,
       "url": "https://youtube.com/watch?v=xyEX07QKNhk"
+    },
+    {
+      "job_id": "20261025-185210-long-belgium-s-vennbahn-and-6-more-strange-bo",
+      "video_id": "BwHSJYbu6PQ",
+      "title": "A Belgian Path Cuts Through Germany: 7 Odd Borders",
+      "cohort": "long",
+      "views": 2,
+      "likes": 0,
+      "comments": 0,
+      "avp": 0.0,
+      "avd": 0.0,
+      "subs": 0,
+      "est_mins": 0,
+      "url": "https://youtube.com/watch?v=BwHSJYbu6PQ"
     }
   ],
   "experiments": {

@@ -9,16 +9,16 @@ import {
   spring,
   useCurrentFrame,
   useVideoConfig,
-  staticFile,
   CalculateMetadataFunction,
 } from "remotion";
 import { loadFont } from "@remotion/google-fonts/Montserrat";
 import { resolveAsset } from "./lib/resolveAsset";
 
-// 9:16 Shorts layout: one big idea per scene, karaoke captions, top progress bar.
-// Built for the YoutubeShortsInc pipeline (pipeline/render.py writes these props).
+// 9:16 Shorts layout: Single Subtitle Mandate.
+// Clean real-world footage, Ken Burns motion, and EXACTLY ONE dynamic animated karaoke subtitle stream on screen.
+// Built for YoutubeShortsInc (TerraQuest).
 
-const { fontFamily } = loadFont("normal", { weights: ["600", "800", "900"], subsets: ["latin"] });
+const { fontFamily } = loadFont("normal", { weights: ["600", "700", "800", "900"], subsets: ["latin"] });
 
 export interface ShortScene {
   start: number; // seconds
@@ -29,7 +29,6 @@ export interface ShortScene {
   sub?: string;
   accent?: string;
   background?: string; // image or video path (public-relative or absolute)
-  characterPose?: string;
 }
 
 export interface ShortWord {
@@ -48,14 +47,14 @@ export interface ShortVerticalProps {
   musicVolume?: number;
   palette?: string[];
   handle?: string;
-  cta?: string; // end-card line shown with a Subscribe button in the last seconds
-  question?: string; // one-word-answer question shown on the end card to drive comments
-  likeText?: string; // small "like" sticker shown once, just past the middle
-  banner?: string; // intro sticker over the first seconds (2-5 word true teaser)
-  outro?: string; // short line flashed over the very last frames to push a rewatch
+  cta?: string;
+  question?: string;
+  likeText?: string;
+  banner?: string;
+  outro?: string;
 }
 
-const DEFAULT_PALETTE = ["#22D3EE", "#F472B6", "#FACC15", "#34D399", "#A78BFA", "#FB923C"];
+const DEFAULT_PALETTE = ["#38BDF8", "#F472B6", "#FACC15", "#34D399", "#A78BFA", "#FB923C"];
 const VIDEO_EXT = /\.(mp4|mov|webm|mkv)$/i;
 
 export const calculateShortMetadata: CalculateMetadataFunction<ShortVerticalProps> = async ({ props }) => {
@@ -67,22 +66,25 @@ const Background: React.FC<{ scene: ShortScene; accent: string; index: number }>
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
   const drift = Math.sin((frame + index * 40) / 45) * 8;
+
   if (scene.background) {
     const src = resolveAsset(scene.background);
-    // Different camera move per scene: zoom in, zoom out, pan left, pan right.
     const t = frame / fps;
     const move = index % 4;
-    const scale = move === 1 ? 1.35 - t * 0.06 : 1.15 + t * 0.06;
-    const panX = move === 2 ? -t * 18 : move === 3 ? t * 18 : 0;
-    const punch = interpolate(frame, [0, 6], [1.12, 1], { extrapolateRight: "clamp" });
-    const flash = interpolate(frame, [0, 4], [0.55, 0], { extrapolateRight: "clamp" });
+
+    // Smooth cinematic Ken Burns easing
+    const scale = move === 1 ? 1.28 - t * 0.035 : 1.12 + t * 0.035;
+    const panX = move === 2 ? -t * 12 : move === 3 ? t * 12 : 0;
+    const punch = interpolate(frame, [0, 8], [1.07, 1], { extrapolateRight: "clamp" });
+    const flash = interpolate(frame, [0, 4], [0.3, 0], { extrapolateRight: "clamp" });
+
     return (
       <AbsoluteFill style={{ overflow: "hidden" }}>
         {VIDEO_EXT.test(scene.background) ? (
           <OffthreadVideo
             src={src}
             muted
-            style={{ width: "100%", height: "100%", objectFit: "cover", transform: `scale(${punch * 1.05})` }}
+            style={{ width: "100%", height: "100%", objectFit: "cover", transform: `scale(${punch * 1.04})` }}
           />
         ) : (
           <Img
@@ -95,104 +97,68 @@ const Background: React.FC<{ scene: ShortScene; accent: string; index: number }>
             }}
           />
         )}
+        {/* Soft cut transition flash */}
         <AbsoluteFill style={{ backgroundColor: "white", opacity: flash }} />
-        <AbsoluteFill style={{ background: "linear-gradient(180deg, rgba(0,0,0,0.55) 0%, rgba(0,0,0,0.35) 45%, rgba(0,0,0,0.75) 100%)" }} />
+
+        {/* Subtle Bottom Gradient Scrim for perfect single-subtitle contrast */}
+        <AbsoluteFill
+          style={{
+            background:
+              "linear-gradient(180deg, rgba(7,11,24,0.35) 0%, transparent 40%, rgba(7,11,24,0.45) 65%, rgba(7,11,24,0.85) 100%)",
+          }}
+        />
+
+        {/* Subtle Edge Vignette */}
+        <AbsoluteFill
+          style={{
+            background: "radial-gradient(ellipse at center, transparent 45%, rgba(0,0,0,0.5) 100%)",
+          }}
+        />
       </AbsoluteFill>
     );
   }
+
+  // Premium Procedural Motion Fallback if no media exists
   return (
     <AbsoluteFill
       style={{
-        background: `radial-gradient(circle at ${50 + drift}% ${30 - drift}%, ${accent}55 0%, #0B1020 55%), #0B1020`,
+        background: `radial-gradient(circle at ${50 + drift}% ${30 - drift}%, ${accent}44 0%, #070B18 60%), #070B18`,
       }}
     >
       <AbsoluteFill
         style={{
           backgroundImage:
-            "linear-gradient(rgba(255,255,255,0.05) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,0.05) 1px, transparent 1px)",
-          backgroundSize: "90px 90px",
-          transform: `translateY(${(frame % 90) * 0.5}px)`,
-          opacity: 0.6,
+            "linear-gradient(rgba(255,255,255,0.06) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,0.06) 1px, transparent 1px)",
+          backgroundSize: "80px 80px",
+          transform: `translateY(${(frame % 80) * 0.4}px)`,
+          opacity: 0.5,
+        }}
+      />
+      <AbsoluteFill
+        style={{
+          background: "radial-gradient(circle at 50% 50%, transparent 30%, rgba(0,0,0,0.7) 100%)",
         }}
       />
     </AbsoluteFill>
   );
 };
 
+// SceneCard: STRICTLY renders the background media only.
+// NO static headlines, NO sub-headlines, NO clutter. (Single Subtitle Mandate)
 const SceneCard: React.FC<{ scene: ShortScene; accent: string; index: number }> = ({ scene, accent, index }) => {
-  const frame = useCurrentFrame();
-  const { fps } = useVideoConfig();
-  // The very first frame is what people see in the feed: show the opening headline fully, no fade-in.
-  const pop = index === 0 ? 1 : spring({ frame, fps, config: { damping: 12, stiffness: 140 } });
-  const rise = interpolate(pop, [0, 1], [80, 0]);
-  const statPop = index === 0 ? 1 : spring({ frame: frame - 4, fps, config: { damping: 9, stiffness: 160 } });
-
-  // 2D Toon Mascot Host Character
-  const pose = scene.characterPose || (index === 0 ? "shock" : scene.stat ? "point" : index % 3 === 1 ? "think" : index % 3 === 2 ? "celebrate" : "explain");
-  const charSrc = staticFile(`characters/toon_nik_${pose}.png`);
-  const charPop = index === 0 ? 1 : spring({ frame: frame - 2, fps, config: { damping: 11, stiffness: 140 } });
-  const idleY = Math.sin((frame / fps) * 2.8) * 10;
-  const idleRot = Math.sin((frame / fps) * 1.8) * 1.5;
-
   return (
     <AbsoluteFill>
       <Background scene={scene} accent={accent} index={index} />
-      <AbsoluteFill
-        style={{
-          justifyContent: "flex-start",
-          alignItems: "center",
-          paddingTop: 220,
-          paddingLeft: 70,
-          paddingRight: 70,
-          fontFamily,
-          textAlign: "center",
-          transform: `translateY(${rise}px)`,
-          opacity: pop,
-        }}
-      >
-        {scene.stat ? (
-          <div
-            style={{
-              fontSize: scene.stat.length > 6 ? 140 : 210,
-              fontWeight: 900,
-              color: accent,
-              lineHeight: 1,
-              transform: `scale(${statPop})`,
-              textShadow: `0 0 60px ${accent}88`,
-            }}
-          >
-            {scene.stat}
-          </div>
-        ) : scene.emoji && !scene.background ? (
-          <div style={{ fontSize: 160, lineHeight: 1, transform: `scale(${0.6 + 0.4 * pop})` }}>
-            {scene.emoji}
-          </div>
-        ) : null}
-      </AbsoluteFill>
-
-      {/* 2D Flat Toon Host Character */}
-      <div
-        style={{
-          position: "absolute",
-          top: scene.stat ? 490 : 380,
-          left: "50%",
-          width: 720,
-          height: 720,
-          transform: `translateX(-50%) translateY(${idleY}px) rotate(${idleRot}deg) scale(${charPop})`,
-          filter: "drop-shadow(0 20px 45px rgba(0,0,0,0.65))",
-          pointerEvents: "none",
-        }}
-      >
-        <Img src={charSrc} style={{ width: "100%", height: "100%", objectFit: "contain" }} />
-      </div>
     </AbsoluteFill>
   );
 };
 
+// Captions: The ONLY subtitle on screen. Clean, animated, high-retention karaoke style.
 const Captions: React.FC<{ words: ShortWord[]; palette: string[] }> = ({ words, palette }) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
   const t = frame / fps;
+
   // Pages of up to 3 words; a page holds until the next page starts.
   const pages: ShortWord[][] = [];
   let cur: ShortWord[] = [];
@@ -204,24 +170,48 @@ const Captions: React.FC<{ words: ShortWord[]; palette: string[] }> = ({ words, 
     }
   }
   if (cur.length) pages.push(cur);
+
   const pageIndex = pages.findIndex((p, i) => t >= p[0].start && (i === pages.length - 1 || t < pages[i + 1][0].start));
   if (pageIndex < 0) return null;
   const page = pages[pageIndex];
   if (t > page[page.length - 1].end + 0.6) return null;
+
   const color = palette[pageIndex % palette.length];
   const pageFrame = frame - Math.round(page[0].start * fps);
   const bump = spring({ frame: pageFrame, fps, config: { damping: 14, stiffness: 220 } });
+
   return (
-    <AbsoluteFill style={{ justifyContent: "flex-end", alignItems: "center", paddingBottom: 470, paddingLeft: 50, paddingRight: 50 }}>
+    <AbsoluteFill
+      style={{
+        justifyContent: "flex-end",
+        alignItems: "center",
+        paddingBottom: 420,
+        paddingLeft: 40,
+        paddingRight: 40,
+        pointerEvents: "none",
+      }}
+    >
       <div
         style={{
           fontFamily,
           fontWeight: 900,
           fontSize: 92,
           textAlign: "center",
-          lineHeight: 1.1,
+          lineHeight: 1.15,
           textTransform: "uppercase",
-          transform: `scale(${0.85 + 0.15 * bump})`,
+          transform: `scale(${0.92 + 0.08 * bump})`,
+          background: "rgba(11, 16, 32, 0.65)",
+          backdropFilter: "blur(12px)",
+          WebkitBackdropFilter: "blur(12px)",
+          borderRadius: 28,
+          padding: "16px 36px",
+          border: "1.5px solid rgba(255, 255, 255, 0.15)",
+          boxShadow: "0 14px 40px rgba(0, 0, 0, 0.7)",
+          display: "flex",
+          flexWrap: "wrap",
+          justifyContent: "center",
+          alignItems: "center",
+          maxWidth: 960,
         }}
       >
         {page.map((w, i) => {
@@ -230,11 +220,13 @@ const Captions: React.FC<{ words: ShortWord[]; palette: string[] }> = ({ words, 
             <span
               key={i}
               style={{
-                color: active ? color : "white",
-                WebkitTextStroke: "3px black",
+                color: active ? color : "#FFFFFF",
+                transform: active ? "scale(1.12)" : "scale(1.0)",
+                transition: "transform 0.08s ease-out",
+                WebkitTextStroke: "3.5px rgba(0,0,0,0.9)",
                 paintOrder: "stroke fill",
-                textShadow: "0 8px 0 rgba(0,0,0,0.55)",
-                margin: "0 12px",
+                textShadow: active ? `0 0 24px ${color}aa, 0 6px 14px rgba(0,0,0,0.8)` : "0 6px 12px rgba(0,0,0,0.8)",
+                margin: "4px 18px",
                 display: "inline-block",
               }}
             >
@@ -252,95 +244,17 @@ const ProgressBar: React.FC<{ color: string }> = ({ color }) => {
   const { durationInFrames } = useVideoConfig();
   return (
     <AbsoluteFill>
-      <div style={{ position: "absolute", top: 0, left: 0, height: 12, width: `${(frame / durationInFrames) * 100}%`, background: color }} />
-    </AbsoluteFill>
-  );
-};
-
-const IntroBanner: React.FC<{ text: string }> = ({ text }) => {
-  const frame = useCurrentFrame();
-  const { fps } = useVideoConfig();
-  // Visible from frame 0 (it doubles as the feed thumbnail), wobbles for attention, then flies out.
-  const wobble = Math.sin(frame / 2.2) * 2.5 * interpolate(frame, [0, fps * 1.2], [1, 0.3], { extrapolateRight: "clamp" });
-  const out = interpolate(frame, [fps * 2.3, fps * 2.7], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
-  return (
-    <AbsoluteFill style={{ alignItems: "center", justifyContent: "flex-start", paddingTop: 120 }}>
       <div
         style={{
-          transform: `rotate(${-3 + wobble}deg) translateY(${-out * 400}px)`,
-          background: "#FFE600",
-          color: "#0B1020",
-          fontFamily,
-          fontWeight: 900,
-          fontSize: 66,
-          lineHeight: 1.05,
-          textTransform: "uppercase",
-          textAlign: "center",
-          padding: "18px 36px",
-          borderRadius: 18,
-          border: "6px solid #0B1020",
-          boxShadow: "0 12px 0 rgba(0,0,0,0.45)",
-          maxWidth: 900,
+          position: "absolute",
+          top: 0,
+          left: 0,
+          height: 12,
+          width: `${(frame / durationInFrames) * 100}%`,
+          background: `linear-gradient(90deg, ${color}, #60A5FA)`,
+          boxShadow: `0 0 16px ${color}cc`,
         }}
-      >
-        {text}
-      </div>
-    </AbsoluteFill>
-  );
-};
-
-const OutroFlash: React.FC<{ text: string }> = ({ text }) => {
-  const frame = useCurrentFrame();
-  const { fps } = useVideoConfig();
-  const pop = spring({ frame, fps, config: { damping: 9, stiffness: 220 } });
-  return (
-    <AbsoluteFill style={{ alignItems: "center", justifyContent: "flex-end", paddingBottom: 260 }}>
-      <div
-        style={{
-          transform: `scale(${pop})`,
-          background: "#FF2D55",
-          color: "white",
-          fontFamily,
-          fontWeight: 900,
-          fontSize: 56,
-          textTransform: "uppercase",
-          padding: "14px 34px",
-          borderRadius: 999,
-        }}
-      >
-        {text}
-      </div>
-    </AbsoluteFill>
-  );
-};
-
-const LikeSticker: React.FC<{ text: string }> = ({ text }) => {
-  const frame = useCurrentFrame();
-  const { fps } = useVideoConfig();
-  const slide = spring({ frame, fps, config: { damping: 14, stiffness: 200 } });
-  const out = interpolate(frame, [fps * 1.4, fps * 1.7], [1, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
-  const thumb = interpolate(frame, [fps * 0.3, fps * 0.45, fps * 0.6], [1, 1.35, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
-  return (
-    <AbsoluteFill style={{ alignItems: "flex-end", justifyContent: "flex-start", paddingTop: 150, paddingRight: 40 }}>
-      <div
-        style={{
-          transform: `translateX(${(1 - slide) * 500}px)`,
-          opacity: out,
-          display: "flex",
-          alignItems: "center",
-          gap: 16,
-          padding: "16px 28px",
-          borderRadius: 999,
-          background: "rgba(255,255,255,0.95)",
-          fontFamily,
-          fontWeight: 800,
-          fontSize: 40,
-          color: "#0B1020",
-        }}
-      >
-        <span style={{ fontSize: 52, display: "inline-block", transform: `scale(${thumb})` }}>👍</span>
-        {text}
-      </div>
+      />
     </AbsoluteFill>
   );
 };
@@ -348,8 +262,10 @@ const LikeSticker: React.FC<{ text: string }> = ({ text }) => {
 export const ShortVertical: React.FC<ShortVerticalProps> = (props) => {
   const { fps } = useVideoConfig();
   const palette = props.palette && props.palette.length ? props.palette : DEFAULT_PALETTE;
+
   return (
-    <AbsoluteFill style={{ backgroundColor: "#0B1020" }}>
+    <AbsoluteFill style={{ backgroundColor: "#070B18" }}>
+      {/* Visual Scenes - Pure background footage */}
       {props.scenes.map((scene, i) => {
         const from = Math.round(scene.start * fps);
         const next = props.scenes[i + 1];
@@ -360,28 +276,32 @@ export const ShortVertical: React.FC<ShortVerticalProps> = (props) => {
           </Sequence>
         );
       })}
+
+      {/* SINGLE SUBTITLE ONLY: Dynamic animated karaoke captions */}
       <Captions words={props.words} palette={palette} />
-      {props.likeText && props.scenes.length ? (
-        <Sequence from={Math.round(props.scenes[props.scenes.length - 1].end * 0.55 * fps)} durationInFrames={Math.round(fps * 1.8)}>
-          <LikeSticker text={props.likeText} />
-        </Sequence>
-      ) : null}
-      {props.banner ? (
-        <Sequence from={0} durationInFrames={Math.round(fps * 2.8)}>
-          <IntroBanner text={props.banner} />
-        </Sequence>
-      ) : null}
-      {props.outro && props.scenes.length ? (
-        <Sequence from={Math.max(0, Math.round((props.scenes[props.scenes.length - 1].end - 1.0) * fps))}>
-          <OutroFlash text={props.outro} />
-        </Sequence>
-      ) : null}
+
+      {/* Neon Progress Bar */}
       <ProgressBar color={palette[0]} />
+
+      {/* Clean Brand Watermark */}
       {props.handle ? (
-        <AbsoluteFill style={{ justifyContent: "flex-end", alignItems: "center", paddingBottom: 90 }}>
-          <div style={{ fontFamily, fontWeight: 700, fontSize: 38, color: "rgba(255,255,255,0.7)" }}>{props.handle}</div>
+        <AbsoluteFill style={{ justifyContent: "flex-end", alignItems: "center", paddingBottom: 75, pointerEvents: "none" }}>
+          <div
+            style={{
+              fontFamily,
+              fontWeight: 700,
+              fontSize: 32,
+              color: "rgba(255,255,255,0.65)",
+              letterSpacing: "1.2px",
+              textShadow: "0 2px 10px rgba(0,0,0,0.8)",
+            }}
+          >
+            {props.handle}
+          </div>
         </AbsoluteFill>
       ) : null}
+
+      {/* Audio Tracks */}
       {props.narration ? <Audio src={resolveAsset(props.narration)} /> : null}
       {props.music ? <Audio src={resolveAsset(props.music)} volume={props.musicVolume ?? 0.08} loop /> : null}
     </AbsoluteFill>

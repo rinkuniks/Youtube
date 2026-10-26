@@ -122,7 +122,7 @@ input{flex:1;min-width:180px}
 .detail ol{margin:6px 0 10px 18px;padding:0}.detail li{margin:2px 0}a{color:var(--accent)}
 @media (max-width:700px){.row{grid-template-columns:1fr;gap:4px}}
 </style></head><body><main>
-<h1>Video Dashboard</h1><p class="sub" id="sub"></p>
+<header style="display:flex;align-items:center;gap:14px;margin-bottom:14px"><img src="assets/branding/logo.jpg" alt="TerraQuest Logo" style="width:52px;height:52px;border-radius:50%;object-fit:cover;box-shadow:0 0 14px rgba(37,99,235,0.35);border:2px solid var(--accent)"><div><h1 style="margin:0;font-size:22px;display:flex;align-items:center;gap:8px">TerraQuest <span style="font-size:13px;color:var(--muted);font-weight:normal">@TheTerraQuest_92</span></h1><p class="sub" id="sub" style="margin:2px 0 0"></p></div></header>
 <div class="cards" id="cards"></div>
 <pre class="run" id="run"></pre>
 <div class="bar"><input id="q" placeholder="Search title, hook or script"><select id="kind"><option value="">Shorts and long videos</option><option>Short</option><option>Long video</option></select></div>

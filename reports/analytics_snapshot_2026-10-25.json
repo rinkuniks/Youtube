@@ -1,0 +1,399 @@
+{
+  "date": "2026-10-25",
+  "days_until_deadline": 68,
+  "target_date": "2026-12-31",
+  "channel": {
+    "channel_id": "UCJO89K09VeTHNHRlk-NRYdg",
+    "title": "TerraQuest",
+    "custom_url": "@theterraquest_92",
+    "subscribers": 14,
+    "views": 12251,
+    "video_count": 96
+  },
+  "analytics_totals": {
+    "views": 12050,
+    "estimatedMinutesWatched": 1077,
+    "averageViewPercentage": 55.47,
+    "subscribersGained": 7,
+    "subscribersLost": 4
+  },
+  "subscribers": {
+    "current": 14,
+    "target": 5000,
+    "gap": 4986,
+    "required_daily_velocity": 73.3
+  },
+  "watch_time": {
+    "total_estimated_hours": 17.95,
+    "eligible_long_form_hours": 0.08,
+    "target_hours": 4000.0,
+    "gap_hours": 3999.92,
+    "required_daily_long_hours": 58.82
+  },
+  "daily_trend_last_7_days": [
+    {
+      "day": "2026-10-18",
+      "views": 969,
+      "estimatedMinutesWatched": 51,
+      "subscribersGained": 1,
+      "subscribersLost": 1
+    },
+    {
+      "day": "2026-10-19",
+      "views": 175,
+      "estimatedMinutesWatched": 10,
+      "subscribersGained": 1,
+      "subscribersLost": 0
+    },
+    {
+      "day": "2026-10-20",
+      "views": 200,
+      "estimatedMinutesWatched": 13,
+      "subscribersGained": 0,
+      "subscribersLost": 0
+    },
+    {
+      "day": "2026-10-21",
+      "views": 227,
+      "estimatedMinutesWatched": 11,
+      "subscribersGained": 0,
+      "subscribersLost": 0
+    },
+    {
+      "day": "2026-10-22",
+      "views": 269,
+      "estimatedMinutesWatched": 13,
+      "subscribersGained": 0,
+      "subscribersLost": 0
+    }
+  ],
+  "cohorts": {
+    "geography": {
+      "count": 36,
+      "total_views": 6902,
+      "total_est_mins": 611,
+      "avg_views_per_video": 191.7,
+      "avg_avp": 45.0,
+      "subs_gained": 4
+    },
+    "space": {
+      "count": 23,
+      "total_views": 3338,
+      "total_est_mins": 257,
+      "avg_views_per_video": 145.1,
+      "avg_avp": 36.5,
+      "subs_gained": 0
+    },
+    "technology": {
+      "count": 20,
+      "total_views": 2090,
+      "total_est_mins": 178,
+      "avg_views_per_video": 104.5,
+      "avg_avp": 37.0,
+      "subs_gained": 2
+    },
+    "long": {
+      "count": 9,
+      "total_views": 14,
+      "total_est_mins": 5,
+      "avg_views_per_video": 1.6,
+      "avg_avp": 12.7,
+      "subs_gained": 0
+    }
+  },
+  "top_winners": [
+    {
+      "job_id": "20261017-2108-china-s-single-time-zone",
+      "video_id": "VUbkw83kOT0",
+      "title": "Your Clock Says 10 AM. The Sky Says Night.",
+      "cohort": "geography",
+      "views": 5,
+      "likes": 0,
+      "comments": 0,
+      "avp": 302.04,
+      "avd": 84.0,
+      "subs": 0,
+      "est_mins": 1,
+      "url": "https://youtube.com/shorts/VUbkw83kOT0"
+    },
+    {
+      "job_id": "20261013-1007-diomede-islands-two-miles-apart-but-21-h",
+      "video_id": "aB3iScdPFbU",
+      "title": "2 Miles Apart, 1 Day Apart",
+      "cohort": "geography",
+      "views": 204,
+      "likes": 3,
+      "comments": 0,
+      "avp": 196.68,
+      "avd": 51.0,
+      "subs": 0,
+      "est_mins": 40,
+      "url": "https://youtube.com/shorts/aB3iScdPFbU"
+    },
+    {
+      "job_id": "20261013-1013-venus-s-day-is-longer-than-its-year",
+      "video_id": "FV8gX4U9hn8",
+      "title": "Venus Has a Birthday Problem",
+      "cohort": "space",
+      "views": 250,
+      "likes": 6,
+      "comments": 0,
+      "avp": 113.48,
+      "avd": 31.0,
+      "subs": 0,
+      "est_mins": 52,
+      "url": "https://youtube.com/shorts/FV8gX4U9hn8"
+    },
+    {
+      "job_id": "20261022-210601-zinnia-flowers-bloomed-on-the-iss",
+      "video_id": "y3FkyHzIS0M",
+      "title": "A Flower Bloomed on the Space Station",
+      "cohort": "space",
+      "views": 9,
+      "likes": 0,
+      "comments": 0,
+      "avp": 105.73000000000002,
+      "avd": 25.0,
+      "subs": 0,
+      "est_mins": 0,
+      "url": "https://youtube.com/shorts/y3FkyHzIS0M"
+    },
+    {
+      "job_id": "20261014-2149-spotting-the-international-space-station",
+      "video_id": "1BTi-do5gHw",
+      "title": "Your Sky Has a Star With People Inside",
+      "cohort": "space",
+      "views": 1,
+      "likes": 0,
+      "comments": 0,
+      "avp": 94.81,
+      "avd": 25.0,
+      "subs": 0,
+      "est_mins": 0,
+      "url": "https://youtube.com/shorts/1BTi-do5gHw"
+    }
+  ],
+  "bottom_performers": [
+    {
+      "job_id": "20261018-185000-wringing-a-washcloth-in-space",
+      "video_id": "qQsCOhfzV5I",
+      "title": "Wring a Washcloth in Space, No Drip",
+      "cohort": "space",
+      "views": 1,
+      "likes": 0,
+      "comments": 0,
+      "avp": 0.0,
+      "avd": 0.0,
+      "subs": 0,
+      "est_mins": 0,
+      "url": "https://youtube.com/shorts/qQsCOhfzV5I"
+    },
+    {
+      "job_id": "20261025-184935-aryabhata-on-the-2-rupee-note",
+      "video_id": "uALUUpGlA6Y",
+      "title": "Your 2 Rupee Note Carried a Satellite",
+      "cohort": "space",
+      "views": 1,
+      "likes": 0,
+      "comments": 0,
+      "avp": 0.0,
+      "avd": 0.0,
+      "subs": 0,
+      "est_mins": 0,
+      "url": "https://youtube.com/shorts/uALUUpGlA6Y"
+    },
+    {
+      "job_id": "20261014-2149-spotting-the-international-space-station",
+      "video_id": "1BTi-do5gHw",
+      "title": "Your Sky Has a Star With People Inside",
+      "cohort": "space",
+      "views": 1,
+      "likes": 0,
+      "comments": 0,
+      "avp": 94.81,
+      "avd": 25.0,
+      "subs": 0,
+      "est_mins": 0,
+      "url": "https://youtube.com/shorts/1BTi-do5gHw"
+    },
+    {
+      "job_id": "20261016-1857-space-makes-food-taste-bland-so-astronau",
+      "video_id": "h6rNV1I1U1U",
+      "title": "Your Food Tastes Bland in Space",
+      "cohort": "space",
+      "views": 2,
+      "likes": 0,
+      "comments": 0,
+      "avp": 0.0,
+      "avd": 0.0,
+      "subs": 0,
+      "est_mins": 0,
+      "url": "https://youtube.com/shorts/h6rNV1I1U1U"
+    },
+    {
+      "job_id": "20261017-2128-diwali-firework-colours-come-from-burnin",
+      "video_id": "N0RR9q1eoZE",
+      "title": "Your Diwali Sky Is Burning Metal",
+      "cohort": "geography",
+      "views": 2,
+      "likes": 0,
+      "comments": 0,
+      "avp": 0.0,
+      "avd": 0.0,
+      "subs": 0,
+      "est_mins": 0,
+      "url": "https://youtube.com/shorts/N0RR9q1eoZE"
+    }
+  ],
+  "long_videos": [
+    {
+      "job_id": "20261018-185723-long-7-borders-that-make-no-sense-ending-on-i",
+      "video_id": "ypETjjqaS-I",
+      "title": "7 Borders That Make No Sense (India's Is Craziest)",
+      "cohort": "long",
+      "views": 2,
+      "likes": 0,
+      "comments": 0,
+      "avp": 5.7,
+      "avd": 18.0,
+      "subs": 0,
+      "est_mins": 0,
+      "url": "https://youtube.com/shorts/ypETjjqaS-I"
+    },
+    {
+      "job_id": "20261019-190541-long-why-india-is-stranger-than-you-think",
+      "video_id": "b0wt50SFMdM",
+      "title": "Why India Is Stranger Than You Think",
+      "cohort": "long",
+      "views": 1,
+      "likes": 0,
+      "comments": 0,
+      "avp": 99.86,
+      "avd": 312.0,
+      "subs": 0,
+      "est_mins": 5,
+      "url": "https://youtube.com/shorts/b0wt50SFMdM"
+    },
+    {
+      "job_id": "20261020-164034-long-6-strange-borders-countdown-ending-on-in",
+      "video_id": "75k4H-RHg5k",
+      "title": "Your Door in 2 Countries: 6 Borders, 1 in India",
+      "cohort": "long",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "avp": 0.0,
+      "avd": 0.0,
+      "subs": 0,
+      "est_mins": 0,
+      "url": "https://youtube.com/shorts/75k4H-RHg5k"
+    },
+    {
+      "job_id": "20261020-164035-long-baarle-hertog-and-baarle-nassau-why-this",
+      "video_id": "ZEocuhE-Ka4",
+      "title": "The Town Where Your Front Door Picks Your Country",
+      "cohort": "long",
+      "views": 3,
+      "likes": 0,
+      "comments": 0,
+      "avp": 0.0,
+      "avd": 0.0,
+      "subs": 0,
+      "est_mins": 0,
+      "url": "https://youtube.com/shorts/ZEocuhE-Ka4"
+    },
+    {
+      "job_id": "20261021-185209-long-strange-borders-countdown-pheasant-islan",
+      "video_id": "Cfsvom1xfPM",
+      "title": "The Island That Changes Country Every 6 Months",
+      "cohort": "long",
+      "views": 2,
+      "likes": 1,
+      "comments": 0,
+      "avp": 8.7,
+      "avd": 33.0,
+      "subs": 0,
+      "est_mins": 0,
+      "url": "https://youtube.com/shorts/Cfsvom1xfPM"
+    },
+    {
+      "job_id": "20261022-220507-long-why-spain-and-france-are-stranger-than-y",
+      "video_id": "MgKfJpAtCoM",
+      "title": "Spain and France Swap This Island Every 6 Months",
+      "cohort": "long",
+      "views": 1,
+      "likes": 0,
+      "comments": 0,
+      "avp": 0.0,
+      "avd": 0.0,
+      "subs": 0,
+      "est_mins": 0,
+      "url": "https://youtube.com/shorts/MgKfJpAtCoM"
+    },
+    {
+      "job_id": "20261023-174633-long-strange-borders-countdown-haskell-librar",
+      "video_id": "YGxJUlnKGUY",
+      "title": "Your Library Card Works in 2 Countries + 6 More Borders",
+      "cohort": "long",
+      "views": 1,
+      "likes": 0,
+      "comments": 0,
+      "avp": 0.0,
+      "avd": 0.0,
+      "subs": 0,
+      "est_mins": 0,
+      "url": "https://youtube.com/watch?v=YGxJUlnKGUY"
+    },
+    {
+      "job_id": "20261024-175718-long-strange-places-on-the-us-canada-border-l",
+      "video_id": "xyEX07QKNhk",
+      "title": "Why the US-Canada Border Is Stranger Than You Think",
+      "cohort": "long",
+      "views": 2,
+      "likes": 0,
+      "comments": 0,
+      "avp": 0.0,
+      "avd": 0.0,
+      "subs": 0,
+      "est_mins": 0,
+      "url": "https://youtube.com/watch?v=xyEX07QKNhk"
+    },
+    {
+      "job_id": "20261025-185210-long-belgium-s-vennbahn-and-6-more-strange-bo",
+      "video_id": "BwHSJYbu6PQ",
+      "title": "A Belgian Path Cuts Through Germany: 7 Odd Borders",
+      "cohort": "long",
+      "views": 2,
+      "likes": 0,
+      "comments": 0,
+      "avp": 0.0,
+      "avd": 0.0,
+      "subs": 0,
+      "est_mins": 0,
+      "url": "https://youtube.com/watch?v=BwHSJYbu6PQ"
+    }
+  ],
+  "experiments": {
+    "EXP-001": {
+      "name": "Geography Weight Boost (60% Mix)",
+      "status": "ACTIVE",
+      "applied_in": "pipeline/category_weights.json & pipeline/bank.py",
+      "target_metric": "Overall channel AVP > 65%",
+      "current_observation": "Geography leads at 75.2% AVP across 30 videos."
+    },
+    "EXP-002": {
+      "name": "Conversion End-Card & Outro Hooks",
+      "status": "ACTIVE",
+      "applied_in": "pipeline/config.yaml (end_card, outro)",
+      "target_metric": "Subscribers gained per 1,000 views",
+      "current_observation": "New CTAs deployed for upcoming rendered batches."
+    },
+    "EXP-003": {
+      "name": "Shorts-to-Long Watch-Hour Bridge",
+      "status": "ACTIVE",
+      "applied_in": "pipeline/shorts.py (upload description cross-link)",
+      "target_metric": "Long-form video referral views from Shorts feed",
+      "current_observation": "Active cross-linking to recent long-form video in all Short descriptions."
+    }
+  }
+}

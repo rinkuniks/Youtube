@@ -2,27 +2,27 @@
   "traffic_sources": [
     [
       "NO_LINK_OTHER",
-      10
+      15
     ],
     [
       "SUBSCRIBER",
-      9
+      10
     ],
     [
       "YT_CHANNEL",
-      33
+      34
     ],
     [
       "YT_SEARCH",
-      771
+      858
     ],
     [
       "YT_OTHER_PAGE",
-      104
+      108
     ],
     [
       "EXT_URL",
-      3
+      8
     ],
     [
       "NOTIFICATION",
@@ -30,7 +30,7 @@
     ],
     [
       "SHORTS",
-      10848
+      11142
     ],
     [
       "SOUND_PAGE",
@@ -76,7 +76,7 @@
     ],
     [
       "IN",
-      5515
+      5514
     ],
     [
       "IT",

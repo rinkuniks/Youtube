@@ -738,7 +738,7 @@ def render_auto(job: dict, c: dict, scenes: list, words: list, t: float) -> dict
             if bg:
                 scenes[i]["background"] = stage_asset(job_id, Path(bg), Path(bg).name)
     # Option 1: 2D Blender Toon Mascot character posing
-    if c.get("render", {}).get("character_mascot", True):
+    if c.get("render", {}).get("character_mascot", False):
         cat = str(job.get("category", "")).lower()
         for i, sc in enumerate(scenes):
             if not sc.get("characterPose"):

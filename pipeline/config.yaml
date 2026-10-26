@@ -1,6 +1,11 @@
 # Shorts pipeline settings. Edit freely.
 
 channel:
+  name: "TerraQuest"
+  handle: "@TheTerraQuest_92"
+  logo: "assets/branding/logo.jpg"
+  banner: "assets/branding/banner.jpg"
+  watermark: "assets/branding/watermark.jpg"
   niche: "jaw-dropping facts about space, technology and geography that sound fake but are true"
   audience: "curious 13-35 year olds who love 'wait, what?' facts"
   language: en
@@ -34,9 +39,9 @@ voice:
 render:
   width: 1080
   height: 1920
-  theme: flat-motion-graphics
-  visuals: false              # Disable stock downloads from Wikipedia/Mixkit/Pexels; use original 2D Blender character host + motion graphics
-  character_mascot: true      # 2D Flat Toon character host (Option 1)
+  theme: cinematic-visual
+  visuals: true               # Enable rich high-definition stock video & image footage (NASA, Mixkit, Pexels, Pixabay, Wikimedia)
+  character_mascot: false     # 2D Flat Toon mascot disabled per user preference
   music: assets/music/lofi_pad.wav   # any royalty-free track; empty for none
   music_volume: 0.1
 
@@ -48,7 +53,7 @@ growth:
   # Flashed over the last second so viewers rewatch the loop.
   outro: "SUBSCRIBE FOR MORE"
   # Added to every description.
-  description_line: "Subscribe for daily jaw-dropping geography, space and technology facts."
+  description_line: "Subscribe to TerraQuest for daily jaw-dropping geography, space and technology facts."
 
 upload:
   # private | unlisted | public. Stays "private" until you approve the first Short.

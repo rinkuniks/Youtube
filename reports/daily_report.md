@@ -1,6 +1,6 @@
 # YouTube Growth Autopilot: Daily Performance & Strategy Report
-**Channel:** Eutuber (`@nikhil007702`)  
-**Date:** 2026-10-24 | **Execution Window:** 69 Days Remaining (Target: 31 Dec 2026)  
+**Channel:** TerraQuest (`@theterraquest_92`)  
+**Date:** 2026-10-26 | **Execution Window:** 67 Days Remaining (Target: 31 Dec 2026)  
 **Safety Status:** 100% Compliant (Zero-Nudity & Sexual Content Filters Active Across 6 Gates)
 
 ---
@@ -9,26 +9,26 @@
 * **Current Subscribers:** **14**
 * **Target (31 Dec 2026):** **5,000**
 * **Subscriber Gap:** **4,986**
-* **Days Remaining:** **69 days** (inclusive through 31 Dec 2026)
-* **Required Daily Velocity:** **~72.3 net subscribers/day**
+* **Days Remaining:** **67 days** (inclusive through 31 Dec 2026)
+* **Required Daily Velocity:** **~74.4 net subscribers/day**
 > [!NOTE]
 > Reaching ~71.2 net subs/day requires leveraging viral Shorts algorithm distribution (92.3% of channel views originate in the Shorts feed) combined with high-retention topics and aggressive subscribe CTAs.
 
 ---
 
 ## 2. New Analytics Findings
-* **Channel Lifetime Views:** **12,240** across **91 videos**
-* **Analyzed Watch Minutes:** **1,063 mins** (~17.7 hours)
+* **Channel Lifetime Views:** **12,392** across **96 videos**
+* **Analyzed Watch Minutes:** **1,086 mins** (~18.1 hours)
 * **Traffic Sources:** **92.3% Shorts Feed** (10,682 views), **6.2% YouTube Search** (716 views), **1.5% Other/Browse**
 * **Audience Concentration:** India accounts for **47.3% of total views** and **49.5% of watch time**
 * **Recent 7-Day Performance Trend:**
 | Date | Views | Watch Mins | Subs Gained | Subs Lost | Net Subs |
 |:---|:---:|:---:|:---:|:---:|:---:|
-| 2026-10-17 | 2790 | 241 | +1 | -1 | +0 |
-| 2026-10-18 | 969 | 51 | +1 | -1 | +0 |
 | 2026-10-19 | 175 | 10 | +1 | -0 | +1 |
 | 2026-10-20 | 200 | 13 | +0 | -0 | +0 |
 | 2026-10-21 | 227 | 11 | +0 | -0 | +0 |
+| 2026-10-22 | 269 | 13 | +0 | -0 | +0 |
+| 2026-10-23 | 134 | 9 | +0 | -0 | +0 |
 
 
 ---
@@ -37,25 +37,25 @@
 ### Cohort Performance Overview
 | Cohort | Published Videos | Total Views | Avg Views/Video | Avg Percentage Viewed (AVP) | Subs Gained |
 |:---|:---:|:---:|:---:|:---:|:---:|
-| **Geography** | 34 | 6,791 | 199.7 | **43.0%** | 4 |
-| **Space** | 20 | 3,320 | 166.0 | **38.0%** | 0 |
-| **Technology** | 19 | 2,085 | 109.7 | **38.5%** | 2 |
-| **Long-form (16:9)** | 8 | 8 | 1.0 | **14.3%** | 0 |
+| **Geography** | 36 | 7,022 | 195.1 | **48.2%** | 4 |
+| **Space** | 23 | 3,349 | 145.6 | **40.6%** | 0 |
+| **Technology** | 20 | 2,111 | 105.5 | **36.3%** | 2 |
+| **Long-form (16:9)** | 9 | 18 | 2.0 | **12.8%** | 0 |
 
 ### Top 5 Retention Winners
-- **[Your Clock Says 10 AM. The Sky Says Night.](https://youtube.com/shorts/VUbkw83kOT0)** (geography): **5 views**, **302.04% AVP**, +0 subs
+- **[Your Clock Says 10 AM. The Sky Says Night.](https://youtube.com/shorts/VUbkw83kOT0)** (geography): **6 views**, **302.04% AVP**, +0 subs
 - **[2 Miles Apart, 1 Day Apart](https://youtube.com/shorts/aB3iScdPFbU)** (geography): **204 views**, **196.68% AVP**, +0 subs
 - **[Venus Has a Birthday Problem](https://youtube.com/shorts/FV8gX4U9hn8)** (space): **250 views**, **113.48% AVP**, +0 subs
-- **[Your Sky Has a Star With People Inside](https://youtube.com/shorts/1BTi-do5gHw)** (space): **1 views**, **94.81% AVP**, +0 subs
-- **[Your Phone Knows What Floor You're On](https://youtube.com/shorts/ynqedkvb3fI)** (technology): **7 views**, **93.2% AVP**, +0 subs
+- **[A Flower Bloomed on the Space Station](https://youtube.com/shorts/y3FkyHzIS0M)** (space): **9 views**, **105.73000000000002% AVP**, +0 subs
+- **[A Desert Pit That Burns All Night](https://youtube.com/shorts/Bi4ZqO8P0wE)** (geography): **10 views**, **96.64% AVP**, +0 subs
 
 
 ### Bottom 5 Underperformers (Pacing / Hook Drop)
 - **[Wring a Washcloth in Space, No Drip](https://youtube.com/shorts/qQsCOhfzV5I)** (space): **1 views**, **0.0% AVP**
-- **[Her 8-Day Trip Lasted 286 Days in Space](https://youtube.com/shorts/3yD2HnqKv9U)** (space): **1 views**, **0.0% AVP**
-- **[An Indian Flag Floated Inside the ISS](https://youtube.com/shorts/9WQVaWerfG8)** (space): **1 views**, **0.0% AVP**
+- **[ISRO Carried Rocket Parts on a Bicycle](https://youtube.com/shorts/WFIcHu-2PMg)** (space): **1 views**, **0.0% AVP**
 - **[Your Sky Has a Star With People Inside](https://youtube.com/shorts/1BTi-do5gHw)** (space): **1 views**, **94.81% AVP**
 - **[Your Food Tastes Bland in Space](https://youtube.com/shorts/h6rNV1I1U1U)** (space): **2 views**, **0.0% AVP**
+- **[Your Diwali Sky Is Burning Metal](https://youtube.com/shorts/N0RR9q1eoZE)** (geography): **2 views**, **0.0% AVP**
 
 
 ---
@@ -107,7 +107,7 @@
 * **Current Qualified Long-Form Watch Hours:** **0.08 hours** (5 minutes)
 * **Standard YPP Threshold:** **4,000.00 public watch hours** (within 365 days)
 * **Remaining Watch-Time Gap:** **3,999.92 hours**
-* **Required Daily Long-Form Watch Time:** **~57.97 hours/day** (~3478 mins/day)
+* **Required Daily Long-Form Watch Time:** **~59.70 hours/day** (~3582 mins/day)
 > [!IMPORTANT]
 > Shorts-feed watch time does not count toward the 4,000-hour public watch hours requirement. Daily long-form video production (1 video/day at ~7 minutes) and the Shorts-to-long referral bridge in descriptions are the channel's designated mechanisms to conquer this gap.
 
